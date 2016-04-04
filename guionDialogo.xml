@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dialog xsi:noNamespaceSchemaLocation="WatsonDialogDocument_1.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <flow>
+    
+    <folder label="Main">
+            <output id= "saludoInicial">
+                <prompt selectionType="RANDOM">
+                    <item>Hola, ¿en que puedo ayudarlo? Puedo leerle los tweets, el calendario, un libro, 
+                    decirle el tiempo para mañana, escribir su diario o apagarme</item>
+                </prompt>
+                <goto ref="obtenEntradaUsuario"/>
+            </output>
+            <output>
+                <prompt selectionType="SEQUENTIAL">
+                    <item>Estoy a su disposición.  Puedo leerle los tweets, el calendario, un libro, 
+                    decirle el tiempo para mañana, escribir su diario, ,poner la radio, o apagarme</item>
+                </prompt>
+                <getUserInput id="obtenEntradaUsuario">
+                    <search ref="posiblesEntradasUsuario"/>
+                    <default>
+                        <output>
+                            <prompt selectionType="RANDOM">
+                                <item>Lo siento no entiendo su petición.  Puedo leerle los tweets, el calendario, un libro, 
+                    		decirle el tiempo para mañana,poner la radio, escribir su diario o apagarme.</item>
+                                <item>Eso no se hacerlo,  Puedo leerle los tweets, el calendario, un libro, 
+                    		decirle el tiempo para mañana,poner la radio, escribir su diario o apagarme.</item>
+                                <item>No entiendo lo que dice,  Puedo leerle los tweets, el calendario, un libro, 
+                    		decirle el tiempo para mañana,poner la radio, escribir su diario o apagarme.</item>
+                            </prompt>
+                        </output>
+                    </default>
+                </getUserInput>
+            </output>
+        </folder>
+        
+        <folder label="Library">
+            <folder label="Live Content" id="posiblesEntradasUsuario">
+                <input>
+                    <grammar>
+                        <item>$ Tweets </item>
+                        <item>¿Podrias leerme los tweets?</item>
+                        <item>Lee * tweets</item>
+                        <item>$ Twitter</item>
+                    </grammar>
+                    <output>
+                            <prompt selectionType="RANDOM">
+                                <item>Por supuesto, procedo a la descarga de los tweets, por favor, espere un momento</item>
+                            </prompt>
+                     </output>
+                     <goto ref="saludoInicial"/>
+                 </input>
+                 
+                 <input>
+                    <grammar>
+                        <item>$ Calendario </item>
+                        <item>¿Podrias leerme el calendario?</item>
+                        <item>Mira * calendario</item>
+                        <item>Mira calendarior</item>
+                    </grammar>
+                    <output>
+                            <prompt selectionType="RANDOM">
+                                <item>Por supuesto, procedo a la descarga del calendario, por favor, espere un momento</item>
+                            </prompt>
+                     </output>
+                     <goto ref="saludoInicial"/>
+                 </input>
+                 
+                 <input>
+                    <grammar>
+                        <item>$ el tiempo </item>
+                        <item>$ tiempo</item>
+                        <item>Mira * tiempo</item>
+                    </grammar>
+                    <output>
+                            <prompt selectionType="RANDOM">
+                                <item>Por supuesto, procedo a la descarga de la informacion Meteorológica, por favor, espere un momento</item>
+                            </prompt>
+                     </output>
+                     <goto ref="saludoInicial"/>
+                 </input>
+                 
+                 <input>
+                    <grammar>
+                        <item>$ Radio </item>
+                        <item>¿Podrias ponerme la radio?</item>
+                        <item>* radio</item>
+                    </grammar>
+                    <output>
+                            <prompt selectionType="RANDOM">
+                                <item>Por supuesto, procedo a la sintonización de la radio, por favor, espere un momento</item>
+                            </prompt>
+                            <goto ref="preguntaContinuar"/>
+                     </output>
+                 </input>
+                 
+                 <input>
+                    <grammar>
+                        <item>$ Diario </item>
+                        <item>¿Podrias tomar nota de *?</item>
+                        <item>escucha *  diario</item>
+                    </grammar>
+                    <output>
+                            <prompt selectionType="RANDOM">
+                                <item>Por supuesto, procedo a escuchar y guardar su diario, por favor, espere un momento</item>
+                            </prompt>
+                            <goto ref="saludoInicial"/>
+                     </output>
+                 </input>
+                 
+                 <input>
+                    <grammar>
+                        <item>$ Libro </item>
+                        <item>¿Podrias leerme un libro?</item>
+                        <item>* libro</item>
+                    </grammar>
+                    <output>
+                            <prompt selectionType="RANDOM">
+                                <item>Por supuesto, procedo a la lectura de un libro, por favor, espere un momento</item>
+                            </prompt>
+                             <goto ref="preguntaContinuar"/>
+                     </output>
+                 </input>
+                 
+                 <input>
+                    <grammar>
+                        <item>$ apagar </item>
+                        <item>$ cerrar </item>
+                        <item>$ dormir</item>
+                    </grammar>
+                    <output>
+                            <prompt selectionType="RANDOM">
+                                <item>Muy bien, hasta la próxima</item>
+                            </prompt>
+                     </output>
+                 </input>
+                 
+                 
+              <folder label="RespuestasComunes" id="RespuestasComunes">
+             
+              	<output id="preguntaContinuar">
+                     	      <prompt selectionType="RANDOM">
+                                <item>Han transcurrido 15 minutos  ¿Quiere continuar?</item>
+                            </prompt>
+                            <getUserInput>
+			    <input>
+				 <grammar>
+					<item>$ Si</item>
+					<item>$ continuar</item>
+			      	</grammar>
+			      	<goto ref="preguntaContinuar"/>
+			     </input>
+			     <input>
+				<grammar>
+					<item>$ No  </item>
+					<item>$ apagar  </item>
+				</grammar>
+				<goto ref="saludoInicial" />
+			      </input>
+		      </getUserInput>
+                     </output>
+                     
+                 </folder>
+                  
+              </folder>
+           </folder>
+        
+        
+    
+    
+    
+    
+    
+        
+    </flow>
+</dialog>
+
+
