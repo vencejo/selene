@@ -4,9 +4,11 @@ from os.path import join, dirname
 from watson_developer_cloud import DialogV1
 import re
 import ConfigParser
+import os
 
 from tts.tts import sintetizador
 from stt.stt import Stt
+from personalidad.personalidad import Personalidad
 
 config = ConfigParser.ConfigParser()
 config.read('datosCuentaDialogoIBM.ini')
@@ -49,6 +51,7 @@ client_id=initial_response['client_id']
 sintetizador(initial_response['response'])
 
 stt = Stt()
+personalidad = Personalidad()
 
 while True:
     
@@ -56,16 +59,30 @@ while True:
     
     if bool(re.search(r'noticias', orden, re.IGNORECASE)):
         sintetizador(dialogo('noticias'))
-    elif bool(re.search(r'calendario', orden, re.IGNORECASE)):
-        sintetizador(dialogo('calendario'))
+        
     elif bool(re.search(r'tiempo', orden, re.IGNORECASE)):
         sintetizador(dialogo('tiempo'))
+        
     elif bool(re.search(r'diario', orden, re.IGNORECASE)):
         sintetizador(dialogo('diario'))
+        sintetizador("Ya puede empezar a dictar")
+        textoParaDiario = stt.escuchaYTranscribe(listen_time=60)
+        sintetizador("Procedo a guardar la Transcripción en su diario digital")
+        os.chdir(os.path.dirname(os.path.realpath(__file__)))
+        rutaDiario = "/home/pi/Desktop/Dialogo/selene/personalidad/diario.txt"
+        with open("/home/pi/Desktop/Dialogo/selene/personalidad/diario.txt", "a") as diario:
+            diario.write(textoParaDiario)
+        
+        consejo = "Viendo su diario me permito darle el siguiente consejo " + \
+                        personalidad.getAdviceFromFile(rutaDiario)
+        sintetizador(consejo)
+            
     elif bool(re.search(r'radio', orden, re.IGNORECASE)):
         sintetizador(dialogo('radio'))
+        
     elif bool(re.search(r'libro', orden, re.IGNORECASE)):
         sintetizador(dialogo('libro'))
+        
     elif bool(re.search(r'apagado', orden, re.IGNORECASE)):
         sintetizador(dialogo('apagado'))
         
