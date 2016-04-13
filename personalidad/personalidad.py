@@ -7,15 +7,16 @@ from watson_developer_cloud import PersonalityInsightsV2
 import ConfigParser
 import os
 import random
+import sys
 
 
 class Personalidad():
     
     def __init__(self):
         
-        self.initPersonality()
+        self.iniciaPersonalidad()
         
-    def initPersonality(self):
+    def iniciaPersonalidad(self):
     
         os.chdir(os.path.dirname(os.path.realpath(__file__)))
         config = ConfigParser.ConfigParser()
@@ -25,31 +26,36 @@ class Personalidad():
             username=config.get('keys', 'user'),
             password=config.get('keys', 'password'))
             
-    def getPersonality(self, texto):
+    def damePersonalidad(self, texto):
         personality_insights_json = {"contentItems": [{"contenttype": "text/plain", 
         "charset": "UTF-8", "language": "es-es","content": texto, "parentid": "", 
         "reply": "false", "forward": "false"}]}
-        datos_json = json.dumps(self.personality.profile(text=personality_insights_json),indent=2)
+        try:
+            datos_json = json.dumps(self.personality.profile(text=personality_insights_json),indent=2)
+        except :
+            print("Error: " + sys.exc_info()[0])
+            
         datos_dict = json.loads(datos_json)
         valores = {}
         for elem in datos_dict["tree"]["children"][2]["children"][0]["children"]:
             valores[elem["id"]] = elem["percentage"]
         return valores
         
-    def getPersonalityFromFile(self, archivo):
+    def damePersonalidadDesdeArchivo(self, archivo):
         with open(archivo, "r") as diario:
             texto = diario.read()
-            return self.getPersonality(texto)
+            return self.damePersonalidad(texto)
             
-    def getAdviceFromFile(self, archivo):
+    def dameConsejoSegunArchivo(self, archivo):
         os.chdir(os.path.dirname(os.path.realpath(__file__)))
-        personalidad = self.getPersonalityFromFile(archivo)
+        personalidad = self.damePersonalidadDesdeArchivo(archivo)
+        print(personalidad)
         cita = ""
-        if float(personalidad["Hedonism"]) > 0.5:
+        if float(personalidad["Hedonism"]) >= float(personalidad["Self-transcendence"]):
             with open("citas/citasParaEgoistas.cit", "r") as archivoCitas:
                 citas = archivoCitas.read().splitlines()
                 cita = random.choice(citas)
-        elif float(personalidad["Self-transcendence"]) > 0.5:
+        else:
             with open("citas/citasParaIngenuos.cit", "r") as archivoCitas:
                 citas = archivoCitas.read().splitlines()
                 cita = random.choice(citas)
@@ -59,6 +65,6 @@ class Personalidad():
 if __name__ == "__main__":
     
     persona = Personalidad()
-    print(persona.getAdviceFromFile("diario.txt"))
+    print(persona.dameConsejoSegunArchivo("diario.txt"))
     
 

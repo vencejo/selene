@@ -21,6 +21,7 @@ class Stt():
         
         self.get_config()
         self.language = language
+        self.r = sr.Recognizer()
         
     def get_config(self):
         
@@ -36,10 +37,9 @@ class Stt():
         Performs STT via the IBM Speech API, transcribing an audio file and
         returning an Spanish string.
         """
-        r = sr.Recognizer()
 
         try:
-            mensaje = r.recognize_ibm(audio, username=self.user, password=self.password,
+            mensaje = self.r.recognize_ibm(audio, username=self.user, password=self.password,
                                         language=self.language, show_all=False)
         except sr.UnknownValueError:
             mensaje = "IBM Speech to Text could not understand audio"
@@ -50,22 +50,22 @@ class Stt():
             return mensaje
             
             
-    def escuchaYTranscribe(self, listen_time=5):
-    
-        r = sr.Recognizer()
-        r.dynamic_energy_threshold = True
+    def escuchaYTranscribe(self, duracion=5):
+        
         m = sr.Microphone(device_index=0, sample_rate=44100)
         
         with m as source:
             
             try:
-                audio = r.listen(m, timeout=listen_time)
+                audio = self.r.record(m, duration = duracion)
                 mensaje = self.transcribe(audio)
                 fraseInterpretada = mensaje.encode('utf-8')
                 print(fraseInterpretada)
                 return fraseInterpretada
             except sr.WaitTimeoutError:
                 print("No se ha escuchado nada")
+                return ""
+            except :
                 return ""
 
 

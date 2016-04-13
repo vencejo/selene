@@ -5,10 +5,14 @@ from watson_developer_cloud import DialogV1
 import re
 import ConfigParser
 import os
+import time
+from mpd import MPDClient 
 
 from tts.tts import sintetizador
 from stt.stt import Stt
 from personalidad.personalidad import Personalidad
+from elTiempo.elTiempo import ElTiempo
+from Noticias.twitter import Noticias
 
 config = ConfigParser.ConfigParser()
 config.read('datosCuentaDialogoIBM.ini')
@@ -52,6 +56,8 @@ sintetizador(initial_response['response'])
 
 stt = Stt()
 personalidad = Personalidad()
+meteo = ElTiempo()
+noticias = Noticias()
 
 while True:
     
@@ -59,32 +65,52 @@ while True:
     
     if bool(re.search(r'noticias', orden, re.IGNORECASE)):
         sintetizador(dialogo('noticias'))
+        for noticia in noticias.daNoticias():
+            sintetizador(noticia)
         
     elif bool(re.search(r'tiempo', orden, re.IGNORECASE)):
         sintetizador(dialogo('tiempo'))
+        temperaturaMedia, vaALlover = meteo.resumenAlDespertar()
+        sintetizador("La temperatura media mañana sera de " + str(temperaturaMedia)  \
+                    + " grados centigrados")
+        if vaALlover:
+            sintetizador("Y parece que mañana va a llover")
         
     elif bool(re.search(r'diario', orden, re.IGNORECASE)):
         sintetizador(dialogo('diario'))
         sintetizador("Ya puede empezar a dictar")
-        textoParaDiario = stt.escuchaYTranscribe(listen_time=60)
+        textoParaDiario = stt.escuchaYTranscribe(duracion= 30)
+        print("****************************")
+        print(textoParaDiario)
+        print("****************************")
+        if textoParaDiario.startswith("IBM Speech to Text could not understand"):
+            sintetizador("No he entendido lo que ha dicho")
+            continue
         sintetizador("Procedo a guardar la Transcripción en su diario digital")
         os.chdir(os.path.dirname(os.path.realpath(__file__)))
         rutaDiario = "/home/pi/Desktop/Dialogo/selene/personalidad/diario.txt"
         with open("/home/pi/Desktop/Dialogo/selene/personalidad/diario.txt", "a") as diario:
-            diario.write(textoParaDiario)
+            diario.write(textoParaDiario +"\n")
         
-        consejo = "Viendo su diario me permito darle el siguiente consejo " + \
-                        personalidad.getAdviceFromFile(rutaDiario)
+        consejo = personalidad.dameConsejoSegunArchivo(rutaDiario)
+        sintetizador("Viendo su diario me permito darle el siguiente consejo .......... ")
+        time.sleep(1.5)
         sintetizador(consejo)
             
     elif bool(re.search(r'radio', orden, re.IGNORECASE)):
         sintetizador(dialogo('radio'))
-        
-    elif bool(re.search(r'libro', orden, re.IGNORECASE)):
-        sintetizador(dialogo('libro'))
+        radio = MPDClient()
+        radio.connect("localhost",6600)
+        radio.clear() # Limpia la playlist anterior
+        radio.add("http://77.92.76.134:7100") # Pone una estacion de radio en la playlist
+        # Busqueda de IPs de Radios en www.xatworld.com/radio-search
+        radio.play()
+        time.sleep(20)
+        radio.stop()
         
     elif bool(re.search(r'apagado', orden, re.IGNORECASE)):
         sintetizador(dialogo('apagado'))
+        
         
 
 
