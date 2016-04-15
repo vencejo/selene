@@ -1,7 +1,7 @@
 # selene
 Asistente nocturno con Raspberry Pi capaz de mantener diálogos gracias al servicio Watson de IBM Bluemix
 
-Info completa en [la web de guadatech](www.guadatech.com)
+Info completa en [la web de guadatech](http://www.guadatech.com)
 
 
 Este proyecto surge como una continuación lógica de nuestro anterior trabajo con Jasper, 
