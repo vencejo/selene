@@ -7,6 +7,7 @@ import ConfigParser
 import os
 import time
 from mpd import MPDClient 
+import sys
 
 from tts.tts import sintetizador
 from stt.stt import Stt
@@ -36,20 +37,34 @@ def dialogo(entrada=""):
                                       conversation_id=initial_response['conversation_id'],
                                       client_id=initial_response['client_id'])
     return respuesta["response"]
-
+    
+def mensajeRecordatorio(intervaloTiempoParaMensaje = 30 ):
+    global tiempoDelUltimoMensajeEmitido
+    tiempoTranscurrido = time.time() - tiempoDelUltimoMensajeEmitido
+    if tiempoTranscurrido > intervaloTiempoParaMensaje:
+        sintetizador("Le recuerdo que puedo decirle las noticias, el tiempo, ponerle la \
+                        radio, escribir su diario o apagarme")
+        tiempoDelUltimoMensajeEmitido = time.time()
+    
+    
+## ------------------------------- PARA CREAR UN NUEVO DIALOGO --------------------------
+## Hay que crear un archivo xml que lo contenga y descomentar y ejecutar el siguiente codigo
+## con el nombre del nuevo archivo en el, y una vez hecho esto extraer el id del nuevo dialogo
 # CREATE A DIALOG
-# print(creaDialogo('selene_prueba_2','guionDialogo.xml' ))
+#print(creaDialogo('selene_prueba_4','guionDialogo.xml' ))
 # Print available dialogs         
 #print(json.dumps(dialog.get_dialogs(), indent=2))
+#dialogs = dialog.get_dialogs() 
 
-dialogs = dialog.get_dialogs() 
-
-dialog_id = dialogs["dialogs"][2]["dialog_id"]
+dialog_id = "9a46581b-17ec-43cc-92b5-e535d6b728be"
 
 initial_response = dialog.conversation(dialog_id)
 
 conversation_id=initial_response['conversation_id']
 client_id=initial_response['client_id']
+
+
+tiempoDelUltimoMensajeEmitido = time.time()
 
 # Saludo inicial y declaracion de opciones
 sintetizador(initial_response['response'])
@@ -62,24 +77,32 @@ noticias = Noticias()
 while True:
     
     orden = stt.escuchaYTranscribe()
+    mensajeRecordatorio(intervaloTiempoParaMensaje = 60 )
     
     if bool(re.search(r'noticias', orden, re.IGNORECASE)):
-        sintetizador(dialogo('noticias'))
-        for noticia in noticias.daNoticias():
+        tiempoDelUltimoMensajeEmitido = time.time()
+        respuesta = dialogo(entrada='noticias')
+        sintetizador(respuesta)
+        for noticia in noticias.daNoticias(numNoticias = 3):
             sintetizador(noticia)
         
     elif bool(re.search(r'tiempo', orden, re.IGNORECASE)):
-        sintetizador(dialogo('tiempo'))
+        tiempoDelUltimoMensajeEmitido = time.time()
+        respuesta = dialogo(entrada='tiempo')
+        print(respuesta)
+        sintetizador(respuesta)
         temperaturaMedia, vaALlover = meteo.resumenAlDespertar()
-        sintetizador("La temperatura media mañana sera de " + str(temperaturaMedia)  \
+        sintetizador("La temperatura media mañana sera de " + str(int(temperaturaMedia))  \
                     + " grados centigrados")
         if vaALlover:
             sintetizador("Y parece que mañana va a llover")
         
     elif bool(re.search(r'diario', orden, re.IGNORECASE)):
-        sintetizador(dialogo('diario'))
+        tiempoDelUltimoMensajeEmitido = time.time()
+        respuesta = dialogo(entrada='diario')
+        sintetizador(respuesta)
         sintetizador("Ya puede empezar a dictar")
-        textoParaDiario = stt.escuchaYTranscribe(duracion= 30)
+        textoParaDiario = stt.escuchaYTranscribe(duracion= 20)
         print("****************************")
         print(textoParaDiario)
         print("****************************")
@@ -98,18 +121,48 @@ while True:
         sintetizador(consejo)
             
     elif bool(re.search(r'radio', orden, re.IGNORECASE)):
-        sintetizador(dialogo('radio'))
+        tiempoDelUltimoMensajeEmitido = time.time()
+        respuesta = dialogo(entrada='radio')
+        print(respuesta)
+        sintetizador(respuesta)
         radio = MPDClient()
         radio.connect("localhost",6600)
         radio.clear() # Limpia la playlist anterior
         radio.add("http://77.92.76.134:7100") # Pone una estacion de radio en la playlist
         # Busqueda de IPs de Radios en www.xatworld.com/radio-search
         radio.play()
-        time.sleep(20)
+        time.sleep(20)   # Tiempo en el que la radio estara encendida
         radio.stop()
+        sintetizador(respuesta[1])
+        orden = stt.escuchaYTranscribe()
+        tiempoDelUltimoMensajeEmitido = time.time()
+        while bool(re.search(r'si', orden, re.IGNORECASE)) or \
+            bool(re.search(r'continuar', orden, re.IGNORECASE)):
+            radio = MPDClient()
+            radio.connect("localhost",6600)
+            radio.clear() # Limpia la playlist anterior
+            radio.add("http://77.92.76.134:7100")
+            radio.play()
+            time.sleep(20) # Tiempo en el que la radio estara encendida
+            radio.stop()
+            sintetizador(respuesta[1])
+            orden = stt.escuchaYTranscribe()
+            
         
-    elif bool(re.search(r'apagado', orden, re.IGNORECASE)):
-        sintetizador(dialogo('apagado'))
+    elif bool(re.search(r'apagado', orden, re.IGNORECASE)) or \
+            bool(re.search(r'apágate', orden, re.IGNORECASE)) or \
+            bool(re.search(r'adiós', orden, re.IGNORECASE)) :
+        sintetizador("Buenas noches, procedo a mi apagado")
+        sys.exit()
+        
+    else:
+        print(orden)
+        if orden != "":
+            tiempoDelUltimoMensajeEmitido = time.time()
+            respuesta = dialogo(entrada=orden)
+            sintetizador(respuesta)
+            print(respuesta)
+        
         
         
 

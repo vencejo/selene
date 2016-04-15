@@ -5,27 +5,27 @@
     <folder label="Main">
             <output id= "saludoInicial">
                 <prompt selectionType="RANDOM">
-                    <item>Hola, ¿en que puedo ayudarlo? Puedo leerle los tweets, el calendario, un libro, 
+                    <item>Hola soy Selene,  ¿en que puedo ayudarlo? Puedo leerle las noticias, ponerle la radio, 
                     decirle el tiempo para mañana, escribir su diario o apagarme</item>
                 </prompt>
                 <goto ref="obtenEntradaUsuario"/>
             </output>
             <output>
                 <prompt selectionType="SEQUENTIAL">
-                    <item>Estoy a su disposición.  Puedo leerle los tweets, el calendario, un libro, 
-                    decirle el tiempo para mañana, escribir su diario, ,poner la radio, o apagarme</item>
+                    <item>Estoy a su disposición.  Puedo leerle las noticias, ponerle la radio, 
+                    decirle el tiempo para mañana, escribir su diario o apagarme</item>
                 </prompt>
                 <getUserInput id="obtenEntradaUsuario">
                     <search ref="posiblesEntradasUsuario"/>
                     <default>
                         <output>
                             <prompt selectionType="RANDOM">
-                                <item>Lo siento no entiendo su petición.  Puedo leerle los tweets, el calendario, un libro, 
-                            decirle el tiempo para mañana,poner la radio, escribir su diario o apagarme.</item>
-                                <item>Eso no se hacerlo,  Puedo leerle los tweets, el calendario, un libro, 
-                            decirle el tiempo para mañana,poner la radio, escribir su diario o apagarme.</item>
-                                <item>No entiendo lo que dice,  Puedo leerle los tweets, el calendario, un libro, 
-                            decirle el tiempo para mañana,poner la radio, escribir su diario o apagarme.</item>
+                                <item>Lo siento no entiendo su petición. Puedo leerle las noticias, ponerle la radio, 
+                    		decirle el tiempo para mañana, escribir su diario o apagarme</item>
+                                <item>Eso no se hacerlo,  Puedo leerle las noticias, ponerle la radio, 
+                    		decirle el tiempo para mañana, escribir su diario o apagarme</item>
+                                <item>No entiendo lo que dice,  Puedo leerle las noticias, ponerle la radio, 
+                    		decirle el tiempo para mañana, escribir su diario o apagarme</item>
                             </prompt>
                         </output>
                     </default>
@@ -37,29 +37,15 @@
             <folder label="Live Content" id="posiblesEntradasUsuario">
                 <input>
                     <grammar>
-                        <item>$ Tweets </item>
-                        <item>¿Podrias leerme los tweets?</item>
-                        <item>Lee * tweets</item>
-                        <item>$ Twitter</item>
+                        <item>$ Noticias </item>
+                        <item>¿Podrias leerme las noticias?</item>
+                        <item>Lee * Noticias</item>
+                        <item>$ Periodicos</item>
                     </grammar>
                     <output>
                             <prompt selectionType="RANDOM">
-                                <item>Por supuesto, procedo a la descarga de los tweets, por favor, espere un momento</item>
-                            </prompt>
-                     </output>
-                     <goto ref="saludoInicial"/>
-                 </input>
-                 
-                 <input>
-                    <grammar>
-                        <item>$ Calendario </item>
-                        <item>¿Podrias leerme el calendario?</item>
-                        <item>Mira * calendario</item>
-                        <item>Mira calendarior</item>
-                    </grammar>
-                    <output>
-                            <prompt selectionType="RANDOM">
-                                <item>Por supuesto, procedo a la descarga del calendario, por favor, espere un momento</item>
+                                <item>Por supuesto, procedo a la descarga de las noticias, por favor, espere un momento</item>
+                                <item>Marchando las noticias</item>
                             </prompt>
                      </output>
                      <goto ref="saludoInicial"/>
@@ -88,6 +74,7 @@
                     <output>
                             <prompt selectionType="RANDOM">
                                 <item>Por supuesto, procedo a la sintonización de la radio, por favor, espere un momento</item>
+                                <item>Muy bien, un poquito de música relajante para acabar el día</item>
                             </prompt>
                             <goto ref="preguntaContinuar"/>
                      </output>
@@ -109,20 +96,6 @@
                  
                  <input>
                     <grammar>
-                        <item>$ Libro </item>
-                        <item>¿Podrias leerme un libro?</item>
-                        <item>* libro</item>
-                    </grammar>
-                    <output>
-                            <prompt selectionType="RANDOM">
-                                <item>Por supuesto, procedo a la lectura de un libro, por favor, espere un momento</item>
-                            </prompt>
-                             <goto ref="preguntaContinuar"/>
-                     </output>
-                 </input>
-                 
-                 <input>
-                    <grammar>
                         <item>$ apagar </item>
                         <item>$ cerrar </item>
                         <item>$ dormir</item>
@@ -130,6 +103,7 @@
                     <output>
                             <prompt selectionType="RANDOM">
                                 <item>Muy bien, hasta la próxima</item>
+                                <item>Que pase una buena noche, hasta mañana</item>
                             </prompt>
                      </output>
                  </input>
@@ -137,29 +111,122 @@
                  
               <folder label="RespuestasComunes" id="RespuestasComunes">
              
-                <output id="preguntaContinuar">
-                              <prompt selectionType="RANDOM">
-                                <item>Han transcurrido 15 minutos  ¿Quiere continuar?</item>
+              	<output id="preguntaContinuar">
+                     	      <prompt selectionType="RANDOM">
+                                <item>Han transcurrido 15 minutos  ¿Quiere continuar? Responda Si o no por favor </item>
                             </prompt>
                             <getUserInput>
-                <input>
-                 <grammar>
-                    <item>$ Si</item>
-                    <item>$ continuar</item>
-                    </grammar>
-                    <goto ref="preguntaContinuar"/>
-                 </input>
-                 <input>
-                <grammar>
-                    <item>$ No  </item>
-                    <item>$ apagar  </item>
-                </grammar>
-                <goto ref="saludoInicial" />
-                  </input>
-              </getUserInput>
+			    <input>
+				 <grammar>
+					<item>$ Si</item>
+					<item>$ continuar</item>
+			      	</grammar>
+			      	<goto ref="preguntaContinuar"/>
+			     </input>
+			     <input>
+				<grammar>
+					<item>$ No  </item>
+					<item>$ apagar  </item>
+					<item>$ cerrar</item>
+					<item>$ apagado</item>
+				</grammar>
+				<goto ref="saludoInicial" />
+			      </input>
+		      </getUserInput>
                      </output>
                      
                  </folder>
+                 
+                 <folder label="ConversacionCasual">
+                    <input>
+                        <grammar>
+                            <item>Hola</item>
+                            <item>Buenas Noches</item>
+                            <item>Buenas</item>
+                            <item>$Hola</item>
+                            <item>Buenas noches *</item>
+                            <item>$Buenas Noches</item>
+                            <item>* hola</item>
+                            <item>hola *</item>
+                        </grammar>
+                        <output>
+                            <prompt selectionType="RANDOM">
+                                <item>Hola , Como estas? </item>
+                                <item>Hola , como va eso?</item>
+                                <item>Hola</item>
+                            </prompt>
+                        </output>
+                    </input>
+                    <input>
+                        <grammar>
+                            <item>Como estas</item>
+                            <item>Hola como estas</item>
+                            <item>* Hola Como estas</item>
+                            <item>como ha ido eso</item>
+                            <item>hola * como estas</item>
+                            <item>como fue tu dia</item>
+                            <item>como te sientes</item>
+                            <item>como va todo</item>
+                        </grammar>
+                        <output>
+                            <prompt>
+                                <item>Estoy bien gracias</item>
+                                <item>Estoy genial gracias.</item>
+                                <item>Me siento mucho mejor ahora que estas charlando conmigo</item>
+                            </prompt>
+                        </output>
+                    </input>
+                    <input>
+                        <grammar>
+                            <item>Adios</item>
+                            <item>Hasta luego</item>
+                        </grammar>
+                        <output>
+                            <prompt selectionType="RANDOM">
+                                <item>Adios, espero volver a charlar contigo pronto</item>
+                                <item>Cuidate , hasta la vista</item>
+                                <item>adios, buenas noches</item>                  
+                            </prompt>
+                        </output>
+                    </input>
+                    <input>
+                        <grammar>
+                            <item>$Como va eso</item>
+                            <item>$que tal</item>
+                        </grammar>
+                        <output>
+                            <prompt selectionType="RANDOM">
+                                <item>Bien gracias</item>
+                            </prompt>
+                        </output>
+                    </input>
+                    <input>
+                        <grammar>
+                            <item>$estoy bien</item>
+                            <item>$me encuentro bien</item>
+                            <item> $bien</item>
+                        </grammar>
+                        <output>
+                            <prompt selectionType="RANDOM">
+                                <item>Me alegro de oirlo</item>
+                            </prompt>
+                        </output>
+                    </input>
+                    <input>
+                        <grammar>
+                            <item>$estoy mal</item>
+                            <item>$no me encuentro bien</item>
+                            <item> $mal</item>
+                        </grammar>
+                        <output>
+                            <prompt selectionType="RANDOM">
+                                <item>Vaya, siento oir eso, intentaré ayudarlo en lo que pueda</item>
+                            </prompt>
+                        </output>
+                    </input>
+                   
+                
+                </folder>
                   
               </folder>
            </folder>
