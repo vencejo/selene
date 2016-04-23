@@ -14,6 +14,7 @@ from stt.stt import Stt
 from personalidad.personalidad import Personalidad
 from elTiempo.elTiempo import ElTiempo
 from Noticias.twitter import Noticias
+from Libros.libros import Lectura, InfoLibros, Libro
 
 config = ConfigParser.ConfigParser()
 config.read('datosCuentaDialogoIBM.ini')
@@ -51,12 +52,12 @@ def mensajeRecordatorio(intervaloTiempoParaMensaje = 30 ):
 ## Hay que crear un archivo xml que lo contenga y descomentar y ejecutar el siguiente codigo
 ## con el nombre del nuevo archivo en el, y una vez hecho esto extraer el id del nuevo dialogo
 # CREATE A DIALOG
-#print(creaDialogo('selene_prueba_4','guionDialogo.xml' ))
+#print(creaDialogo('selene_prueba_8','guionDialogo.xml' ))
 # Print available dialogs         
 #print(json.dumps(dialog.get_dialogs(), indent=2))
 #dialogs = dialog.get_dialogs() 
 
-dialog_id = "9a46581b-17ec-43cc-92b5-e535d6b728be"
+dialog_id = "f5d25932-e746-4783-b240-e53253477a3f"
 
 initial_response = dialog.conversation(dialog_id)
 
@@ -85,6 +86,26 @@ while True:
         sintetizador(respuesta)
         for noticia in noticias.daNoticias(numNoticias = 3):
             sintetizador(noticia)
+            
+    elif bool(re.search(r'libro', orden, re.IGNORECASE)):
+        tiempoDelUltimoMensajeEmitido = time.time()
+        respuesta = dialogo(entrada='libro')
+        sintetizador(respuesta)
+        lee = Lectura()
+        info = InfoLibros()
+        sintetizador("¿Quiere que le lea un libro cualquiera o uno de sus favoritos?")
+        orden = stt.escuchaYTranscribe()
+        if bool(re.search(r'cualquiera', orden, re.IGNORECASE)):
+            ruta, numPrimerCapitulo, yaLeido = lee.empiezaALeerLibroAleatorio()
+            sintetizador("¿Le ha gustado el libro?")
+            orden = stt.escuchaYTranscribe()
+            if bool(re.search(r'si', orden, re.IGNORECASE)):
+                info.actualizaInfoLibro(Libro(ruta,numPrimerCapitulo, True))
+            if bool(re.search(r'no', orden, re.IGNORECASE)):
+                info.actualizaInfoLibro(Libro(ruta,numPrimerCapitulo, False))
+        if bool(re.search(r'favorito', orden, re.IGNORECASE)) or \
+            bool(re.search(r'favoritos', orden, re.IGNORECASE)):
+            lee.leeLibroQueMeGusta()
         
     elif bool(re.search(r'tiempo', orden, re.IGNORECASE)):
         tiempoDelUltimoMensajeEmitido = time.time()

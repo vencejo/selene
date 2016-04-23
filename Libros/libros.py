@@ -8,7 +8,6 @@ import os
 import random
 import pickle
 
-enDepuracion = True
 rutaInicial = os.getcwd()
 
 class Libro():
@@ -63,6 +62,8 @@ class InfoLibros():
         
             
     def getInfo(self):
+        os.chdir(os.path.dirname(os.path.realpath(__file__)))
+        rutaInicial = os.getcwd()
         os.chdir(rutaInicial)
         if os.path.isfile(self.archivo):
             with open(self.archivo, "rb") as archivo:
@@ -105,16 +106,21 @@ class InfoLibros():
    
 class Lectura():
     
-    def __init__(self):
-        pass
+    def __init__(self, enDepuracion = False):
+        self.enDepuracion = enDepuracion
+        os.chdir(os.path.dirname(os.path.realpath(__file__)))
    
     def leeLibroQueMeGusta(self):
+        os.chdir(os.path.dirname(os.path.realpath(__file__)))
         info = InfoLibros()
         listaLibros = info.getInfo()
         # Busco aleatoriamente un libro que me guste y lo leo
         random.shuffle(listaLibros)
         for indice,libro in enumerate(listaLibros):
             if libro.meGusta:
+                if not self.enDepuracion:
+                    sintetizador("Voy a proceder a leer el siguiente libro: ")
+                    sintetizador(os.path.basename(libro.ruta)[:-4])
                 self.sintetizaCapitulo(libro.ruta, libro.numCapLeidos+1)
                 # Actualizo la informacion guardada en disco sobre los libros
                 libro.numCapLeidos += 1
@@ -123,13 +129,11 @@ class Lectura():
         # Si no encuentra ningun libro que me gusta devuelve falso
         return False
         
-                
-    
     def empiezaALeerLibroAleatorio(self):
         """ Empieza a leer un libro de manera aleatoria, si ya se habia leido , empieza 
         por el capitulo que se quedo """
-        rutaDirLibro, contDirLibro = self.buscaRutaAleatoriaALibro()
-        if not enDepuracion:
+        libro, rutaDirLibro, contDirLibro = self.buscaRutaAleatoriaALibro()
+        if not self.enDepuracion:
             sintetizador("Voy a proceder a leer el siguiente libro: ")
             sintetizador(libro)
         os.chdir(rutaDirLibro)
@@ -156,6 +160,10 @@ class Lectura():
                         
                 
     def buscaRutaAleatoriaALibro(self):
+        os.chdir(os.path.dirname(os.path.realpath(__file__)))
+        rutaInicial = os.getcwd()
+        print("*"*30)
+        print(rutaInicial)
         os.chdir(os.path.join(rutaInicial,'./Literatura/Libros_Descargados'))
         listaAutores = os.listdir('.')
         autor = random.choice(listaAutores)
@@ -165,7 +173,7 @@ class Lectura():
         os.chdir(os.path.join(os.getcwd(),libro))
         contDirLibro = os.listdir('.')
         rutaLibro = os.getcwd()
-        return (rutaLibro, contDirLibro)
+        return (libro, rutaLibro, contDirLibro)
     
     def leePrimerCapitulo(self,ruta):
         """ Busca y lee el primer capitulo legible,
@@ -189,7 +197,7 @@ class Lectura():
                 print(fragmento)
                 if len(fragmento) > numMinCaracteres:
                     algunTextoSintetizado = True
-                    if enDepuracion:
+                    if self.enDepuracion:
                         print(fragmento)
                     else:
                         sintetizador(fragmento)

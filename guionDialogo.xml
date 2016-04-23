@@ -5,14 +5,14 @@
     <folder label="Main">
             <output id= "saludoInicial">
                 <prompt selectionType="RANDOM">
-                    <item>Hola soy Selene,  ¿en que puedo ayudarlo? Puedo leerle las noticias, ponerle la radio, 
-                    decirle el tiempo para mañana, escribir su diario o apagarme</item>
+                    <item>Hola soy Selene,  ¿en que puedo ayudarlo? Puedo leerle las noticias,leerle un libro, 
+                    ponerle la radio, decirle el tiempo para mañana, escribir su diario o apagarme</item>
                 </prompt>
                 <goto ref="obtenEntradaUsuario"/>
             </output>
             <output>
                 <prompt selectionType="SEQUENTIAL">
-                    <item>Estoy a su disposición.  Puedo leerle las noticias, ponerle la radio, 
+                    <item>Estoy a su disposición.  Puedo leerle las noticias, leerle un libro, ponerle la radio, 
                     decirle el tiempo para mañana, escribir su diario o apagarme</item>
                 </prompt>
                 <getUserInput id="obtenEntradaUsuario">
@@ -21,11 +21,11 @@
                         <output>
                             <prompt selectionType="RANDOM">
                                 <item>Lo siento no entiendo su petición. Puedo leerle las noticias, ponerle la radio, 
-                    		decirle el tiempo para mañana, escribir su diario o apagarme</item>
+                            decirle el tiempo para mañana, escribir su diario o apagarme</item>
                                 <item>Eso no se hacerlo,  Puedo leerle las noticias, ponerle la radio, 
-                    		decirle el tiempo para mañana, escribir su diario o apagarme</item>
+                            decirle el tiempo para mañana, escribir su diario o apagarme</item>
                                 <item>No entiendo lo que dice,  Puedo leerle las noticias, ponerle la radio, 
-                    		decirle el tiempo para mañana, escribir su diario o apagarme</item>
+                            decirle el tiempo para mañana, escribir su diario o apagarme</item>
                             </prompt>
                         </output>
                     </default>
@@ -46,6 +46,22 @@
                             <prompt selectionType="RANDOM">
                                 <item>Por supuesto, procedo a la descarga de las noticias, por favor, espere un momento</item>
                                 <item>Marchando las noticias</item>
+                            </prompt>
+                     </output>
+                     <goto ref="saludoInicial"/>
+                 </input>
+                 
+                 <input>
+                    <grammar>
+                        <item>$ Libro </item>
+                        <item>¿Podrias leerme un Libro?</item>
+                        <item>Lee * Libro</item>
+                        <item>* Libro </item>
+                    </grammar>
+                    <output>
+                            <prompt selectionType="RANDOM">
+                                <item>Por supuesto, procedo a la lectura de un libro</item>
+                                <item>Encantada de poder leerle unos párrafos </item>
                             </prompt>
                      </output>
                      <goto ref="saludoInicial"/>
@@ -111,28 +127,28 @@
                  
               <folder label="RespuestasComunes" id="RespuestasComunes">
              
-              	<output id="preguntaContinuar">
-                     	      <prompt selectionType="RANDOM">
+                <output id="preguntaContinuar">
+                              <prompt selectionType="RANDOM">
                                 <item>Han transcurrido 15 minutos  ¿Quiere continuar? Responda Si o no por favor </item>
                             </prompt>
                             <getUserInput>
-			    <input>
-				 <grammar>
-					<item>$ Si</item>
-					<item>$ continuar</item>
-			      	</grammar>
-			      	<goto ref="preguntaContinuar"/>
-			     </input>
-			     <input>
-				<grammar>
-					<item>$ No  </item>
-					<item>$ apagar  </item>
-					<item>$ cerrar</item>
-					<item>$ apagado</item>
-				</grammar>
-				<goto ref="saludoInicial" />
-			      </input>
-		      </getUserInput>
+                <input>
+                 <grammar>
+                    <item>$ Si</item>
+                    <item>$ continuar</item>
+                    </grammar>
+                    <goto ref="preguntaContinuar"/>
+                 </input>
+                 <input>
+                <grammar>
+                    <item>$ No  </item>
+                    <item>$ apagar  </item>
+                    <item>$ cerrar</item>
+                    <item>$ apagado</item>
+                </grammar>
+                <goto ref="saludoInicial" />
+                  </input>
+              </getUserInput>
                      </output>
                      
                  </folder>

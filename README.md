@@ -3,8 +3,6 @@ Selene
 
 Asistente nocturno con Raspberry Pi capaz de mantener diálogos gracias al servicio Watson de IBM Bluemix
 
-Info completa en [la web de guadatech](http://www.guadatech.com/proyecto-selene)
-
 [video demostrativo](https://www.youtube.com/watch?v=uigE7JxHXR4)
 
 Este proyecto surge como una continuación lógica de 
@@ -116,7 +114,9 @@ Implementación del clasificador Bayesiano aplicando lo aprendido en el proyecto
 Licencia
 --------
 
-Diego J. Martinez García - apussapus@gmail.com - [guadatech](http://www.guadatech.com)
+Diego J. Martinez García 
+correo: apussapus@gmail.com 
+web : [guadatech](http://www.guadatech.com)
 
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.es_ES"><img alt="Licencia de Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />
 Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.es_ES">licencia de Creative Commons Reconocimiento 3.0 Unported</a>.
