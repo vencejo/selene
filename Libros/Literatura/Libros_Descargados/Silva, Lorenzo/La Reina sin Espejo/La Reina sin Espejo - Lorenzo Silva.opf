@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">388</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">99b708f0-8187-4d60-b6f4-91741e995051</dc:identifier>
+    <dc:title>La Reina sin Espejo</dc:title>
+        <dc:creator opf:file-as="Silva, Lorenzo" opf:role="aut">Lorenzo Silva</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Los famosos investigadores Bevilacqua y Chamorro se enfrentan en esta ocasión al asesinato de una prestigiosa presentadora de televisión.</dc:description>
+        <dc:publisher>Destino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423337750</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Bevilacqua/Chamorro" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="2010-04-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La Reina sin Espejo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La Reina sin Espejo - Lorenzo Silva.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

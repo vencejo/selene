@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">899</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">69571469-72a4-4786-a17d-551de24aceca</dc:identifier>
+    <dc:title>Cántico a San Leibowitz</dc:title>
+        <dc:creator opf:file-as="Miller, Walter M." opf:role="aut">Walter M. Miller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1972-05-14T16:00:00+00:00</dc:date>
+        <dc:description>Después de la hecatombe nuclear el Venerable Leibowitz, muerto seiscientos años antes, va a ser canonizado. De la antigua civilización no quedan otros vestigios que los conservados por la Orden Albertiana, cuyos monjes consumen sus vida en la interminable tarea de iluminar e interpretar las obras del Venerable para reconstruir sobre ellas el mundo tal como fue.
+Son muchos los misterios que perduran. Por ejemplo, el documento que reza: "Libra de pastrani, lata de kraut, traer a casa para Emma". Es un enigma. Pero los monjes saben que la luz se hará algún día y que, con ella, la antigua cultura retornará.
+¿Ridículo? ¿Grotesco?
+Bien, si nuestro civilizado y orgulloso mundo sucumbe un día ante una catástrofe de proporciones millones de veces superiores a las del hundimiento del mundo clásico, ¿qué ocurrirá? ¿Qué quedará de nuestra civilización? ¿Cómo y por quién serán conservados, interpretados y aprovechados los vestigios tecnológicos que heredarán los hombres del mañana?
+Esta historia de un futuro pavorosamente probable es la que explora Walter M. Miller, Jr. en su famoso CANTICO A SAN LEIBOWITZ
+Una novela airada, sarcástica y al propio tiempo piadosa, elocuente y terrorífica, que figura entre las grandes creaciones que han arrancado a la ciencia-ficción de su encasillamiento como género menor para llevarla a la vanguardia de la literatura moderna.</dc:description>
+        <dc:publisher>Bruguera</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788402006707</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2010-05-18T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Cántico a San Leibowitz" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Cantico a San Leibowitz - Walter M. Miller.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

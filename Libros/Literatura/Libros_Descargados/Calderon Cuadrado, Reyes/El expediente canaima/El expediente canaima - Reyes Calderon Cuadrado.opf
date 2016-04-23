@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2150</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">49d8abf0-7b95-48ff-97d8-6a23e4ec7e27</dc:identifier>
+    <dc:title>El expediente canaima</dc:title>
+        <dc:creator opf:file-as="Calderón Cuadrado, Reyes" opf:role="aut">Reyes Calderón Cuadrado</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-14T16:00:00+00:00</dc:date>
+        <dc:description>Lola MacHor, jueza del Tribunal Superior de Navarra, prepara su traslado a la Audiencia Nacional cuando su último caso, la violación de una adolescente a manos de un peligroso narcotraficante, resurge con toda su crudeza. De forma paralela, un alto dirigente del Banco Mundial la involucra en una intrincada trama de corrupción internacional, cuyos entresijos se extienden desde Caracas a Madrid, y que ya ha provocado tres víctimas: dos asesinatos y un suicidio. Con la colaboración de Juan Iturri, inspector de la Interpol y viejo amigo, y la enigmática presencia del FBI siguiendo sus pasos, empieza la búsqueda de los responsables.</dc:description>
+        <dc:publisher>RBA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788498674422</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Iturri y MacHor" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2010-04-11T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El expediente canaima" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El expediente canaima - Reyes Calderon Cuadrado.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

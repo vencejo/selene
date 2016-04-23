@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1744</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9a56f75-3f03-43b7-bdcc-16b509cc5c14</dc:identifier>
+    <dc:title>A punta de espada</dc:title>
+        <dc:creator opf:file-as="Kushner, Ellen" opf:role="aut">Ellen Kushner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-14T16:00:00+00:00</dc:date>
+        <dc:description>La Ribera, hogar de carteristas y prostitutas, es el barrio bajo de una ciudad sin nombre dominada por el Consejo de los Lores. Allí acuden los aristócratas de incógnito, abandonando sus suntuosas mansiones en la Colina, para contratar a los implacables espadachines que se baten por ellos en los duelos, una forma sofisticada de asesinato legal que sirve tanto para satisfacer el orgullo herido como para eliminar a un oponente político. Richard de Vier, que no puede desenvainar su espada sin derramar sangre, es el mejor espadachín de su época, y sus servicios son muy cotizados entre los poderosos. Pero al negarse a aceptar el encargo de un noble influyente, se convierte en objeto de sus intrigas, lo que amenaza con poner un súbito final a su brillante carrera. Ellen Kushner es una de las autoras más respetadas de la fantasía, y con A punta de espada  ha creado mediante un estilo ingenioso e irónico un mundo vívido y unos personajes magníficos y alocados que resultan inolvidables.</dc:description>
+        <dc:publisher>Alamut</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788498890198</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-02T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="punta de espada, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="punta de espada, A - Ellen Kushner.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

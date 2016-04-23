@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1660</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">adae668f-a464-440e-b797-acd9417c75e5</dc:identifier>
+    <dc:title>Historia de España contada para escépticos</dc:title>
+        <dc:creator opf:file-as="Eslava Galán, Juan" opf:role="aut">Juan Eslava Galán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-14T16:00:00+00:00</dc:date>
+        <dc:description>Como escribe el autor, no pretende ser veraz, justa y desapasionada,porque ninguna historia lo es. No está hecha para halagar a reyes y gobernantes (de los que el autor hablará mucho dejándose ganar por el novelista que es), no pretende halagar a los banqueros, ni a la Conferencia Episcopal, ni al colectivo gay.</dc:description>
+        <dc:publisher>Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408062035</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>historia</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-11-29T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Historia de España contada para escépticos" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Historia de Espana contada para escepticos - Juan Eslava Galan.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

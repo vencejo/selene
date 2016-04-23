@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">589</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7344a36c-d66a-40f9-b9a5-ebbd8467efdd</dc:identifier>
+    <dc:title>Sombra del Viento, La</dc:title>
+        <dc:creator opf:file-as="Ruiz Zafón Carlos" opf:role="aut">Ruiz Zafón Carlos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-14T16:00:00+00:00</dc:date>
+        <dc:description>Un amanecer de 1945 un muchacho es conducido por su padre a un misterioso lugar oculto en el corazón de la ciudad vieja: El Cementerio de los Libros Olvidados. Allí, Daniel Sempere encuentra un libro maldito que cambiará el rumbo de su vida y le arrastrará a un laberinto de intrigas y secretos enterrados en el alma oscura de la ciudad. Un misterio literario ambientado en la Barcelona de la primera mitad del siglo XX, desde los últimos esplendores del Modernismo a las tinieblas de la posguerra, esta novela mezcla técnicas de relato de intriga, de novela histórica y de comedia de costumbres pero es, sobre todo, una tragedia histórica de amor cuyo eco se proyecta a través del tiempo.</dc:description>
+        <dc:publisher>Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780974872407</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2008-05-24T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Sombra del Viento, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Sombra del Viento, La - Ruiz Zafon Carlos.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

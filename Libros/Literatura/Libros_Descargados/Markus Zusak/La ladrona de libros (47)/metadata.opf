@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7ccdcd4b-aa0b-4b90-8536-8f578ba209d4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d7b6793-057f-4866-b910-d3464c3d54de</dc:identifier>
+        <dc:title>La ladrona de libros</dc:title>
+        <dc:creator opf:file-as="Zusak, Markus" opf:role="aut">Markus Zusak</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.28) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-04-30T22:00:00+00:00</dc:date>
+        <dc:publisher>Lumen</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788426416216</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="2010-11-23T17:52:48.583000+00:00" name="calibre:timestamp"/>
+        <meta content="La ladrona de libros" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

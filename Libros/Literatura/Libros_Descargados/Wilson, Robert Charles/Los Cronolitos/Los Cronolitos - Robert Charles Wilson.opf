@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">159</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3797b5a-3235-4ea0-a006-7e8eda2b7f39</dc:identifier>
+    <dc:title>Los Cronolitos</dc:title>
+        <dc:creator opf:file-as="Wilson, Robert Charles" opf:role="aut">Robert Charles Wilson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-09-30T16:00:00+00:00</dc:date>
+        <dc:description>Scott Warden es un hombre perseguido por el pasado... y pronto también por el futuro.
+En la Tailandia de comienzos del siglo XXI, Scott es un vago en una comunidad costera de expatriados, prácticamente incapaz de sostener a su mujer e hija. Entonces, un día, es testigo de forma inadvertida de un acontecimiento imposible: la aparición en el boscoso interior de un pilar de piedra de casi setenta metros.
+No se trata de un objeto ordinario. Su llegada colapsa los árboles en un cuarto de kilómetro alrededor de su base, congelando el aire y emitiendo una descarga de radiación. Parece estar compuesto de una exótica forma de materia, y la inscripción tallada muestra la conmemoración de una victoria militar... dentro de dieciséis años.
+Entonces, poco después, un pilar aún mayor aparece en el centro de Bangkok, obliterando la ciudad y provocando miles de muertos.
+A lo largo de los años siguientes, la sociedad humana queda transformada por estos misteriosos visitantes, al parecer llegados desde el futuro reciente. ¿Quién es el guerrero 'Kuin', cuyas victorias celebran? Scott no quiere más que reconstruir su vida, pero un extraño bucle de causalidad lo arrastra sin cesar hacia el misterio central... y una extraña batalla con el futuro.
+Tensa, emotiva, rigurosa y emocionante, Los cronolitos es otra maestra de uno de los mejores autores de ciencia ficción de la actualidad.</dc:description>
+        <dc:publisher>La Factoría de Ideas</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788484216513</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-04-04T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Los Cronolitos" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Los Cronolitos - Robert Charles Wilson.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

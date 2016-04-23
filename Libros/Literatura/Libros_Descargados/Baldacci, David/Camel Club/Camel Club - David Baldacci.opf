@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2708</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f985e8df-070a-48a3-9c18-642dd9920a98</dc:identifier>
+    <dc:title>Camel Club</dc:title>
+        <dc:creator opf:file-as="Baldacci, David " opf:role="aut">David Baldacci</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-08-25T16:00:00+00:00</dc:date>
+        <dc:description>El Camel Club es un lugar de encuentro en el que politicos y otros hombres influyentes comen y beben mientras intercambian informacion y favores. 
+
+Su poder alcanza las cimas mas altas y su influencia es tal que las decisiones que alli toman pueden incluso cambiar el curso de la historia. sin embargo, cuando un hombre infiltrado en el Club decide llevar a cabo sus planes y esta dispuesto a transgredir cualquier barrera para ello, los miembros constatan inquietos que esta vez la situacion se les ha ido de las manos. 
+
+The Camel Club posee todos los elementos de un clasico thriller de corte politico: ritmo y accion con critica implicita. Baldacci demuestra una vez mas que es uno de los escritores de thrillers mas destacados del momento. Es un autor ya consolidado en la trama.</dc:description>
+        <dc:publisher>Zeta Bolsillo</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788496581722</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Camel Club" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-25T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Camel Club" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Camel Club - David Baldacci.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

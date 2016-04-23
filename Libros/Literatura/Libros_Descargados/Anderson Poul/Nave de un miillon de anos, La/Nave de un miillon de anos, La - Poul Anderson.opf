@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2535</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88906df0-3c05-4e2e-8f11-45861be06fea</dc:identifier>
+    <dc:title>Nave de un miillón de años, La</dc:title>
+        <dc:creator opf:file-as="Anderson Poul" opf:role="aut">Poul Anderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1991-08-14T16:00:00+00:00</dc:date>
+        <dc:description>Anderson, el autor que más premios Hugo ha obtenido en toda la historia de la ciencia ficción, vuelve, tras años de colaboraciones, a expresarse en solitario en la mayor y más ambiciosa de sus novelas. LA NAVE DE UN MILLÓN DE AÑOS es la historia de un puñado de inmortales en el decurso de las civilizaciones y culturas humanas. Un repaso completo a la Historia y a un posible futuro entre las estrellas. Un hito imprescindible en el desarrollo de la ciencia ficción contemporánea: una novela sofisticada, precisa en el aspecto histórico, inteligente y emotiva, que ofrece una visión panorámica de la Humanidad, del «homo sapiens» y del nuevo «homo inmortalis». LA NAVE DE UN MILLÓN DE AÑOS es un libro fundamental en la obra de Anderson, un título básico como fueron en su tiempo DUNE de Herbert O FORASTERO EN TIERRA EXTRAÑA de Heinlein.
+
+«Un libro inolvidable que tiene a la Humanidad como personaje central, y una aventura que sigue el curso del tiempo. Léalo, disfrútelo, saboréelo... puede ser el mejor libro del año, no de la década.»
+JERRY POURNELLE
+
+«Un penetrante repaso al pasado y al futuro de la Humanidad... Nos hace experimentar las pasiones de esos escasos inmortales y maravillarnos de su destino.»
+DAVID BRIN
+
+Poul Anderson ha creado un trabajo mayestático por su amplitud. [...] Una gran profusión de pasajes de gran alcance poético se suceden unos tras otros; los personajes viven y respiran. Considero que este libro es un gran éxito.
+JACK VANCE
+
+Un gran viaje por la Historia, el pasado, el presente y el futuro..., que incluye suficientes ideas para mantener la carrera de un escritor medio durante una década.
+LOIS McMASTER BUJOLD</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788440619723</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-07-02T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Nave de un miillón de años, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Nave de un miillon de anos, La - Poul Anderson.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

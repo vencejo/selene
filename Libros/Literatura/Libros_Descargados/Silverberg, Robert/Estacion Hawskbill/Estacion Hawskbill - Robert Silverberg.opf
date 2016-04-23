@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">396</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3688f949-c3fa-4184-aee3-8a294fc9964e</dc:identifier>
+    <dc:title>Estación Hawskbill</dc:title>
+        <dc:creator opf:file-as="Silverberg, Robert" opf:role="aut">Robert Silverberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-04-14T16:00:00+00:00</dc:date>
+        <dc:description>Esta muy imaginativa versión de una cárcel de máxima seguridad nos llega a través del escritor neoyorquino Robert Silverberg; quien imagina a los presos políticos de un regimen norteamericano extremadamente represivo instalados, gracias a la ayuda de la tecnología, en el más remoto pasado, mil millones de años atrás en el tiempo, justo a finales del período cámbrico.A través de la novela es perfectamente palpable la asfixiante sensación de soledad que sufren aquellos que no tienen forma alguna de reunirse jamás con el mundo al que pertenecieron, ya que el autor nos propone la idea de un viaje en el tiempo que es fisicamente posible sólo hacia atrás, pero nunca hacia adelante.Un planeta joven de pura roca viva, casi sin vegetación, de montañas desnudas, lluvias oleaginosas, y mares que tan sólo albergan algunas primitivas formas de vida, es la escenografía que atraviesa la desolación psicológica de los protagonistas. También se nos detalla cómo han logrado sobrevivir y convivir en medio de una organización bastante admirable para el precario mundo que les ha tocado habitar. Entre todos ellos sobresale su lider Barrett, un hombre fornido aunque algo viejo, quien ha sufrido un accidente que lo deja casi lisiado. Aún con todo esto, y teniendo que manejar las vicisitudes que se presentan entre un grupo de hombres cuya realidad los va desquiciando de a poco, su entereza es toda una reivindicación de la dignidad.El mayor entretenimiento que tienen los presidiarios es justamente la llegada de nuevos presos; con todo su bagaje de historias y noticias con respecto a lo que ocurre “arriba”, como ellos llaman al tiempo que habían tenido que abandonar. Pero un enigmático recién llegado se convierte en la atracción principal del grupo de convictos, que tratan por todos los medios de averiguar quién es y quién fue realmente, mientras a duras penas logran acallar una increíble sospecha.</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401013713</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-04-04T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Estación Hawskbill" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Estacion Hawskbill - Robert Silverberg.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2409</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4afafa19-1972-477f-b1b2-6cf0efd0fa96</dc:identifier>
+    <dc:title>Leviatán</dc:title>
+        <dc:creator opf:file-as="Auster, Paul" opf:role="aut">Paul Auster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-03T16:00:00+00:00</dc:date>
+        <dc:description>Todo comienza con un muerto anónimo: en una carretera de Wisconsin, un día de 1990, a un hombre le estalla una bomba en la mano y vuela en mil pedazos. Pero alguien sabe quién era, ycon el FBI pisándole los talones, Peter Aaron decide contar su historia, dar su versión de los hechos y del personaje, antes de que la historia y las mitologías oficiales establezcan para siempre sus falsedades o verdades a medias como la verdad. Y así, Peter Aaron escribirá Leviatán, la biografía de Benjamin Sachs, el muerto, también escritor y objetor de conciencia encarcelado durante la guerra de Vietnam, desaparecido desde 1986, autor de una novela de juventud que le convirtió fugazmente en un escritor de culto, acaso un asesino, y angustiado agonista de un dilema contemporáneo: ¿Literatura o compromiso político? ¿Realidad o ficción?</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788433906342</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="2008-10-03T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Leviatán" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Leviatan - Paul Auster.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

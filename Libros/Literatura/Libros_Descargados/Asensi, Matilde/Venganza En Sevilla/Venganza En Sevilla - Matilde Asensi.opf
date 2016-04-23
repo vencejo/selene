@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2492</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed5404ba-e49a-4944-8000-a8d8c22b20cd</dc:identifier>
+    <dc:title>Venganza En Sevilla</dc:title>
+        <dc:creator opf:file-as="Asensi, Matilde" opf:role="aut">Matilde Asensi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-14T16:00:00+00:00</dc:date>
+        <dc:description>Sevilla 1607. Catalina Solís -la protagonista de Tierra firme- llevará a cabo su gran venganza en una de las ciudades más ricas e importantes del mundo, la Sevilla del siglo XVII. Catalina cumplirá así el juramento hecho a su padre adoptivo de hacer justicia a sus asesinos, los Curvo, dueños de una fortuna sin igual amasada con la plata robada en las Américas.
+    Su doble identidad -como Catalina y como Martín Ojo de Plata- y un enorme ingenio le hacen diseñar una venganza múltiple con distintas estrategias que combinan el engaño, la seducción, la fuerza, la sorpresa, el duelo, la medicina y el juego, sobre un profundo conocimiento de las costumbres de aquella sociedad...</dc:description>
+        <dc:publisher>Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408088356</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Martín Ojo de Plata" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2010-03-19T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Venganza En Sevilla" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Venganza En Sevilla - Matilde Asensi.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

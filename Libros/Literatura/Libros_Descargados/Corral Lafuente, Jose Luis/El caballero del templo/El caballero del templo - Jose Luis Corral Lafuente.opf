@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1841</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5086e823-e8ed-47d7-8285-73bae1095c64</dc:identifier>
+    <dc:title>El caballero del templo</dc:title>
+        <dc:creator opf:file-as="Corral Lafuente, José Luis" opf:role="aut">José Luis Corral Lafuente</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-14T16:00:00+00:00</dc:date>
+        <dc:description>Siguiendo los pasos de un caballero templario de oscuro pasado, Jaime de Castelnou, el lector revive algunos episodios  estremecedores, como la caída de San Juan de Acre, antes de verse envuelto en intrigas en la que acecha la mano del terrible Roger de Flor o de asistir dsde primera línea a la persecución y el juicio a que fueron sometidos los templarios y a la consecuente muerte del legendario Jacques de Molay.
+
+ José Luis Corral muestra la etapa final de la Orden del Temple, la más conflictiva y problemática, a través de una emocionante historia en la que confluyen episodios de las Cruzadas, las fuerzas mercenarias de Roger de Flor y la búsqueda del Grial. Desde muy joven, Jaime demuestra dotes de combatiente, entra en la Orden del Temple, y es enviado a Tierra Santa, donde asiste desde primera línea a la batalla por San Juan de Acre (1291), inicio del fin de la Orden. Emboscado en las tropas de Roger de Flor, interviene también en la destrucción de estas tropas y posteriormente se le encarga custodiar y poner a salvo la más preciada reliquia de la Orden, que ocultará en un pequeño monasterio español.</dc:description>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788435061124</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-07-22T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El caballero del templo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El caballero del templo - Jose Luis Corral Lafuente.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

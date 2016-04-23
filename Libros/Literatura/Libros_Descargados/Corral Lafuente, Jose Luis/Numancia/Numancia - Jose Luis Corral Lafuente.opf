@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1842</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0bc9ffdd-1bf9-4d5f-97c6-f52270a3fd7e</dc:identifier>
+    <dc:title>Numancia</dc:title>
+        <dc:creator opf:file-as="Corral Lafuente, José Luis" opf:role="aut">José Luis Corral Lafuente</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-10-31T16:00:00+00:00</dc:date>
+        <dc:description>José Luis Corral reconstruye el que se ha convertido en uno de los mitos hispánicos por excelencia, que ha dado pie incluso a la expresión 'numantino' y ha generado algunas de las piezas más brillantes de la literatura española de todos los tiempos (La Numancia de Cervantes, por ejemplo). Más que una derrota final que era inevitable, lo que confiere dimensión épica a este episodio es la desproporción de fuerzas en combate. Por un lado, era absolutamente imprevisible, que un grupo de pequeños pueblos sin cohesión aparente, sin ayuda exterior y sin preparación logística y militar fuera capaz de una resistencia tan duradera, y por otra resulta incomprensible a primera vista, que las altamente cualificadas tropas romanas no pudieran domeñar a los celtíberos de un modo expeditivo y definitivo.</dc:description>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788435060462</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-07-25T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Numancia" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Numancia - Jose Luis Corral Lafuente.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3d04770b-82f9-41bf-be41-eb5920c29499</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">36c1be31-f21e-41e6-97e7-6300be3be5c4</dc:identifier>
+        <dc:title>Desaparecida</dc:title>
+        <dc:creator opf:file-as="Coben, Harlan" opf:role="aut">Harlan Coben</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.28) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-29T22:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="2010-11-23T17:52:47.807000+00:00" name="calibre:timestamp"/>
+        <meta content="Desaparecida" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1607</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8b7e59c8-6cb9-4709-9d97-7440dce24bad</dc:identifier>
+    <dc:title>James Potter y La Maldición del Guardián</dc:title>
+        <dc:creator opf:file-as="Lippert, George Norman" opf:role="aut">George Norman Lippert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-03T16:00:00+00:00</dc:date>
+        <dc:description>Un verano de cambios lleva a James Sirius Potter de regreso a Hogwarts, Escuela de Magia y Hechicería, con una nueva perspectiva. Confiando en que ha dejado bien atrás las aventuras del año pasado, James se prepara para el desafío más prosaico de su carrera estudiantil, superar la prueba para entrar al equipo de quidditch, y mantener vigilados a su hermano Albus y su prima Rose.
+Sin embargo, el nuevo año trae nuevas aventuras, comenzando con algunas dudas que cada vez se hacen más alarmantes acerca del nuevo director, Merlinus Ambrosius, cuyo largo viaje fuera del tiempo puede haber atraído la atención de una horrible entidad conocida legendariamente como «el Guardián».
+Decidido a probar la confiabilidad de Merlín, James se encuentra a sí mismo sumergido en una telaraña de intrigas, engaños y secretos que cada vez se hace más profunda y se remonta hacia atrás en el tiempo, hasta la época de los fundadores.
+Bajo la amenaza del Guardián, que está preparando a su profetizado anfitrión humano para un definitivo reino de ruina y destrucción, James, Rose y Ralph forjan inesperadas alianzas en un último esfuerzo desesperado para detenerlo antes de que sea demasiado tarde.
+Sin embargo, al final, todas las esperanzas señalan a Merlín, y James debe enfrentar la muy real posibilidad de que todo lo que sabe acerca del nuevo director es, de hecho, una fachada cuidadosamente erigida.</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="James Potter" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="2010-08-03T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="James Potter y La Maldición del Guardián" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="James Potter y La Maldicion del Guardian - George Norman Lippert.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

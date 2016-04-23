@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">686</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c544850-c7ce-485d-ab77-18c267142061</dc:identifier>
+    <dc:title>Brennan 1, Testigos del silencio</dc:title>
+        <dc:creator opf:file-as="Reichs, Kathy" opf:role="aut">Kathy Reichs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-14T16:00:00+00:00</dc:date>
+        <dc:description>La doctora Temperance Brennan acaba de llegar a Montreal para cubrir el puesto de directora del Departamento de Antropología forense de la provincia de Quebec. Atrás ha dejado una situación matrimonial delicada y una época de trabajo nada fácil,</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788408030133</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2009-02-14T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Brennan 1, Testigos del silencio" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Brennan 1, Testigos del silencio - Kathy Reichs.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

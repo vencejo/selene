@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">687</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec643cb3-db0b-4b5f-a738-c3b770725f7e</dc:identifier>
+    <dc:title>Antártida: Estación Polar</dc:title>
+        <dc:creator opf:file-as="Reilly, Matthew" opf:role="aut">Matthew Reilly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-09T16:00:00+00:00</dc:date>
+        <dc:description>En una remota estación polar estadounidense en la Antártida, un grupo de científicos ha descubierto un objeto atrapado en el interior de una capa de hielo de cuatrocientos años de antigüedad. Parece ser un artefacto de metal… que no debería estar allí... y por el que mucha gente estaría dispuesta a matar.
+Un equipo de marines estadounidenses, con el enigmático teniente Shane Schofield a la cabeza, se dirige a la estación polar para proteger tan extraño hallazgo. Sin embargo, otros países quieren apropiarse de él y harán todo lo necesario para conseguirlo. Por fortuna, los hombres de Schofield son soldados experimentados, dispuestos a seguirle hasta el mismísimo infierno... y pronto descubrirán que es allí adonde se dirigen.</dc:description>
+        <dc:publisher>LA Factoria De Ideas</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788498004960</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-04-25T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Antártida: Estación Polar" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Antartida_ Estacion Polar - Matthew Reilly.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

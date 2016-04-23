@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">570</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">55595b69-fc8a-43d4-b7e6-9cac5baa23c5</dc:identifier>
+    <dc:title>Harry Potter y la Orden del Fénix</dc:title>
+        <dc:creator opf:file-as="Rowling, J. K." opf:role="aut">J. K. Rowling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-14T16:00:00+00:00</dc:date>
+        <dc:description>Las tediosas vacaciones de verano en casa de sus tíos todavía no han acabado y Harry se encuentra más inquieto que nunca. Apenas ha tenido noticias de Ron y Hermione, y presiente que algo extraño está sucediendo en Hogwarts. En efecto, cuando por fin comienza otro curso en el famoso colegio de magia y hechicería, sus temores se vuelven realidad. El Ministerio de Magia niega que Voldemort haya regresado y ha iniciado una campaña de desprestigio contra Harry y Dumbledore, para lo cual ha asignado a la horrible profesora Dolores Umbridge la tarea de vigilar todos sus movimientos. Así pues, además de sentirse solo e incomprendido, Harry sospecha que Voldemort puede adivinar sus pensamientos, e intuye que el temible mago trata de apoderarse de un objeto secreto que le permitiría recuperar su poder destructivo.</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788478887460</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>infantil</dc:subject>
+        <meta content="Harry Potter" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="2008-05-30T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Harry Potter y la Orden del Fénix" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Harry Potter y la Orden del Fenix - J. K. Rowling.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

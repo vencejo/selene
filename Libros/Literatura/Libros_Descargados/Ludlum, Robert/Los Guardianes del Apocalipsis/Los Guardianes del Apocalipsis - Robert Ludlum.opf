@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1075</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f40f3fd8-9e8c-4e2c-9b24-62b5f793d71e</dc:identifier>
+    <dc:title>Los Guardianes del Apocalipsis</dc:title>
+        <dc:creator opf:file-as="Ludlum, Robert" opf:role="aut">Robert Ludlum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-06-14T16:00:00+00:00</dc:date>
+        <dc:description>En los Alpes austriacos se encuentra la sede de la Hermandad de los Guardianes del Apocalipsis. Esta hermandad es una organización neonazi cuyo único objetivo es instaurar un nuevo Reich. Para ello idean un plan para extenderse por toda Europa y por Estados Unidos. Los gobernantes de estos países consiguen infiltrar a Harry Latham en la organización, un espía norteamericano que tras tres años de trabajo ha conseguido reunir datos suficientes como para poder destruir y desmantelar la organización desde sus cimientos. Pero, sorprendentemente, cuando el plan va a ponerse en marcha, Harry desaparece.</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401492242</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-04-16T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Los Guardianes del Apocalipsis" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Los Guardianes del Apocalipsis - Robert Ludlum.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

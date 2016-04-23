@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1222</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">230748ac-a373-48e3-954c-2245db5ef8fe</dc:identifier>
+    <dc:title>Crimen En Directo</dc:title>
+        <dc:creator opf:file-as="Läckberg, Camilla" opf:role="aut">Camilla Läckberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-13T16:00:00+00:00</dc:date>
+        <dc:description>La ciudad costera de Fjällbacka vuelve a ser el escenario de misteriosos crímenes que requerirán todo el ingenio y el tesón del comisario Patrik Hedström para ser resueltos. Patrik y Erica siguen disfrutando de su idilio en el pueblo de Fjällbacka, ahora acompañados por su bebé, la pequeña Maja, que ya tiene ocho meses. Mientras la joven pareja está plenamente volcada en los preparativos de su boda, los asuntos en la comisaría, donde Patrik trabaja, siguen su curso rutinario. Pero el alcalde reúne al pleno del ayuntamiento para anunciar la llegada a Tanum de un equipo de televisión para filmar un reality-show bastante escandaloso llamado «Fucking Tanum» que debería reportar unos jugosos beneficios a la población y que va a suponer en realidad una auténtica pesadilla. Poco después, Patrik debe investigar la muerte de una mujer, víctima de un accidente de tráfico. Camilla Läckberg introduce magistralmente en "Crimen en directo" el tema de la telerrealidad en su trama policíaca, mostrando cómo el afán por la audiencia a cualquier precio puede tener funestas consecuencias.</dc:description>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788492695751</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela negra</dc:subject>
+        <meta content="Fjällbacka" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="2010-05-13T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Crimen En Directo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Crimen En Directo - Camilla Lackberg.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

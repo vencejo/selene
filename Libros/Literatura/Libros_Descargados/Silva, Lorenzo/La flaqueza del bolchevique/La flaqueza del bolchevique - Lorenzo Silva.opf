@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">387</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a30b5d7-78c0-4d49-8492-e3bc7206b479</dc:identifier>
+    <dc:title>La flaqueza del bolchevique</dc:title>
+        <dc:creator opf:file-as="Silva, Lorenzo" opf:role="aut">Lorenzo Silva</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-04-14T16:00:00+00:00</dc:date>
+        <dc:description>El protagonista y narrador de esta historia se empotra contra el descapotable de una irritante ejecutiva un lunes a las ocho de la mañana. Ciertamente, él se distrajo un poco, pero ella no tenía por qué frenar en seco ni, desde lue o, escupirle todos los insultos del diccionario. Por ello, y para hacer soportables las tardes de aquel bochornoso verano, decide dedicarse «al acecho y aniquilación moral de Sonsoles». Gracias al parte del seguro, consigue su teléfono, lo que le permite varias llamadas disparatadas. También se complace en espiarla, y así conoce a su hermana de 15 años. Aunque el protagonista no tiene ninguna fijación con las jovencitas, conserva un retrato de las hijas del zar Nicolás II. Le atrae especialmente la duquesa Olga y a menudo se pregunta qué debió de sentir el bolchevique encargado de matarla. Él, a su vez, experimentará una poderosa atracción ante la cálida sabiduría de Rosana, y una debilidad que se revelará mucho peor que cualquier accidente. La flaqueza del bolchevique sería una novela absolutamente cómica si no fuera por el carácter inquietante que adquiere a medida que se complican las argucias del protagonista. Un ritmo ágil permite a Lorenzo Silva una historia a caballo entre la comedia, la intriga y el melodrama. Pero acaso su mayor logro sea el retrato de Rosana, una nínfula distinta de todas las nínfulas, más allá de la generación X, Y o Z y que hace flaquear -y perder el equilibrio- al lector más displicente.</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423334964</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-04-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La flaqueza del bolchevique" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La flaqueza del bolchevique - Lorenzo Silva.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

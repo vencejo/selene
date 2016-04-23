@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2702</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">890e3e0f-a13e-4e07-a5ea-520d752cd420</dc:identifier>
+    <dc:title>El Imperio de los Cuatro Horizontes</dc:title>
+        <dc:creator opf:file-as="Valdez, Joachim Sebastiano" opf:role="aut">Joachim Sebastiano Valdez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-23T16:00:00+00:00</dc:date>
+        <dc:description>Siglo XV. El imperio inca se encuentra cerca de su apogeo, cuando un asesinato en un centro de culto tan sagrado como el Templo del Sol desafía la pericia de su reconocido cuerpo de seguridad, los totoyrikoks, «los que todo lo ven», investigadores tan seleccionados y preparados que poseían dotes cercanas en ocasiones a lo sobrenatural.
+
+A uno de estos totoyrikoks, Tupac Hualpa, se le encomienda la investigación del asesinato: el de Onitola, una joven alfarera de la etnia colla, cuyo cadáver ha sido encontrado en el Coricancha; en el puño de la joven, la punta de una flecha de obsidiana con las figuras talladas de un jaguar y cinco estrellas parece indicar la dirección de las pesquisas. Que es justamente la menos deseable...La investigación va a desenredar una conspiración política y religiosa de proporciones desconocidas en una sugerente recreación de una de las civilizaciones más fascinantes de la historia.
+
+El imperio de los cuatro horizontes es una novela sorprendente, una sugestiva intriga en el más sugestivo de los marcos: el de un imperio que, a pesar de su fulgurante ascensión y caída, ha dejado una huella imborrable en la historia.</dc:description>
+        <dc:publisher>DEBOLSILLO</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788483469361</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-23T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Imperio de los Cuatro Horizontes" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Imperio de los Cuatro Horizontes - Joachim Sebastiano Valdez.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

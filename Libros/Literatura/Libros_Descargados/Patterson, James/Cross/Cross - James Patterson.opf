@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">817</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c04621b-e577-4d22-ab82-ad5c54d9e9ee</dc:identifier>
+    <dc:title>Cross</dc:title>
+        <dc:creator opf:file-as="Patterson, James" opf:role="aut">James Patterson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-29T16:00:00+00:00</dc:date>
+        <dc:description>Alex Cross deberá enfrentarse al más terrible de los psicópatas: aquel que asesinó a su mujer.
+
+Alex Cross despuntaba ya en la Policía de Washington cuando una supuesta bala perdida acabó con la vida de su mujer, Maria. Aunque el cuerpo le pedía venganza, el cuidado de sus hijos resultó ser una realidad imposible de posponer. Pero ahora, diez años después, su vida ha cambiado radicalmente: se ha retirado del FBI e incluso su vida familiar parece en orden.
+
+Entonces, su antiguo compañero John Sampson le llama para pedirle un favor. Está siguiendo la pista a un violador en serie con un brutal modus operandi: amenaza a sus víctimas con fotos aterradoras de torturas cometidas por él mismo. Cross y Sampson necesitan el testimonio de alguna de las mujeres, pero ellas se niegan a revelar nada acerca de su agresor.
+
+Tanto Cross como Sampson ven clara la conexión de este caso con la muerte de Maria; parece que Alex tendrá la oportunidad de capturar al asesino de su mujer después de todo este tiempo. ¿Podrá por fin cerrar aquel doloroso episodio o esto es sólo la culminación de su propia obsesión?</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466638913</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Alex Cross" name="calibre:series"/>
+        <meta content="12" name="calibre:series_index"/>
+        <meta content="2010-07-18T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Cross" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Cross - James Patterson.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

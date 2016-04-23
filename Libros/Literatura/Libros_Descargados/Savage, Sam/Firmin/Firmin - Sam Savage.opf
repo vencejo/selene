@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2749</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82ec64ce-3d28-4524-8af2-30b08244f89d</dc:identifier>
+    <dc:title>Firmin</dc:title>
+        <dc:creator opf:file-as="Savage, Sam" opf:role="aut">Sam Savage</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-09T04:37:53.691000+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-09-09T04:37:53.691000+00:00" name="calibre:timestamp"/>
+        <meta content="Firmin" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Firmin - Sam Savage.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

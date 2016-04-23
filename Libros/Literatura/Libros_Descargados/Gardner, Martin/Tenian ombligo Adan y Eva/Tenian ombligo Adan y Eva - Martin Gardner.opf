@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1588</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">69fde79f-fe3a-4a21-ab1c-8dd4f6d36bd7</dc:identifier>
+    <dc:title>Tenían ombligo Adan y Eva</dc:title>
+        <dc:creator opf:file-as="Gardner, Martin" opf:role="aut">Martin Gardner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-10T16:00:00+00:00</dc:date>
+        <dc:description>¿Se pueden curar las enfermedades bebiendo la propia orina? Cuestiones risibles como estas parecen ocupar las mentes de millones de personas día tras día, como si la gente estuviera hambrienta de cualquier migaja de conocimiento que se dé aires de ciencia, dispuesta a adoptar teorías traídas por los pelos que sólo provocan miedo y asombro. Gardner, posiblemente el desenmascarador de fraudes científicos más inteligente de nuestra época, hace uso de sus décadas de experiencia para desbaratar las proclamaciones de la Nueva Era y las dudosas investigaciones de eminentes científicos.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788483064559</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>divulgación científica</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-09-10T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Tenían ombligo Adan y Eva" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Tenian ombligo Adan y Eva - Martin Gardner.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

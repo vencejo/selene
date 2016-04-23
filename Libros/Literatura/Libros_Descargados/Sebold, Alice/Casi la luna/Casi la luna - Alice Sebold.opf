@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2731</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f7167f4a-29a0-4fcb-867c-afd88ee8b9c6</dc:identifier>
+    <dc:title>Casi la luna</dc:title>
+        <dc:creator opf:file-as="Sebold, Alice" opf:role="aut">Alice Sebold</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-14T16:00:00+00:00</dc:date>
+        <dc:description>En su nueva novela, Alice Sebold explora los entresijos de las relaciones entre madre e hija, el lado oculto de la piedad y la línea invisible que nos separa de nuestros más profundos deseos. Carol y Helen Knightly son una madre y una hija atrapadas en una relación opresiva que hace que la vida de cada una orbite en torno a la de la otra. Desde que su padre murió, Helen ha dedicado su vida a cuidar de la madre enferma. Hasta que un acontecimiento fatal lo precipita todo. Durante las veinticuatro horas en que transcurre la acción de Casi la luna, el pasado familiar de Helen desfilará vertiginosamente ante sus ojos: la madre tiránica, el padre amoroso pero ausente, el ex marido solícito y las hijas, con las que ha pasado los momentos más felices de su vida. Como mujer que siempre ha intentado ganarse el amor de alguien incapaz de dárselo, ahora se enfrenta a una libertad desconcertante y abismal. Una historia apasionante escrita como solo Alice Sebold puede hacerlo.</dc:description>
+        <dc:publisher>Random House Mondadori</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788483469040</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-05T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Casi la luna" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Casi la luna - Alice Sebold.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

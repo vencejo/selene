@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1651</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">87e4fa69-9f35-4cb1-bf8c-56fb80b28f8c</dc:identifier>
+    <dc:title>James Potter y la Encrucijada de los Mayores</dc:title>
+        <dc:creator opf:file-as="Lippert, George Norman" opf:role="aut">George Norman Lippert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-02T16:00:00+00:00</dc:date>
+        <dc:description>James Potter cree saberlo, pero cuando comienza su propia aventura en la Escuela Hogwarts de Magia y Hechicería, descubre que es todo un desafío estar a la altura de la leyenda del gran Harry Potter.
+Como si no fuera suficiente tener que tratar con los inusuales delegados de la escuela de hechicería americana y lidiar con los misteriosamente corteses Slytherins, James y sus nuevos amigos, Ralph y Zane descubren un complot secreto que podría enfrentar a los mundos mágico y muggle en una guerra total.
+Ahora, con la ayuda de Ted Lupin y su panda de alegres alborotadores (los Gremlins), James rebela el terrible objetivo de "la Conspiración Merlín", corriendo contra reloj para detener una guerra que podría cambiar el mundo para siempre. ¿Pero cómo podrá saber si sus esfuerzos están ayudando a la causa o facilitando los planes de sus enemigos? Antes de que James lo sepa con seguridad, tendrá que aprender la diferencia entre ser un héroe y ser el hijo de un héroe.</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="James Potter" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2010-06-02T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="James Potter y la Encrucijada de los Mayores" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="James Potter y la Encrucijada de los Mayores - George Norman Lippert.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

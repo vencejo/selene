@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2765</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c2c68a8-7bd0-4c87-be1c-912ab38c0ca4</dc:identifier>
+    <dc:title>Las legiones malditas</dc:title>
+        <dc:creator opf:file-as="Posterguillo, Santiago" opf:role="aut">Santiago Posteguillo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-01T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Publio Cornelio Escipión. que pasaría a la historia con el sobrenombre de Africanas. sólo tenía 26 años cuando aceptó comandar las tropas romanas en Hispania. Poseedor de las cualidades militares de su padre y su tío. el joven Escipión también heredó a algunos de los feroces enemigos de éstos. como Asdrúbal. el hermano de Aníbal. o el general pánico Ciscón. quienes planeaban derrotar a su ejército en el campo de batalla. Sus opositores también le acechaban en el mismísimo Senado de Roma. donde el todopoderoso Quinto Fabio Máximo. detractor de la familia de los Escipiones desde tiempo atrás. logró forzarle. una vez concluida la campaña en Hispania. al aceptar la demencial tarea de liderar las legiones V y VI que permanecían desde hacía tiempo olvidadas en Sicilia. Estas eran unas legiones malditas. constituidas por los soldados supervivientes a Cannae. la más humillante derrota de Roma ante Aníbal. En el exilio. las legiones habían perdido el sentido del deber. la disciplina y toda esperanza de regresar a la patria. Con esta maniobra. Quinto Fabio Máximo creía abocar al último Escipión de la estirpe a una muerte segura. Lo que Fabio Máximo no podía prever era que el joven Escipión y sus legiones malditas estaban llamados a cambiar el curso de la historia.En un fascinante relato que recrea no solamente un momento decisivo de la expansión del imperio. sino también la vida cotidiana en el esplendoroso mundo de la antigua Roma. Santiago Posteguillo hace al lector cómplice y testigo de las batallas. conquistas y derrotas de Africanus y sus ejércitos. Las legiones malditas es una trepidante novela sobre la guerra. el amor. la envidia. la amistad y la supervivencia.</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466626743</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Ancient</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Rome</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-10T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Las legiones malditas" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Las legiones malditas - Santiago Posteguillo.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

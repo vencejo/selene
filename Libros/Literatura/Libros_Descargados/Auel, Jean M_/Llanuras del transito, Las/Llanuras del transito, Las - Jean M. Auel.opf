@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2393</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e4683044-f02a-4646-a03f-6265d722cdf2</dc:identifier>
+    <dc:title>Llanuras del transito, Las</dc:title>
+        <dc:creator opf:file-as="Auel, Jean M." opf:role="aut">Jean M. Auel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-02-27T16:00:00+00:00</dc:date>
+        <dc:description>RESEÑA:
+Cuando ya parecía que la pareja Ayla-Jondalar estaba firmemente estabilizada y que se iban a integrar en aquella tribu de `Cazadores`, surgen, los celos. Ayla y Jondalar van a emprender el gran viaje a través del mundo conocido, y en ese recorrido, que durará más de un año, se encontrarán con un medio natural inhóspito y cambiante, que les impide encontrar un lugar dónde asentarse y establecer su hogar.</dc:description>
+        <dc:publisher>Maeva, Ediciones, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788486478384</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Hijos de la Tierra" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2009-10-18T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Llanuras del transito, Las" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Llanuras del transito, Las - Jean M. Auel.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

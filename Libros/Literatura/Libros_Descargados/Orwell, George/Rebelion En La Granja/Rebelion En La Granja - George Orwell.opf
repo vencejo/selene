@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">803</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">879e6a7f-38f5-4330-a6eb-42b526d06725</dc:identifier>
+    <dc:title>Rebelión En La Granja</dc:title>
+        <dc:creator opf:file-as="Orwell, George" opf:role="aut">George Orwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-26T16:00:00+00:00</dc:date>
+        <dc:description>Una condena de la sociedad totalitaria, brillantemente pasmada en una ingeniosa fábula de carácter alegórico.
+ 
+Los animales de la granja de los Jones se sublevan contra sus dueños humanos y les vencen. Pero la rebelión fracasará al surgir entre ellos rivalidades y envidias, y al aliarse algunos con los amos que derrocaron, traicionando su propia identidad y los intereses de su clase. Aunque Rebelión en la granja fue concebida como una despiadada sátira del estalinismo, el carácter universal de su mensaje hace de este libro un extraordinario análisis de la corrupción que engendra el poder, una furibunda diatriba contra el totalitarismo de cualquier especie y un lúcido examen de las manipulaciones que sufre la verdad histórica en los momentos de transformación política.</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423337330</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2008-05-26T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Rebelión En La Granja" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Rebelion En La Granja - George Orwell.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

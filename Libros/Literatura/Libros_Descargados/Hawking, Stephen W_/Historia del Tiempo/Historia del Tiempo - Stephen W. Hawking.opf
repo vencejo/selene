@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1348</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f5453b20-e306-4565-ab34-7023d0904edd</dc:identifier>
+    <dc:title>Historia del Tiempo</dc:title>
+        <dc:creator opf:file-as="Hawking, Stephen W." opf:role="aut">Stephen W. Hawking</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1988-11-14T16:00:00+00:00</dc:date>
+        <dc:description>Hawking pasa revista a las grandes teorías cosmológicas desde Aristóteles hasta nuestros dias. Tras explicar con gran claridad las aportaciones de Galileo y Newton, nos lleva paso a paso, hasta la teoría de la relatividad de Einstein y hasta la otra gran teoría física del siglo XX, la mecánica cuántica. Finalmente explora las posibilidades de combinar ambas teorías en una sola teoría unificada completa que nos permita verificar inquientantes reflexiones: ¿Cuál es la naturaleza del tiempo? Al colapsarse un universo en expansión ¿viaja el tiempo hacia atrás? ¿Puede ser el universo un continuum sin principios ni fronteras? Todo está en este libro mítico, reconocido por el mundo entero como una aportación de primer orden al pensamiento científico y a la entera cultura universal, en el que Hawking nos explica, con asombrosa sencillez, las leyes que desvelan la compleja danza geométrica creadora del mundo y de la vida.</dc:description>
+        <dc:publisher>Crítica</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788474233742</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>divulgación científica</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2008-05-24T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Historia del Tiempo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Historia del Tiempo - Stephen W. Hawking.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

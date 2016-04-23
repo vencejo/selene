@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2437</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b67a6699-28c5-4140-b089-62f8e6e881ed</dc:identifier>
+    <dc:title>Los Propios Dioses</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-08-14T16:00:00+00:00</dc:date>
+        <dc:description>El futuro. En un universo paralelo, con leyes físicas ligeramente distintas a las nuestras, sus habitantes descubren la forma de intercambiar materia con nosotros. Materia que, una vez en el universo de destino, y merced a las diferencias físicas entre ambos, comienza a desprender energía de forma espontánea. Una vez consumida la capacidad energética del material puede volver a ser intercambiado, para recomenzar el ciclo. ¿Qué podríamos hacer con un suministro de energía gratuita e inagotable?
+Más allá que cualquier otra historia, esta novela destaca por una impresionante descripción del cosmos, una visión que nos hace aún más insignificantes de lo que podíamos pensar. Con una gran maestría, Asimov nos va sumergiendo en un universo totalmente diferente al que conocemos.</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401491368</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2008-08-29T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Los Propios Dioses" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Los Propios Dioses - Isaac Asimov.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

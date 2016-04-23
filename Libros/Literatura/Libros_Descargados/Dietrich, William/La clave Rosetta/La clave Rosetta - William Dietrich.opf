@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1810</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">be2cf361-2169-4c4e-bbde-83de9b1c03c3</dc:identifier>
+    <dc:title>La clave Rosetta</dc:title>
+        <dc:creator opf:file-as="Dietrich, William" opf:role="aut">William Dietrich</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-13T16:00:00+00:00</dc:date>
+        <dc:description>Novela histórica que recoge el ingenio y la astucia de Ethan Gage, antiguo miembro de la expedición de Napoleón en Egipto y enemigo natural de los ingleses, quienes lo envían a la ciudad de Jaffa, en tierras de la antigua Judea, llamada Palestina por los romanos; en busca del misterioso libro de Thoth tallado en piedra. Documento que podría acarrear funestas consecuencias, si cayera en manos mal intencionadas.</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466637695</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Ethan Gage" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="2010-07-25T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La clave Rosetta" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La clave Rosetta - William Dietrich.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2157</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d497721a-5a99-483e-894a-18aebb3cc671</dc:identifier>
+    <dc:title>Tirano</dc:title>
+        <dc:creator opf:file-as="Cameron, Christian" opf:role="aut">Christian Cameron</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-21T16:00:00+00:00</dc:date>
+        <dc:description>REVISIÓN EDITORIAL:
+
+Lealtad , traicion y muerte . La vida de un mercenario en tiempos de Alejandro Magno . Enviado al exilio tras servir a las ordenes de Alejandro de Macedonia, Kineas se ve obligado a marchar a Olbia, ciudad cuyo tirano ofrece dinero a quien pueda entrenar su ejercito de elite. Enfrentandose a las profecias de un vidente escita y al mortal amor de una guerrera deslumbrante, Kineas tendra que batirse, mano a mano con sus hombres, contra la cruel maquinaria de Alejandro en una batalla que podria acarrearle la muerte.    /    Glory. Death. Well-born Athenian cavalry officer, Kineas, fought shoulder to shoulder with Alexander in his epic battles against the Persian hordes. But on his return from the east to his native city, he finds not glory but shame - and exile. With nothing to his name but his military skills, Kineas agrees to lead a band of veterans to the city of Olbia, where the Tyrant is offering good money to train the city's elite cavalry. But soon Kineas and his men find they have stumbled into a deadly maze of intrigue and conspiracy as the Tyrant plots to use them as pawns in the increasingly complex power games between his own citizens, and the dread military might of Macedon. Caught between his duty to the Tyrant, his loyalty to his men and a forbidden love affair with a charismatic Scythian noblewoman, Kineas must call on all his Athenian guile, his flair on the battlefield, and even - he is convinced - the intervention of the gods, to survive.</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466640237</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-25T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Tirano" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Tirano - Christian Cameron.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

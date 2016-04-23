@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">681</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">87826655-3b7c-40dd-8780-ef0c767b9cb9</dc:identifier>
+    <dc:title>MD 06: Brujerias</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-14T16:00:00+00:00</dc:date>
+        <dc:description>El pacífico reino de Lancre (pacífico, al menos, cuando Yaya Ceravieja está tranquila en su casa) ha caído bajo las garras de un malvado usurpador, el duque de Felmet, y su oronda esposa. Hasta aquí, todo bien. El usurpador, manipulado por su esposa, decide talar bosques, quemar casas y echar sal en las tierras de cultivo. Maltratar al reino, por decirlo brevemente. Hasta aquí, también todo bien. Pero después al malvado duque no se le ha ocurrido otra cosa que intentar hacer pagar impuestos a las brujas.
+Ante algo tan intolerable, Yaya Ceravieja, decana entre las brujas de Lancre a quien conocimos en Ritos iguales, reúne un pequeño cónclave de brujas formado por Tata Ogg (una bruja de capital, alegre y, estoooo... alegre) y Magrat Ajostiernos (una especie de joven bruja new age, toda llena de adornos y joyas místicas) para hacer algo que nunca, jamás hacen las brujas: meterse en política. Además: magia, mala leche y una extraña compañía de teatro. ¡Ah! Y un bufón.
+Esta novela es una parodia/homenaje más o menos descarado al Macbeth de Shakespeare. Y trata sobre el poder de la creencia y, por tanto, del teatro. Y es divertidísima, aunque no haga falta decirlo.</dc:description>
+        <dc:publisher>Altaya</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788448722937</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>fantasía</dc:subject>
+        <meta content="mundodisco" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2008-06-10T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="MD 06: Brujerias" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="MD 06_ Brujerias - Terry Pratchett.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

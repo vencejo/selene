@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3795a6ce-58d1-4838-8da6-a24c731218d2</dc:identifier>
+        <dc:title>Antártida: Estación Polar</dc:title>
+        <dc:creator opf:file-as="Reilly, Matthew" opf:role="aut">Matthew Reilly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.28) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-31T22:00:00+00:00</dc:date>
+        <dc:publisher>La Factoría de Ideas</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788498004960</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="2010-11-23T17:52:42.238000+00:00" name="calibre:timestamp"/>
+        <meta content="Antártida: Estación Polar" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

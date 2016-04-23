@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1363</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab288822-b9ec-46ba-9d0f-fd7b20c5a056</dc:identifier>
+    <dc:title>Bestia Estelar, La</dc:title>
+        <dc:creator opf:file-as="Heinlein, Robert A." opf:role="aut">Robert A. Heinlein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-30T22:00:00+00:00</dc:date>
+        <dc:description>La familia Stuart tiene un animal doméstico llamado Lummox, traido por un antepasado explorador galáctico. pero Lummox crece para convertirse en una especie de diplodocus de ocho patas, de apetito insaciable, deslenguado y burlón, físicamente indestructible y practicamente eterno. Por si esto fuese poco problema, Lummox resulta ser además...pero es mejor que el lector lo descubra por si mismo.
+
+Especialista en la sátira o la crítica de la sociedad, ROBERT HEINLEIN es el autor de ciencia ficción más popular en los Estados Unidos. ganador de tres premios Hugo es además, ajedrecista, ingeniero y matemático.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788427006652</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2008-05-30T22:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Bestia Estelar, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Bestia Estelar, La - Robert A. Heinlein.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

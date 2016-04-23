@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1449</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0118bb83-cf5f-4816-817b-80b66f13bd61</dc:identifier>
+    <dc:title>Bodega, La</dc:title>
+        <dc:creator opf:file-as="Gordon, Noah" opf:role="aut">Noah Gordon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-06-29T16:00:00+00:00</dc:date>
+        <dc:description>Languedoc, Francia, finales del siglo XIX. Josep Álvarez descubre de la mano de un viticultor francés el arte de la elaboración del vino. Desde ese momento, su vida estará determinada por esta pasión. A pesar de su juventud, Josep ha conocido el amor, las intrigas políticas y el trabajo duro, experiencia que, junto a su temprana vocación, caracterizará su destino. Tras participar contra su voluntad en un complot que convulsionará la ya turbulenta escena política del momento, huye a Francia, donde trabajará para un viticultor. Pese a su temor de caer en manos de la justicia, decide un día volver a su hogar. Luchando contra los elementos, Josep emprende una aventura tan ardua como fascinante: la elaboración de un buen vino. En torno a él, los habitantes de Santa Eulàlia: la joven viuda Marimar y su hijo Francesc; Nivaldo, el tendero de origen cubano; Donat, el hermano obrero, todos ellos personajes que pueblan esta rica novela. La bodega contiene la esencia anterior de Noah Gordon: historias personales de fuerza, personajes vitales, retratos fidedignos de una época, plasmados con una sensibilidad y acierto que ha admirado a miles de lectores a lo largo de los años.</dc:description>
+        <dc:publisher>Random House Mondadori</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788496791725</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-08-09T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Bodega, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Bodega, La - Noah Gordon.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

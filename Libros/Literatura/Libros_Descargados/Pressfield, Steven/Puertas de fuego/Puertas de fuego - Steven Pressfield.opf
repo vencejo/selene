@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">608</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b05a35b8-1a5f-4560-a72c-fbd354b8ea72</dc:identifier>
+    <dc:title>Puertas de fuego</dc:title>
+        <dc:creator opf:file-as="Pressfield, Steven" opf:role="aut">Steven Pressfield</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-02-28T16:00:00+00:00</dc:date>
+        <dc:description>Tras derrotar a los aliados griegos en el paso de las Termópilas los persas encuentran a un único superviviente, Xeones, un escudero espartano. Un cronista al servicio de Jerjes anotará su crónica, en la que narra su vida y la de una ciudad de gente, sencilla pero indómita, que ha convertido la guerra en su profesión: Esparta.
+
+Los jóvenes allí son adiestrados desde la infancia en unas normas duras y rígidas donde se prima la seguridad del grupo sobre el individuo. Un soldado puede perder espada y casco, pero se le castiga por descuidar su escudo: el escudo sirve para proteger a sus compañeros de línea.
+
+Un espíritu colectivo del que está necesitado la Hélade, asolada por las guerras entre sus polis y enfrentadas ahora a un enemigo que ya domina medio mundo. Encabezados por los temibles espartanos, varios contingentes de aliados griegos se reunirán en las llamadas Puertas de fuego. Durante los días que puedan resistir, lucharán para evitar que la marea persa aniquile sus ciudades.</dc:description>
+        <dc:publisher>Grijalbo Mondadori</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788425332920</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2009-08-29T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Puertas de fuego" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Puertas de fuego - Steven Pressfield.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

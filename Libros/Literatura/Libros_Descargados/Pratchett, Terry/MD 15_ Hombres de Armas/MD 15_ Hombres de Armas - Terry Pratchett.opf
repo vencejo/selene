@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">718</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b509ac46-1d73-45cd-81d6-da8ed8f976fe</dc:identifier>
+    <dc:title>MD 15: Hombres de Armas</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-07-30T16:00:00+00:00</dc:date>
+        <dc:description>Decimoquinta entrega de la serie Mundodisco, todo un universo literario que subvierte géneros y tópicos, obra de Terry Pratchett, verdadero autor de culto e indiscutible superventas en Gran Bretaña. En esta ocasión, la intriga parte del robo de una ballesta depositada en el Gremio de Asesinos. El aristócrata venido a menos Edward d'Eath la ha sustraído para lograr restituir el trono a su legítimo rey, el cabo Zanahoria. Sin embargo, d' Eath no sabe que la ballesta tiene sus propios planes. Una novela irreverente e inolvidable, habitada por trolls sagaces, enanos de dos metros y asesinos corporativos, que parodia con total desenfado tanto las historias de detectives como las sagas de reinos míticos y sobrenaturales.</dc:description>
+        <dc:publisher>Plaza &amp; Janés Editores</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401329937</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>fantasía</dc:subject>
+        <meta content="mundodisco" name="calibre:series"/>
+        <meta content="15" name="calibre:series_index"/>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2008-07-05T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="MD 15: Hombres de Armas" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="MD 15_ Hombres de Armas - Terry Pratchett.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

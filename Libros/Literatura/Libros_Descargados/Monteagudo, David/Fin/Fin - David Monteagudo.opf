@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">922</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47017c40-17a6-4e2a-b188-0301d4c60978</dc:identifier>
+    <dc:title>Fin</dc:title>
+        <dc:creator opf:file-as="Monteagudo, David" opf:role="aut">David Monteagudo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-14T16:00:00+00:00</dc:date>
+        <dc:description>Un grupo de antiguos amigos, que ya no tienen nada en común excepto un turbio episodio del pasado, se reúne en un refugio de montaña para pasar un fin de semana. La reunión sigue fielmente el guión habitual de estos casos, pero, en plena celebración, un acontecimiento externo alterará por completo sus planes. Sometidos a una creciente presión, cada individuo interpretará los acontecimientos según sus particulares obsesiones; y entre confesiones y rencillas largamente incubadas se irá recomponiendo un esquema sórdido e intrincado de las relaciones que los habían unido en el pasado, todo ello bajo la sombra de una amenaza cada vez más cercana y palpable.</dc:description>
+        <dc:publisher>EL ACANTILADO</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788492649235</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Fin" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Fin - David Monteagudo.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

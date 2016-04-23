@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1809</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0df145c7-359e-4f33-8d73-ea79f34cf68e</dc:identifier>
+    <dc:title>El Reich de Hielo</dc:title>
+        <dc:creator opf:file-as="Dietrich, William" opf:role="aut">William Dietrich</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-07-14T16:00:00+00:00</dc:date>
+        <dc:description>El 1 de diciembre de 1938 el Schwabenland zarpa de Hamburgo con destino a la Antartida. Con el equipo de investigadores viaja un joven nazi que pertenece a la division Allgemeine, la elite del Fuhrer. Es el ano en que se inicia la espiral expansionista alemana y la Antartida se convierte en uno de los objetivos del Tercer Reich. Pero un acontecimiento imprevisto cambia la agenda de prioridades y pone a prueba la integridad de los miembros de la mision. En efecto, tras recalar en una isla a la que dan el nombre de Ctropos, en una bahia formada sobre un crater volcanico la expedicion encuentra los restos de un ballenero noruego, el Bergen, cuya tripulacion ha muerto en extranas circunstancias. Y la investigacion del agente mortal no solo pone en peligro la vida de los expedicionarios... Anos despues, ante el incierto desenlace de la guerra, la Alemania nazi trata de convertirlo en una poderosa arma biologica.</dc:description>
+        <dc:publisher>Grijalbo Mondadori</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788439706090</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-07-25T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Reich de Hielo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Reich de Hielo - William Dietrich.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

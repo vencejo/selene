@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2694</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f7c4c4f-29fe-4fee-ba1f-9d38b63ba712</dc:identifier>
+    <dc:title>Marte verde</dc:title>
+        <dc:creator opf:file-as="Robinson, Kim Stanley" opf:role="aut">Kim Stanley Robinson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-14T16:00:00+00:00</dc:date>
+        <dc:description>Ha pasado casi una generación desde la llegada de los Primeros Cien. Tras la violenta y fracasada revolución de 2061, Marte rojo ha desaparecido.
+Meteoritos de hielo bombardean la atmósfera para hacerla más húmeda; en el desierto se siembran plantas transgénicas, los cráteres se transforman en praderas y el hielo de los polos en lagos helados. La nueva generación de colonos está expuesta a insurrecciones, conflictos y pruebas. Sobrevivientes de los Primeros Cien, entre ellos Hiroko, Nadia, Maya y Simon, saben que la tecnología no es suficiente. La creación de un nuevo mundo requiere confianza y colaboración, pero esas cualidades son tan escasas como el aire mismo que respiran en Marte...</dc:description>
+        <dc:publisher>Minotauro</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788445076941</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="Trilogía marciana" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-19T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Marte verde" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Marte verde - Kim Stanley Robinson.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

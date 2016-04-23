@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">203</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa536b11-1111-4232-8a20-b42c3a786edf</dc:identifier>
+    <dc:title>Al final del Arco Iris</dc:title>
+        <dc:creator opf:file-as="Vinge, Vernor" opf:role="aut">Vernor Vinge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-14T16:00:00+00:00</dc:date>
+        <dc:description>Robert Gu es un famoso poeta afectado de Alzheimer durante años y al que la medicina del futuro cercano logra recuperar y rejuvenecer. Así, debe enfrentarse a un mundo parecido pero insidiosamente distinto del que recordaba.
+
+Vernor Vinge ha sido ganador en las últimas décadas del más famoso e importante galardón de la ciencia ficción mundial, el premio Hugo. 
+«Ésta puede ser la mejor novela de Vernor Vinge: hábil, bien narrada, con grandes ideas nuevas que surgen de cada página. Vernor anticipa nuestro futuro como nadie más sabe hacerlo y, lo que es aún mejor, consigue que te lo creas.» Gregory Benford, autor de Cronopaisaje</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466637763</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2010-03-30T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Al final del Arco Iris" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Al final del Arco Iris - Vernor Vinge.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

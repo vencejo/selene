@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">134</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2127e390-eeea-44e7-80fb-373394f7c3a2</dc:identifier>
+    <dc:title>Máquina del Tiempo, La</dc:title>
+        <dc:creator opf:file-as="Wells, H. G." opf:role="aut">H. G. Wells</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-29T16:00:00+00:00</dc:date>
+        <dc:description>La Máquina del Tiempo es un antecedente de la ciencia ficción contemporánea. Con este libro, Herbert George Wells anticipa el argumento del viaje a través del tiempo, que será retomado por muchos autores alo largo del siglo XX, como así también guionistas de cine (no solamente las diversas adaptaciones del libro de Wells, sino también otros éxitos de taquilla tales como Terminator y Regreso al futuro, las que posiblemente sean las películas más famosas con esta temática).
+Sin embargo, a diferencia de lo que sucede en muchas de estas historias, a H.G. Wells no le interesa crear paradojas, ya que en lo que profundiza a lo largo del libro es en la teoría social y una intención doctrinaria: efectivamente, lo que el Viajero protagonista –un científico que ha llevado a cabo la construcciónde la misteriosa máquina- encuentra en un futuro remoto es el devenir terriblede la sociedad moderna.
+En el año 802.701 el Viajero descubre la evolución del hombre en dos especies separadas, los Eloi y los Morlocks. Los primeros son seres frágiles, débiles y bastante inocentes. Habitan la superficie del planeta en lo que parecen ciudades utópicas, y el Viajero no alcanza a apreciar cómo se sustentan, pues el trabajo parece estar ausente. Pero más tarde descubrirá un terrible secreto:la prosperidad de los Eloi se basa en el trabajo producido por una raza subterránea, simiesca y oscura, los Morlock.
+La máquina del tiempo puede ser leída como una novela con fuertes críticas sociales: el futuro al que se enfrenta el Viajero es lo que sucederá llevando al extremo los enfrentamientos entre las clases dominantes y las clases trabajadoras, al punto de que ya no pueda haber diálogo, comunicación, ni posibilidad de evolución ni cambio. El ocio de algunos está sustentado por el duro trabajo de otros, y el precio que ambos deben pagar es muy grande.</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-09-29T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Máquina del Tiempo, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Maquina del Tiempo, La - H. G. Wells.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

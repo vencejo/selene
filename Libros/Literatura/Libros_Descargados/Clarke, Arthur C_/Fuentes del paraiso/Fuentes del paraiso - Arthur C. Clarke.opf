@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1964</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c153c34-b6cf-497d-a638-e449cb6557ae</dc:identifier>
+    <dc:title>Fuentes del paraíso</dc:title>
+        <dc:creator opf:file-as="Clarke, Arthur C." opf:role="aut">Arthur C. Clarke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-02T16:00:00+00:00</dc:date>
+        <dc:description>Arthur C. Clarke enfoca en esta nueva novela, una vez más, un tema que le obsesiona y que le ha inspirado algunas de sus más grandes obras, como Cita con Rama y 2001, Odisea en el espacio. Se trata de una paradoja. El hombre es más hombre cuanto más desafía las leyes de la naturaleza, pero, ante la grandiosidad del universo, todas las creaciones del hombre se ven empequeñecidas a largo plazo por el trabajo de los demás.
+
+El protagonista se llama Vannevar Morgan. Es un genial ingeniero del siglo XII que ha construido un audaz puente hasta las estrellas. Un "ascensor espacial" o "torre orbital", de cuarenta mil kilómetros de altura, deberá unir un punto del Ecuador con un satélite en "órbita estacionaria". Pero queda un obstáculo. La mejor plataforma de lanzamiento posible es una montaña sagrada, habitada por monjes desde tiempos inmemoriables.</dc:description>
+        <dc:publisher>Ultramar Editores S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788473863254</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2008-07-02T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Fuentes del paraíso" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Fuentes del paraiso - Arthur C. Clarke.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

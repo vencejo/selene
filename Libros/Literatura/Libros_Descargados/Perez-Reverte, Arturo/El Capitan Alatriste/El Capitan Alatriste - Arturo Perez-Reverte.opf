@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">705</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b38960ca-8a26-4426-a9dd-0ef18664b4de</dc:identifier>
+    <dc:title>El Capitan Alatriste</dc:title>
+        <dc:creator opf:file-as="Pérez-Reverte, Arturo" opf:role="aut">Arturo Pérez-Reverte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-05-14T16:00:00+00:00</dc:date>
+        <dc:description>"No era el hombre más honesto ni el más piadoso, pero era un hombre valiente"... Con estas palabras empieza El capitán Alatriste, la historia de un soldado veterano de los tercios de Flandes que malvive como espadachín a sueldo en el Madrid del siglo XVII. Sus aventuras peligrosas y apasionantes nos sumergen sin aliento en las intrigas de la Corte de una España corrupta y en decadencia, las emboscadas en callejones oscuros entre el brillo de dos aceros, las tabernas donde Francisco de Quevedo compone sonetos entre pendencias y botellas de vino, o los corrales de comedias donde las representaciones de Lope de Vega terminan a cuchilladas. Todo ello de la mano de personajes entrañables o fascinantes: el joven Íñigo Balboa, el implacable inquisidor fray Emilio Bocanegra, el peligroso asesino Gualterio Malatesta, o el diabólico secretario del rey, Luis de Alquézar. Acción, historia y aventura se dan cita en estas páginas inolvidables.</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788420483535</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="Alatriste" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2008-07-05T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Capitan Alatriste" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Capitan Alatriste - Arturo Perez-Reverte.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

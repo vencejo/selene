@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">516</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df523da9-88e0-4ca9-b0b6-32c7a78637ee</dc:identifier>
+    <dc:title>La telaraña entre los mundos</dc:title>
+        <dc:creator opf:file-as="Sheffield, Charles" opf:role="aut">Charles Sheffield</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-15T16:00:00+00:00</dc:date>
+        <dc:description>Junto al tema central del ascensor espacial encontramos en ella una abundancia de ideas y especulaciones que sigue siendo lo más característico de las obras de este autor. Sin llegar a la inaudita acumulación presente en LA CAZA DE NIMROD (verdadera maravilla de inventiva), LA TELARAÑA ENTRE LOS MUNDOS ofrece también esa riqueza habitual en Sheffield. Encontramos en la novela, sumergidos en una trama de acción, aventura y suspense, prolijas explicaciones de tipo ingenieril que sorprenden por su verosimilitud, especulaciones sobre los viajes espaciales, ideas revolucionarias sobre la minería de los asteroides, hábitats sorprendentes como el de Atlantis, maravillosos resultados de la manipulación genética y su simbiosis con los nuevos y potentes ordenadores. También encontramos la reflexión sobre ciertas características de la sociedad del futuro inmediato con su sentido del peligro en la diversión, las nuevas enfermedades, las nuevas drogas como la “taliza” y su efecto sobre la memoria, etc. Un sinfín de novedades que amenizan la novela y le dan este toque tan característico de Sheffield que nos retrotrae fácilmente al encanto y la fascinación de la ciencia ficción de la época dorada.</dc:description>
+        <dc:publisher>EDICIONES B, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">8440610890</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La telaraña entre los mundos" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La telarana entre los mundos - Charles Sheffield.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

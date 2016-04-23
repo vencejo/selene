@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1613</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c990f9a6-593a-432e-a1c3-ee4b9ff1896d</dc:identifier>
+    <dc:title>Gravedad</dc:title>
+        <dc:creator opf:file-as="Gerritsen, Tess" opf:role="aut">Tess Gerritsen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-12-31T16:00:00+00:00</dc:date>
+        <dc:description>Cuando una misión espacial que se encargaría de estudiar el comportamiento de los microorganismos en este hábitat resulta un desastre, sólo se piensa en traer a salvo a los sobrevivientes. Estos fueron infectados por una horrenda mutación de uno de estos microorganismos matándolos a las pocas horas. La NASA debe buscar la manera adecuada para salvar a los pocos que quedan, sin poner en riesgo a los miembros del salvataje, y tampoco a la vida en todo el planeta.</dc:description>
+        <dc:publisher>Emece Editores</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789500421324</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-04-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Gravedad" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Gravedad - Tess Gerritsen.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

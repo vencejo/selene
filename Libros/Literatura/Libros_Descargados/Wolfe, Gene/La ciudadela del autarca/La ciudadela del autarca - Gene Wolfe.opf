@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">170</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c73eae3a-72ef-41a3-9b8c-6fdb687f2155</dc:identifier>
+    <dc:title>La ciudadela del autarca</dc:title>
+        <dc:creator opf:file-as="Wolfe, Gene" opf:role="aut">Gene Wolfe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-15T16:00:00+00:00</dc:date>
+        <dc:description>Severian interviene en la guerra contra el ejército ascio. Acompañado por un soldado herido viaja y oye historias extraordinarias, como la del cazador de focas, y encuentra una peregrina con quien discute las virtudes de la Garra. Huyendo de los terrores de los habitantes de las aguas profundas y de las voladoras astillas de la noche, continúa avanzando inexorablemente hacia el misterio final: el pronosticado advenimiento del Sol Nuevo. Al fin Severian regresa a la Ciudadela. Pronto habrá dos Severian: el aprendiz y el autarca.</dc:description>
+        <dc:publisher>Ediciones Minotauro</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">8445071432</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Sol Nuevo" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="2010-07-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La ciudadela del autarca" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La ciudadela del autarca - Gene Wolfe.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

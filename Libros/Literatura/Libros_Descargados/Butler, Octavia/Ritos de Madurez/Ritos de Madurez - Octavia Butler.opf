@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2145</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8f597e1-6ef2-436b-9cdf-84c269a1794a</dc:identifier>
+    <dc:title>Ritos de Madurez</dc:title>
+        <dc:creator opf:file-as="Butler, Octavia" opf:role="aut">Octavia Butler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1989-05-14T16:00:00+00:00</dc:date>
+        <dc:publisher>Ultramar</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788473865487</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="Xenogénesis" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="2010-05-08T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Ritos de Madurez" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Ritos de Madurez - Octavia Butler.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2764</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a399f722-3adf-4fbb-a58b-31d9f4b256b1</dc:identifier>
+    <dc:title>La visigoda</dc:title>
+        <dc:creator opf:file-as="Sebastián, Isabel San" opf:role="aut">Isabel San Sebastián</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-31T16:00:00+00:00</dc:date>
+        <dc:description>Corre el año 787 y los musulmanes dominan todos los territorios hispánicos. La joven Alana, hija de una jefa del clan astur y un guerrero godo, es arrebatada de su castro para formar parte del Tributo de las Cien Doncellas: un racimo de muchachas que cada año entrega el príncipe Mauregato al emir cordobés, en señal de sumisión, para que formen parte de su harén.
+ 
+  Así se despliega una trama cuajada de aventuras, pasión y heroísmo que tendrá como escenario Pravia, capital de los reyes holgazanes, la antigua corte visigoda de Toledo, Córdoba y su embrujo andalusí, Vasconia, Aquisgrán, y, como telón de fondo, siempre ese reino de brumas que es Asturias en sus primeros pasos hacia la Reconquista. Y una galería de personajes legendarios en la que confluyen Abd al-Rahman I, Carlomagno, Adosinda, el Beato de Liébana, Alfonso el Casto e incluso Santiago Apóstol.
+ 
+  Isabel San Sebastián, con pulso narrativo, nos relata en La visigoda, su primera novela, una emocionante página de la historia de España llena de traiciones, herejías, batallas y un apasionante romance cuyos protagonistas desafían su destino. Una pincelada de ese tiempo en que la gloria y el horror se daban la mano.</dc:description>
+        <dc:publisher>Esfera de los Libros</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788497345637</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-10T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La visigoda" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La visigoda - Isabel San Sebastian.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1235</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0e641abf-1ceb-4601-af2c-6c3ca12f9254</dc:identifier>
+    <dc:title>Oh, Jerusalén</dc:title>
+        <dc:creator opf:file-as="Lapierre, Dominique" opf:role="aut">Dominique Lapierre</dc:creator>
+        <dc:creator opf:file-as="Lapierre, Dominique" opf:role="aut">Larry Collins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-05-14T16:00:00+00:00</dc:date>
+        <dc:description>Jerusalén, la ciudad más querida, más sagrada, más agitada del mundo. Jerusalén, encrucijada, desde los albores de la Humanidad, de los caminos de los pueblos y del Verbo de Dios. En la prodigiosa mezcolanza de sus piedras, de sus habitantes y de sus creencias, Dominique Lapierre y Larry Collins han situado la acción de su libro, OH, JERUSALEN. La rigurosa documentación, el apasionado sentido del detalle, el poder narrativo que convirtieron a sus libros anteriores en grandes éxitos mundiales de edición, se han dado cita de nuevo en esta obra.
+
+Jerusalén, 14 de mayo de 1948. La Ciudad Santa está sometida a sangre y fuego, una vez más en su Historia. En este día, los ingleses abandonan Palestina después de treinta años de ocupación; los judíos proclaman el nacimiento de Israel; y los árabes se ponen en pie de guerra. Empieza un conflicto que ya no se detendrá. OH, JERUSALEN narra, de un modo apasionado y objetivo a la vez, el nacimiento de ese conflicto.
+
+En OH, JERUSALEN se nos habla de una ciudad que se convirtió en la apuesta y en el símbolo de una lucha fratricida; del jefe árabe Abdel Kader, precursor de los actuales "feddayin", que descendió de las montañas, con sus partisanos, para asediar la Ciudad Santa; de los diez mil judíos de la ciudad, condenados a morir de hambre y sed bajo el diluvio de los bombardeos árabes; de los ancianos y niños de Tel Aviv, abriendo, en las colinas de Judea, una ruta secreta para llevar a sus hambrientos hermanos algunos sacos de harina; de centenares de supervivientes de las cámaras de gas, que pagaron con su vida el derecho a entrar en el suelo de la Tierra Prometida.
+
+En OH, ,JERUSALEN se nos cuenta la historia de los nobles bereberes de la legión Árabe que acudieron en ayuda de la mezquita de Omar; de millares de familias árabes y judías, convertidas en enemigas después de haber compartido las mismas piedras durante siglos; de jóvenes árabes y judíos unidos por lazos de amor y a los que la guerra separó brutalmente; de los soldados ingleses llegados para hacer reinar la paz en Tierra Santa y que, siguiendo el dictado de sus pasiones, desertaron en favor de uno u otro bando; el drama del pequeño pueblo de Jerusalén, árabe y judío, regando con su sangre los parajes que recorrieron David, Jesús y Saladino; el fantástico juego del escondite a que se entregaron árabes y judíos a través del Mundo para comprar las armas con que querían conquistar Jerusalén.
+
+En OH, JERUSALÉN se nos describe a Golda Meir, que, disfrazada de mujer árabe, se entrevista en secreto con el rey Abdullah, para intentar salvaguardar la paz; a Faruk, que decide entrar en guerra tras una partida de póquer; a David Ben Gurion, esbozando la primera proclamación del Estado judío en un trozo de papel higiénico. La lectura de este libro conduce al lector hasta Harry Truman, Presidente de los Estados Unidos; hasta Stalin, en Yalta; hasta Attlee, en Londres: por doquier se jugara, en aquella crucial primavera del 48, la suerte de Jerusalén y Palestina.
+
+Dominique Lapierre y Larry Collins dedicaron casi cuatro años de esfuerzos a la redacción de OH, JERUSALEN Doscientos cincuenta mil kilómetros recorridos a través de Oriente Medio, Europa y América; dos mil entrevistas; seis mil páginas de documentación; la colaboración de veinte entrevistadores y el estudio de quinientos kilos de documentos secretos fueron necesarios para pintar este vasto fresco histórico, desbordante de aventuras, dramas, amor, heroísmo y secretos desvelados.</dc:description>
+        <dc:publisher>Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408065760</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-02-24T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Oh, Jerusalén" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Oh, Jerusalen - Dominique Lapierre &amp; Larry Collins.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

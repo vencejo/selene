@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">615</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13a59e13-d227-4e50-97e6-5f9753c07e17</dc:identifier>
+    <dc:title>Un verano infinito</dc:title>
+        <dc:creator opf:file-as="Priest, Christopher" opf:role="aut">Christopher Priest</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-15T16:00:00+00:00</dc:date>
+        <dc:description>Christopher Priest nació en Cheshire en 1943, y es hoy considerado como uno de los más interesantes escritores ingleses (sin distinción de géneros) de esta última década. En 1970 publicó su primer libro, Indoctrinario, al que siguieron Fuga para una isla (1972), Un mundo invertido (1974), La máquina del espacio (1976), A dream of Wessex (1977) y The Affirmation (1980), nominado para el Booker Prize como uno de los mejores libros del año. Un verano infinito reúne las novelas cortas y cuentos -alucinatorios, elegíacos, a veces terroríficos- publicados entre 1976 y 1979. La obra de Priest ha sido comparada con la de H. G. Wells, Thomas Hardy, A. E. Coppard y Walter de la Mare.</dc:description>
+        <dc:publisher>Ediciones Minotauro</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">8435003604</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-07-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Un verano infinito" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Un verano infinito - Christopher Priest.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

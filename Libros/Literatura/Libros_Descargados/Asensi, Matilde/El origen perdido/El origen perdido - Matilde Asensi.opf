@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2481</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1060722d-528a-4ebe-ad40-c7fb5b08f731</dc:identifier>
+    <dc:title>El origen perdido</dc:title>
+        <dc:creator opf:file-as="Asensi, Matilde" opf:role="aut">Matilde Asensi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-03-14T16:00:00+00:00</dc:date>
+        <dc:description>Una extraña enfermedad que ha dejado a su hermano en estado vegetativo lleva al hacker y empresario informático Arnau Queralt a emprender una investigación arqueológica para encontrar el remedio. De forma sorprendente, se verá inmerso en una aventura que le llevará a la historia del Imperio Inca, las ruinas de Tiwanacu y la selva amazónica, tras las huellas de una civilización perdida. El lector sigue con Arnau y sus amigos, Marc y Lola, este viaje a través del conocimiento, descubriendo algunos misterios sin resolver en la historia de la Humanidad, las paradojas de la Teoría de la Evolución y el verdadero papel de los españoles en la conquista de América.</dc:description>
+        <dc:publisher>Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789584210500</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-06-29T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El origen perdido" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El origen perdido - Matilde Asensi.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">514</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bed500b2-ac32-40eb-83e5-328bb8dddad6</dc:identifier>
+    <dc:title>La odisea del mañana</dc:title>
+        <dc:creator opf:file-as="Sheffield, Charles" opf:role="aut">Charles Sheffield</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-12T16:00:00+00:00</dc:date>
+        <dc:description>SINOPSIS: El excepcional músico Drake Merlin se hace congelar junto a su esposa moribunda, Ana, con la esperanza de que el interés por sus estudios haga que le despierten en el futuro y pueda encontrar una cura para su amada. Cuando esto sucede, cinco siglos más tarde, Drake descubre que Ana aún no puede ser sanada, y emprende una apasionante carrera hacia el futuro despertando y congelándose en busca de la salvación de su esposa, atravesando el tiempo y hasta el espacio, desafiando las leyes físicas. Una emotiva y monumental historia escrita con una concisión y una garra pasmosas, repleta de ideas brillantes.</dc:description>
+        <dc:publisher>LA Factoria De Ideas</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-04-04T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La odisea del mañana" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La odisea del manana - Charles Sheffield.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

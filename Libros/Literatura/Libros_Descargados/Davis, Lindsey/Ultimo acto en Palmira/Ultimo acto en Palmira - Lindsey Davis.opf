@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1825</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8bd4a7fa-8e16-474b-8f9e-8c5de3b6cd1f</dc:identifier>
+    <dc:title>Último acto en Palmira</dc:title>
+        <dc:creator opf:file-as="Davis, Lindsey" opf:role="aut">Lindsey Davis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-06T16:00:00+00:00</dc:date>
+        <dc:description>Las cosas no marchan bien en Roma para Marco Didio Falco, que debe aceptar una misión en Oriente para ganarse la vida. Junto a su inseparable Helena Justina, se integrarán en una compañía de teatro en la que se han producido varios asesinatos.</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Marco Didio Falco" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="2010-07-25T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Último acto en Palmira" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Ultimo acto en Palmira - Lindsey Davis.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

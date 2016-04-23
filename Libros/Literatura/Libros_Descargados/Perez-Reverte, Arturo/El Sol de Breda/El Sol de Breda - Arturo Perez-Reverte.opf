@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">709</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">649cf15a-f4c3-4a90-a428-8a1bab02350f</dc:identifier>
+    <dc:title>El Sol de Breda</dc:title>
+        <dc:creator opf:file-as="Pérez-Reverte, Arturo" opf:role="aut">Arturo Pérez-Reverte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-27T16:00:00+00:00</dc:date>
+        <dc:description>Tercera entrega de Las aventuras del capitán Alatriste, El sol de Breda escenifica las batallas y el asedio de la ciudad de Breda en 1625 por los Tercios españoles en Flandes. El joven vasco Íñigo de Balboa es el narrador, como siempre, pero ahora adquiere en este relato un papel más protagonista: es mochilero del tercio viejo de Cartagena, donde sirve de ayudante a su amo el capitán Alatriste, y empuña por primera vez las armas en el combate. Íñigo será, en esta aventura, testigo del sometimiento de la ciudad por las tropas españolas, y describirá años más tarde al pintor Diego Velázquez, para que los inmortalice en un famoso cuadro, los rostros de los participantes en la batalla: el general Ambrosio Spínola, un respetado guerrero con dotes de político, que abortará el conato de un motín de las tropas, hartas de pelear sin que vean recompensados sus esfuerzos con una paga que nunca llega, y que el general les adelantará de sus acaudaladas arcas o el maestre de campo Pedro de la Daga, despreciativo con sus tropas hasta la crueldad, o el dubitativo capitán Carmelo Bragado y el valiente soldado Sebastián Copons, veteranos todos de las pasadas guerras en Nápoles y camaradas del capitán Alatriste. 
+SUMMARY:
+Flandes, 1625. Alistado como mochilero del capitán Alatriste en los tercios que asedian Breda, Íñigo Balboa es testigo excepcional de la rendición de la ciudad, cuyos pormenores narrará diez años más tarde para un cuadro famoso de su amigo Diego Velázquez. Siguiendo a su amo por el paisaje pintado al fondo de ese cuadro, al otro lado del bosque de lanzas, veremos a Íñigo empuñar por primera vez la espada y el arcabuz, peleando por su vida y la de sus amigos. Estocadas, asaltos, batallas, desafíos, encamisadas, saqueos y motines de la infantería española, jalonarán su camino a través de un mundo devastado por el invierno y por la guerra.</dc:description>
+        <dc:publisher>Punto De Lectura</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466310598</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="Alatriste" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="2008-05-30T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Sol de Breda" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Sol de Breda - Arturo Perez-Reverte.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

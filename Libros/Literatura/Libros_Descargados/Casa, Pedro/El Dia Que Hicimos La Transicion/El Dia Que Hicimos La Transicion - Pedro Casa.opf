@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2210</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d19025ef-e136-43c2-875c-12c4d4a64a19</dc:identifier>
+    <dc:title>El Día Que Hicimos La Transición</dc:title>
+        <dc:creator opf:file-as="Casa, Pedro" opf:role="aut">Pedro Casa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-12T16:00:00+00:00</dc:date>
+        <dc:description>Según Domingo Santos y Miquel Barceló , la mejor narración escrita en castellano sobre viajes en el tiempo.</dc:description>
+        <dc:publisher>Artesanal</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2010-04-04T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Día Que Hicimos La Transición" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Dia Que Hicimos La Transicion - Pedro Casa.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

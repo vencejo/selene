@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2295</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">242c67e8-fe4e-4d6c-8eea-46b7e55a4306</dc:identifier>
+    <dc:title>Teodora, emperatriz de Bizancio</dc:title>
+        <dc:creator opf:file-as="Bradshaw, Gillian" opf:role="aut">Gillian Bradshaw</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-17T16:00:00+00:00</dc:date>
+        <dc:description>Bizancio, a mediados del siglo VI. Bajo el reinado del emperador Justiniano I y su esposa Teodora, el joven Juan, hijo de un magistrado rural, se presenta en palacio y solicita una audiencia con la emperatriz. Para sorpresa de todos, logra su objetivo, y a partir de ese momento comienza una carrera política que culminará en las más altas esferas del poder imperial.
+
+El misterioso ascenso de Juan es la clave que utiliza Gillian Bradshaw para descubrir la extraordinaria vida de Teodora, cuyo carácter firme y decidido, fino olfato político e ideas innovadoras —promovió importantes leyes de protección de la mujer— fueron piezas fundamentales del brillante reinado de Justiniano.</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="Bizancio" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-11-17T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Teodora, emperatriz de Bizancio" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Teodora, emperatriz de Bizancio - Gillian Bradshaw.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

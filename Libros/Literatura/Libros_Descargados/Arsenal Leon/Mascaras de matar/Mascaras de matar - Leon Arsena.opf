@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2468</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">36f54565-f650-446b-8339-3924b9c20d59</dc:identifier>
+    <dc:title>Máscaras de matar</dc:title>
+        <dc:creator opf:file-as="Arsenal&#10;León" opf:role="aut">León Arsena</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-05T05:12:28+00:00</dc:date>
+        <dc:description>Los Seis Dedos, así es como llaman sus habitantes a las tierras situadas entre la cordillera del Bal Bartán y las grandes llanuras orientales, y nadie sabe a ciencia cierta el origen de tal nombre. Unos dicen que se debe a las seis regiones que los forman, y otros que a los seis pueblos que los habitan, pero ambas explicaciones son, con toda seguridad, falsas.
+
+Una gran inquietud atraviesa esos territorios, pues a oriente se ha levantado un enorme ejército dispuesto a avanzar a sangre y fuego sobre ellos. Y a la cabeza del mismo marcha el Cufa Sabut, una máscara temible que ha resurgido del pasado como una pesadilla de odio.
+
+Corocota, uno de los protagonistas, recibe la misión de salir en persecución de la bruja Tuga Tursa, culpable de haber incendiado un santuario, y tanto él como sus amigos, en el curso de la persecución, se verán arrastrados a la guerra que se cierne sobre el territorio. En el transcurso de su periplo, se les irán sumando, o cruzando, personajes de lo más diverso, amigos y enemigos, hasta componer una imagen del mosaico de pueblos y seres fantásticos que forman los Seis Dedos.
+
+En la más pura tradición de la fantasía épica, pero libre de tópicos y rutinas, ésta es una novela rebosante de magia, misterio y aventuras que difícilmente se borrarán de nuestra memoria.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788445075005</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="2008-10-05T05:12:28+00:00" name="calibre:timestamp"/>
+        <meta content="Máscaras de matar" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Mascaras de matar - Leon Arsena.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

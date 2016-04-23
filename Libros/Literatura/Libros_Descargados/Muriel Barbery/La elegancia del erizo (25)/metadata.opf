@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9cbf8be3-9cdb-4ea5-99dc-01852d199833</dc:identifier>
+        <dc:title>La elegancia del erizo</dc:title>
+        <dc:creator opf:file-as="Barbery, Muriel" opf:role="aut">Muriel Barbery</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.28) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-08-31T22:00:00+00:00</dc:date>
+        <dc:publisher>SEIX BARRAL</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788432228216</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="2010-11-23T17:52:39.464000+00:00" name="calibre:timestamp"/>
+        <meta content="La elegancia del erizo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

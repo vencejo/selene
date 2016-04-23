@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">532</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">38702eab-82e3-4df2-b544-1178d616a0dc</dc:identifier>
+    <dc:title>Guardián Entre el Centeno, El</dc:title>
+        <dc:creator opf:file-as="Salinger, J. D." opf:role="aut">J. D. Salinger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-01-14T16:00:00+00:00</dc:date>
+        <dc:description>Las peripecias del adolescente Holden Cauldfiel en una Nueva York que se recupera de la guerra influyeron en sucesivas generaciones de todo el mundo. En su confesión sincera y sin tapujos, muy lejos de la visión almibarada de la adolescencia que imperó hasta entonces, Holden nos desvela la realidad de un muchacho enfrentado al fracaso escolar, a las rígidas normas de una familia tradicional, a la experiencia de la sexualidad más allá del mero deseo.</dc:description>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789509009066</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2008-08-24T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Guardián Entre el Centeno, El" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Guardian Entre el Centeno, El - J. D. Salinger.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">682</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9ddcd9d0-da31-402b-a3d5-2eb2552f303e</dc:identifier>
+    <dc:title>MD 07: Pirómides</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-14T16:00:00+00:00</dc:date>
+        <dc:description>Quien pretenda lo contrario miente miserablemente: ser un faraón adolescente no es ningún trabajo fácil. De entrada, a tu padre se le puede ocurrir la brillante idea de enviarte a estudiar al extranjero; nada menos que a la Escuela de Asesinos de Ankh-Morpork. Luego hay ese tipo de pequeños y molestos detalles como no poder llevar dinero encima, tener que aguantar la presencia de jovencitas desinhibidas que se empeñan en pelar las uvas por ti, o al sumo sacerdote, siempre a mano para interpretar la voluntad de los dioses en cualquier cosa que se te ocurra decir.
+
+No basta con tenérselas que ver con filósofos, esfinges empeñadas en que resuelvas un acertijo, caballos de madera enormes, pirómides -perdón, pirámides- con síntomas de inestabilidad paracósmica, dioses, cocodrilos sagrados con problemas de nutrición, reuniones de ancestros momificados..., no. Por si fuera poco, la hierba se empeña en crecer donde quiera que pises, no paras de soñar con siete vacas flacas y siete vacas gordas (una de ellas tocando el trombón) y, para colmo, eres el responsable de lograr que el sol salga todas las mañanas.
+
+Pirómides es la séptima novela ambientada en el Mundodisco, la serie de fantasía más divertida de todos los tiempos. Como dato de interés general informamos a nuestros lectores que los anteriores libros de la serie (la serie fantástica más divertida de todos los tiempos) son El Color de la Magia, La Luz Fantástica, Ritos Iguales, Mort, Rechicero y Brujerías, por ese orden, y que todos ellos han sido publicados en esta misma editorial.</dc:description>
+        <dc:publisher>Altaya</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788448722951</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>fantasía</dc:subject>
+        <meta content="mundodisco" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2008-06-10T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="MD 07: Pirómides" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="MD 07_ Piromides - Terry Pratchett.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2768</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d93abae-2fba-48d2-9772-5047e9a28aec</dc:identifier>
+    <dc:title>Talos de Esparta</dc:title>
+        <dc:creator opf:file-as="Manfredi, Valerio Massimo" opf:role="aut">Valerio Massimo Manfredi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-12-31T16:00:00+00:00</dc:date>
+        <dc:description>Aristarcos, noble espartano, ha tenido un segundo hijo, Talos, débil y enfermizo y, como ordena la tradición, ha de abandonarlo en el monte Taigeto como un sangriento tributo a los lobos. Pero un viejo ilota, miembro del orgulloso pueblo que habitaba las tierras de Esparta y ahora sometido a la esclavitud, rescatará al niño y le educará en las antiguas creencias ilotas: un día no muy lejano la profecía se cumplirá y el último rey ilota, Aristodemo, volverá embutido en su flamante armadura para liberar a su pueblo. 
+
+La primera vez que Talos se encuentra con su hermano Brito, miembro de la élite guerrera espartana, será para defender el honor de la mujer que ama. Pero el destino les depara mayores empresas, pues ambos tendrán que luchar codo con codo contra los persas que amenazan las fronteras de las ciudades-estado griegas. Y, tras la guerra, Talos aún tendrá otra misión que cumplir... 
+
+Las guerras médicas, la famosa batalla de las Termópilas y la revuelta de los ilotas son los hechos históricos que aderezan Talos de Esparta, una magnífica fábula sobre el regreso a los orígenes.
+
+
+
+
+«Manfredi nos lleva de nuevo a la belleza y a la brutalidad, a la nobleza y la crueldad de la Grecia Antigua, y en el camino nos regala una excelente visión de las raíces de nuestra civilización.»</dc:description>
+        <dc:publisher>DEBOLSILLO</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">8497937333</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-10T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Talos de Esparta" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Talos de Esparta - Valerio Massimo Manfredi.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

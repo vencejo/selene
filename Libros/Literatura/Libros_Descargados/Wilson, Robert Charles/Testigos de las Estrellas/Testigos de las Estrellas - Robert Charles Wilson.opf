@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">160</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d6d8699-8d6f-4a99-a434-c286a5547344</dc:identifier>
+    <dc:title>Testigos de las Estrellas</dc:title>
+        <dc:creator opf:file-as="Wilson, Robert Charles" opf:role="aut">Robert Charles Wilson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-31T16:00:00+00:00</dc:date>
+        <dc:description>Después de libros como MYSTERIUM, DARWINIA, LOS CRONOLITOS y NÓMADAS, Wilson demuestra que ha empezado a dar ese salto que transforma a los buenos escritores en grandes maestros. TESTIGOS DE LAS ESTRELLAS apunta esas características que permiten a los autores no solo ganar premios, sino obtener prestigio y ser recordados. Para el caso, esta novela es redonda en casi todos sus aspectos, aunque previsible en algunos momentos, hace un balance adecuado del ritmo entre la historia de fondo y las historias paralelas que le dan riqueza y, como ya es habitual en Wilson, el desarrollo de personajes es eficiente, muy coherente y sobre todo creíble como pocos escritores saben hacerlo.
+
+La historia gira alrededor de un grupo de personas que, por causas desconocidas, quedan en cuarentena en unas instalaciones militares donde, mediante una tecnología de ordenadores auto evolucionados que han escapado al control de sus propios creadores, se investiga una forma de vida inteligente en un planeta lejano. La historia se va desarrollando entre la incapacidad de los personajes para entender que está pasando, porque el bloqueo total y la incomunicación les abocan a tensiones y situaciones estresantes.
+
+Es un libro de corte clásico dentro de la ciencia-ficción, muy basado en conceptos hard pero sin abusar de ellos, aunque el corazón de la historia es muy tecnológico y hasta cierto punto trascendental y místico, el paisaje, el contexto, es muy humano y sentimental y Wilson consigue mantener un equilibrio perfecto entre estos aspectos haciendo del libro una joya.</dc:description>
+        <dc:publisher>La Factoría de Ideas</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788498001969</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-01-28T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Testigos de las Estrellas" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Testigos de las Estrellas - Robert Charles Wilson.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

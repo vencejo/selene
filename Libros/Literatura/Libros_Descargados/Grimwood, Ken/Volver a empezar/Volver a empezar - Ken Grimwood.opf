@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1354</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f5b4f72-3941-43fc-9677-78dc7961756d</dc:identifier>
+    <dc:title>Volver a empezar</dc:title>
+        <dc:creator opf:file-as="Grimwood, Ken" opf:role="aut">Ken Grimwood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-05-31T16:00:00+00:00</dc:date>
+        <dc:description>Respecto a la trama -sin ánimo de destriparla- hay que decir que la obra, ganadora del Premio Mundial de Fantasía de 1988, gira en torno a un extraño fenómeno: el protagonista, Jeff, fallece a causa de un infarto y vuelve a recomenzar su vida durante sus estudios universitarios en los años 60 del siglo XX, así sucesivamente a lo largo de varias ocasiones.Estas repeticiones (replays) se producen tras su muerte por infarto, siempre en el mismo momento, y hacen que Jeff pueda experimentar varias vidas distintas o, para expresarlo de otro modo, tomar caminos distintos en su vida.Como conocedor de hechos relevantes que sucederán en el futuro, que para él ya es pasado, Jeff puede tomar decisiones económicas para llevar una vida desahogada y dirigirse hacia un tipo de vida u otra, lo que puede no ser todo lo maravilloso que él querría.Con una maestría envidiable, Grimwood es capaz de plasmar la desorientación del protagonista y su desazón tras sufrir el replay. Es un hombre que sufre el trauma de morir y de regresar a su juventud, como estudiante universitario, pero conociendo lo que depara el futuro.Junto a esta sensación de desorientación, de estar fuera de lugar -o de tiempo-, se plasma también un sentimiento de pérdida en el protagonista, no en vano es un adulto que pierde toda su vida y aunque puede rehacerla desde el principio, las cosas nunca salen igual. Sumémosle a eso el hecho de que cada repetición, en tanto distinta en algunos aspectos, pone a Jeff en la tesitura de perder no sólo su vida original, sino el desarrollo de sus vidas repetidas, con lo que la sucesión de vidas es sucesión de pérdidas.Elemento capital de estas pérdidas es el amor. Creo no equivocarme al afirmar que esta novela es “amorosa” desde el momento en que el protagonista vive en su seno una historia de amor intemporal y, al mismo tiempo, se ve condicionado por la pérdida continúa de parejas y descendencia.</dc:description>
+        <dc:publisher>Martínez Roca</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788427018808</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2010-04-04T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Volver a empezar" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Volver a empezar - Ken Grimwood.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

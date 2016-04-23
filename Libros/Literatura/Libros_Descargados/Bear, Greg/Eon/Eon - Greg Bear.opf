@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2326</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1f9e4e6-82ba-4ce0-9efd-9d57ccc32072</dc:identifier>
+    <dc:title>Eón</dc:title>
+        <dc:creator opf:file-as="Bear, Greg" opf:role="aut">Greg Bear</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1988-06-14T16:00:00+00:00</dc:date>
+        <dc:description>Hace ya dos años que apareció la Piedra, un gigantesco asteroide hueco que se acerca a la Tierra. Los investigadores han explorado ya seis de sus siete gigantescos recintos, y ahora, mientras el mundo se agita y debate en complejos problemas políticos, las autoridades requieren la presencia en la piedra de Patricia Vasquez, experta matemática teórica. Tras estudiar la vasta biblioteca del asteroide-artefacto, Patricia descubrirá que la Piedra ha sido construida por gente de la Tierra... En el pasado... O en otro universo paralelo. Y de alguna forma aún desconocida, la Piedra resulta ser la clave del destino del planeta y del futuro de la humanidad. No sólo en éste, sino también en otros universos alternativos a los que da acceso la misteriosa Vía que surge desde la Piedra.</dc:description>
+        <dc:publisher>Ultramar</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788473864879</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="Thistledown" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="2010-06-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Eón" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Eon - Greg Bear.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

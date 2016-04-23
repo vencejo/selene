@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1478</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bbc9b3f6-f335-4282-a6df-072779d0133f</dc:identifier>
+    <dc:title>Me muero por conocerte</dc:title>
+        <dc:creator opf:file-as="Gil,l B. M." opf:role="aut">B. M. Gill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1988-07-14T16:00:00+00:00</dc:date>
+        <dc:description>Lowell Marshall -que fue un brillante concertista de piano-, se ve acosado por unas terribles pesadillas en las que sueña que estrangula al director de su oficina, al compás de la música de Grieg..., y decide refugiarse en una tranquila casa de campo a salvo de su aburrido trabajo y su posesiva esposa. Allí, sin embargo, descubre el retrato victoriano de una hermosa muchacha, y a la vez, conoce a una joven que tiene una sorprendente semejanza con la del cuadro, y comienza a tener el presentimiento de que si lo que buscaba era tranquilidad, no parece que haya elegido el lugar más apropiado...</dc:description>
+        <dc:publisher>Versal</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788486717407</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-07-21T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Me muero por conocerte" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Me muero por conocerte - B. M. Gill.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1376</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4f3facf-dadb-4d33-b62f-24abc643b471</dc:identifier>
+    <dc:title>Historia del Futuro IV</dc:title>
+        <dc:creator opf:file-as="Heinlein, Robert A." opf:role="aut">Robert A. Heinlein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-05-31T16:00:00+00:00</dc:date>
+        <dc:publisher>Ediciones Orbis, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788476348414</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-06-30T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Historia del Futuro IV" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Historia del Futuro IV - Robert A. Heinlein.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">385</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a981e1c2-1532-40dc-a6c7-68b1a8aaaec8</dc:identifier>
+    <dc:title>El nombre de los nuestros</dc:title>
+        <dc:creator opf:file-as="Silva, Lorenzo" opf:role="aut">Lorenzo Silva</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-04-14T16:00:00+00:00</dc:date>
+        <dc:description>Amparándose en la crónica de unos hechos que aún hoy no gusta recordar, Lorenzo Silva construye la parábola desmitificadora de los restos de un imperio de cartón piedra, y nos engancha magistralmente a unos personajes de carne y hueso: responsables, imperfectos, reconocibles, carne de cañón…
+ 
+  El nombre de los nuestros es la historia de una trágica equivocación: la de la política colonial de España en el protectorado de Marruecos. La novela se inspira, advierte el autor, “en los avatares reales vividos entre junio y julio de 1921 por los soldados españoles [...] que defendían las posiciones avanzadas de Sidi Dris, Talitit y Afrau, en Marruecos”. Dos soldados de leva, Andreu —un anarquista barcelonés— y Amador —un madrileño empleado de seguros, adscrito a la UGT—, y el sargento Molina, con la colaboración de Haddú, un singular policía indígena, protagonizan un relato en el que se describen, no ya los horrores de la guerra, sino el horror del hombre ante un destino irracionalmente impuesto por eso que llaman «razón de Estado». Ante ellos, la harka, el conjunto de tropas irregulares marroquíes que el torpe mando militar español menosprecia desde sus despachos. Un enemigo invisible en un paraje en el que aparentemente no sucede nada, pero que se prepara lúgubre e inexorablemente para la masacre. El nombre de los nuestros se plantea como la novela épica de unos personajes condenados al heroísmo, aunque no crean en él o a sabiendas de su inutilidad.</dc:description>
+        <dc:publisher>Ediciónes Destino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423333073</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-04-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El nombre de los nuestros" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El nombre de los nuestros - Lorenzo Silva.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

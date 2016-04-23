@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2148</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d4b6e2b-ca8b-42bf-bf3d-49a902484f98</dc:identifier>
+    <dc:title>El estafador</dc:title>
+        <dc:creator opf:file-as="Cain, James M." opf:role="aut">James M. Cain</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1944-07-14T16:00:00+00:00</dc:date>
+        <dc:publisher>Bruguera</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788402074416</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela negra</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-21T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El estafador" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El estafador - James M. Cain.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

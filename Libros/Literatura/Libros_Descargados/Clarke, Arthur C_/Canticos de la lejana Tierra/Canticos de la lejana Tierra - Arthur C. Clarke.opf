@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1955</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf29a6fd-6c50-4259-b5e4-6a6468fd757c</dc:identifier>
+    <dc:title>Cánticos de la lejana Tierra</dc:title>
+        <dc:creator opf:file-as="Clarke, Arthur C." opf:role="aut">Arthur C. Clarke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1989-08-14T16:00:00+00:00</dc:date>
+        <dc:description>En el año 3620 desaparece definitivamente la Tierra tras la explosión final del Sistema Solar. Pero años antes de ocurrir esta catástrofe, a partir del año 3300, los habitantes terrestres empezaron a colonizar nuevos y lejanos mundos.
+En Thalassa, el próspero y feliz planeta situado a cincuenta años luz de la Tierra, habitado ahora por los humanos, se vive en completa paz y armonía dentro de una sociedad justamente equilibrada. Pero los problemas de la humanidad son los mismos en el presente que en el futuro y, con la llegada a Thalassa de una nave con los últimos supervivientes de la Tierra, surge el conflicto.
+Las mismas inquietudes, la rivalidad, el poder, la eterna lucha entre el bien y el mal, los grandes retos y el amor tienen idénticas consecuencias casi 2000 años después de nosotros que en la actualidad. Y Arthur C. Clarke nos lo muestra en esta novela con su singular fantasía y prolífica imaginación, que hacen de cada una de sus obras un emocionante relato nunca desprovisto del auténtico drama de fondo que acompaña cualquier desastre humano.</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401491269</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-07-02T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Cánticos de la lejana Tierra" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Canticos de la lejana Tierra - Arthur C. Clarke.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

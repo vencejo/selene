@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2296</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65286507-35c7-4986-aa21-751ea70ddb18</dc:identifier>
+    <dc:title>El Faro de Alejandría</dc:title>
+        <dc:creator opf:file-as="Bradshaw, Gillian" opf:role="aut">Gillian Bradshaw</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-17T16:00:00+00:00</dc:date>
+        <dc:description>Obligada por su origen noble a contraer matrimonio con el cruel gobernador Festino, la joven Caris de Éfeso huye en dirección a Alejandría disfrazada de eunuco. Su sueño es estudiar el arte de Hipócratesy dedicarse a la medicina, un sueño imposible para una mujer en el año 371 d.C. No obstante las dificultades, Caris logra convertirse en médico y, gracias a sus conocimientos, acercarse a las más altas esferas del poder en pleno ocaso del Imperio Romano. Basando esta trama en una detallada descripción de la medicina hipocrática y, por encima de todo, en una cuidada y rica ambientación en la mítica Alejandría, Gillian Bradshaw ha escrito una novela de ágil lectura y gran interés histórico.</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="Bizancio" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-11-17T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Faro de Alejandría" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Faro de Alejandria - Gillian Bradshaw.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

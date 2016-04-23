@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2379</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d88928f3-c92e-4d2a-80bd-8e760b6aba23</dc:identifier>
+    <dc:title>Sólo un enemigo el Tiempo</dc:title>
+        <dc:creator opf:file-as="Bishop, Michael" opf:role="aut">Michael Bishop</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1984-04-14T16:00:00+00:00</dc:date>
+        <dc:description>África es un lugar lejano y remoto, que posee un realismo y una solidez tan asombrosas que pueden ayudar a los paleontólogos a aclarar el origen de la humanidad. Joshua es invitado a participar en un extraño proyecto por el que viajará en el tiempo hasta el Pleistoceno, donde vivirá junto a una tribu de homo habi(is. Allí deberá adaptar su superioridad en inteligencia y los avances técnicos de su época con el peligro del entorno y sus propios sentimientos.Michael Bishop es uno de los clásicos de la ciencia ficción de todos los tiempos. Destaca por la óptica antropológica de sus obras, a la manera de Ursula K. Le Guin; una mirada inquieta y lúcida que data a sus libros de un carácter universal.</dc:description>
+        <dc:publisher>Acervo</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788470023644</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-04-04T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Sólo un enemigo el Tiempo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Solo un enemigo el Tiempo - Michael Bishop.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

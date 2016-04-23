@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2720</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a8a458a4-8610-46c1-865c-e56bb52e59f3</dc:identifier>
+    <dc:title>El uso de las armas</dc:title>
+        <dc:creator opf:file-as="Banks, Iain M." opf:role="aut">Iain M. Banks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-14T16:00:00+00:00</dc:date>
+        <dc:description>Cheradenine Zakalwe es un agente de Circunstancias Especiales, la sección de élite para la que ningún medio resulta reprobable: la guerra, el espionaje y el asesinato son lícitos cuando lo que está en juego son los intereses de la Cultura.
+
+Zakalwe ha sido empujado a tomar parte en innumerables conflictos, habiéndole tocado pertenecer al bando perdedor en demasiadas ocasiones. Por ello, ha decidido retirarse. Pero Ciscunstancias Especiales necesita sus servicios en un planeta donde Zakalwe había servido anteriormente y donde está a punto de desencadenarse una guerra a gran escala, y la agencia sabe a qué puede recurrir para presionarle...</dc:description>
+        <dc:publisher>LA Factoria De Ideas</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788498004489</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="La Cultura" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-28T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El uso de las armas" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El uso de las armas - Iain M. Banks.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

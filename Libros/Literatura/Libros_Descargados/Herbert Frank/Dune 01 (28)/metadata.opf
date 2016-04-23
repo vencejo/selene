@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f5850ff-d529-4bb0-963c-659493a40fee</dc:identifier>
+        <dc:title>Dune 01</dc:title>
+        <dc:creator opf:file-as="Frank, Herbert" opf:role="aut">Herbert Frank</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.28) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-23T17:52:41.443000+00:00</dc:date>
+        <dc:publisher>Unknown</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>ciencia ficción</dc:subject>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-11-23T17:52:41.443000+00:00" name="calibre:timestamp"/>
+        <meta content="Dune 01" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

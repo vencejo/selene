@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">325</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">50957620-a473-44ac-b345-5f31f79a3b5d</dc:identifier>
+    <dc:title>Silmarillion, El</dc:title>
+        <dc:creator opf:file-as="Tolkien, J. R. R." opf:role="aut">J. R. R. Tolkien</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-26T16:00:00+00:00</dc:date>
+        <dc:description>El Silmarillion es el cuerpo central de los textos narrativos de J.R.R. Tolkien, una obra que no pudo publicar en vida porque creció unto con él. Tolkien comenzó a escribirlo mucho antes que El Hobbit, obra concebida como historia independiente, pero que fue parte de lo que él llamaba un "tema que copia y se ramifica", y del que emergió El Señor de los Anillos.
+ 
+  El Silmarillion cuenta la historia de la Primera Edad, el antiguo drama del que hablan los personajes de El Señor de los Anillos, y en cuyos acontecimientos algunos de ellos tomaron parte, como Elrond y Galadriel.
+ 
+  Los tres Silmarils eran gemas creadas por Fëanor, el más dotado de los Elfos, y contenían la Luz de los Dos Árboles de Valinor antes que los Árboles mismos fueran destruidos por Morgoth, el primer Señor Oscuro. Desde entonces la inmaculada Luz de Valinor vivió sólo en los Silmarils, pero Morgoth se apoderó de ellos, y los engarzó en su corona, guardada en la fortaleza impenetrable de Angband en el norte de la Tierra Media.
+ 
+  En este volumen se incluyen otras obras cortas, como el Ainulindalë o la Música de los Ainur, la creación mítica del mundo, y el Valaquenta, sobre la naturaleza y poderes de los dioses. A El Silmarillion sigue el Akallabeth, que vuelve a narrar la caída del reino de Númenor al fin de la Segunda Edad, y por último la historia De los Anillos del Poder, en la que el tema de El Señor de los Anillos reaparece en la perspectiva más amplia de El Silmarillion.
+ 
+  El Silmarillion no es una novela, ni un cuento de hadas, ni una historia ficticia. Podría definirse como una obra de imaginación inspirada, una visión sombría, legendaria o mítica, del interminable conflicto entre el deseo de poder y la capacidad de crear.</dc:description>
+        <dc:publisher>Minotauro</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788445073810</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>fantasía</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-05-26T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Silmarillion, El" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Silmarillion, El - J. R. R. Tolkien.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

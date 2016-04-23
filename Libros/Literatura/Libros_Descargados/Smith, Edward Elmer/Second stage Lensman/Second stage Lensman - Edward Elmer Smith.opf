@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">365</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ff6b869-6400-410a-9069-b4222276f14a</dc:identifier>
+    <dc:title>Second stage Lensman</dc:title>
+        <dc:creator opf:file-as="Smith, Edward Elmer" opf:role="aut">Edward Elmer Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-06-13T16:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Edward E. "Doc" Smith's visionary Lensmen series of stories began in 1934 in the pages of Amazing Stories, and when it finished in 1948 it was universally recognized as the greatest space opera yet written. In telling the tale of a cosmos-spanning battle between good and evil, the Lensmen saga encompassed two entire galaxies in collision, each home to a primordial race of nearly limitless power. On one side were the Arisians, uplifting agents of wisdom who had taken it upon themselves to mentor the younger races and steer them towards the enlightenment they called Civilization. On the other were the Eddorians, embodiments of crushing efficiency and unthinking obedience who had woven together a vast web of tyrannies called the Boskone, through which they plotted the enslavement of all life. As their greatest weapon in the fight against the Boskone, the Arisians created the Lenses -- almost-living complexities of crystal that released and amplified their wearers' latent psychic powers. Those chosen for this honor were called Lensmen, and as the leaders of the Galactic Patrol they formed Civilization's spearhead against the Boskone. Within the Žlite ranks of the Lensmen was an even more rarified Žlite -- the four Second Stage Lensmen, one from each of the races which the Arisians had chosen as the most capable defenders of their galaxy. It is one of these Second Stage Lensmen -- the Velantian named Worsel -- that David A. Kyle chose to headline his first authorized sequel to Smith's Lensmen canon: The Dragon Lensman.    
+
+As The Dragon Lensman opens, the Boskonian conspiracy seems to have been vanquished with its defeat at the great Battle of Klovia, and the victorious Galactic Patrol is busy re-orienting itself to face the new challenges of policing a galaxy instead of defending it against a ruthless invader. Among those adjusting to the new reality is Second Stage Lensman Worsel, the legendary warrior/scientist famed for his intelligence and dedication to the fight against ignorance and evil. Like all of his species, Worsel resembles the mythological dragons of old Tellus (Earth), with a sinewy, ten-meter-long body covered in scales and boasting great wings and terrifying claws and teeth. But Worsel's real strength is his mind and its unmatched psychic abilities, concentrated and focused by the Lens shining among his many eye-stalks. And it is the intuition bred of that power that now draws Worsel to the Velantians' incredible archive, the 18-mile-wide artificial moon known as the Planetoid of Knowledge, where he feels certain something important is waiting for him.    
+
+He is right -- but what awaits him on POK is more than he bargained for, and before long Worsel and his fellow Lensmen are racing against time to confront a threat that almost no one had thought possible: machines becoming self-aware and battling against organic Civilization, their calcuating computer brains invisible to any kind of psychic detection!    
+
+To counter this new menace, the Dragon Lensman finds himself hurtling through space to rendez-vous with the one Lensman who understands robots well enough to strategize against an inorganic uprising -- the mysterious Twenty-Four of Six, whose knowledge of machines turns out to be deeper and more hard-won than even Worsel could guess.    
+
+Soon it becomes clear that Civilization will need every bit of that knowledge, and more besides, to face the enemies that are now revealing themselves. For behind the overt power there lurks a vastly more dangerous covert one, and to defeat it Worsel will not only have to challenge the worst fears of his race, but also discover the secret of the young Lensman with whom he must entrust his life -- a secret that will shake the very foundations of the Galactic Patrol!</dc:description>
+        <dc:publisher>Ripping</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781899884162</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-04-01T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Second stage Lensman" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Second stage Lensman - Edward Elmer Smith.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

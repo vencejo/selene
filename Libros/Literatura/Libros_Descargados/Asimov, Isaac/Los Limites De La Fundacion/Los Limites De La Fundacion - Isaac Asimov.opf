@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2436</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65ec88e8-3a68-4b81-8d45-6c3e26ab0ce8</dc:identifier>
+    <dc:title>Los Límites De La Fundación</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-27T16:00:00+00:00</dc:date>
+        <dc:description>Golan Trevize, consejero de la Primera Fundación, se pregunta sobre la posibilidad de la supervivencia de la Segunda Fundación. Esta debería haber sido destruida, según la versión oficial, agotándose así los superpoderes mentales de los científicos que la componían y que dirigían ocultamente los aconteceres del Imperio Galáctico. Tras una serie de intrigas políticas, Trevize se verá obligado a exiliarse en una astronave, en compañía del historiador Janov Pelorat. Pero, una vez en el espacio, ambos decidirán dedicarse a la búsqueda del antiguo planeta Tierra.</dc:description>
+        <dc:publisher>Random House Mondadori</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788497594349</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="Fundación" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="2008-05-26T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Los Límites De La Fundación" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Los Limites De La Fundacion - Isaac Asimov.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

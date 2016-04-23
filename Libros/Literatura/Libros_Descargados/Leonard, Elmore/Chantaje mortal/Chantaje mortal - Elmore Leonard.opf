@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1149</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f7c2249c-2037-42f6-b7f7-01b599518e39</dc:identifier>
+    <dc:title>Chantaje mortal</dc:title>
+        <dc:creator opf:file-as="Leonard, Elmore" opf:role="aut">Elmore Leonard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1987-07-14T16:00:00+00:00</dc:date>
+        <dc:publisher>Versal</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788486311933</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-07-22T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Chantaje mortal" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Chantaje mortal - Elmore Leonard.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

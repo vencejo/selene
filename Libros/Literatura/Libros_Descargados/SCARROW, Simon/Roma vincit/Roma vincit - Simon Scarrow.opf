@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2716</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd6c0489-38ae-4aca-91b1-9e360bb9ac46</dc:identifier>
+    <dc:title>Roma vincit</dc:title>
+        <dc:creator opf:file-as="Scarrow, Simon" opf:role="aut">Simon Scarrow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-06-14T16:00:00+00:00</dc:date>
+        <dc:description>Tiene de nuevo Britania como escenario y un nuevo intento de invasión como principal línea argumental. Sin embargo, el protagonista Marco Licinio Cato, ha madurado, ha demostrado ya su pericia táctica y valor en el combate, y está en condiciones por tanto de enfrentarse a nuevos retos. Los bárbaros britanos tienen un modo de lucha para el que los romanos no estaban preparados, y será preciso un alto grado de disciplina para enfrentarse a ellos con posibilidades de éxito. Y, por si fuera poco, es evidente que dentro de las filas romanas hay descontentos que están saboteando las operaciones militares, con oscuros fines políticos. Scarrow hace un pequeño homenaje a Robert Graves en esta novela mediante la intervención del emperador Claudio, que en su caracterización responde perfectamente a la que en su momento hiciera Graves.</dc:description>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788435060424</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="Quinto Licinio Cato" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-28T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Roma vincit" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Roma vincit - Simon Scarrow.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

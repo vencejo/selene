@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2347</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4f9f629-2d2e-4e1d-8f51-5e792b4b60ba</dc:identifier>
+    <dc:title>En el océano de la noche</dc:title>
+        <dc:creator opf:file-as="Benford, Gregory" opf:role="aut">Gregory Benford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-07-01T16:00:00+00:00</dc:date>
+        <dc:description>A finales del siglo veinte una misión de la NASA debe destruir un planeta menor cuya órbita amenaza con colisionar con la tierra. Pero el astrónomo Nigel Walmsley encuentra algo en esa superficie desolada que le hace desobedecer las órdenes recibidas. Este es el punto de partida de esta ambiciosa novela que es el inicio de una historia futura de ámbito galáctico centrada en el enfrentamiento entre las civilizaciones cibernéticas y las civilizaciones orgánicas, entre los ordenadores y las mentes asociadas con glándulas. Una obra capital en la moderna ciencia ficción.</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788440682802</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-06-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="En el océano de la noche" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="En el oceano de la noche - Gregory Benford.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

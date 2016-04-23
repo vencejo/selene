@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2175</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">325d6847-fced-4eda-9161-64a754bcc445</dc:identifier>
+    <dc:title>Conspiración, La</dc:title>
+        <dc:creator opf:file-as="Brown, Dan" opf:role="aut">Dan Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-25T16:00:00+00:00</dc:date>
+        <dc:description>En los hielos eternos del Ártico duerme el más fascinante descubrimiento de la historia de la humanidad... y también un intrigante juego de mentiras y engaños. Descubrir la verdad puede exigir un precio demasiado alto.
+  La analista de inteligencia Rachel Sexton y el oceanógrafo Michael Tolland forman parte del equipo de expertos enviados por la Casa Blanca a un remoto lugar del Ártico, con la misión de autentificar el fabuloso hallazgo que ha realizado la NASA. Un descubrimiento que cambiará el curso de la historia y, de paso, asegurará al presidente su reelección. Sin embargo, una vez allí descubren indicios de que se enfrentan a un fraude científico de proporciones gigantescas. Aislados en el entorno más hostil del planeta, perseguidos por unos implacables asesinos equipados con los últimos adelantos tecnológicos, lucharán por salvar la vida y averiguar la verdad.</dc:description>
+        <dc:publisher>Umbriel</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788495618825</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-05-25T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Conspiración, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Conspiracion, La - Dan Brown.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

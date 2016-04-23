@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86bb23b0-11d5-4a65-b1c8-7758d76c6f62</dc:identifier>
+        <dc:title>Asesinato en el Orient Express</dc:title>
+        <dc:creator opf:file-as="Agatha, Christie" opf:role="aut">Christie, Agatha</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.28) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-15T23:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="2010-11-23T17:52:38.812000+00:00" name="calibre:timestamp"/>
+        <meta content="Asesinato en el Orient Express" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

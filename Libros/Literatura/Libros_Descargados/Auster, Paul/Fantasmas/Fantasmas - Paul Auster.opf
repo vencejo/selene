@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2404</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09c8843d-fff3-4bea-be8b-e0fd648682cb</dc:identifier>
+    <dc:title>Fantasmas</dc:title>
+        <dc:creator opf:file-as="Auster, Paul" opf:role="aut">Paul Auster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-03T16:00:00+00:00</dc:date>
+        <dc:description>El caso parecía bastante sencillo. ELseñor Blanco, que apareció un día repentinamente, cuando en la vida del detective Azul parecía que ya nada iba a cambiar, quería que Azulsiguiera a un hombre llamado Negro, que lo vigilara sin pausa todo el tiempo que hiciera falta. Azul necesitaba un trabajo y no hizo demasiadas preguntas, aunque sospechara desde un principio que Blanco no era el hombre que decía ser. Lo que el detective no sabía era que el caso duraría años, y que cuando desvelara el misterio, o le pusiera un final, si es que a aquello puede llamársele un final, lo que descubriría sería quizá su propio misterio, lo que atisbaría sería su propio final...
+Situada entre los laberintos detectivescos de Chandler y los páramos existenciales de Beckett, Fantasmas comienza con todos los requisitos de una novela policíaca, pero adquiere muy pronto,y sin perder nada de su suspense, una dimensión metafísica. Y el lector se desliza de un misterio policíaco a un enigma metafísico, de la pregunta «¿quién es el culpable?», a otra mucho más difícil de responder, «¿qué es ser culpable?»
+
+Segundo relato de la conocida "Trilogía de Nueva York", tras "Ciudad de cristal".</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="Trilogía de Nueva York" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="2008-10-03T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Fantasmas" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Fantasmas - Paul Auster.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

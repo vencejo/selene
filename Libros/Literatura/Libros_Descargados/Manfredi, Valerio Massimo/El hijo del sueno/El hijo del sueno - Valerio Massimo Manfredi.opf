@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1031</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34ba29a5-d9da-448e-96db-acf34589f65c</dc:identifier>
+    <dc:title>El hijo del sueño</dc:title>
+        <dc:creator opf:file-as="Manfredi, Valerio Massimo" opf:role="aut">Valerio Massimo Manfredi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-09T16:00:00+00:00</dc:date>
+        <dc:description>Nadie puede permanecer indiferente ante la belleza de Alejandro, ni ante la grandiosidad de su Imperio, que se extendió desde el Danubio hasta el Indo. Un hombre considerado un Dios por sus contemporáneos, de ardientes sueños y violentas pasiones, que le consumieron hasta finalmente destruirle. Su vida transcurrió en un mundo de leyenda. Ésta es su historia.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788484413639</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="Aléxandros" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-10-09T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El hijo del sueño" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El hijo del sueno - Valerio Massimo Manfredi.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

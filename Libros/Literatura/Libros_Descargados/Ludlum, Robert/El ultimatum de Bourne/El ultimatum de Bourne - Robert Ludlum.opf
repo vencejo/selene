@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1074</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fe4e66e1-259d-4074-8ac1-e276fd50ac43</dc:identifier>
+    <dc:title>El ultimátum de Bourne</dc:title>
+        <dc:creator opf:file-as="Ludlum, Robert" opf:role="aut">Robert Ludlum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-29T16:00:00+00:00</dc:date>
+        <dc:description>Dos hombres acuden a una cita en una bulliciosa feria a las afueras de Baltimore. Cada uno había recibido un telegrama firmado por Jason Bourne, el héroe que, durante las tres últimas décadas, ha dominado el mundo del espionaje internacional. Sólo ellos conocen la verdadera identidad de Bourne (David Weeb, 50 años, profesor de estudios orientales, casado y padre de dos niños) y están allí por la amistad que le profesan. En el lugar de la cita son testigos de un extraño asesinato y descubren que los telegramas no fueron enviados por Bourne, sino por el enemigo mortal de éste: Carlos, el famoso terrorista, mejor conocido como el Chacal.</dc:description>
+        <dc:publisher>Random House Mondadori</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788497939256</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta content="Jason Bourne" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="2010-07-22T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El ultimátum de Bourne" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El ultimatum de Bourne - Robert Ludlum.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

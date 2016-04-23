@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1347</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f20c49fe-0cb2-4824-856f-a0729c1a429c</dc:identifier>
+    <dc:title>Agujeros negros y pequeños universos y otros ensayos</dc:title>
+        <dc:creator opf:file-as="Hawking, Stephen W." opf:role="aut">Stephen W. Hawking</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-08-14T16:00:00+00:00</dc:date>
+        <dc:description>Agujeros negros y pequeños universos de Stephen Hawking:
+Agujeros Negros y Pequeños Universos es una colección de textos escritos por el gran físico inglés entre 1976 y 1992.
+
+Por haber sido redactados a lo largo de un período de dieciséis años, estos ensayos - desde bocetos autobiográficos hasta explicaciones claras y amenas de problemas fundamentales de la física actual - reflejan el estado progresivo de los conocimientos de Hawking, descubriendo el lector paso a paso los secretos de las leyes que gobiernan el universo.</dc:description>
+        <dc:publisher>Planeta Mexico</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789684064225</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>divulgación científica</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-06-29T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Agujeros negros y pequeños universos y otros ensayos" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Agujeros negros y pequenos universos y otros ensayos - Stephen W. Hawking.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

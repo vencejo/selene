@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1502</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d5bbf79-9b2e-4fc2-a2ee-cab2f5a01c35</dc:identifier>
+    <dc:title>Claudio el Dios</dc:title>
+        <dc:creator opf:file-as="Graves, Robert" opf:role="aut">Robert Graves</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-08-14T16:00:00+00:00</dc:date>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789509009141</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-04-06T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Claudio el Dios" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Claudio el Dios - Robert Graves.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

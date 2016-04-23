@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2742</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7ea007fc-a39e-4d76-a266-fff2b3594355</dc:identifier>
+    <dc:title>La economía Long Tail</dc:title>
+        <dc:creator opf:file-as="Anderson, Chris" opf:role="aut">Chris Anderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-08T16:00:00+00:00</dc:date>
+        <dc:description>Con la llegada de Internet, un nuevo fenómeno invade el mercado, la industria y la sociedad. Se trata de la "larga cola", término acuñado por Chris Anderson y que resuena ya en los medios de comunicación de todo el mundo. La "larga cola" es la tendencia por la cual, gracias a la tecnología, el mercado de masas se está conviertiendo en un mercado de nichos: por primera vez en la sociedad de consumo, la venta de pequeñas cantidades es rentable. Y para el autor de este libro, esta novedad marcará la industria en un futuro muy próximo: en el siglo XXI, dominará el mercado quien sea capaz de acaparar las ventas minoritarias, esa larga cola que se extiende detrás de los hits casi hasta el infinito. El analista Chris Anderson nos ofrece el estudio más completo de una realidad que ya está aquí gracias a empresas como Google, Amazon o Rhapsody. Una obra de rabiosa actualidad esencial para empresarios, economistas y para todo aquel que quiera comprender el alcance de este fenómeno y sus implicaciones.</dc:description>
+        <dc:publisher>Tendencias</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788493464264</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-08T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La economía Long Tail" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La economia Long Tail - Chris Anderson.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

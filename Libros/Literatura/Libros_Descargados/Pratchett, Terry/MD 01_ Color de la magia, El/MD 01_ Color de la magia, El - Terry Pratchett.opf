@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">676</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a08bbd3-973e-4ecd-883a-3fd04c19abbb</dc:identifier>
+    <dc:title>MD 01: Color de la magia, El</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-19T16:00:00+00:00</dc:date>
+        <dc:description>En un mundo plano sostenido por cuatro elefantes impasibles -que se apoyan en la espalda de una tortuga gigante- habitan los estrafalarios personajes de esta novela: un hechicero avaro y torpe, un turista ingenuo cuyo fiero equipaje le sigue a todas partes sostenido por cientos de patitas, dragones que existen si se cree en ellos, gremios de ladrones y asesinos, espadas mágicas, la Muerte y, por supuesto, un extenso catálogo de magos y demonios... En esta serie de novelas se dan cita todos los temas y situaciones del género fantástico, visto a través del personalismo y corrosivo sentido dela comicidad de un autor inglés que se ha convertido en uno de los escritores de humor de mayor éxito y fama en el mundo.</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>fantasía</dc:subject>
+        <meta content="mundodisco" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2009-07-19T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="MD 01: Color de la magia, El" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="MD 01_ Color de la magia, El - Terry Pratchett.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1848</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29c4ca48-9213-4ae2-bdb9-601f4bfccec3</dc:identifier>
+    <dc:title>La silla vacía</dc:title>
+        <dc:creator opf:file-as="Deaver, Jeffery" opf:role="aut">Jeffery Deaver</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-04-14T16:00:00+00:00</dc:date>
+        <dc:description>Lincoln Rhyme, el brillante criminalista paralítico que protagoniza El coleccionista de huesos, está en un centro universitario especializado en neurología a la espera de una operación que podría permitirle recuperar parcialmente la movilidad. Cuando le piden que colabore con la polícia de Tanner's Corner, una pequeña ciudad de Carolina del Norte, en la búsqueda de dos chicas secuestradas, no sabe que al aceptar pondrá en peligro su vida y la de su compañera Amelia Sachs.</dc:description>
+        <dc:publisher>Punto De Lectura</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466368803</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-03-19T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La silla vacía" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La silla vacia - Jeffery Deaver.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

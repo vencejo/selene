@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2696</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a211ccc6-a1c0-489d-86b0-85ed5a49e963</dc:identifier>
+    <dc:title>Marcas de fuego</dc:title>
+        <dc:creator opf:file-as="Paretsky, Sara" opf:role="aut">Sara Paretsky</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-20T16:00:00+00:00</dc:date>
+        <dc:description>Los hoteles se incendian en el Chicago de las muchas razas e infinitas tramas. Nadie sabe por qué. ¿Algo huele a corrupción? Victoria Warshawski, la elegante, la dura y original detective protagonista de las novelas de Sara Paretsky, jamás rehuye una causa noble, sobre todo si se trata de evitar la explotación de cualquier minoría étnica y de esa gran mayoría marginada que constituyen las mujeres.</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788498721218</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela negra</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-20T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Marcas de fuego" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Marcas de fuego - Sara Paretsky.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

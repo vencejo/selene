@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2689</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d716e7f3-f858-474e-b36b-39c5a2de4762</dc:identifier>
+    <dc:title>La ciudad y las estrellas</dc:title>
+        <dc:creator opf:file-as="Clarke, Arthur C." opf:role="aut">Arthur C. Clarke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1984-06-14T16:00:00+00:00</dc:date>
+        <dc:description>Los hombres habían construido ciudades antes, pero ninguna como Diaspar. Diaspar: porque Diaspar tenía una leyenda. Era la última ciudad construida en la Tierra por el poder de quienes también pudieron conquistar las estrellas.
+Pero la grandeza de Diaspar acabó desapareciendo.
+Desde los más oscuros límites del Universo los Invasores atacaron el imperio creado por el hombre y lo confinaron otra vez a la Tierra. Quien fuera que abandonara la Tierra caería bajo la ira de los Invasores.
+Esta era la leyenda de Diaspar. Una leyenda de un billón de años...</dc:description>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788435001328</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-18T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La ciudad y las estrellas" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La ciudad y las estrellas - Arthur C. Clarke.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

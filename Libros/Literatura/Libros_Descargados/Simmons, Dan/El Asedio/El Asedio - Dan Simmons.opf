@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">426</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2cef97f-5175-4bd6-9aac-cd2a9871f12d</dc:identifier>
+    <dc:title>El Asedio</dc:title>
+        <dc:creator opf:file-as="Simmons, Dan" opf:role="aut">Dan Simmons</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-15T06:49:32+00:00</dc:date>
+        <dc:description>Simmons se atreve a revisar otro clásico indiscutible como la Ilíada de Homero en la nueva y espectacular serie formada por Ilión y Olimpo. En la principal trama de la novela, asistimos al desarrollo del asedio de Troya guiados de la mano del erudito Thomas Hockenberry. Una novela absorbente, fruto de la maestría de un escritor con múltiples registros y de inusitado talento.</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466623292</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Ilión" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2009-02-15T06:49:32+00:00" name="calibre:timestamp"/>
+        <meta content="El Asedio" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Asedio - Dan Simmons.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

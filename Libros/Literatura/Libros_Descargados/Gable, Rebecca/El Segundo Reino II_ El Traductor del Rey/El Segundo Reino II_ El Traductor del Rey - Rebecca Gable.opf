@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1550</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8dfca478-ab3d-40a1-ac9c-1be1ba362e84</dc:identifier>
+    <dc:title>El Segundo Reino II: El Traductor del Rey</dc:title>
+        <dc:creator opf:file-as="Gablé, Rebecca" opf:role="aut">Rebecca Gablé</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-14T16:00:00+00:00</dc:date>
+        <dc:description>REBECCA GABLÉ - EL TRADUCTOR DEL REY 
+(2ª PARTE DE EL SEGUNDO REINO)
+
+No es una novela independiente, sino que es continuación de "El segundo Reino".
+
+
+CONTRAPORTADA
+
+Después de EL SEGUNDO REINO, Rebecca Gablé vuelve a cautivar a los lectores con una apasionante novela histórica sobre la conquista y la resistencia, llena de intrigas y aventuras en la que nos presenta el desenlace de una emocionante historia en plena Edad Media.
+
+Inglaterra, 1075. Cædmon de Helmsby, el hijo de un poderoso terrateniente inglés educado en Normandía, la tierra de su madre, se ha convertido, con el tiempo, en auténtico hombre de confianza del rey Guillermo el Conquistador.
+Durante la invasión ha vuelto a la isla británica junto al ejército de los conquistadores en función de traductor del rey y en una posición bastante incómoda, como mediador ente normandos e ingleses.
+Una vez superadas las diferentes rebeliones de su propio pueblo contra el nuevo rey, Cædmon se debe enfrentar a más de una conspiración e intriga en el palacio, en las que participan incluso los propios hijos del rey.  Únicamente gracias a su gran coraje y espíritu humano logrará superar más de una situación conflictiva.
+Pero también su vida personal está llena de problemas. Después de un largo período de separación, se reune de nuevo con su amada Aliesa, casada ahora con su mejor amigo, Etienne. A pesar de sus promesas, reinician su relación íntima que no tardará mucho en ser descubierta, lo cual conllevará graves consecuencias tanto para él como para su amante...
+
+"La mejor novela histórica desde Los pilares de la tierra."  Börsenblatt.
+
+
+Muchas veces he leído esta última frase en la contraportada de un libro.  Eso ha hecho que esperase mucho de la obra entre manos y en ocasiones me sintiera decepcionada.  Sin embargo, no esta vez...  aunque no me atrevería a hacer tal afirmación, al terminarlo me he sentido muy satisfecha.  Me queda la sensación de que la mezcla de ficción e historia se acercan bastante a la realidad de aquella época, que es una obra muy bien documentada, además de resultar entretenida y de lectura muy amena.  
+
+Creo que esta novela contiene todos los ingredientes que ha de tener una buena novela histórica. Es mi modesta opinión.
+
+Si alguien se anima a leerla, le recuerdo comenzar con "El Segundo Reino" y espero que la disfrute tanto como yo.</dc:description>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788496231344</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-05-19T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Segundo Reino II: El Traductor del Rey" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Segundo Reino II_ El Traductor del Rey - Rebecca Gable.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

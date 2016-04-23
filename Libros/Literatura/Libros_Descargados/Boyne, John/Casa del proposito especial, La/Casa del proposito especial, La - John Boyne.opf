@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2320</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5548f109-2b83-40d6-8b17-fbda7b0338a4</dc:identifier>
+    <dc:title>Casa del proposito especial, La</dc:title>
+        <dc:creator opf:file-as="Boyne, John" opf:role="aut">John Boyne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-13T16:00:00+00:00</dc:date>
+        <dc:description>Mientras acompaña a su esposa Zoya, que agoniza en un hospital de Londres, Georgi Danilovich Yáchmenev rememora la vida que han compartido durante sesenta y cinco años, una vida marcada por un gran secreto que nunca ha salido a la luz. Los recuerdos se agolpan en una sucesión de imágenes imborrables, a partir de aquel lejano día en que Georgi abandonó su mísero pueblo natal para formar parte de la guardia personal de Alexis Romanov, el único hijo varón del zar Nicolás II. Así, la fastuosa vida en el Palacio de Invierno, las intimidades de la familia imperial, los hechos que precedieron a la revolución bolchevique y, finalmente, la reclusión y posterior ejecución de los Romanov se entremezclan con el durísimo exilio en París y Londres en una hermosa historia de un amor improbable, al mismo tiempo un apasionante relato histórico y una conmovedora tragedia íntima. Con un dominio absoluto del ritmo y el suspense, John Boyne mantiene vivo el interés hasta las últimas páginas, en las que un inesperado desenlace dejará, una vez más, una profunda huella en los lectores.
+
+Tras asombrar al público y la crítica con El niño con el pijama de rayas —libro de ficción más vendido en España en 2007 y 2008— y seducir a miles de lectores con su siguiente obra, Motín en la Bounty, John Boyne vuelve a demostrar un especial don narrativo para tratar grandes acontecimientos históricos desde perspectivas desconocidas, proyectando sobre lo ya sabido una luz nueva y sorprendente.</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788498382495</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-02-07T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Casa del proposito especial, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Casa del proposito especial, La - John Boyne.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

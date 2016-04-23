@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1474</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3b42231b-5591-44c7-8d99-04c64ec97e92</dc:identifier>
+    <dc:title>Crímenes infantiles</dc:title>
+        <dc:creator opf:file-as="Gil,l B. M." opf:role="aut">B. M. Gill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1987-07-14T16:00:00+00:00</dc:date>
+        <dc:description>A Zanny Moncrief, la pequeña protagonista, no la han afectado ni la marcha de su padre al frente, ni la violencia de la guerra, casi puede decirse que vive una infancia apacible en un pequeño pueblo de la costa de Inglaterra. Sin embargo, la llegada a su casa de dos niños evacuados del Londres asolado por los bombardeos, despierta en ella unos celos insoportables y aviva su sádica perversidad innata que la conducirá a un mundo en el que han desaparecio las fronteras entre el candor y el cinismo, entre el bien y el mal, y en el que las angustias normales de la infancia y la adolescencia se convierten en trampas mortales para víctimas inocentes.</dc:description>
+        <dc:publisher>Versal</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788486717025</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-07-21T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Crímenes infantiles" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Crimenes infantiles - B. M. Gill.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

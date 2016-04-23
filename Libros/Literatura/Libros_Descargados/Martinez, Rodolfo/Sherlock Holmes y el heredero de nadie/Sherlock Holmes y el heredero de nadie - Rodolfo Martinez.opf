@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2717</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b2a87eb-dc9e-4057-801f-a6fef7d80807</dc:identifier>
+    <dc:title>Sherlock Holmes y el heredero de nadie</dc:title>
+        <dc:creator opf:file-as="Martínez, Rodolfo" opf:role="aut">Rodolfo Martínez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-28T16:00:00+00:00</dc:date>
+        <dc:description>Dallas, noviembre de 1963. Según la versión oficial, un loco solitario abate a tiros a John F. Kennedy, a pesar de los esfuerzos de William Hudson, de los servicios secretos británicos, por salvar al presidente de los Estados Unidos. Tras la conjura para eliminarlo se adivina la sombra de una figura conocida como Nadie, un enigmático megalómano cuyos orígenes se remontan al siglo XIX...
+
+California, 1880. Un joven Sherlock Holmes recorre el Oeste americano como actor de una compañía de teatro especializada en Shakespeare. Pero un misterio se cruza en su camino y, sin dudarlo, el futuro detective consultor deja la troupe y se enfrasca en resolverlo.
+
+Las pistas lo conducirán a una increíble ciudad oculta en medio del desierto donde los herederos de una tecnología prodigiosa se preparan para desatar una utopía sobre el mundo... o para causar su total aniquilación.
+
+En esta nueva pieza de su obra holmesiana, Rodolfo Martínez toma como punto de partida la genial creación de Arthur Conan Doyle para construir un universo particular donde tienen cabida algunos de los personajes más entrañables de la literatura popular.</dc:description>
+        <dc:publisher>Alamut Ediciones</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788498890082</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>misterio</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-28T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Sherlock Holmes y el heredero de nadie" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Sherlock Holmes y el heredero de nadie - Rodolfo Martinez.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

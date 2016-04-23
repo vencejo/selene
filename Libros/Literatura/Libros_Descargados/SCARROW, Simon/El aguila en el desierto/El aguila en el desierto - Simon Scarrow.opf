@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2732</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2a9e892-286e-4552-afd4-8e93e89c98ce</dc:identifier>
+    <dc:title>El águila en el desierto</dc:title>
+        <dc:creator opf:file-as="SCARROW, Simon" opf:role="aut">Simon Scarrow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-30T22:00:00+00:00</dc:date>
+        <dc:description>Cuando a Roma llegan noticias del deplorable estado en que se encuentran las tropas que controlan las fronteras orientales del Imperio y de los escándalos en que se ven implicados sus oficiales, se decide mandar a dos centuriones experimentados para restaurar el orden en una zona de vital importancia estratégica. Como no podía ser de otra manera, Macro y Cato son los elegidos. Sin embargo, el caso en que se halla sumido el ejército imperial es el menor de los problemas a los que deberán enfrentarse. Bannus, un cabecilla local, está encendiendo los ánimos y atizando el ardor guerrero de los habitantes de Judea recordando el nombre de un oscuro personaje crucificado en Jerusalén hace ya casi setenta años.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788435061490</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="Quinto Licinio Cato" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="2010-09-06T11:23:10.849000+00:00" name="calibre:timestamp"/>
+        <meta content="El águila en el desierto" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El aguila en el desierto - Simon Scarrow.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

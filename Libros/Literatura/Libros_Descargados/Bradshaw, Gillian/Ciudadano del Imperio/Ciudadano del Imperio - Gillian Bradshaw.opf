@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2298</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b2a86fa-5035-4b2d-b5a9-4c4bfc9035a9</dc:identifier>
+    <dc:title>Ciudadano del Imperio</dc:title>
+        <dc:creator opf:file-as="Bradshaw, Gillian" opf:role="aut">Gillian Bradshaw</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-17T16:00:00+00:00</dc:date>
+        <dc:description>Tomando a Hermógenes como referente, Gillian Bradshaw describe las dificultades con que se encontraba todo aquel que en teoría disfrutaba del estatus de ciudadano romano en un imperio en el que sólo se consideraba así al nacido en Roma. Su rico retrato de la vida cotidiana en la Roma imperial confirma la crítica elogiosa del The Philadelphia Inquirer, para el que la Historia cobra vida en las expertas manos de Bradshaw.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788466620307</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="2008-11-17T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Ciudadano del Imperio" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Ciudadano del Imperio - Gillian Bradshaw.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

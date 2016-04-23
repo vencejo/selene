@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2722</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">664908b6-0eb0-4bdc-bf54-cd197ee6b825</dc:identifier>
+    <dc:title>A barlovento</dc:title>
+        <dc:creator opf:file-as="Banks, Iain M." opf:role="aut">Iain M. Banks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-08-28T16:00:00+00:00</dc:date>
+        <dc:description>Fue uno de los incidentes menos gloriosos de una antigua guerra. Provocó la destrucción de dos soles y de los miles de millones de vidas que sustentaban. Ahora, ochocientos años después, la luz del primero de estos antiguos errores ha llegado al orbital de la Cultura Masadaq. La luz del segundo podría no llegar a hacerlo
+
+En la línea magistral del resto de novelas de esta saga de lectura independiente, Banks se empeña en mostrarnos su genialidad, su innovador e inimitable estilo y su imaginación para construir un magnífico universo, del que hemos ido conociendo parcelas diferentes en cada una de las anteriores entregas.
+
+"A Barlovento" nos muestra la cara más oscura de esta civilización: las consecuencias de una guerra civil, el dolor, el exilio y los deseos de venganza. Una realidad que se separa de la felicidad utópica que sirve de base a esta sociedad.</dc:description>
+        <dc:publisher>La Factoría de Ideas</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788498003390</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="La Cultura" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-28T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="barlovento, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="barlovento, A - Iain M. Banks.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

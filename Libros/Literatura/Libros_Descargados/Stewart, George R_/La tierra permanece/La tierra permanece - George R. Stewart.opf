@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">450</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9633a19b-1f25-476e-9980-8ad1b9ea2b01</dc:identifier>
+    <dc:title>La tierra permanece</dc:title>
+        <dc:creator opf:file-as="Stewart, George R." opf:role="aut">George R. Stewart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-08-14T16:00:00+00:00</dc:date>
+        <dc:description>A partir de un suceso tan devastador como la extinción de la civilización humana a causa de un virus de orígenes desconocidos, Ish Williams debe de enfrentarse al hecho de ser, posiblemente, el último ser humano que subsiste en el planeta Tierra. Su vagabundeo por los E.E.U.U. le llevará a enfrentarse con dilemas y situaciones que el hombre ordinario no podría imaginar. A lo largo de las tres partes del libro, que coinciden con las tres edades del hombre (juventud, madurez y ancianidad), veremos cómo Ish es testigo, actor y mito viviente en ese mundo nuevo que se forja a partir de la destrucción de la civilización.</dc:description>
+        <dc:publisher>Minotauro</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788445072073</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-10-20T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La tierra permanece" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La tierra permanece - George R. Stewart.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2299</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82060b74-d040-486b-a540-71795ce1d651</dc:identifier>
+    <dc:title>El Contador De Arena</dc:title>
+        <dc:creator opf:file-as="Bradshaw, Gillian" opf:role="aut">Gillian Bradshaw</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-31T16:00:00+00:00</dc:date>
+        <dc:description>Adelantado a su tiempo y conocido universalmente por el célebre principio que lleva su nombre, el griego Arquímedes fue un pionero del actual método científico, además de notable matemático y pensador. Discípulo de Euclides e hijo del astrónomo Fidias, su azarosa vida resulta tan apasionante como formidable el poder de su intelecto. En esta rigurosa novela histórica, Gillian Bradshaw —autora de grandes éxitos como El faro de Alejandría, Púrpura imperial, Teodora, emperatriz de Bizancio y El heredero de Cleopatra— presenta al lector un Arquímedes de carne y hueso, un ser humano excepcional que, inmerso en la convulsa época que le tocó vivir, tuvo que enfrentarse a múltiples dilemas Deslumbrado por las maravillas de Alejandría tras una estancia de tres años y decidido a radicarse allí para siempre, el joven Arquímedes se ve obligado a volver a Siracusa, su ciudad natal, para ocuparse de su padre enfermo. El contraste no puede ser mayor: de la deslumbrante cuna del saber ha pasado a una ciudad entregada a los frenéticos preparativos para una cruenta guerra contra la poderosa Roma. Convertido por las circunstancias y el destino en el principal artífice de los ingenios bélicos con que se intentará repeler la invasión del coloso romano, Arquímedes atrae la atención del tirano Hierón, quien intenta retenerlo a toda costa en su corte. Y pese a que el mayor deseo del genial griego es volver a Alejandría para perfeccionar sus conocimientos y reunirse con Marco, el leal esclavo que lo ha acompañado desde siempre, un inesperado motivo lo empuja a permanecer en Siracusa, un motivo que ni siquiera su pasión por el saber y la ciencia podrá obviar y que, a la postre, lo obligará a recorrer un sendero salpicado de gloria, amor, guerra y traición.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788498380323</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-07-22T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Contador De Arena" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Contador De Arena - Gillian Bradshaw.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

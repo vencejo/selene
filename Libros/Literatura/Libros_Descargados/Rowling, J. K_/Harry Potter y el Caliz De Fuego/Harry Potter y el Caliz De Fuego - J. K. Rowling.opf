@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">566</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f00271f-5df7-4644-b554-9f2bcd375e5b</dc:identifier>
+    <dc:title>Harry Potter y el Cáliz De Fuego</dc:title>
+        <dc:creator opf:file-as="Rowling, J. K." opf:role="aut">J. K. Rowling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-14T16:00:00+00:00</dc:date>
+        <dc:description>Tras otro abominable verano con los Dursley, Harry se dispone a iniciar el cuarto curso en Hogwarts, la famosa escuela de magia y hechicería. A sus catorce años, a Harry le gustaría ser un joven mago como los demás y dedicarse a aprender nuevos sortilegios, encontrarse con sus amigos Ron y Hermione y asistir con ellos a los Mundiales de quidditch. Sin embargo, al llegar al colegio le espera una gran sorpresa que lo obligará a enfrentarse a los desafíos más temibles de toda su vida. Si logra superarlos, habrá demostrado que ya no es un niño y que está preparado para vivir las nuevas y emocionantes experiencias que el futuro le depara.</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788478886456</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>infantil</dc:subject>
+        <meta content="Harry Potter" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="2008-05-31T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Harry Potter y el Cáliz De Fuego" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Harry Potter y el Caliz De Fuego - J. K. Rowling.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

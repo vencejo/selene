@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2346</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37b41989-a7af-438b-9378-7892bfae649f</dc:identifier>
+    <dc:title>Cronopaisaje</dc:title>
+        <dc:creator opf:file-as="Benford, Gregory" opf:role="aut">Gregory Benford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1984-07-14T16:00:00+00:00</dc:date>
+        <dc:description>Gregory Benford es uno de los autores de ciencia ficción más importantes de nuestro tiempo, así como un importante científico. Como escritor, ha sido galardonado con los premios más importantes del género, como el Nebula, el Ditmar y el John W. Campbell por Cronopaisaje.
+1998: La tierra es un caos al borde de un desastre ecológico. Pero en Inglaterra, un científico que trabaja con taquiones está intentando contactar con el pasado para advertirles sobre la miseria y la muerte que sus experimentos y acciones han causado en un planeta asolado.
+
+1962: J. F. K. es aún presidente, reina el rock, y la guerra de Vietnam no es noticia. Un joven ayudante de investigación en una universidad californiana, Gordon Bernstein, descubre extraños patrones de interferencia en un experimento de laboratorio. A riesgo de arruinar su reputación, Bernstein comienza a desvelar la increíble verdad, una verdad que cambia su vida y altera la historia... la verdad que se esconde detrás del tiempo.</dc:description>
+        <dc:publisher>Ultramar</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788473863513</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2008-10-20T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Cronopaisaje" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Cronopaisaje - Gregory Benford.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

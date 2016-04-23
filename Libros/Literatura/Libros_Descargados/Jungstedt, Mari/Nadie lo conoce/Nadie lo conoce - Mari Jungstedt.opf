@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1207</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b3a951f-2f78-4d94-b36c-6d8763fb959f</dc:identifier>
+    <dc:title>Nadie lo conoce</dc:title>
+        <dc:creator opf:file-as="Jungstedt, Mari" opf:role="aut">Mari Jungstedt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-28T16:00:00+00:00</dc:date>
+        <dc:description>Tras la resolución de su último caso, en el que estuvo personalmente implicado, el comisario Anders Knutas se siente deprimido y agobiado. Espera ansiosamente le llegada de las vacaciones de verano para pasar unos días con su familia. Pero antes de poder disfrutar del merecido descanso debe ocuparse de un nuevo caso. Un grupo de arqueólogos está excavando en un viejo poblado vikingo de Gotland, pero ignoran que un grave peligro se cierne sobre ello...</dc:description>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788492695270</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela negra</dc:subject>
+        <meta content="Anders Knutas" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="2010-08-01T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Nadie lo conoce" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Nadie lo conoce - Mari Jungstedt.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

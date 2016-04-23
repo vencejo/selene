@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1250</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">824d5c16-7a22-44f0-b8a1-32198bdb32de</dc:identifier>
+    <dc:title>Réquiem Alemán</dc:title>
+        <dc:creator opf:file-as="Kerr, Philip" opf:role="aut">Philip Kerr</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-11T16:00:00+00:00</dc:date>
+        <dc:description>El antiguo policía Bernie Gunther creía que ya lo había visto todo en las calles de Berlín de los años treinta. Pero cuando dejó el cuerpo para convertirse en detective privado, cada nuevo caso lo iba hundiendo un poco más en los horribles excesos de la subcultura nazi. Después de la guerra, en medio del esplendor imperial y decadente de Viena, Bernie incluso llega a poner al descubierto un legado que, en comparación, convierte las atrocidades cometidas en época de guerra en un juego de niños...
+Estos tres misterios, que ahora se publican en edición de bolsillo, están llenos de emoción y las penetrantes miradas a la vida de la Alemania nazi son más ricas y más cercanas que muchas de las historias de esta época. La primera vez que conocemos al ex policía Bernie Gunther la acción se sitúa en 1936, en Violetas de Marzo (un eufemismo que usaron los primeros nazis para describir los últimos conversos), cuando los Juegos Olímpicos están a punto de empezar.
+Algunos de los amigos judíos de Bernie se van dando cuenta de que tendrían que haber huido cuando aún podían hacerlo, y Gunther recibe el encargo de investigar dos muertes que afectan a los máximos cargos del partido nazi. En Pálido criminal, nos encontramos en el año 1938, cuando el mismo Heydrich hace chantaje a Gunther para que se vuelva a incorporar en el cuerpo de policía. Finalmente, en Réquiem alemán, la más triste e inquietante de las tres historias, nos situamos en 1947, cuando Gunther descubre por casualidad el escenario de una pesadilla que esconde incluso más muerte de lo que se imagina.</dc:description>
+        <dc:publisher>RBA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788498676662</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Berlin Noir" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-04-11T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Réquiem Alemán" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Requiem Aleman - Philip Kerr.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

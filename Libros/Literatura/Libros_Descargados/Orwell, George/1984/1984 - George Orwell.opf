@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">801</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4eaf3c2d-b31b-4dc8-a962-9e04862023b4</dc:identifier>
+    <dc:title>1984</dc:title>
+        <dc:creator opf:file-as="Orwell, George" opf:role="aut">George Orwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-08-14T16:00:00+00:00</dc:date>
+        <dc:description>1984 sitúa su acción en un Estado totalitario. Como explica O’Brien, el astuto y misterioso miembro de la dirección del partido dominante, el poder es el valor absoluto y único: para conquistarlo no hay nada en el mundo que no deba ser sacrificado y, una vez alcanzado, nada queda de importante en la vida a no ser la voluntad de conservarlo a cualquier precio. La vigilancia despiadada de este Superestado ha llegado a apoderarse de la vida y la conciencia de sus súbditos, interviniendo incluso y sobre todo en las esferas más íntimas de los sentimientos humanos. Todo está controlado por la sombría y omnipresente figura del Gran Hermano, el jefe que todo lo ve, todo lo escucha y todo lo dispone. Winston Smith, el protagonista, aparece inicialmente como símbolo de la rebelión contra este poder monstruoso, pero conforme el relato avanza está cada vez más cazado por este engranaje, omnipotente y cruel. Por su magnífico análisis del poder y de las relaciones y dependencias que crea en los individuos, 1984 es una de las novelas más inquietantes y atractivas de este siglo.</dc:description>
+        <dc:publisher>Destino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423334704</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-05-26T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="1984" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="1984 - George Orwell.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

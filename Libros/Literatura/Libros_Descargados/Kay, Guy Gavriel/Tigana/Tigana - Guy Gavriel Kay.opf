@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1591</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">97957ad9-777b-40a7-836b-dbb8137dec47</dc:identifier>
+    <dc:title>Tigana</dc:title>
+        <dc:creator opf:file-as="Kay, Guy Gavriel" opf:role="aut">Guy Gavriel Kay</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1990-07-15T16:00:00+00:00</dc:date>
+        <dc:description>Tigana es una tierra asediada y atrapada en la telaraña de una tiranía y su historia es la lucha por ser libre. Los hechos se inician en La Palma, una península dividida en dos pequeños estados rivales. Al resistir a una invasión, la provincia de Tigana derrota al ejército del rey hechicero Brandín y el hijo de éste muere en la batalla. Brandín, enfurecido, envía un ejército más poderoso para aplastar a Tigana y luego arroja un hechizo para borrar el nombre de la provincia de la memoria humana. Sólo aquéllos que habían nacido antes de la caída podrían recordar su nombre. Años después de la devastación de su tierra natal, un puñado de hombres y mujeres, que siguen a un líder cuya identidad es el mayor secreto guardado por ellos, se dispone a derrocar a sus conquistadores y a devolver al mundo el brillo perdido de un nombre borrado: Tigana.</dc:description>
+        <dc:publisher>Círculo de Lectores, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788422659259</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Tigana" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Tigana - Guy Gavriel Kay.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1058</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dcf4983f-035e-4615-b846-efdc60ca8547</dc:identifier>
+    <dc:title>Hombre inquieto, El</dc:title>
+        <dc:creator opf:file-as="Mankell, Henning" opf:role="aut">Henning Mankell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-29T16:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+La vida del inspector Kurt Wallander ha cambiado ligeramente: no solo ha hecho realidad su sueno de tener una casa en el campo, sino que, ademas, su hija Linda lo ha convertido en abuelo. Sin embargo, su tranquilidad se ve perturbada poco despues, un dia de invierno de 2008, cuando el suegro de Linda, un oficial de alto rango de la Marina sueca llamado HÃ¥kan von Enke, desaparece en un bosque cerca de Estocolmo. Aunque la investigacion la dirige la policia de Estocolmo, Wallander no puede evitar implicarse, sobre todo cuando una segunda persona desaparece en misteriosas circunstancias. Algunas pistas apuntan a grupos de extrema derecha en el seno de la Marina sueca y a la epoca de la Guerra Fria, en particular a la decada de los ochenta, cuando varios submarinos sovieticos fueron acusados de violar territorio sueco. Wallander comprende que esta a punto de desvelar un gran secreto cuyo alcance abarcaria toda la historia de Suecia tras la segunda guerra mundial. Pero una nube aun mas negra asoma por el horizonte.    /    The life of Inspector Kurt Wallander has changed slightly: not only he has realized his dream of owning a house in the countryside, but also, his daughter Linda made him a grandfather. However, their tranquility is disturbed shortly after a cold winter day in 2008, when the father-in-law of Linda, a senior official of the Swedish Navy called HÃ¥kan von Enke, disappears into a forest near Stockholm. Although research is led by Stockholm police, Wallander cannot help but getting involved, especially when a second person disappears under mysterious circumstances.</dc:description>
+        <dc:publisher>Spanish Pubs Llc</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788483831809</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2009-11-18T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Hombre inquieto, El" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Hombre inquieto, El - Henning Mankell.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

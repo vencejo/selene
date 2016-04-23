@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1465</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3342f851-fc8f-40b2-b8de-9846349016f1</dc:identifier>
+    <dc:title>Conde Cero</dc:title>
+        <dc:creator opf:file-as="Gibson, William" opf:role="aut">William Gibson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-09-14T16:00:00+00:00</dc:date>
+        <dc:description>La historia tiene lugar 8 años después de lo sucedido en 'Neuromante'. Turner, un mercenario profesional, es encargado de la extracción del científico Mitchel de la empresa Maas para llevarlo a la competencia, la Hosaka, otra empresa de investigación de biochips.
+ 
+  Al mismo tiempo, Marly, una marchante de arte caída en desgracia, es contratada por un excéntrico y misterioso multimillonario, Josef Virek, para encontrar al autor de una serie de obras de arte.
+ 
+  Para cerrar el círculo, en Barrytown, cerca de los Proyectos, Bobby Newmark, alias Conde Cero, experimenta un Wilson que casi lo mata al conectar en la matriz usando un bioware prestado por Dos-por-Dia, un traficante de soft de los Proyectos.</dc:description>
+        <dc:publisher>Minotauro</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788445074022</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-08-29T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Conde Cero" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Conde Cero - William Gibson.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba65bf2e-1af4-4025-bf92-01ddb7d15e80</dc:identifier>
+        <dc:title>Sangre derramada</dc:title>
+        <dc:creator opf:file-as="Larsson, Åsa" opf:role="aut">Åsa Larsson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.28) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-31T23:00:00+00:00</dc:date>
+        <dc:publisher>SEIX BARRAL</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788432228599</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="2010-11-23T17:52:35.552000+00:00" name="calibre:timestamp"/>
+        <meta content="Sangre derramada" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

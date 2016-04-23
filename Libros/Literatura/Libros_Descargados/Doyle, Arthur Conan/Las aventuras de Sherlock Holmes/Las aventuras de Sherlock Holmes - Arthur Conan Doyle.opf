@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2752</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e43c173-744d-4841-83ec-c42fa4e6b214</dc:identifier>
+    <dc:title>Las aventuras de Sherlock Holmes</dc:title>
+        <dc:creator opf:file-as="Doyle, Arthur Conan" opf:role="aut">Arthur Conan Doyle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1981-09-14T16:00:00+00:00</dc:date>
+        <dc:publisher>Bruguera</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788402079800</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-08T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Las aventuras de Sherlock Holmes" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Las aventuras de Sherlock Holmes - Arthur Conan Doyle.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

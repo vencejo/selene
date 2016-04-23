@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2700</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e9887ac-1324-4a3c-8c0a-10f33c47a164</dc:identifier>
+    <dc:title>La casa del alfabeto</dc:title>
+        <dc:creator opf:file-as="Adler-Olsen, Jussi" opf:role="aut">Jussi Adler-Olsen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-21T16:00:00+00:00</dc:date>
+        <dc:description>Enero, 1941. El avión de unos pilotos ingleses es derribado en Alemania. James y Bryan, dos supervivientes, logran llegar a la Casa del Alfabeto, un hospital psiquiátrico donde deben simular que son enfermos mentales. ¿Serán capaces de hacerlo sin convertirse en auténticos perturbados?</dc:description>
+        <dc:publisher>Editorial Planeta, S. A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408050285</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-21T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La casa del alfabeto" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La casa del alfabeto - Jussi Adler-Olsen.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

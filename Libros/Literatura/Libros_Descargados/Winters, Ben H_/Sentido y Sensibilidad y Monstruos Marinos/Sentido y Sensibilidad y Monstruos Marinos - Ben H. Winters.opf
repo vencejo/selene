@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">161</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0451c9d-9675-42c3-a56c-b90c046f923b</dc:identifier>
+    <dc:title>Sentido y Sensibilidad y Monstruos Marinos</dc:title>
+        <dc:creator opf:file-as="Winters, Ben H." opf:role="aut">Ben H. Winters</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-14T16:00:00+00:00</dc:date>
+        <dc:description>La popularísima novela de Jane Austen convertida en una enternecedora historia de amor con nuevas escenas pobladas de gigantescas langostas, pulpos voraces, serpientes marinas de dos cabezas y otros monstruos.
+
+Cuando las hermanas Dashwoods son expulsadas de su hogar, van a vivir a una isla llena de criaturas salvajes y oscuros secretos. Elinor, la más sensata de las dos, se enamora de Edward Ferrars, mientras a su hermana Marianne se la disputan el apuesto Willoughby y el temible coronel Brandon, mitad hombre y mitad monstruo. ¿Podrán las bellas hermanas encontrar el amor verdadero? ¿O caerán presas de los tentáculos que todo el tiempo intentan agarrarlas de los talones?
+
+De los creadores del éxito internacional Orgullo, prejuicio y zombis llega este magistral retrato de la Inglaterra de la Regencia que combina los mordaces apuntes sociales de Jane Austen con escenas ultraviolentas de monstruos surgidos de las profundidades el mar.
+
+Jane Austen es coautora del best-seller Orgullo y prejuicio y zombis, que ha sido traducido a casi veinte idiomas y que en breve será llevado al cine. Murió en 1817. Ben H. Winters es un escritor que reside en Brooklyn.</dc:description>
+        <dc:publisher>Umbriel</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788489367821</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-21T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Sentido y Sensibilidad y Monstruos Marinos" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Sentido y Sensibilidad y Monstruos Marinos - Ben H. Winters.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

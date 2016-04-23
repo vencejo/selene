@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd7310ca-99e2-4df6-af6f-dc71d4af02b8</dc:identifier>
+        <dc:title>El tiempo entre costuras</dc:title>
+        <dc:creator opf:file-as="Dueñas, María" opf:role="aut">María Dueñas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.28) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-03-31T22:00:00+00:00</dc:date>
+        <dc:publisher>Temas de Hoy</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788484607915</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="2010-11-23T17:52:41.636000+00:00" name="calibre:timestamp"/>
+        <meta content="El tiempo entre costuras" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

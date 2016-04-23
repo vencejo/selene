@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1145</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c1a92a7-ec88-452c-b301-035bd39e1909</dc:identifier>
+    <dc:title>Unos Por Otros</dc:title>
+        <dc:creator opf:file-as="Kerr, Philip" opf:role="aut">Philip Kerr</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-04-14T16:00:00+00:00</dc:date>
+        <dc:description>1949. Harto de ocuparse del hotel de su suegro situado a un paso del campo de concentración de Dachau, en Alemania, y con su esposa ingresada en un centro psiquiátrico, el sardónico detective Bernhard Gunther ha decidido ir tras los pasos de un famoso sádico, uno de los muchos espías de las SS capaz de infiltrarse en las filas de los aliados y encontrar refugio en América. Pero, como suele ocurrir, nada es lo que parece y Gunther se encontrará navegando en un mar mortal habitado por ex nazis que huyen de la persecución y de las organizaciones secretas que facilitan la huida a los verdugos del Tercer Reich.</dc:description>
+        <dc:publisher>RBA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788479013288</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Berlin Noir" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-04-16T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Unos Por Otros" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Unos Por Otros - Philip Kerr.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

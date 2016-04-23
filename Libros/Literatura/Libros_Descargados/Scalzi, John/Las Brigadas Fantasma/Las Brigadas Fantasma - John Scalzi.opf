@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">467</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98629945-bf13-4067-82fd-e12142a0eac0</dc:identifier>
+    <dc:title>Las Brigadas Fantasma</dc:title>
+        <dc:creator opf:file-as="Scalzi, John" opf:role="aut">John Scalzi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-09T16:00:00+00:00</dc:date>
+        <dc:description>Las Brigadas Fantasma son las Fuerzas Especiales de las Fuerzas de Defensa Coloniales; tropas de élite creadas a partir del ADN de los muertos y transformadas en soldados perfectos para las operaciones más duras. Son jóvenes, son rápidos y fuertes y carecen de escrúpulos humanos.
+
+El universo es un lugar peligroso para la humanidad y está a punto de serlo mucho más, ya que tres razas alienígenas se han aliado contra los humanos. Cuentan con un importante aliado: el científico militar Charles Boutin, que ha traicionado a la humanidad y ha desvelado los mayores secretos de las FDC. Para vencer, las FDC deberán averiguar qué ha llevado a Boutin a cometer semejante acto. La clave para resolver este enigma se llama Jared Dirac; un híbrido superhumano, creado a partir del ADN de Boutin y cuyo cerebro contiene la memoria del traidor. Pero el trasplante de memoria falla y Jared es trasladado a las Brigadas Fantasma. Allí se convierte en un soldado perfecto, hasta que los recuerdos de Boutin comienzan a manifestarse. Jared emprenderá entonces una búsqueda desesperada de su «padre» para obtener respuestas, pero el tiempo corre en su contra: la alianza está preparando su ofensiva y planean cosas peores que la mera derrota militar de la humanidad.
+
+«La secuela de La vieja guardia combina una acción trepidante con una aguda mirada a las cuestiones morales en torno al desarrollo tecnológico. Scalzi tiene un afinado sentido del equilibrio entre el drama personal y la acción. Altamente recomendable.»
+LIBRARY JOURNAL
+
+«Trepidante y divertida. Es descaradamente violenta e intensa, llena de intrépidos héroes que disparan a extraños y viscosos aliens, aunque al mismo tiempo tierna y profundamente humana.»
+DALLAS MORNING NEWS</dc:description>
+        <dc:publisher>Minotauro</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788445077078</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="Fuerzas de defensa coloniales" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="2010-06-09T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Las Brigadas Fantasma" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Las Brigadas Fantasma - John Scalzi.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

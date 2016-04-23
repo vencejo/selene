@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1177</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1e56c8c-1187-4ef5-9fd0-8f4a580365d5</dc:identifier>
+    <dc:title>La Cúpula</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-17T16:00:00+00:00</dc:date>
+        <dc:description>La cúpula. Un día de octubre la pequeña ciudad americana de Chester´s Mill se encuentra totalmente aislada por una cúpula transparente e impenetrable. Nadie sabe de dónde ha salido ni por qué está allí. Sólo saben que poco a poco se agotarán las provisiones y hasta el oxígeno que respiran. Es una soleada mañana de otoño en la pequeña ciudad de Chester´s Mill. Claudette Sanders disfruta de su clase de vuelo y Dale Barbara, Barbie para los amigos, hace autostop en las afueras. Ninguno de los dos llegará a su destino. De repente, una barrera invisible ha caído sobre la ciudad como una burbuja cristalina e inquebrantable. Al descender, ha cortado por la mitad a una marmota y ha amputado la mano a un jardinero. El avión que pilotaba Claudette ha chocado contra la cúpula y se ha precipitado al suelo envuelto en llamas. Dale Barbara, veterano de la guerra de Irak, ha de regresar a Chester´s Mill, el lugar que tanto deseaba abandonar. El ejército pone a Barbie al cargo de la situación pero Big Jim Rennie, el hombre que tiene un pie en todos los negocios sucios de la ciudad, no está de acuerdo: la cúpula podría ser la respuesta a sus plegarias. A medida que la comida, la electricidad y el agua escasean, los niños comienzan a tener premoniciones escalofriantes. El tiempo se acaba para aquellos que viven bajo la cúpula. ¿Podrán averiguar qué ha creado tan terrorífica prisión antes de que sea demasiado tarde? Una historia apocalíptica e hipnótica. Totalmente fascinante. Lo mejor de Stephen King.</dc:description>
+        <dc:publisher>Random House Mondadori</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401337529</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-06-17T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La Cúpula" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La Cupula - Stephen King.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1838</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3c325cf-de28-416d-835e-520d07f3cb37</dc:identifier>
+    <dc:title>Stonehenge</dc:title>
+        <dc:creator opf:file-as="Cornwell, Bernard" opf:role="aut">Bernard Cornwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-29T16:00:00+00:00</dc:date>
+        <dc:description>Hace unos cuatro mil años, una tribu del sudoeste de Gran Bretaña llevó a cabo una de las mayores hazañas arquitectónicas de todos los tiempos: Stonehenge, un santuario hecho a base de inmensos bloques de piedra traídos de tierras lejanas. La grandiosidad de la obra ha dejado perplejos a los investigadores a lo largo de los siglos. ¿Qué llevó a aquellos hombres a acometer semejante empresa? ¿Cuáles eran sus nombres, sus motivaciones, sus dioses? En este libro se responde a éstas y muchas otras preguntas.</dc:description>
+        <dc:publisher>Celesa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788435018265</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-07-25T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Stonehenge" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Stonehenge - Bernard Cornwell.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

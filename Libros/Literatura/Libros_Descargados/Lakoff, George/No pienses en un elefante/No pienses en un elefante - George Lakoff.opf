@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1231</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f0e5034-3223-429a-938d-6944b6c264cf</dc:identifier>
+    <dc:title>No pienses en un elefante</dc:title>
+        <dc:creator opf:file-as="Lakoff, George" opf:role="aut">George Lakoff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-30T16:00:00+00:00</dc:date>
+        <dc:description>¿Cómo enfrentar los avances políticos y electorales de la derecha norteamericana desde los tiempos de Ronald Reagan? ¿Por qué se han producido? Según el reputado lingüista G. Lakoff, por la capacidad de los estrategas republicanos de activar estructuras mentales inconscientes, que mueven nuestros comportamientos y nos impiden atender a la racionalidad de nuestros intereses, o a los meros datos de la realidad.  Breve e informal, ¡No pienses en un elefante! (el elefante es el símbolo del Partido Republicano) utiliza y difunde las investigaciones del Instituto Rockridge, único think tank progresista comprometido actualmente en los Estados Unidos con la tarea de un profundo cambio social a través del cambio de los marcos de referencia.</dc:description>
+        <dc:publisher>Editorial Complutense, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788474918137</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-30T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="No pienses en un elefante" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="No pienses en un elefante - George Lakoff.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

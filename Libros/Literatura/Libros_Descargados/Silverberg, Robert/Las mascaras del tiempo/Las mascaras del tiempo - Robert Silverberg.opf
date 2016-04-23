@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">398</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6416cbac-d81e-49a4-8ecb-3452b5eddec2</dc:identifier>
+    <dc:title>Las máscaras del tiempo</dc:title>
+        <dc:creator opf:file-as="Silverberg, Robert" opf:role="aut">Robert Silverberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1990-06-14T16:00:00+00:00</dc:date>
+        <dc:description>Es la tarde del día de Navidad cuando Vornan-19 cae del cielo y aterriza, completamente desnudo, en las escaleras de la PLaza de España de Roma.
+Es el año 1999. El siglo está a punto de cambiar, y el mundo se halla al borde de la histeria de masas, aferrado por apocalípticas visiones de la inminente condenación del Hombre. En estas explosivas circustanscias, Vornan-19, hipnóticamente carismático, declara públicamente ser un viajero del año 2999.
+EL mundo, por supuesto, está esperando una señal, un profecía. Vornan-19 puede serlo. Pero, ¿es realmente el nuevo Mesías? ¿O es más bien un instrumento del mas despiadado y devastador Mal?</dc:description>
+        <dc:publisher>Ultramar</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788473865630</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-06-09T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Las máscaras del tiempo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Las mascaras del tiempo - Robert Silverberg.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

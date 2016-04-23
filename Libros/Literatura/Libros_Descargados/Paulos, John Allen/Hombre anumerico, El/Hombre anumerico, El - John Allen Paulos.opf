@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">825</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0ff7b09-8f01-4a0c-bfa1-6ee9ee1248e5</dc:identifier>
+    <dc:title>Hombre anumérico, El</dc:title>
+        <dc:creator opf:file-as="Paulos, John Allen" opf:role="aut">John Allen Paulos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-05T16:00:00+00:00</dc:date>
+        <dc:description>En este brillante ensayo, al alcance de cualquier lector, el matemático norteamericano John Allen Paulos nos revela cómo nuestra incapacidad para aprehender la ley de los grandes números, y todas las probabilidades que conllevan, desinforman políticas de gobierno, confunden decisiones personales y aumentan nuestra vulnerabilidad ante todo tipo de seudociencias.
+¿Por qué sabemos tan pocas matemáticas ? ¿Es voluntaria o no esa resistencia nuestra a comprender ese aspecto siempre más presente en nuestra vida diaria ? ¿Cuál es el coste social e individual de esta ignorancia ? Para que entendamos mejor sus argumentos sobre los grandes números y las probabilidades el autor recurre a divertidas y cotidianas anécdotas ilustrativas. Comprendemos entonces sin esfuerzo por qué nos empeñamos en jugar a la lotería o en acudir a astrólogos y adivinos, por qué suspendemos viajes por temor a atentados terroristas, no sabemos cuadrar una cuenta bancaria o pensamos que poco importa un billón de pesetas de más o de menos en los presupuestos del Estado, por qué perdemos tanto tiempo en nimiedades y cometemos tantas torpezas evitables.</dc:description>
+        <dc:publisher>TusQuets</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788472236462</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>divulgación científica</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2009-07-05T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Hombre anumérico, El" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Hombre anumerico, El - John Allen Paulos.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

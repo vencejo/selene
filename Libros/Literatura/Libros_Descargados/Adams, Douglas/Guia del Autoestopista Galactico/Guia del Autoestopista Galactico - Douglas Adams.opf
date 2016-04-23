@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">46464e32-5561-4120-927b-7cb4b0409a58</dc:identifier>
+    <dc:title>Guía del Autoestopista Galáctico</dc:title>
+        <dc:creator opf:file-as="Adams, Douglas" opf:role="aut">Douglas Adams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-28T16:00:00+00:00</dc:date>
+        <dc:description>Un jueves a la hora de comer, la Tierra es demolida para poder construir una nueva autopista hiperespacial. Arthur Dent, un tipo que esa misma mañana ha visto cómo echaban abajo su propia casa, considera que eso supera lo que una persona puede soportar. Arthur huirá de la Tierra junto a un amigo suyo, Ford Prefect, que resultará ser un extraterrestre emparentado con Zaphod Beeblebrox, un pirata esquizoide de dos cabezas, en cuya nave conocerá al resto de personajes que lo acompañarán: un androide paranoide y una terrícola que, como él, ha logrado escapar. Douglas Adams fue el creador de toda una serie de manifestaciones de la Guía del autoestopista galáctico: primero fue novela radiofónica, luego se convirtió en libro, series televisivas y teatrales, un juego de ordenador, cómics y toallas de baño. La película ascendió hasta las cumbres de la producción cinematográfica. Esta edición cuenta con entrevistas y materiales a partir del rodaje de la misma.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788433973108</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="Guía del Autoestopista Galáctico" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-06-28T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Guía del Autoestopista Galáctico" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Guia del Autoestopista Galactico - Douglas Adams.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

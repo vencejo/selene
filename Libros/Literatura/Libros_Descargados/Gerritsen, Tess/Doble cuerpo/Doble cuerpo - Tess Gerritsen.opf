@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1610</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c97b1b0-eb80-40e9-897e-54a3da8cf8ce</dc:identifier>
+    <dc:title>Doble cuerpo</dc:title>
+        <dc:creator opf:file-as="Gerritsen, Tess" opf:role="aut">Tess Gerritsen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-04T16:00:00+00:00</dc:date>
+        <dc:description>La doctora Maura Isles se gana la vida relacionándose con la muerte. En calidad de patóloga de una gran área metropolitana, ha visto más cadáveres de lo que desearía, muchos de ellos víctimas de crímenes violentos. Sin embargo, nunca se le había helado la sangre: nunca había sido suyo el cuerpo sin vida expuesto en la mesa del forense. El cadáver hallado frente a la casa de Maura es la viva imagen de la doctora, incluso en los detalles físicos más íntimos. Pero más aterrador resulta el descubrimiento de que Maura y la mujer asesinada comparten la misma fecha de nacimiento y el mismo tipo de sangre. Para Maura, que es hija única, sólo cabe una explicación. Cuando la prueba de ADN confirma que su misteriosa doble es su hermana gemela, una investigación criminal ya fuera de lo normal se convierte en una turbadora y peligrosa incursión en un pasado lleno de secretos.</dc:description>
+        <dc:publisher>RBA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788478719648</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Jane Rizzoli" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="2010-04-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Doble cuerpo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Doble cuerpo - Tess Gerritsen.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

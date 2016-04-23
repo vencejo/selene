@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">888</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">042306c1-7d39-4660-897f-cf9dfe6d16ae</dc:identifier>
+    <dc:title>La Segunda Vida De Bree Tanner</dc:title>
+        <dc:creator opf:file-as="Meyer, Stephenie" opf:role="aut">Stephenie Meyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-16T16:00:00+00:00</dc:date>
+        <dc:description>La segunda vida de Bree Tanner narra la historia de un vampiro creado por Stephenie Meyer para Eclipse, la tercera entrega de la Saga Crepúsculo.
+La segunda vida de Bree Tanner es la fascinante historia de este vampiro y del lado más oscuro del mundo en el que habita. La novela recrea el nacimiento del nuevo ejército de vampiros que tiene como única misión ir al encuentro de la indefensa Bella Swan y de la indestructible familia Cullen.
+Bree Tanner no sólo es una figura prominente en el libro de Eclipse, sino que también lo será en la película basada en este volumen de la Saga Crepúsculo, producida por Summit Entertainment.</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788420406268</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Twilight" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="2010-06-16T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La Segunda Vida De Bree Tanner" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La Segunda Vida De Bree Tanner - Stephenie Meyer.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

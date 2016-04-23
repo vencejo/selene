@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1845</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3b56878a-4296-4535-bf82-e957df811452</dc:identifier>
+    <dc:title>El bailarín de la Muerte</dc:title>
+        <dc:creator opf:file-as="Deaver, Jeffery" opf:role="aut">Jeffery Deaver</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-11-14T16:00:00+00:00</dc:date>
+        <dc:description>A pesar de que un accidente le haya dejado paralítico, Lincoln Rhyme, el protagonista de El coleccionista de huesos, sigue siendo uno de los mejores criminalistas del mundo. Se le considera el único que podría frenar a un asesino muy particular, apodado El Bailarín. Es un matón a sueldo que cambia su aspecto con una rapidez asombrosa. Sólo dos de sus víctimas han podido dar una pista: lleva en un brazo un tatuaje de la Muerte bailando con una mujer delante de un féretro. Su arma más peligrosa es el conocimiento de la naturaleza humana, que maneja sin piedad. Rhyme y su ayudante, Amelia Sacha, se involucran en una partida estratégica contra 'el bailarín de la muerte' El cerebro de Rhyme y las piernas de Amelia se convierten en los únicos instrumentos para perseguir al asesino por todo Nueva York. Sólo tienen cuarenta y ocho horas antes de que El bailarín vuelva a matar.</dc:description>
+        <dc:publisher>Punto De Lectura</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466368513</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-03-24T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El bailarín de la Muerte" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El bailarin de la Muerte - Jeffery Deaver.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

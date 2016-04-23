@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2750</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e103d34-8c81-4cbc-bba8-4fa92d12daf1</dc:identifier>
+    <dc:title>Hacia Rutas Salvajes</dc:title>
+        <dc:creator opf:file-as="Krakauer, Jon" opf:role="aut">Jon Krakauer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-03-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+In April 1992 a young man from a well-to-do family hitchhiked to Alaska and walked alone into the wilderness north of Mt. McKinley. His name was Christopher Johnson McCandless. He had given $25,000 in savings to charity, abandoned his car and most of his possessions, burned all the cash in his wallet, and invented a new life for himself. Four months later, his decomposed body was found by a moose hunter.</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788498721621</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-08T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Hacia Rutas Salvajes" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Hacia Rutas Salvajes - Jon Krakauer.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

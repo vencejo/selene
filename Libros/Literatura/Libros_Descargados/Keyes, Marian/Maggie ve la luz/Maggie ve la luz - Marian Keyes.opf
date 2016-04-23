@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1153</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bcae40cd-ccda-4670-9b87-52953ca3ec44</dc:identifier>
+    <dc:title>Maggie ve la luz</dc:title>
+        <dc:creator opf:file-as="Keyes, Marian" opf:role="aut">Marian Keyes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-15T06:59:12+00:00</dc:date>
+        <dc:description>Me llamo Maggie, tengo treinta y tres años y llevo nueve casada con Garv (le llamo así, pero no es su nombre). Siempre he sido la buena de mi familia, la sensata, no como mis dos hermanas. Sobre ellas se podrían escribir novelas enteras, pero este no es el lugar. Garv fue mi primer novio y mi madre siempre se lo va contando a todo el mundo, «que Maggie no era una de esas que salen cada noche con otro chico», etc., etc., y cosas por el estilo.
+  Bueno, como te decía, yo era muy sensata hasta que un día lo vi todo diferente y dejé a Garv para ir a vivir a Hollywood con mi amiga Emily.
+  ¿Por qué?, estás pensando. Bueno, ahora tienes que empezar a leer el libro. (¡Cómpralo antes, porfa!) Pero solo te digo que tenía mis razones, no me dio ningún ataque de locura…</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788497930833</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2009-02-15T06:59:12+00:00" name="calibre:timestamp"/>
+        <meta content="Maggie ve la luz" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Maggie ve la luz - Marian Keyes.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

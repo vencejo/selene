@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2739</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">55e070c9-e2a5-4c86-a0d3-3b3c71f62d24</dc:identifier>
+    <dc:title>Ciudad infernal</dc:title>
+        <dc:creator opf:file-as="Lee, Edward" opf:role="aut">Edward Lee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-09-07T16:00:00+00:00</dc:date>
+        <dc:description>Cassie, una joven gótica, se ha visto apartada de sus amigos y arrancada de su vida en las entrañas de la ciudad, mientras su hermana se suicidaba. La vieja residencia sureña de antes de la guerra es algo más que una casa. Es un umbral al Paso de los Muertos, un lugar infernal en el que puedes abrir una puerta y entrar directamente al Infierno. Y eso es justo lo que hace Cassie. Es una pena que la puerta se cierre detrás de ella...
+
+Pero el Infierno no es precisamente como ella se esperaba. No hay pozos con azufre hirviente, ni fuego eterno. Así como la civilización humana ha evolucionado en estos últimos cinco mil años, lo mismo ha ocurrido allí. El Averno es ahora una ciudad, una metrópolis pujante llena de maldad sistematizada, con la atrocidad como statu quo y su gobierno como estructura más diabólica.</dc:description>
+        <dc:publisher>La Factoría de Ideas</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788498002348</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>terror</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-07T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Ciudad infernal" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Ciudad infernal - Edward Lee.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

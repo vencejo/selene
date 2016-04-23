@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">976</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9804dc01-a6c3-404d-b1ec-564bd329c74c</dc:identifier>
+    <dc:title>Soy un Gato</dc:title>
+        <dc:creator opf:file-as="Natsume, Soseki" opf:role="aut">Soseki Natsume</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-22T16:00:00+00:00</dc:date>
+        <dc:description>«Soy un gato, aunque todavía no tengo nombre.» Así comienza la primera y más hilarante novela de Natsume Soseki, una auténtica obra maestra de la literatura japonesa, que narra las aventuras de un desdeñoso felino que cohabita, de modo accidental, con un grupo de grotescos personajes, miembros todos ellos de la bienpensante clase media tokiota: el dispéptico profesor Kushami y su familia, teóricos dueños de la casa donde vive el gato; el mejor amigo del profesor, el charlatán e irritante Meitei; o el joven estudioso Kangetsu, que día sí, día no, intenta arreglárselas para conquistar a la hija de los vecinos. Escrita justo antes de su aclamada novela &lt;b&gt;Botchan, Soy un gato&lt;/b&gt; es una sátira descarnada de la burguesía Meiji. Dotada de un ingenio a prueba de bombas y de un humor sardónico, recorre las peripecias de un voluble filósofo gatuno que no se cansa de hacer los comentarios más incisivos sobre la disparatada tropa de seres humanos con la que le ha tocado convivir.</dc:description>
+        <dc:publisher>Impedimenta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788493760151</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2010-06-22T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Soy un Gato" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Soy un Gato - Soseki Natsume.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

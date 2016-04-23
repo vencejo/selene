@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1424</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3244c2fa-f8ca-4d3f-b07c-9ed324ded17c</dc:identifier>
+    <dc:title>La llegada</dc:title>
+        <dc:creator opf:file-as="Haldeman, Joe" opf:role="aut">Joe Haldeman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-07-18T16:00:00+00:00</dc:date>
+        <dc:description>A finales de 2054, la astrónoma Aurora "Rory" Bell descubre un mensaje procedente del espacio exterior en el que se anuncia la llegada de una nave extraterrestre. Tras viajar a velocidad casi lumínica, la nave ya ha empezado a decelerar para, según los cálculos realizados, llegar a la Tierra el día de Año Nuevo. Ante el fenómeno de una imprevista "llegada" de extraterrestres poseedores de una tecnología inimaginable o, tal vez, como sugiere un político, del mítico Segundo Advenimiento de Jesucristo, las reacciones humanas son variadas e imprevisibles. En manos de un escritor de gran calidad como Joe Haldeman, el pequeño microcosmos de la ciudad estadounidense de Gainesville (Florida, EE.UU.) se convierte en un rico mosaico de personajes y de las ambiciones y temores que compendian la esencia de lo que nos hace humanos.</dc:description>
+        <dc:publisher>EDICIONES B, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466606202</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-07-18T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La llegada" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La llegada - Joe Haldeman.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

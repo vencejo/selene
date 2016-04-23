@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1033</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">67db6201-ac48-458a-806c-78d902319f6f</dc:identifier>
+    <dc:title>El Confín del Mundo</dc:title>
+        <dc:creator opf:file-as="Manfredi, Valerio Massimo" opf:role="aut">Valerio Massimo Manfredi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-09T16:00:00+00:00</dc:date>
+        <dc:description>El ejército macedonio se adentra en Babilonia y asesta el golpe final al secular Imperio Persa. Alejandro aspira a convertirse el mundo conocido en una sola nación bajo su mando, pero pocos comparten su sueño. Se urden conjuras, y el rey se ve arrastrado hacia una vorágine de violencia. Sólo el amor de Roxana puede aliviar su soledad. Ella le infundirá el valor necesario para llegar a la India misteriosa y luego la fuerza para buscar el camino de retorno.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788447317172</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="Aléxandros" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-10-09T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Confín del Mundo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Confin del Mundo - Valerio Massimo Manfredi.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

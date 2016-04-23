@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">fb5c1682-ad7e-4589-b946-cf403872fb60</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">708ac122-5414-44cf-9448-ef310cd54653</dc:identifier>
+        <dc:title>La leona blanca</dc:title>
+        <dc:creator opf:file-as="Mankell, Henning" opf:role="aut">Henning Mankell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.28) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-26T22:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="2010-11-23T17:52:43.726000+00:00" name="calibre:timestamp"/>
+        <meta content="La leona blanca" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

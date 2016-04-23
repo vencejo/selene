@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1846</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf873c14-fe1a-4238-bc19-57ec81d940c7</dc:identifier>
+    <dc:title>El Jardín de las Fieras</dc:title>
+        <dc:creator opf:file-as="Deaver, Jeffery" opf:role="aut">Jeffery Deaver</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-02-28T16:00:00+00:00</dc:date>
+        <dc:description>Berlín 1936: Un matón de la mafia es contratado para asesinar al lugarterniente de Hitler
+ 
+  El protagonista de esta historia es Paul Schumann, un matón de la mafia de Nueva York, conocido por su sangre fría y su “profesionalidad”.
+ 
+  Sin embargo, sin que él lo sepa, está en el punto de mira de los servicios secretos de su país: acorralado, tendrá que escoger entre pudrirse en la cárcel o aceptar un “trabajo” prácticamente imposible: asesinar al lugarteniente de Hitler que está dirigiendo el plan para rearmar Alemania.
+ 
+  En cuanto Schumann llega al Berlín de las olimpiadas del 36, los bien trazados planes del Gobierno de Estados Unidos comienzan a torcerse cuando el mejor y más implacable detective de la policía alemana se lance en persecución del sicario americano.
+ 
+  A medida que se va desarrollando la trama, los dos hombres comprenderán que la mayor amenaza que se cierne sobre ellos y sus es el irrefrenable ascenso de los nazis.
+ 
+  Jeffery Deaver consigue atrapar al lector desde la primera página de esta trepidante novela, atípica en su trayectoria, pero consecuente con su talento.</dc:description>
+        <dc:publisher>Alfaguara S.A. de Ediciones</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789870406525</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-03-19T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Jardín de las Fieras" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Jardin de las Fieras - Jeffery Deaver.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">877</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">309fb45f-6316-47e5-afd8-52ee16de8e42</dc:identifier>
+    <dc:title>La aventura del tocador de señoras</dc:title>
+        <dc:creator opf:file-as="Mendoza, Eduardo" opf:role="aut">Eduardo Mendoza</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-15T16:00:00+00:00</dc:date>
+        <dc:description>Algo más que entrado en años, pero igual de estrambótico, nuestro antiguo conocido, el personaje que protagonizó "El misterio de la cripta embrujada" y "El laberinto de las aceitunas", abandona definitivamente el manicomio en el que lleva décadas confinado, con la idea de encauzar su vida. No se espera de él que resuelva enigma alguno, pero su destino le llevará a hacerlo. Tampoco la ciudad que lo aguarda es la Barcelona cambiante de la transición o la todavía en embullición de comienzos de los años ochenta: nos encontramos en la resaca postolímpica, en un mundo turbio y complejo cuyas leyes permanecen tan inescrutables para el improvisado sabueso como las de antaño. Sin más recursos que su instinto, ha de encararse en una malla de lianas invisibles, aunque mortíferas, que tejen un entramado de crimen y corrupción.</dc:description>
+        <dc:publisher>Seix Barral, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788422691358</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La aventura del tocador de señoras" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La aventura del tocador de senoras - Eduardo Mendoza.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

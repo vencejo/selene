@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2415</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3df6294e-5a46-4738-9ae4-16ec2d50ebc8</dc:identifier>
+    <dc:title>Palacio de la Luna, El</dc:title>
+        <dc:creator opf:file-as="Auster, Paul" opf:role="aut">Paul Auster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-03T16:00:00+00:00</dc:date>
+        <dc:description>Después de acabar la universidad Marco Stanley Fogg va dejándose caer, sin ningún motivo especial, en una especie de apatía absoluta quelo lleva a perder el contacto con todos sus amigos ya no intentar tansiquiera encontrar un trabajo que le permita vivir, por lo que pronto termina desahuciado y viviendo en Central Park de lo que encuentra y delo que le da alguna gente que se apiada de él.
+Gravemente enfermo, lo encuentran y lo salvan de la muerte y de su estado de apatía su antiguo compañero de piso David Zimmer y Kitty Wu,una chica que conoció por casualidad pero a la que dejó impresionada pos su lamentable estado.
+Tras reponerse Marco decide ponerse las pilas y buscar un trabajo que le permita ganarse la vida y dejar de depender de la caridad de David, y así empieza a trabajar para Thomas Effing, un viejo pintor paralítico y ciego que quiere escribir su biografía para dejársela como herencia a un hijo que no conoce.
+A partir de ahí, en un argumento típico de Auster, el pasado de los protagonistas vuelve para acosarlos, y las casualidades y la fortuna intervienen para hacer que las cosas se muevan en sentidos insospechados y que al final sea el propio Marco el que acaba descubriendo cosas de su pasado que ignoraba, incluida la identidad desu padre.
+Una novela que sin duda encantará a cualquier seguidor de Auster, con la gracia añadida de que el David Zimmer que aquí echa una mano a Marco es el que protagoniza El libro de las ilusiones.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788433914545</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="2008-10-03T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Palacio de la Luna, El" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Palacio de la Luna, El - Paul Auster.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

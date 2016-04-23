@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">702</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e93f1f5-37fd-4058-8a81-2f3dc408eecb</dc:identifier>
+    <dc:title>MD 13: Dioses Menores</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-01-14T16:00:00+00:00</dc:date>
+        <dc:description>El país de Omnia está gobernado por una casta sacerdotal corrupta, monoteísta y que se dedica a controlar e intimidar a sus gentes así como conquistar a los diferentes países fronterizos con Omnia a la mayor gloria del dios Om. Esto es así hasta que el gran dios Om escoge a un elegido para manifestarse ante él. El elegido es un joven novicio analfabeto e inocentón, Brutha.</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401329104</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>fantasía</dc:subject>
+        <meta content="mundodisco" name="calibre:series"/>
+        <meta content="13" name="calibre:series_index"/>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2008-07-05T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="MD 13: Dioses Menores" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="MD 13_ Dioses Menores - Terry Pratchett.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1833</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">78aafa84-722b-4938-97fc-85e39016de75</dc:identifier>
+    <dc:title>La Biblioteca De Los Muertos</dc:title>
+        <dc:creator opf:file-as="Cooper, Glenn" opf:role="aut">Glenn Cooper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-14T16:00:00+00:00</dc:date>
+        <dc:description>Bretaña, año 777. En la abadía de Vectis crece Octavus, un niño sobre el que pesa una maldición: es el séptimo hijo engendrado por un séptimo hijo y la leyenda le vaticina poderes diabólicos. Octavus comienza a escribir una lista con fechas y nombres sin sentido. Cuando uno de los nombres y su fecha coinciden con una muerte en la abadía, el miedo se apodera de los monjes. Siglos después, los miembros de la Orden de los Nombres, descendientes todos de aquel niño, siguen escribiendo sin descanso para completar un misterioso listado de nombres y fechas... Hasta que empiezan a suicidarse.
+    Estados Unidos, en la actualidad. Nueve personas han aparecido muertas en Nueva York, desconocidos que nada tenían en común. Solo una cosa les unía: todas las víctimas recibieron postales de ataúdes, que anunciaban el día en que morirían, poco antes de su fallecimiento. Son las aparentes víctimas de un asesino en serie difícil de atrapar, cuyas muertes desafían toda lógica...</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788425343902</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-20T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La Biblioteca De Los Muertos" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La Biblioteca De Los Muertos - Glenn Cooper.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

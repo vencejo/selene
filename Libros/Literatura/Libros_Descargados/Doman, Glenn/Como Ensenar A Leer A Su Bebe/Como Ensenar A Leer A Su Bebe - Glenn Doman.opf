@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1673</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bccc0ee0-6835-43eb-a468-18ee8877019f</dc:identifier>
+    <dc:title>Cómo Enseñar A Leer A Su Bebe</dc:title>
+        <dc:creator opf:file-as="Doman, Glenn" opf:role="aut">Glenn Doman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-11T16:00:00+00:00</dc:date>
+        <dc:description>Escrito para los padres, este emocionante libro nos presenta una idea revolucionaria: los niños son muchisimo mas inteligentes de los que sospechamos. De hecho, hemos desaprovechado las edades más indicadas de nuestros hijos al no permitirles aprender, de manera simultanea, todo lo que son capaces en las edad en la que mas facilmente se aprende la información.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788441407442</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>pedagogía</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2008-06-11T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Cómo Enseñar A Leer A Su Bebe" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Como Ensenar A Leer A Su Bebe - Glenn Doman.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

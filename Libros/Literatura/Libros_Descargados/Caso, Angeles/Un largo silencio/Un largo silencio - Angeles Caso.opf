@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2212</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1ebfb0ea-6b87-441a-9859-1a3d1acadee6</dc:identifier>
+    <dc:title>Un largo silencio</dc:title>
+        <dc:creator opf:file-as="Caso, Ángeles" opf:role="aut">Ángeles Caso</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-13T16:00:00+00:00</dc:date>
+        <dc:description>Finalizada la guerra civil, una mujer con sus hijas y nieta regresa a su ciudad natal, donde se encuentra con el desolador paisaje que deja la guerra. Premio de Novela Fernando Lara 2000.
+ 
+  Finalizada la guerra civil española, una mujer cuyo marido e hijo pertenecieron al bando republicano regresa a la ciudad de provincias en la que había transcurrido su vida hasta el inicio del conflicto. Sus hijas y su nieta de pocos años la acompañan en el difícil regreso. Como si de un fatal presagio se tratara, un fuerte aguacero recibe a ese grupo de mujeres, cansadas, débiles, derrotadas, pero en cuyas miradas late, sin embargo, toda la voluntad y el deseo de salir adelante de los supervivientes.
+  Salvo la niña, todas han perdido mucho, quizá demasiado, con la guerra. En breve, los vencedores comenzarán a dejarles claro que tampoco podrán recuperar nada de cuanto aún creían poseer, desde la casa familiar, que les ha sido usurpada, hasta la belleza de sus sueños. La derrota no sólo ha sido total: debe ser continua.
+  Un largo silencio profundiza en uno de los episodios más terribles de nuestra historia reciente desde la mirada, lúcida e inerme, con que una serie de mujeres, muy distintas entre sí, observan un mismo y desolado paisaje ante el que no cabe más refugio que el recuerdo, ni más gesto que la claudicación.</dc:description>
+        <dc:publisher>Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408036401</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2009-02-13T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Un largo silencio" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Un largo silencio - Angeles Caso.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2206</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f4e9384-e8f0-4307-afe9-8b8812baf150</dc:identifier>
+    <dc:title>Alicia en el país de las maravillas</dc:title>
+        <dc:creator opf:file-as="Carroll, Lewis" opf:role="aut">Lewis Carroll</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-10T16:00:00+00:00</dc:date>
+        <dc:description>Escrito en 1865, Alicia en el País de las Maravillas es un clásico no sólo de la literatura juvenil, sino de la literatura en general. Popularizado por las decenas de versiones que de él se han llevado a cabo, el relato que el reverendo Charles Dodgson, verdadero nombre de Lewis Carrol, escribiera para la niña Alicia Liddell, de diez años, es un delicioso entramado de situaciones verosímiles y absurdas, metamorfosis insólitas de seres y ambientes, juegos con el lenguaje y con la lógica y asociaciones oníricas que hacen de él un libro inolvidable.</dc:description>
+        <dc:publisher>Plaza y Janés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401423338</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>fantasía</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2008-07-10T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Alicia en el país de las maravillas" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Alicia en el pais de las maravillas - Lewis Carroll.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

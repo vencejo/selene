@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f034986-6ea3-41e1-a92b-3c033b30545a</dc:identifier>
+        <dc:title>El guardián entre el centeno</dc:title>
+        <dc:creator opf:file-as="Salinger, J.D." opf:role="aut">J.D. Salinger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.28) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-23T17:52:37.379000+00:00</dc:date>
+        <dc:identifier opf:scheme="ISBN">9788420660851</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="2010-11-23T17:52:37.379000+00:00" name="calibre:timestamp"/>
+        <meta content="El guardián entre el centeno" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

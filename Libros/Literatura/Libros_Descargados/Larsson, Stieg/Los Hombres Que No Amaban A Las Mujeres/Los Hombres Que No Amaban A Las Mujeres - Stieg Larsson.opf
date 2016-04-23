@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1242</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fbd2883d-136a-489e-9796-c1c7c835a9ca</dc:identifier>
+    <dc:title>Los Hombres Que No Amaban A Las Mujeres</dc:title>
+        <dc:creator opf:file-as="Larsson, Stieg" opf:role="aut">Stieg Larsson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-13T16:00:00+00:00</dc:date>
+        <dc:description>Harriet Vanger desapareció hace treinta y seis años en una isla sueca propiedad de su poderosa familia. A pesar del despliegue policial, no se encontró ni rastro de la muchacha. ¿Se escapó? ¿Fue secuestrada? ¿Asesinada? El caso está cerrado y los detalles olvidados. Pero su tío Henrik Vanger, un empresario retirado, vive obsesionado con resolver el misterio antes de morir. En las paredes de su estudio cuelgan cuarenta y tres flores secas y enmarcadas. Las primeras siete fueron regalos de su sobrina; las otras llegaron puntualmente para su cumpleaños, de forma anónima, desde que Harriet desapareció. Mikael Blomkvist acepta el extraño encargo de Vanger de retomar la búsqueda de su sobrina. Periodista de investigación y alma de la revista Millennium, dedicada a sacar a la luz los trapos sucios de la política y las finanzas, Blomkvist está vigilado y encausado por una querella por difamación y calumnia presentada por un gran grupo industrial que amenaza con arruinar su carrera y su reputación. Contará con la colaboración inesperada de Lisbeth Salander, una peculiar investigadora privada, socialmente inadaptada, tatuada y llena de piercings, y con extraordinarias e insólitas cualidades.
+Así empieza esta magnífica novela que es la crónica de los conflictos de una familia, un fascinante fresco del crimen y del castigo, de perversiones sexuales y trampas financieras; un entramado violento y amenazante en el que, no obstante, crecerá una tierna y frágil historia de amor entre dos personajes absolutamente inolvidables.</dc:description>
+        <dc:publisher>Destino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423340446</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela negra</dc:subject>
+        <meta content="millennium" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2008-12-13T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Los Hombres Que No Amaban A Las Mujeres" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Los Hombres Que No Amaban A Las Mujeres - Stieg Larsson.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

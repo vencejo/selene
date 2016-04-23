@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">430</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1dae64c6-9a94-4c12-8871-99d75c033452</dc:identifier>
+    <dc:title>Botchan</dc:title>
+        <dc:creator opf:file-as="Natsume, Soseki" opf:role="aut">Soseki Natsume</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-14T16:00:00+00:00</dc:date>
+        <dc:description>Botchan  es un indiscutible clásico de la moderna literatura japonesa y, desde hace más de cien años, una de las novelas más celebradas por los lectores de aquel país. Considerada el &lt;i&gt;Huckleberry Finn&lt;/i&gt; nipón, y comparada también con &lt;i&gt;El guardián entre el centeno&lt;/i&gt;, narra las aventuras de Botchan, un joven tokiota descreído y cínico, alter ego de Soseki, al que mandan como profesor a una escuela rural situada en la remota isla de Shikoku. En su nuevo destino pronto se topará con una serie de insólitos personajes, como el jefe de estudios «Camisarroja» o el «Calabaza», un triste profesor de ciencias de aspecto enfermizo y ánimo sombrío. Pero sobre todo se verá obligado a hacer frente a una auténtica caterva de fieros alumnos asilvestrados, que se consagrarán a hacerle la vida imposible.</dc:description>
+        <dc:publisher>Impedimenta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788493592776</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2010-06-23T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Botchan" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Botchan - Soseki Natsume.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">807</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7169e2fa-b242-450b-90b6-4cb2a7b5c307</dc:identifier>
+    <dc:title>Los ojos amarillos de los cocodrilos</dc:title>
+        <dc:creator opf:file-as="Pancol, Katherine" opf:role="aut">Katherine Pancol</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-31T16:00:00+00:00</dc:date>
+        <dc:description>Esta novela sucede en París, pero nos encontramos con cocodrilos. Esta novela habla de hombres. Y de mujeres. Las mujeres que somos, las que querríamos ser, las que nunca seremos y aquellas que quizás seamos algún día. Esta novela es la historia de una mentira. Pero también es una historia de amor, de amistad, de traición, de dinero, de sueños. Esta novela está llena de risas y de lágrimas. Esta novela es como la vida misma. Josephine tiene cuarenta años, está casada y tiene dos hijas, Hortense y Zoe. Es consciente de que su matrimonio ha fracasado, pero sus inseguridades le impiden tomar una decisión. A Antoine, su marido, le despidieron hace un año de la armería de caza donde trabajaba y desde entonces se dedica a languidecer en el apartamento y a engañar a su mujer. La discusión que provocará la separación del matrimonio de Josephine y Antoine es el punto de partida de una serie de acontecimientos, más o menos relacionados, en los que se verán envueltos otros personajes, como Iris, la guapísima hermana mayor de Josephine; la glamurosa y gélida madre de ambas, Henriette, casada en segundas nupcias con el millonario Marcel Gorsz; la misteriosa Shirley, la vecina...</dc:description>
+        <dc:publisher>La Esfera de los Libros</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788497349239</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-28T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Los ojos amarillos de los cocodrilos" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Los ojos amarillos de los cocodrilos - Katherine Pancol.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

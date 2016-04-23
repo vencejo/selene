@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">898</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b8be8e7e-365e-4087-8ba3-e28bfd24edac</dc:identifier>
+    <dc:title>Trópico de Capricornio</dc:title>
+        <dc:creator opf:file-as="Miller, Henry" opf:role="aut">Henry Miller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1939-07-14T16:00:00+00:00</dc:date>
+        <dc:description>Las experiencias sexuales, laborales y familiares de un empleado de la Western Union sirven de hilo conductor a una ficción autobiográfica de la que surge con inusitada fuerza la crítica mirada de Miller hacia el mundo y los hombres que le rodean, sus disquisiciones filosóficas y su poderoso canto a la individualidad. Convencido de que el futuro de la literatura estaba en lo autobiográfico, Miller dio un paso decisivo en la evolución de la literatura con su personal modo de enfocar el arte narrativo.</dc:description>
+        <dc:publisher>Santillana USA Pub Co Inc</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466309066</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-02-25T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Trópico de Capricornio" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Tropico de Capricornio - Henry Miller.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

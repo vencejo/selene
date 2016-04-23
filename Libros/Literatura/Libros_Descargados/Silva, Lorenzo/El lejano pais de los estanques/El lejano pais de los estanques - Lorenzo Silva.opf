@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">383</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aceeef30-793e-4a03-a463-4b806f3ba773</dc:identifier>
+    <dc:title>El lejano país de los estanques</dc:title>
+        <dc:creator opf:file-as="Silva, Lorenzo" opf:role="aut">Lorenzo Silva</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-04-14T16:00:00+00:00</dc:date>
+        <dc:description>La muerte de una misteriosa extranjera en una tranquila urbanización de Mallorca es el primer caso de una pareja de investigadores que está dando mucho que hablar
+ 
+  En mitad de un tórrido agosto mesetario, el sargento Bevilacqua, que pese a la sonoridad exótica de su nombre lo es de la Guardia Civil, recibe la orden de investigar la muerte de una extranjera cuyo cadáver ha aparecido en una urbanización mallorquina. Su compañera será la inexperta agente Chamorro, y con ella deberá sumergirse de incógnito en un ambiente de clubes nocturnos, playas nudistas, trapicheos dudosos y promiscuidades diversas. Poco a poco, el sargento y su ayudante desvelarán los misterios que rodean el asesinato de la irresistible y remota Eva, descubriendo el oscuro mundo que se oculta bajo la dulce disidia del paisaje estival. A partir de una sabia mezcla de ingredientes policíacos, relaciones humanas y pinceladas de humor bien dosificadas, Lorenzo Silva construye una novela refrescante y llena de hallazgos.</dc:description>
+        <dc:publisher>Destino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423329915</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Bevilacqua/Chamorro" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2010-04-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El lejano país de los estanques" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El lejano pais de los estanques - Lorenzo Silva.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d861668-d199-424d-8202-70f236277df4</dc:identifier>
+    <dc:title>La colina de Watership</dc:title>
+        <dc:creator opf:file-as="Adams, Richard" opf:role="aut">Richard Adams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-24T16:00:00+00:00</dc:date>
+        <dc:description>Quinto, un joven y apacible conejo, sufre unas visiones aterradoras sobre el futuro de la conejera donde reside. Convertido en el líder de sus inseparables compañeros, deciden abandonar cuanto conocen para fundar un nuevo hogar. El viaje para enocntrar un buen asentamiento y las aventuras ligadas a los instintos de supervivencia de estos conejos serán el eje de este inolvidable viaje.</dc:description>
+        <dc:publisher>Ultramar</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788473860253</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-22T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La colina de Watership" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La colina de Watership - Richard Adams.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

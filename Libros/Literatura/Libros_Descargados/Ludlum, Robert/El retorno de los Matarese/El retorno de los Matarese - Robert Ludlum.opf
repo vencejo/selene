@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1073</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3975a6b3-51a4-4eb9-8e3a-2fc244be3b2b</dc:identifier>
+    <dc:title>El retorno de los Matarese</dc:title>
+        <dc:creator opf:file-as="Ludlum, Robert" opf:role="aut">Robert Ludlum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-03-14T16:00:00+00:00</dc:date>
+        <dc:description>Se urden tratos secretos, misteriosas transacciones teñidas de corrupción y asesinato. Los protagonistas se hallan ubicados en el pináculo de las finanzas globales y el gobierno. Es una consolidación de dinero, poder y crueldad sin precedentes. Su objetivo primordial: el dominio económico del mundo entero... por cualquier medio.
+
+La dinastía Matarese ha retornado en toda su gloria y su maldad. Montecarlo, Londres y la Costa del Sol, en España, son algunos de los escenarios donde sus asesinos a sueldo han atacado con eficiencia brutal, eliminando a todos los que se interponían en su camino. Ahora el agente Cameron Pryce, de la CIA, tiene que detenerlos a cualquier precio y para ello debe encontrar al legendario agente retirado Brandon Scofield, el único hombre que ha logrado infiltrarse entre los Matarese y sobrevivir.
+
+Scofield y su esposa, Antonia, se ven de nuevo inmersos en el círculo de muerte de los Matarese. Desde los campos petroleros del Golfo Pérsico hasta los salones del poder de Washington, el círculo va cerrándose, el nudo se ajusta y el pánico se esparce.</dc:description>
+        <dc:publisher>Editorial Atlántida</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789500819336</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-04-16T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El retorno de los Matarese" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El retorno de los Matarese - Robert Ludlum.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2698</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">831e5923-8149-4355-866f-e5f6a7c1acb7</dc:identifier>
+    <dc:title>La noche de los tiempos</dc:title>
+        <dc:creator opf:file-as="Muñoz Molina, Antonio" opf:role="aut">Antonio Muñoz Molina</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-21T16:00:00+00:00</dc:date>
+        <dc:description>Un día de finales de octubre de 1936 el arquitecto español Ignacio Abel llega a la estación de Pennsylvania, última etapa de un largo viaje desde que escapó de España, vía Francia, dejando atrás a su esposa e hijos, incomunicados tras uno de los múltiples frentes de un país ya quebrado por la guerra. Durante el viaje recuerda la historia de amor clandestino con la mujer de su vida y la crispación social y el desconcierto previo que precedieron al estallido del conflicto fraticida.</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788432212758</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-21T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La noche de los tiempos" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La noche de los tiempos - Antonio Munoz Molina.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

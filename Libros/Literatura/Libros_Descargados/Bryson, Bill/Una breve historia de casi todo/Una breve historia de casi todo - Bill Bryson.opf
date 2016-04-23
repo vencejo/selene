@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2207</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">999932e9-0e82-40f7-b7e7-b9f39b2f8a51</dc:identifier>
+    <dc:title>Una breve historia de casi todo</dc:title>
+        <dc:creator opf:file-as="Bryson, Bill" opf:role="aut">Bill Bryson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-10-30T16:00:00+00:00</dc:date>
+        <dc:description>¿Sabías que cada uno de los átomos que forma tu organismo seguramente que, antes de formar parte de ti, ha pasado por varias estrellas y formado parte de millones de organismos? ¿Qué les pasó a los dinosaurios? ¿Cómo de grande es el universo? ¿Cuánto pesa la Tierra? ¿Por qué los océanos son salados? Encontraremos aquí unos cuantos científi cos raros, teorías erróneas que dominaron durante demasiado tiempo, y varios descubrimientos casuales que cambiaron la historia de la ciencia.
+La forma de contar las cosas de Bryson hace que el ¿cómo? y el ¿quién? de los descubrimientos científicos sea accesible y divertido para todas las edades . Un recorrido por la ciencia con ingenio, gracia y los mejores contenidos dirigidos a los niños.</dc:description>
+        <dc:publisher>RBA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788478717989</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>divulgación científica</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-07-08T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Una breve historia de casi todo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Una breve historia de casi todo - Bill Bryson.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

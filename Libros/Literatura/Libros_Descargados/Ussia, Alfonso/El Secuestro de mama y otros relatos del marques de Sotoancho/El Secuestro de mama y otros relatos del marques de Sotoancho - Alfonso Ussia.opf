@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2677</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ded98527-e66d-4c33-b2bd-881bba97afe8</dc:identifier>
+    <dc:title>El Secuestro de mamá y otros relatos del marqués de Sotoancho</dc:title>
+        <dc:creator opf:file-as="Ussía, Alfonso" opf:role="aut">Alfonso Ussía</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-11T16:00:00+00:00</dc:date>
+        <dc:description>El secuestro de Mamá, relato inédito de Ussía, coloca a cada personaje en su lugar, especialmente a los protagonistas, Susú y Mamá.
+Sus mezquindades, sus picardías, sus obsesiones y temores están retratados con la claridad y el humor a que nos tiene acostumbrados el autor.
+Este libro es el resumen del año vivido en La Jaralera, el año en que llegó el vídeo de manos del capellán, en que apareció Marisol y suplantó con su juventud a Olimpia Bolka Romanov, en que el marqués quiso conocer su hombría a manos de profesionales; el año de buscar algo de liquidez aunque fuera en euros, de negar aumentos de sueldo al cuerpo de casa y, sobre todo, el año del secuestro de Mamá.</dc:description>
+        <dc:publisher>Círculo de Lectores</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788422680321</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-11T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Secuestro de mamá y otros relatos del marqués de Sotoancho" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Secuestro de mama y otros relatos del marques de Sotoancho - Alfonso Ussia.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

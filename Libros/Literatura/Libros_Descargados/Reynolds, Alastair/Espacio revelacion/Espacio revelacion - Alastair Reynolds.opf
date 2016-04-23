@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">693</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5f27e82-062b-471a-a50a-1920b1574427</dc:identifier>
+    <dc:title>Espacio revelación</dc:title>
+        <dc:creator opf:file-as="Reynolds, Alastair" opf:role="aut">Alastair Reynolds</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-22T16:00:00+00:00</dc:date>
+        <dc:description>“Reynolds es capaz de superar las expectativas de cualquier lector. Es sencillamente genial”
+
+Algo aniquiló a los amarantinos hace novecientos mil años. Para los colonos humanos que se están asentado en Resurgam, el planeta natal de esta civilización perdida, se trata de un hecho de escaso interés científico, a pesar del descubrimiento de una ciudad casi perfecta y una estatua gigantesca que representa a un amarantino alado. Para Dan Sylveste, sin embargo, es algo más que una mera curiosidad intelectual. Este científico, brillante y despiadado, no se detendrá ante nada hasta conocer la verdad, por elevado que sea su coste. Pero no sabe que los amarantinos fueron exterminados por una razón... ni tampoco que el peligro está más cerca y es mucho más grande de lo que imagina.
+
+Alastair Reynolds es por derecho propio desde la última década la nueva vanguardia de la ciencia ficción británica. Con años de experiencia trabajando para la Agencia Espacial Europea, sus obras están dotadas de un extraordinario realismo y desbordan sentido de la maravilla.</dc:description>
+        <dc:publisher>LA Factoria De Ideas</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788498004298</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-05-22T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Espacio revelación" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Espacio revelacion - Alastair Reynolds.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

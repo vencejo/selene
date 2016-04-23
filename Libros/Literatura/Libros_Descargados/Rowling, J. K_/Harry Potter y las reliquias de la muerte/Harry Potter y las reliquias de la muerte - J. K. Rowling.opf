@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">572</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">17589e5c-04cf-4d13-8288-1d503fd6588a</dc:identifier>
+    <dc:title>Harry Potter y las reliquias de la muerte</dc:title>
+        <dc:creator opf:file-as="Rowling, J. K." opf:role="aut">J. K. Rowling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-14T16:00:00+00:00</dc:date>
+        <dc:description>Harry tiene que realizar una tarea siniestra, peligrosa y aparentemente imposible: la de localizar y de destruir los Horcruxes, el alma de Voldemort dividida en siete partes. Harry nunca se sintió tan sólo ni se enfrentó a un futuro tan incierto. Pero Harry debe encontrar la fuerza necesaria para terminar la tarea que le han dado. Él debe dejar el calor, la seguridad y el compañerismo de La Madriguera y seguir sin miedo el camino inexorable marcado para él.
+
+En este final, la séptima entrega de la serie Harry Potter, J.K. Rowling revela de manera espectacular las respuestas a las muchas preguntas que se han estado esperando con tanta impaciencia. Su rica prosa y su narrativa, llena de giros inesperados, han hecho que estos libros sean libro para leer y releer una y otra vez.</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788498381412</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>infantil</dc:subject>
+        <meta content="Harry Potter" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2009-10-01T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Harry Potter y las reliquias de la muerte" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Harry Potter y las reliquias de la muerte - J. K. Rowling.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

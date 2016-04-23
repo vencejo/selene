@@ -3,6 +3,7 @@ Asistente nocturno con Raspberry Pi capaz de mantener diálogos gracias al servi
 
 Info completa en [la web de guadatech](http://www.guadatech.com/proyecto-selene)
 
+[video demostrativo](https://www.youtube.com/watch?v=uigE7JxHXR4)
 
 Este proyecto surge como una continuación lógica de nuestro anterior trabajo con Jasper, 
 en el que vimos como la inclusión de servicios en la nube de IBM simplificaban en gran medida 
@@ -61,3 +62,4 @@ que inicialmente están enfocados,
 también ha facilitado mucho las cosas el trabajo previo hecho con Jasper, 
 sobre todo a la hora de configurar la Raspberry y 
 de implementar los módulos de voz a texto (stt) y de texto a voz (tts) .
+

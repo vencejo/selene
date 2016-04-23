@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">389</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bc2f35a5-8077-416c-b383-bc839e510441</dc:identifier>
+    <dc:title>La Sustancia Interior</dc:title>
+        <dc:creator opf:file-as="Silva, Lorenzo" opf:role="aut">Lorenzo Silva</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-04-14T16:00:00+00:00</dc:date>
+        <dc:description>En un país indeterminado, en una época tampoco especificada, un extranjero llega a una catedral en construcción para tallar la sillería del coro. Allí, entre andamios, herramientas, albañiles y capataces, descubre una compleja organización, gobernada por oscuros personajes, que convierten la complicada tarea de erigir el templo en un instrumento para otros fines. Poco a poco, el extranjero se va adentrando en los desconcertantes entresijos de una intriga que desembocará en un final sorprendente. A medida que se desarrolla la trama, descubrimos un mosaico de caracteres fascinantes, y asistimos a una conmovedora historia de amor.
+ 
+  Novela de intriga y de ideas a un tiempo, La sustancia interior es una obra que se desarrolla a varios niveles y permite diversas lecturas, mostrándonos un registro más profundo y poco conocido del autor de El lejano país de los estanques.</dc:description>
+        <dc:publisher>Huerga Y Fierro Editores</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788488564931</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-04-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La Sustancia Interior" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La Sustancia Interior - Lorenzo Silva.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

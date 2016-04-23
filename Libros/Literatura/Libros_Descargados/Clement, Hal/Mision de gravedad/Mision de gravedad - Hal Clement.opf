@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1876</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8ee51c78-a4e3-4527-b9a0-e65987344c75</dc:identifier>
+    <dc:title>Misión de gravedad</dc:title>
+        <dc:creator opf:file-as="Clement, Hal" opf:role="aut">Hal Clement</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-08T16:00:00+00:00</dc:date>
+        <dc:description>El planeta Mesklin es grande y muy denso. La gravedad en su superficie varía enormemente desde los 3g en el ecuador hasta 700g en los polos.
+Los océanos son de metano líquido y la nieve es amoníaco congelado. En estas condiciones de pesadilla viven los mesklinitas, quienes han desarrollado una cultura y una sociedad perfectamente acorde con las condiciones de su entorno. Barlemann, un osado marinero mesklinita, acepta emprender un viaje imposible para salvar una costosa sonda terrestre averiada en el polo del planeta. Para los mesklinitas el viaje constituye una maravillosa oportunidad de descubrir la ciencia y avanzar en el camino del conocimiento, fuerza motriz que les guía a través de numerosas aventuras.
+MISIÓN DE GRAVEDAD constituye el más clásico y celebrado ejemplo de lo que se ha dado en llamar ciencia ficción Hard, una narración de aventuras excepcionales que todos los críticos y expertos consideran imprescindible para conocer las posibilidades de la especulación basada rigurosamente en la ciencia.</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788440633316</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-05-08T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Misión de gravedad" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Mision de gravedad - Hal Clement.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

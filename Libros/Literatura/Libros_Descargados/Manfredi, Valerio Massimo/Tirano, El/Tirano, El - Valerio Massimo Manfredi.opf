@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1045</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e32befbb-eb14-4338-b3e3-5c7b7af97d91</dc:identifier>
+    <dc:title>Tirano, El</dc:title>
+        <dc:creator opf:file-as="Manfredi, Valerio Massimo" opf:role="aut">Valerio Massimo Manfredi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-09T16:00:00+00:00</dc:date>
+        <dc:description>El autor de Alexandros nos traslada a la Siracusa de los tiempos heroicos y de sus tristemente célebres tiranos. Todo comienza con el relato de un borracho en una taberna de corinto, en el 320 a.C. Ese hombre harapiento no es otro que Dionisio II, narrador de su propia historia de esplendor y decadencia, pareja a la de Siracusa, su patria. Tras las guerras entre griegos y cartagineses, las traiciones políticas y el advenimiento de la despótica tiranía, asoma la crónica de un drama personal, de un amor trágico en un mundo regido por la venganza y habitado por los antiguos héroes épicos. El enfrentamiento entre civilizaciones, la intransigencia, la dolorosa partida de la tierra natal, son temas que recorren esta gran aventura de resonancias míticas y de ciudades de deslumbrante belleza.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788425338212</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-10-09T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Tirano, El" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Tirano, El - Valerio Massimo Manfredi.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

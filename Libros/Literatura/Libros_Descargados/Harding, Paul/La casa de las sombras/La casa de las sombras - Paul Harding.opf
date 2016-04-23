@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1439</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e1c35c7d-216a-4b4a-a405-5eacf3c80df3</dc:identifier>
+    <dc:title>La casa de las sombras</dc:title>
+        <dc:creator opf:file-as="Harding, Paul" opf:role="aut">Paul Harding</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-14T16:00:00+00:00</dc:date>
+        <dc:description>A finales del otoño de 1380, al avispado fray Athelstan vuelve está con los preparativos de la tradicional representación de un misterio de Navidad. Mientras, durante una enloquecida fiesta en una fonda, se produce el hallazgo de los cadáveres de una familia de prostitutas y se le encarga la investigación a John Cranston que, como no, vuelve a recurrir a la ayuda de Fray Athelstan. Atheltan deberá enfrentarse a una investigación complicada: por una parte, la aparición de nuevos cadáveres, y por otra, el descubrimiento de un enigma del pasado remoto que probablemente esté vinculado, de alguna manera, a estas muertes y, todo eso sin olvidar, claro está, los problemas que siempre le crean sus peculiares feligreses.</dc:description>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788435055314</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-21T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La casa de las sombras" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La casa de las sombras - Paul Harding.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

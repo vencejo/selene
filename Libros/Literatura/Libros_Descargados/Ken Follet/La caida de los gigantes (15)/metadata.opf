@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5377caab-7e08-4a46-ac93-2a5a07bd9bd4</dc:identifier>
+        <dc:title>La caída de los gigantes</dc:title>
+        <dc:creator opf:file-as="Follet, Ken" opf:role="aut">Ken Follet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.28) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-23T17:52:36.755000+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>The Century - I</dc:subject>
+        <meta content="2010-11-23T17:52:36.755000+00:00" name="calibre:timestamp"/>
+        <meta content="La caída de los gigantes" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

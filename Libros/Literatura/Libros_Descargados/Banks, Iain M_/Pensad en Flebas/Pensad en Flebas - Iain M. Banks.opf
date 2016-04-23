@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2721</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a48fb09f-3a34-42d8-93e7-12d1d10f3c9b</dc:identifier>
+    <dc:title>Pensad en Flebas</dc:title>
+        <dc:creator opf:file-as="Banks, Iain M." opf:role="aut">Iain M. Banks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1991-08-14T16:00:00+00:00</dc:date>
+        <dc:description>Sora Horza Gobuchul es un cambiante, uno de los pocos sobrevivientes de una raza que puede alterar su estructura celular e imitar cualquier ser a la perfección, los espías más temidos y solicitados del universo. Horza lucha en el bando de los idiranos como consecuencia de una cruzada personal en contra de los estériles adoradores de máquinas de la Cultura.
+
+Horza ha caído prisionero de la Cultura tras una misión accidentada, pero es liberado por los idiranos, que emplean para ello medios inesperados. Descubre entonces que se le ha encomendado un nuevo trabajo: los idiranos quieren capturar una mente de la Cultura que se oculta, dañada, en el Planeta de los Muertos, y Horza es uno de los pocos a quienes el guardián permitirá el paso.
+
+Horza debe llegar al Planeta de los Muertos antes que ningún agente de la Cultura, y su misión se convierte en una sucesión de etapas accidentadas. El cambiante, enrolado en una nave corsaria, se verá envuelto en un tiroteo mortal dentro de un gigantesco templo de cristal; presenciará una partida de Daño, un juego letal cuyas apuestas son las vidas y fortunas de sus jugadores y que tiene lugar en un enorme complejo espacial. el cual está a punto de ser volado en pedazos por la Cultura.</dc:description>
+        <dc:publisher>La Factoría de Ideas</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788427015548</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="La Cultura" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-28T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Pensad en Flebas" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Pensad en Flebas - Iain M. Banks.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

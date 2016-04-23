@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">804</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9712243-4086-4b6f-9886-e60eba5d3a63</dc:identifier>
+    <dc:title>Asfixia</dc:title>
+        <dc:creator opf:file-as="Palahniuk, Chuck" opf:role="aut">Chuck Palahniuk</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-07-14T16:00:00+00:00</dc:date>
+        <dc:description>Victor Mancini, un estudiante de medicina fracasado, ha diseñado un complejo plan para cubrir los gastos de la atención médica de su madre: fingir que se asfixia con un pedazo de comida en un restaurante para que la persona que acuda a «salvarlo» se sienta responsable de él durante el resto de su vida. Y le pase un cheque. Si se practica en varios centenares de restaurantes, la lluvia de dinero está garantizada. Entre una actuación y otra en los restaurantes, Victor también se gana la vida representando el papel de un campesino miserable en un parque temático dedicado a la América colonial del siglo XVIII, acude a un grupo de terapia para adictos al sexo (la mejor manera de conocer mujeres) y visita a su madre, cuya vena anárquica hizo de la infancia de Victor una auténtica locura. Un antihéroe en tiempos de insania, y una novela que confirma a Palahniuk como una de las voces más frescas y desopilantes de la narrativa norteamericana.</dc:description>
+        <dc:publisher>Mondadori</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788439708261</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-07-21T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Asfixia" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Asfixia - Chuck Palahniuk.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">463</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">66480a5a-7899-477e-8b8b-11a2f0ecae79</dc:identifier>
+    <dc:title>El misterio del Bellona Club</dc:title>
+        <dc:creator opf:file-as="Sayers, Dorothy L." opf:role="aut">Dorothy L. Sayers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-14T16:00:00+00:00</dc:date>
+        <dc:description>Inauguramos con este título una biblioteca dedicada a Dorothy L. Sayers, la novelista inglesa que supo crear uno de los mejores y más distinguidos detectives de los viejos tiempos: lord Peter Wimsey, segundo hijo del duque de Denver, bibliófilo, sibarita, dandy y seductor profesional, que en sus ratos libres se dedica a la investigación en el neblinoso Londres de los años treinta.
+  En esta ocasión, la astucia y la obsesión por los detalles del detective más elegante de Inglaterra se pondrán al servicio de un enigma aparentemente insoluble: estamos en uno de los clubs frecuentados por el propio lord Peter, el Bellona, donde de pronto muere el nonagenario general Fentiman. Los detalles del fallecimiento, y en especial la hora exacta en que cesó de latir su corazón, serán decisivos para determinar quién se queda con la sustanciosa herencia que dejan él y su hermana, lady Dorland, muerta extrañamente ese día, casi al mismo tiempo.
+  Con la habilidad de Agatha Christie, el ingenio de Evelyn Waugh y su genuino e inconfundible estilo, Dorothy L. Sayers construye en esta novela una historia llena de matices donde importa tanto el desarrollo de la intriga como la arquitectura de los personajes, la evocación de los interiores, la luz de Londres o el sabor de los mejores vinos.</dc:description>
+        <dc:publisher>Random House Mondadori</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788426415127</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Lord Peter Wimsey" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="2010-07-21T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El misterio del Bellona Club" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El misterio del Bellona Club - Dorothy L. Sayers.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

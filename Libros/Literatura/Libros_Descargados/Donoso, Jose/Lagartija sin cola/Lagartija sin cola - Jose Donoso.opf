@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2681</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a645850d-9272-478a-91b8-b55e675bf1db</dc:identifier>
+    <dc:title>Lagartija sin cola</dc:title>
+        <dc:creator opf:file-as="Donoso, José" opf:role="aut">José Donoso</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-08-17T16:00:00+00:00</dc:date>
+        <dc:description>Lagartija sin cola recupera para los lectores la prosa nítida y distintiva de José Donoso. así como también algunas de sus obsesiones. a través de una historia tan irónica como melancólica sobre fe pérdida de España bajo las hordas del turismo. paralela a la de un artista que renuncia al arte. decepcionado por su mercantilización.Derrotado y escondido en su departamento de Barcelona. el protagonista de esta novela. el pintor Armando Muñoz-Roa. narra la historia de la fuga que emprendió en compañía de Luisa. su prima. amante y benefactora. tras abandonar con escándalo el movimiento informalista. al que perteneció y en cuyo marco alcanzó cierto éxito. Solo. viejo y frustrado. el artista recuerda sus años en el pueblo de Dors. al que infructuosamente intentó rescatar del avance de la modernidad. y la decadencia de su propia familia. amenazada también por el cambio de los tiempos.Esta novela. que José Donoso empezó a escribir en 1973 y que abandonó por razones desconocidas. fue descubierta por su hija. Pilar. entre los papeles que su padre vendió a la Biblioteca de la Universidad de Princeton.. El manuscrito original. que incluye las correcciones del autor. fue revisado por el crítico Julio Ortega. en una tarea limitada a facilitar el acceso al texto.</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789870408369</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-17T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Lagartija sin cola" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Lagartija sin cola - Jose Donoso.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

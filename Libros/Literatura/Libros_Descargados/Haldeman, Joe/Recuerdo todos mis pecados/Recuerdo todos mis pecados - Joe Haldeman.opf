@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1425</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e90f9d34-7976-46c2-b975-8d0647896c5e</dc:identifier>
+    <dc:title>Recuerdo todos mis pecados</dc:title>
+        <dc:creator opf:file-as="Haldeman, Joe" opf:role="aut">Joe Haldeman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1977-07-18T16:00:00+00:00</dc:date>
+        <dc:description>Con "Recuerdo todos mis pecados" Joe Haldeman continúa la tradición de "La Guerra Interminable" (premios Hugo y Nebula 1974), y "Puente Mental" (1976). Para Haldeman la novela de aventuras es el medio más adecuado para mostrar las complejidades o los horrores de la vida contemporánea: la crueldad de la guerra, el poder de las corporaciones, el ambiguo puesto del individuo en la nueva tecnología. En "Recuerdo todos mis pecados" la historia de Otto McGavin, operados jefe de la TBII, guardia secreto de los extraterrestres y los humanos confederados, es también la historia de un espía, ladrón y asesino que de cuando en cuando cambia literalmente de máscara.</dc:description>
+        <dc:publisher>E.D.H.A.S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788435002295</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-07-18T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Recuerdo todos mis pecados" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Recuerdo todos mis pecados - Joe Haldeman.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

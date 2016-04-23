@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1549</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">72c04176-53b3-4752-bdac-b2e8c87d87f3</dc:identifier>
+    <dc:title>El Segundo Reino I</dc:title>
+        <dc:creator opf:file-as="Gablé, Rebecca" opf:role="aut">Rebecca Gablé</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-29T16:00:00+00:00</dc:date>
+        <dc:description>Sinopsis - Contraportada
+
+Una de las autoras más exitosas en el género de la novela histórica de Alemania desembarca en España con una obra apasionante, llena de emociones y aventuras.
+
+Inglaterra, 1064. Un ataque de piratas daneses pone repentino fin a la despreocupada infancia del joven Cædmon de Helmsby: una flecha lo hiere gravemente y lo convierte en un «lisiado inútil». Su padre se deshace de él enviándolo de traductor de una delegación inglesa a la patria normanda de su madre. El joven acaba instalándose en Normandía, donde se enamora de la joven Aliesa.
+Pasados dos años, curado e imbuido de influencias normandas, Cædmon regresa con el duque Guillermo y su ejército conquistador. Tras la batalla de Hastings y la coronación de Guillermo, Cædmon de Helmsby, en su calidad de traductor del rey y preceptor de los príncipes, acaba ocupando una posición clave que jamás había deseado: mediador entre conquistadores y vencidos. Tan ingrato papel le granjeará enconados enemigos...
+
+Una historia épica fascinante sobre conquista y resistencia, y una historia de amor e intriga que supera todos los obstáculos.
+
+«La mejor novela histórica desde Los pilares de la tierra.»
+Bórsenblatt</dc:description>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788496231153</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-05-19T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Segundo Reino I" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Segundo Reino I - Rebecca Gable.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">684</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bb7f7a06-ae1c-419d-b6db-33823ddbac81</dc:identifier>
+    <dc:title>MD 09: Eric</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-14T16:00:00+00:00</dc:date>
+        <dc:description>Lo último que sabíamos de nuestro amigo Rincewind era que, al final de Rechicero, había quedado atrapado en las Dimensiones Mazmorra cuando intentaba salvar el mundo. Algún tiempo más tarde, tanto en el reino de la Muerte como en la Universidad Invisible se empieza a oír regularmente un sonido como de pasos corriendo y una voz que dice: Ohmierdaohmierdavoyamorirvoyamorir. Los magos se ponen extremadamente nerviosos, pero no tanto como cuando por fin averiguan que Rincewind vuelve a estar sobre el Mundodisco. Al fin y al cabo, el tipo en cuestión fue testigo de ciertos comportamientos poco dignos de los que hicieron gala los magos no hace mucho tiempo...
+
+Un demonólogo, por otra parte, ha invocado lo que el cree que es un demonio muy poderoso y decide pedirle los tres deseos básicos de todo hombre, aunque como (en el caso que nos ocupa) dicho hombre tenga trece años: dominio sobre todo el Disco, estar con la mujer más hermosa del mundo y vivir para siempre. Pero es muy posible que no todo le salga como espera...
+
+Y finalmente, el Infierno está en plena remodelación. Un demonio joven con alma de director de empresa ha asumido el control y ahora el Infierno es eficiente, pero esto no gusta ni a las almas en pena ni a los demás demonios...
+
+Eric es una novela corta del Mundodisco, profusamente ilustrada en su edición original inglesa por Josh Kirby (el autor de las portadas hasta Ladrón del tiempo). Es la ideal para empezar a leer en inglés, y además se pueden hacer muchas camisetas chulis con las ilustraciones. La edición española, por desgracia, no lleva ilustraciones</dc:description>
+        <dc:publisher>Altaya</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788448725785</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>fantasía</dc:subject>
+        <meta content="mundodisco" name="calibre:series"/>
+        <meta content="9" name="calibre:series_index"/>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2009-08-03T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="MD 09: Eric" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="MD 09_ Eric - Terry Pratchett.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2770</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">838c5c05-24a8-4c3f-a79c-b6e4f2fd7e96</dc:identifier>
+    <dc:title>Angeles en las tinieblas</dc:title>
+        <dc:creator opf:file-as="Perry, Anne" opf:role="aut">Anne Perry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-12T16:00:00+00:00</dc:date>
+        <dc:description>Primera Guerra Mundial, marzo de 1916. Joseph Reavley queda herido de gravedad en un intento por rescatar a un compañero de combate. Enviado a su casa en Cambridgeshire, Joseph se enfrenta a una lenta y dolorosa 
+recuperación marcada por sus turbadoras vivencias bélicas. 
+
+La visita inesperada de un amigo, que le habla de un invento que podría neutralizar el efecto devastador de los submarinos alemanes, y el asesinato, ocurrido días más tarde, de uno de los científicos involucrados en la investigación, demuestra que alguien está filtrando información confidencial al enemigo. 
+Joseph requerirá la ayuda de su hermano Matthew —agente de los servicios secretos británicos— para iniciar una investigación.</dc:description>
+        <dc:publisher>Ediciones B, S. A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466630047</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Intriga y Crimen en la Iª Guerra Mundial" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Angeles en las tinieblas" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Angeles en las tinieblas - Anne Perry.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

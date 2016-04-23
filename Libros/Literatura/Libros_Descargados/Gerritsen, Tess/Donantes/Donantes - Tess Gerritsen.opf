@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1611</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2142433b-b353-4293-abdd-3a5f10e49129</dc:identifier>
+    <dc:title>Donantes</dc:title>
+        <dc:creator opf:file-as="Gerritsen, Tess" opf:role="aut">Tess Gerritsen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-04-14T16:00:00+00:00</dc:date>
+        <dc:description>La doctora Abby DiMatteo se encuentra ante un duro dilema. Recién ingresada al servicio de transplantes cardíacos del Bayside Hospital de Boston, tiene dos pacientes al borde de la muerte: una mujer acaudalada, Nina Voss, y un adolescente de diecisiete años. Ambos necesitan un urgente transplante de corazón, pero sólo hay un donante. Cuando, inesperadamente, aparece otro órgano para la señora Voss, Abby realiza un terrible descubrimiento: ese corazón no llegó por los canales habituales y los registros están falsificados. La joven doctora se lanza a investigar una compleja cadena de engaños y crímenes.
+Donantes es el brillante debut literario de Tess Gerritsen. A partir de sus años de experiencia profesional, retrata un mundo siniestro donde los adelantos de la medicina moderna y la ambición sin escrúpulos se suman, bajo las luces potentes de la sala de operaciones, en una conspiración letal.</dc:description>
+        <dc:publisher>Emece Editores</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788422674771</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-04-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Donantes" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Donantes - Tess Gerritsen.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

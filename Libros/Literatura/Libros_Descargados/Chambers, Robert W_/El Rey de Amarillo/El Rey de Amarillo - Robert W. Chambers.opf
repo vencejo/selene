@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2729</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2d5c7c4-0467-4fbd-81a1-bca104c2f693</dc:identifier>
+    <dc:title>El Rey de Amarillo</dc:title>
+        <dc:creator opf:file-as="Chambers, Robert W." opf:role="aut">Robert W. Chambers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1984-09-14T16:00:00+00:00</dc:date>
+        <dc:description>Los relatos de “El rey de amarillo” han sido muy importantes en el desarrollo histórico de la literatura fantástica norteamericana. Todos los principales escritores del período de surgimiento del pulp parecen haberlo conocido. Su influencia se extiende casi mundialmente, aún cuando durante muchos años el libro estuviera agotado. De él se extraen temas, se imitan y reciclan relatos, y  lo más importante de todo  los nuevos conceptos de horror metafísico son retomados por una hueste de escritores cansados de los fantasmas y fenómenos ocultistas , y disconformes con el misticismo o la investigación psicológica. En verdad, se puede señalar a “El rey de amarillo” como uno de los más importantes libros de ficción sobrenatural norteamericana entre Poe y los modernos. (E.F. Bleiler)
+Esta edición recoge todos los relatos sobrenaturales de “El rey de amarillo”.</dc:description>
+        <dc:publisher>Visión Libros</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788485958986</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-05T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Rey de Amarillo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Rey de Amarillo - Robert W. Chambers.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

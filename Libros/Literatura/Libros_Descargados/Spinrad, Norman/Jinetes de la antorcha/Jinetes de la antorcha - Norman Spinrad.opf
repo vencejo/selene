@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">431</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3e7905eb-fd23-4bb1-ab57-def19a129c1e</dc:identifier>
+    <dc:title>Jinetes de la antorcha</dc:title>
+        <dc:creator opf:file-as="Spinrad, Norman" opf:role="aut">Norman Spinrad</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-02T16:00:00+00:00</dc:date>
+        <dc:description>Durante un millar de años, la Migración ha seguido adelante. Dos mil cuarenta naves antorcha buscan el nuevo hogar de la humanidad. Mientras los pilotos fijan el rumbo y exploran las rutas del espacio, sigue desarrollándose la actividad humana en todas su formas y los exploradores buscan un planeta que pueda reemplazar a la destruida Tierra.</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788477351764</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-02T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Jinetes de la antorcha" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Jinetes de la antorcha - Norman Spinrad.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

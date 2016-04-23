@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1966</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c4223f79-cfdd-43dc-83a1-c21e6e48d6c5</dc:identifier>
+    <dc:title>Luz de otros tiempos</dc:title>
+        <dc:creator opf:file-as="Clarke, Arthur C." opf:role="aut">Arthur C. Clarke</dc:creator>
+        <dc:creator opf:file-as="Clarke, Arthur C." opf:role="aut">Stephen Baxter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-07-14T16:00:00+00:00</dc:date>
+        <dc:description>Luz de otros días cuenta la historia de lo que sucede cuando un brillante industrial aprovecha los beneficios de la física cuántica. Así consigue que cualquier persona pueda ver lo que hace otra desde cualquier sitio en cualquier situación. Las esquinas y paredes ya no son barreras, todo momento de la existencia por muy privado o íntimo que sea queda expuesto a los demás. Esta nueva tecnología supone la súbita abolición de la intimidad humana... para siempre. Mientras que los hombres y mujeres afrontan el trauma de la nueva situación, esta misma tecnología demostrará ser capaz de mirar también en el pasado. Nada puede prepararnos para lo que vendrá después: el descubrimiento de lo que hay de verdad y mentira a lo largo de los miles de años de historia humana tal y como la conocíamos. Como consecuencia de este saber, los gobiernos son derribados, las religiones caen, las bases de la sociedad humana tiemblan desde su propia raíz. Marca un cambio fundamental en la condición humana provocando la desesperación, el caos, y quizás, también la oportunidad de trascender como raza. Luz de otros días es un tour de force, un evento para el próximo milenio y una narración que no olvidarás.</dc:description>
+        <dc:publisher>Emecé Editores</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789500422505</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-31T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Luz de otros tiempos" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Luz de otros tiempos - Arthur C. Clarke &amp; Stephen Baxter.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

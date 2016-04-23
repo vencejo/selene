@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2541</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ce3a86e-7399-405e-be30-87a6f2e95b02</dc:identifier>
+    <dc:title>Fundación e Imperio</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-11-10T16:00:00+00:00</dc:date>
+        <dc:description>Los sucesores de Hari Seldon, a la cabeza de la Primera Fundación, se enfrentan a la crisis provocada por la existencia de un mutante llamado el Mulo y dotado de poderes paranormales. Su objetivo es modificar el curso de la Historia para volverla a llevar a la orientación inicialmente prevista por el fundador.</dc:description>
+        <dc:publisher>La Factoría de Ideas</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788498003239</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="Fundación" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="2008-05-26T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Fundación e Imperio" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Fundacion e Imperio - Isaac Asimov.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

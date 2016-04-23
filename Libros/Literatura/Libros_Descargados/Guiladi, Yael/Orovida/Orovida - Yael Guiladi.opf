@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1405</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ffa753f5-b72d-49a5-9348-56559e073aec</dc:identifier>
+    <dc:title>Orovida</dc:title>
+        <dc:creator opf:file-as="Guiladi, Yael" opf:role="aut">Yael Guiladi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-08-14T16:00:00+00:00</dc:date>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788435006439</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-06-27T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Orovida" name="calibre:title_sort"/>
+    </metadata>
+    <guide/>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">540</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">364537ea-13b7-4b45-ac02-9f1b376b6428</dc:identifier>
+    <dc:title>La voz del diablo</dc:title>
+        <dc:creator opf:file-as="Rice, Anne" opf:role="aut">Anne Rice</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-10-31T16:00:00+00:00</dc:date>
+        <dc:description>Rowan Mayfair, la hermosa y brillante reina del aquelarre, pretende escapar de Lasher, el atractivo demonio cuyo hechizo ella encuentra irresistible. Sin embargo, ambos seres se hallan unidos por un vínculo que va más allá del deseo: han concebido una criatura que 'nacerá con la semilla de la sabiduría, capaz de andar y hablar desde el primer día'.</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788440650160</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Las brujas de Mayfair" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="2010-05-03T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La voz del diablo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La voz del diablo - Anne Rice.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

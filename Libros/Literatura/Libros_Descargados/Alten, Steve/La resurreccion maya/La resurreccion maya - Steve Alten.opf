@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2595</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c859322-49f6-4b6c-b8e4-efd730dc26d2</dc:identifier>
+    <dc:title>La resurrección maya</dc:title>
+        <dc:creator opf:file-as="Alten, Steve" opf:role="aut">Steve Alten</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-03T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+A birth was foretold 500 years ago in the Mayan Popol Vuh. Twin sons were born. One was a white-haired, azureeyed boy named Jacob. Jacob was blessed with inhuman physical prowess, intelligence, and insight into the cosmos. The dark-haired son, Immanuel, refused his genetic calling, desiring only a normal life. Only the combined powers of the Gabriel twins can save the human race from an eternity of repeating its own selfdestruction.</dc:description>
+        <dc:publisher>Grijalbo Mondadori, S.A.-Junior</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307392893</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-03-18T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La resurrección maya" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La resurreccion maya - Steve Alten.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">785</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07cd7508-05cf-404b-9b75-7ac9029c8b13</dc:identifier>
+    <dc:title>La mujer del viajero en el tiempo</dc:title>
+        <dc:creator opf:file-as="Niffenegger, Audrey" opf:role="aut">Audrey Niffenegger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-05T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Clare y Henry son en apariencia una pareja normal que lleva una vida corriente en Chicago. Él es bibliotecario y ella artista, pero la terrible verdad es que Henry sufre una extraña enfermedad que lo hace viajar en el tiempo, al pasado o al futuro sin previo aviso, normalmente fruto de una situación de estrés previa. Lo transporta desnudo, con desagradables malestares y vulnerable. Cuando Henry tiene 31 años y Clare 23 se encuentran por primera vez. Y allí nace en tiempo presente su historia de amor, su vida en común de la que ocasionalmente Henry se ausenta propulsado a otras épocas de su vida y revisitando otros momentos felices o tristes, a veces encontrándose a sí mismo cuando era niño, con el temor de Clare de que no regrese de uno de esos viajes. La historia se va desplegando contada a dos voces, bajo los puntos de vista de Clare y Henry, y enfoca las consecuencias de esta particularidad en su matrimonio y el amor apasionado que se tienen. Clare y Henry intentar llevar vidas normales, buscar una cura médica para la disfunción de Henry, ponerse objetivos a futuro, disfrutar de sus amigos y familia; aunque a veces se presenta la tentación de utilizar su capacidad de conocer el futuro para manejar el presente o evitar algún peligro... Pero todo ello está amenazado por algo que no pueden controlar ni prevenir: Henry puede viajar un día al futuro y descubrir que él ya no forma parte de ese tiempo, descubrir su propia muerte o la de sus seres queridos, ver a una Clare sola y envejecida, conocer a una hija que todavía no ha tenido y que heredará su extraña disfunción.</dc:description>
+        <dc:publisher>Random House Spanish</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307344830</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-04-04T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La mujer del viajero en el tiempo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La mujer del viajero en el tiempo - Audrey Niffenegger.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

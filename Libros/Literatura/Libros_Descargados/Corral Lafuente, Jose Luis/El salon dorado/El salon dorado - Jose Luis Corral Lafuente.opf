@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2718</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77c9a302-b9be-48f7-b073-3ac517a21cca</dc:identifier>
+    <dc:title>El salón dorado</dc:title>
+        <dc:creator opf:file-as="Corral Lafuente, José Luis" opf:role="aut">José Luis Corral Lafuente</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-08-28T16:00:00+00:00</dc:date>
+        <dc:description>Juan es un muchacho eslavo secuestrado por una banda de guerreros pechenegos en su aldea natal al sur de Kiev, para ser vendido como esclavo a la biblioteca del patriarca de Constantinopla. Aquí comienza la gran aventura de su vida, que le llevará por toda la cuenca mediterránea y que le hará conocer todos los centros del saber medieval y participar activamente en la vida cultural de todo el orbe conocido.
+
+De Constantinopla pasará al servicio de la biblioteca vaticana, y de allí a Zaragoza, centro especialmente activo entre los reinos árabes de la peninsula. En esa ciudad logrará la libertad y conocerá las alegrias y las tristezas del amor junto a la bella esclava Helena.
+
+Convertido al Islam, su sabiduría y su prestigio le llevarán a ocupar importantes cargos al servicio del rey al-Muqtadir. Conocerá a los grandes personajes de su tiempo, entre los que figura un guerrero cristiano llamado Rodrigo Díaz de Vivar, y viajará a Toledo y a Marrakech. Ya anciano, vivirá la conquista de Zaragoza por los cristianos, tras lo cual se traslada a Fez para dedicar el resto de su vida a la enseñanza de la astronomía.</dc:description>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788435061452</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-28T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El salón dorado" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El salon dorado - Jose Luis Corral Lafuente.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

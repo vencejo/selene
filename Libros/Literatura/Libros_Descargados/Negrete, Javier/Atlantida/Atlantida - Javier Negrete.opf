@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2746</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d462c6f8-484d-4552-bf8f-626fb512e475</dc:identifier>
+    <dc:title>Atlántida</dc:title>
+        <dc:creator opf:file-as="Negrete, Javier" opf:role="aut">Javier Negrete</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-14T16:00:00+00:00</dc:date>
+        <dc:description>Gabriel Espada, un cínico buscavidas sin oficio ni beneficio, quizá el más improbable de los héroes, tiene ante sí una misión: descubrir el secreto de la Atlántida.
+
+La joven geóloga Iris Gudrundóttir intuye que se avecina una erupción en cadena de los principales volcanes de la Tierra y confiesa sus temores a Gabriel. Para evitar esta catástrofe, que podría provocar una nueva Edad de Hielo, Gabriel tendrá que bucear en el pasado. El hundimiento de la Atlántida le ofrecerá la clave para comprender el comportamiento anómalo del planeta.
+
+Una mezcla explosiva de ciencia y arqueología y, sobre todo, aventura en estado puro.</dc:description>
+        <dc:publisher>Espasa Calpe</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467031607</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-08T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Atlántida" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Atlantida - Javier Negrete.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

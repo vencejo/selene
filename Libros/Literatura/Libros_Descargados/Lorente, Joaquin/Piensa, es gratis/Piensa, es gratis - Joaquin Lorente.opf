@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1194</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5914409f-093d-45d5-be3f-f7a41f95a1e0</dc:identifier>
+    <dc:title>Piensa, es gratis</dc:title>
+        <dc:creator opf:file-as="Lorente, Joaquín" opf:role="aut">Joaquín Lorente</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-28T16:00:00+00:00</dc:date>
+        <dc:description>Piensa, es gratis es un potente despertador y animador del cerebro de personas, grupos y empresas, porque frase tras frase ofrece una avalancha de conceptos que excitan, animan y persuaden de la inmensa capacidad y poder de nuestra mente. Sus principios, tremendamente prácticos y aplicables al instante, abren caminos, sugieren rutas y descubren atajos que nos dan la convicción y la firmeza para alcanzar el éxito personal, profesional y empresarial. Se trata de conocer la clave del éxito, que incluye siempre una buena dosis de trabajo, mucha intuición y un pensamiento creativo que nos ayude a ver lo que otros no ven.Escrito en un tono directo, descarado y sencillo, Piensa, es gratis supone un permanente masaje para las neuronas porque todos, sin excepción, tenemos un inmenso talento dormido que a menudo no valoramos ni utilizamos.Este libro lo hace, lo despierta y lo multiplica.</dc:description>
+        <dc:publisher>Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408096283</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>economía y negocios</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-02T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Piensa, es gratis" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Piensa, es gratis - Joaquin Lorente.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

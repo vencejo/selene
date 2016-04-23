@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2738</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">50016629-8e91-4bff-beb4-508e1f397d2f</dc:identifier>
+    <dc:title>Rumbo al Peligro</dc:title>
+        <dc:creator opf:file-as="Alexander Kent" opf:role="aut">Alexander Kent</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-09-07T16:00:00+00:00</dc:date>
+        <dc:description>Plymouth, 1774. Richard Bolitho es ahora el tercer teniente de la fragata de 28 cañones Destiny. Atrás han quedado los días de aprendizaje como guardamarina, y Bolitho empieza a entender que su lealtad ha de ser para su capitán, su barco y Su Británica Majestad. 
+
+Enviada a una misión secreta, la Destiny y su tripulación se enfrentan a los peligros de la conspiración, la traición y la piratería. Entre las andanadas de los cañones y el ruido de los sables, Bolitho aprende a ejercer sus responsabilidades como oficial del Rey.</dc:description>
+        <dc:publisher>Plaza y Janés SA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401561740</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="Richard Bolitho" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-07T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Rumbo al Peligro" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Rumbo al Peligro - Alexander Kent.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

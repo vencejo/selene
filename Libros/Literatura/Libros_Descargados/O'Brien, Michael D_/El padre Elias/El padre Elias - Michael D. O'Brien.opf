@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2723</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c1a44a5-b601-4d5b-9be7-d02d88651432</dc:identifier>
+    <dc:title>El padre Elías</dc:title>
+        <dc:creator opf:file-as="O'Brien, Michael D." opf:role="aut">Michael D. O'Brien</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-14T16:00:00+00:00</dc:date>
+        <dc:description>Un fraile lleva veinte años encerrado en su monasterio Carmelita, en la montaña del profeta Elías, sumido en la contemplación. Un día recibe una llamada del Vaticano. El Papa querrá confiarle una importantísima y delicadísima misión: penetrar en el entorno de un poderoso político para corroborar si se trata del Anticristo. Es necesario reducir al mismísimo Presidente y hacer fracasar sus pretensiones, ganando así el tiempo suficiente para que la Iglesia cumpla con sus fines.
+
+En su misión, el padre Elías Schäfer se encuentra con que no sólo ha de hacer frente a un cúmulo de conspiraciones y afrontar una crisis que afecta al destino de la Iglesia, sino que también ha de reencontrarse con su propio pasado -tan denso como fantasmagórico- como joven judío, como hombre casado, como víctima del nazismo… Este extraordinario hombre tendrá que enfrentarse no sólo a un temible enemigo exterior... sino también al enemigo que todos llevamos dentro.
+
+O’Brien consigue en esa impactante novela explorar el estado del mundo moderno, los puntos fuertes y las flaquezas del escenario religioso contemporáneo, a través de un personaje de carne y hueso, con el que nos es fácil descubrir cómo en nuestro mundo actual, el Anticristo no es un demonio disfrazado, sino que es un hombre, un hombre de hoy en día que vive en un momento real y es seguido por personas reales, probablemente a causa de una mezcla de apostasía, vanidad y afán de poder.</dc:description>
+        <dc:publisher>Libroslibres</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788496088528</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-29T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El padre Elías" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El padre Elias - Michael D. O'Brien.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

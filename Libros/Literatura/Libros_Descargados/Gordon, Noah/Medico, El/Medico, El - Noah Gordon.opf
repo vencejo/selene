@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1456</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">034d5898-dfa7-4371-92dc-3a5ede4b73b8</dc:identifier>
+    <dc:title>Médico, El</dc:title>
+        <dc:creator opf:file-as="Gordon, Noah" opf:role="aut">Noah Gordon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1986-09-14T16:00:00+00:00</dc:date>
+        <dc:description>Esta arrebatadora novela describe la pasión de un hombre del siglo XI por vencer la enfermedad y la muerte, aliviar el dolor ajeno e impartir el don casi místico de sanar que le ha sido otorgado. Arrastrado por esa pasión, recorrerá un largo camino que le conducirá, desde una Inglaterra en que domina la brutalidad y la ignorancia, a la sensual turbulencia y el esplendor de la remota Persia, donde conocerá al legendario maestro Avicena, que está experimentado con las primeras armas de la medicina moderna.
+ 
+  Diez siglos han transcurrido desde aquel entonces, pero el talento narrativo de Noah Gordon, autor de El último judío, El rabino y otras muchas novelas inolvidables, hace de este viaje iniciático una experiencia única que convierte la historia en vida real.</dc:description>
+        <dc:publisher>Zeta Bolsillo</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788496546301</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-08-13T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Médico, El" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Medico, El - Noah Gordon.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

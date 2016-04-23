@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2703</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf89f9f7-1ca2-4b7f-94e1-8ecd18d04eec</dc:identifier>
+    <dc:title>El jardinero fiel</dc:title>
+        <dc:creator opf:file-as="Le Carré, John" opf:role="aut">John Le Carré</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-23T16:00:00+00:00</dc:date>
+        <dc:description>Cerca del lago Turkana, en el norte de Kenia, comienza esta inquietante novela, con el asesinato de Tessa Quayle, una mujer joven y bella. El marido de Tessa, Justin, aficionado a la jardinería y diplomático destinado en la embajada británica de Nairobi, emprende su particular odisea para descubrir a los asesinos y sus motivos. Sus indagaciones lo llevan al Foreign Office de Londres, a varios países de Europa, a Canadá y de nuevo a África, a lo más profundo de Sudán, y por último al lugar mismo en que Tessa murió. En el camino encuentra terror, violencia, situaciones cómicas, conspiraciones e información. Pero su mayor descubrimiento es la mujer a la que apenas tuvo tiempo de amar.</dc:description>
+        <dc:publisher>Planeta-De Agostini</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">8439592590</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-23T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El jardinero fiel" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El jardinero fiel - John Le Carre.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

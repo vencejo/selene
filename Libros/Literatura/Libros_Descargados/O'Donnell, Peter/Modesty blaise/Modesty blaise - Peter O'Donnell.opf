@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2683</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">789e1dc4-e84f-4d5b-8763-851a2c408601</dc:identifier>
+    <dc:title>Modesty blaise</dc:title>
+        <dc:creator opf:file-as="O'Donnell, Peter" opf:role="aut">Peter O'Donnell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1963-08-17T16:00:00+00:00</dc:date>
+        <dc:description>Modesty Blaise podría ser considerada como la contrarréplica femenina de James Bond. Exjefa de una banda, bellísima y rica (como resultado de sus negocios), experta en lucha y en el manejo de varias armas no se arredra ante ninguna aventura, por difícil y peligrosa que sea. Como es lógico, es reclutada por la policiía británica. El cine no tardó en incorporar el personaje a la pantalla, en un film protagonizado por Monica Vítti y Terence Stamp.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9780285637283</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-17T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Modesty blaise" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Modesty blaise - Peter O'Donnell.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

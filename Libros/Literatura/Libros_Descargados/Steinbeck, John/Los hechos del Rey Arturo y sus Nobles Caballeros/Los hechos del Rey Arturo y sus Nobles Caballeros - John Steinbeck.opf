@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">440</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">209ee8db-ffdf-44ed-83a6-d91c735a48bd</dc:identifier>
+    <dc:title>Los hechos del Rey Arturo y sus Nobles Caballeros</dc:title>
+        <dc:creator opf:file-as="Steinbeck, John" opf:role="aut">John Steinbeck</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-04-14T16:00:00+00:00</dc:date>
+        <dc:description>Steinbeck resucita bellamente el cautivante mundo del rey Arturo y sus nobles caballeros de la Tabla Redonda -que incluye al mago Merlín y a los amores entre la bella Ginebra y Lanzarote del Lago- con todo su irrepetible esplendor medieval.
+El centenario de Steinbeck dejó una estela de reediciones que han reavivado el interés por su obra, y 'Los hechos del Rey Arturo y sus nobles caballeros', publicada postumamente, es una de las novelas más singulares de Steinbeck, a la que se añade en esta edición un conjunto de cartas en las que el autor se refirió al proceso de creación de esta obra que permaneció inédita hasta varios años después de su muerte.</dc:description>
+        <dc:publisher>Sudamericana</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789500717458</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>historia</dc:subject>
+        <meta content="2010-04-16T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Los hechos del Rey Arturo y sus Nobles Caballeros" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Los hechos del Rey Arturo y sus Nobles Caballeros - John Steinbeck.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

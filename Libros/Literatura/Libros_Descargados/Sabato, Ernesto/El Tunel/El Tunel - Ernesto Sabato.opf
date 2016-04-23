@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">596</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d03f251-ee81-401c-b2fe-005c6328fd58</dc:identifier>
+    <dc:title>El Túnel</dc:title>
+        <dc:creator opf:file-as="Sabato, Ernesto" opf:role="aut">Ernesto Sabato</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-09-14T16:00:00+00:00</dc:date>
+        <dc:description>Es una de las grandes novelas sudamericanas de este siglo, cuyos ecos recogieron pronto en Europa Graham Greene y Camus. El relato, montado en los recursos de la novela policial, desarrolla un personaje que revela su psicología introspectiva e impone al lector un análisis de la desesperanza. El protagonista, Juan Pablo Castel, persigue inútilmente lo inalcanzable, que no es sino el regreso a la infancia, simbolizada en la ventana de un cuadro, motivo reiterado largamente en la narración.</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788432211089</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-10T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Túnel" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Tunel - Ernesto Sabato.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">382</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5ac785f-0962-4ae0-a039-b7a844d0c785</dc:identifier>
+    <dc:title>El alquimista impaciente</dc:title>
+        <dc:creator opf:file-as="Silva, Lorenzo" opf:role="aut">Lorenzo Silva</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-04-14T16:00:00+00:00</dc:date>
+        <dc:description>Un cadáver desnudo, sin rastros de violencia, aparece atado a una cama en un motel de carretera. ¿Se trata o no de un crimen? El sargento Bevilacqua, atípico investigador criminal de la Guardia Civil, y su ayudante, la guardia Chamorro, reciben la orden de resolver el enigma. La investigación que sigue no es una mera pesquisa policial. El sargento y su ayudante deberán llegar al lado oscuro e inconfesable de la víctima, a su sorprendente vida secreta, así como a las personas que la rodeaban, en su familia, en la central nuclear donde trabajaba. Y desentrañar un cada vez más complejo entramado de dinero e intereses que los llevará a varias ciudades. Pero la clave, como en la alquimia, está en la paciencia; la que necesitarán los investigadores y también la que les faltó, de uno u otro modo, a los personajes con los que se tropiezan en su búsqueda. Una novela de corte policíaco que es mucho más que un relato de intriga, y en la que descubrir a la víctima es casi más importante que descubrir a su asesino. Como en los libros de Chandler y Hammett, no se trata de resolver un crimen como quien resuelve un acertijo, sino que hay que sumergirse en las circunstancias y personajes que rodean la muerte, en su trasfondo social.</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423331963</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Bevilacqua/Chamorro" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="2010-04-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El alquimista impaciente" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El alquimista impaciente - Lorenzo Silva.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

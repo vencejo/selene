@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1209</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a710d136-2578-4859-8a14-30a4b391c9e3</dc:identifier>
+    <dc:title>Nadie lo ha visto</dc:title>
+        <dc:creator opf:file-as="Jungstedt, Mari" opf:role="aut">Mari Jungstedt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-28T16:00:00+00:00</dc:date>
+        <dc:description>La temporada turística empieza en la aparentemente tranquila isla sueca de Gotland. Como cada año, Helena, que ahora reside en Estocolmo, vuelve a la isla en la que pasó los primeros años de su vida y celebra una fiesta con sus amigos de infancia. Pero Helena bebe más de la cuenta y acaba bailando con su amigo Kristian y provocando los celos de su marido Per. Cuando ya no puede soportarlo más, Per reacciona de forma violenta y pone punto y final al buen ambiente que se respiraba. Al día siguiente, Helena está paseando por la playa reflexionando sobre lo ocurrido cuando es salvajemente atacada. Cuando se encuentra su cuerpo, cruelmente asesinado, su marido es inmediatamente inculpado. Pero unos días más tarde aparece muerta Frida, una compañera de colegio de Helena, que ha sido asesinada en las mismas circunstancias. La psicosis se apodera del pueblo y el inspector Anders Knutas debe acelerar las investigaciones antes de que el asesino golpee de nuevo. Para ello cuenta con la colaboración, no siempre deseada, del inquieto periodista Johan...</dc:description>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788496748835</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela negra</dc:subject>
+        <meta content="Anders Knutas" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2010-08-01T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Nadie lo ha visto" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Nadie lo ha visto - Mari Jungstedt.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

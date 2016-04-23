@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2686</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05d7fa54-f1ec-4a1b-a2cc-d46d2ac4ae32</dc:identifier>
+    <dc:title>Carta Blanca</dc:title>
+        <dc:creator opf:file-as="Silva, Lorenzo" opf:role="aut">Lorenzo Silva</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-08-17T16:00:00+00:00</dc:date>
+        <dc:description>Premio Primavera 2004
+
+Carta blanca se abre y se cierra con una guerra, la del RIF, en el Norte de Africa, y la Guerra Civil española pero es, sobre todo, la historia de una pasión, porque las huella de un amor verdadero son las que marcan de verdad el alma y el destino, un destino marcado inevitablemente por el desencanto, el conocimiento de los límites de la crueldad humana y el refugio del amor contra todo, frente a todo, como única redención y salida. Lorenzo Silva ha escrito, con la madurez de una prosa directa y sin concesiones, una novela soberbia, madura, descarnada, profundamente apasionada, que indaga en nuestro pasado y nos ofrece la figura carismática y apabullante de un antihéroe atípico y atractivo que debe vivir en una época convulsa en donde se extreman los sentimientos y la auténtica relevancia de nuestros actos. Una novela de ritmo trepidante y prosa maestra ante la cual es imposible permanecer indiferente.</dc:description>
+        <dc:publisher>Espasa Calpe SA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467014105</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-17T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Carta Blanca" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Carta Blanca - Lorenzo Silva.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

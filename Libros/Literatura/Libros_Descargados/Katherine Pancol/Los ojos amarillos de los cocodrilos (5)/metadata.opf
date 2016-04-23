@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29f86816-82dd-4be0-a9f9-8ed470f3bf44</dc:identifier>
+        <dc:title>Los ojos amarillos de los cocodrilos</dc:title>
+        <dc:creator opf:file-as="Pancol, Katherine" opf:role="aut">Katherine Pancol</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.28) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-31T23:00:00+00:00</dc:date>
+        <dc:publisher>La Esfera de los Libros</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788497349239</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="2010-11-23T17:52:34.818000+00:00" name="calibre:timestamp"/>
+        <meta content="Los ojos amarillos de los cocodrilos" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

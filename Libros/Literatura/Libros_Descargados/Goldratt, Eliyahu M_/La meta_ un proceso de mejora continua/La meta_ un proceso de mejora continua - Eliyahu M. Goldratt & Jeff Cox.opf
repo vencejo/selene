@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1526</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b17d6995-586a-4c53-a086-2806934d6bda</dc:identifier>
+    <dc:title>La meta: un proceso de mejora contínua</dc:title>
+        <dc:creator opf:file-as="Goldratt, Eliyahu M." opf:role="aut">Eliyahu M. Goldratt</dc:creator>
+        <dc:creator opf:file-as="Goldratt, Eliyahu M." opf:role="aut">Jeff Cox</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-14T16:00:00+00:00</dc:date>
+        <dc:description>Escrita con un estilo de relato de acción, La meta es la emocionante novela que está transformando el pensamiento de los directivos de todo el mundo occidental. El autor ha sido descrito por la revista Fortune como un "gurú de la industria" y por Bussiness Week como "genio". Este es un libro para ser recomendado a sus amigos profesionales de la industria --ncluso a sus jefes- pero no a sus competidores.
+
+Alex rogo es un "estresado" director de fabrica que intenta desesperadamente mejorar los resultados de la misma, que está abocada al desastre. Lo mismo ocurre con su matrimonio. Tiene noventa días para salvar su fábrica, o esta será cerrada por la corporación, lo que conllevará la pérdida de cientos de puestos de trabajo. Por una casualidad se encuentra con un colega de sus días de estudiante -Jonah- que le ayuda a romper con las formas convencionales de pensamiento para saber lo que tiene que hacer.
+
+La historia de Alex para salvar su fábrica es algo más que una lectura interesante. Contiene un mensaje importante para todos los directivos de empresa y expone las ideas que sirven de base a la Teoría de la limitaciones ("Theory of Constrains - TOC") desarrollada por el instituto Goldratt.
+
+Eliyahu M. Goldratt es un lider internacionalmente reconocido en el desarrollo de nuevos conceptos y sistemas en la dirección de empresas y como profesor en muchas corporaciones del mundo.</dc:description>
+        <dc:publisher>Díaz de Santos</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">847978718X</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>economía y negocios</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-05-07T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La meta: un proceso de mejora contínua" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La meta_ un proceso de mejora continua - Eliyahu M. Goldratt &amp; Jeff Cox.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

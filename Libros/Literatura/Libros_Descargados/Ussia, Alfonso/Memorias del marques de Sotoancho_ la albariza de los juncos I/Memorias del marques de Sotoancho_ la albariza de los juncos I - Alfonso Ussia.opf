@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2676</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04cab347-aee0-4927-afbe-cd3933dd7789</dc:identifier>
+    <dc:title>Memorias del marqués de Sotoancho: la albariza de los juncos I</dc:title>
+        <dc:creator opf:file-as="Ussía, Alfonso" opf:role="aut">Alfonso Ussía</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-08-14T16:00:00+00:00</dc:date>
+        <dc:description>Cristián Ildefonso Laus Deo María Ximénez De Andrada y Belvís de los Gazules es el marqués de Sotoancho que nació en la imaginación de Alfonso Ussía hace treinta años. Este libro es el diario completo del marqués con ilustraciones en acuarela de Baca. Alfonso Ussía explica además en esta obra su creación del personaje y los límites entre la ficción y la realidad.</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788440685483</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-11T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Memorias del marqués de Sotoancho: la albariza de los juncos I" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Memorias del marques de Sotoancho_ la albariza de los juncos I - Alfonso Ussia.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

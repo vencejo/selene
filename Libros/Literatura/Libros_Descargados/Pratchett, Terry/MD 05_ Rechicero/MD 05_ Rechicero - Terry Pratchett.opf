@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">680</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58380a0f-7ec6-4062-a816-1148b75c5bce</dc:identifier>
+    <dc:title>MD 05: Rechicero</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-08-30T16:00:00+00:00</dc:date>
+        <dc:description>El octavo hijo de un octavo hijo es mago, generalmente. Y los magos no pucden tener hijos, generalmente. La magia es un asunto muy, muy delicado que exige un celibato riguroso (aunque no impide fumar). O al menos eso es lo que se les suele decir a los magos jóvenes. Pero en realidad no hay nada de eso. Lo que ocurre es que si los magos pudieran entregarse a los placeres de la carne, nada podría impedir que acabaran convertidos en progenitores. Vamos, que podrían tener hijos. Y si se dedicaran a ello con el mismo entusiasmo que sus padres y abuelos, podrían llegar a tener ocho hijos. Y el octavo hijo de un octavo hijo de un octavo hijo sería dos eeces mago. Un hechicero al cuadrado. Un rechicero.
+
+La cosa es que hacía mucho tiempo que se había desterrado la «rechicería» del Mundodisco y los magos se conformaban con intrigar entre ellos, para ir subiendo en el escalafón de la magia de una forma tranquila y pausada (como logrando que tus superiores se acojan a las ventajas de la jubilación anticipada y cosas así). De modo que nadie estaba preparado para la llegada del joven Coin, un «rechicero» a quien su padre había preparado para acabar con todo y con todos. Y Rincewind menos que nadie: se las había apañado para seguir siendo el mago más inepto del Mundodisco, y estaba decidido a seguir manteniendo un perfil bajo. O al menos eso es lo que él pretendía...
+
+Rechicero es la quinta novela del Mundodisco. Y, sí, sigue siendo igual de buena y divertida que las anteriores, por muy increíble que parezca repetirlo una vez más. Las novelas anteriores son: El color de la magia y La luz fantástica por un lado (ambas en la colección Fantasy), y Ritos iguales y Mort por otro (en esta misma colección). En el fondo pueden leerse en cualquier orden, siempre que se tenga en cuenta un pequeño detalle: lo mejor es leerlas todas.</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401479458</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>fantasía</dc:subject>
+        <meta content="mundodisco" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2008-06-10T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="MD 05: Rechicero" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="MD 05_ Rechicero - Terry Pratchett.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

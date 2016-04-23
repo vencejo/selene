@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">206</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">efb7cf60-331b-43b3-9653-dfb6dde83934</dc:identifier>
+    <dc:title>Relatos</dc:title>
+        <dc:creator opf:file-as="Vinge, Vernor" opf:role="aut">Vernor Vinge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-25T22:00:00+00:00</dc:date>
+        <dc:description>Vinge Vernor tiene una escasa producción; tres relatos y diez novelas. La escasez se ve compensada por la calidad, ya que ha ganado 5 premios Hugo, quedando otras 3 veces en segundo lugar. Tambien ha ganado premios Ignotus, Locus, Prometeus, etc... Presentamos los dos primeros relatos cortos de Vinge Vernor, que son los únicos traducidos a nuestro idioma.</dc:description>
+        <dc:identifier opf:scheme="ISBN">1234567890000</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-06-25T22:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Relatos" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Relatos - Vernor Vinge.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

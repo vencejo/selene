@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1824</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d6df3c6-f6ca-41c3-b190-c853601770b8</dc:identifier>
+    <dc:title>Los fiscales</dc:title>
+        <dc:creator opf:file-as="Davis, Lindsey" opf:role="aut">Lindsey Davis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-25T16:00:00+00:00</dc:date>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788435017626</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-07-25T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Los fiscales" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Los fiscales - Lindsey Davis.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">395</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f6654669-3be5-43c3-9825-46ee84d99a70</dc:identifier>
+    <dc:title>El Hombre en el Laberinto</dc:title>
+        <dc:creator opf:file-as="Silverberg, Robert" opf:role="aut">Robert Silverberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1976-06-14T16:00:00+00:00</dc:date>
+        <dc:description>En el futuro, la humanidad se ha expandido a lo largo del universo y ha establecido bases a millones de años luz de la Tierra. Sin embargo, no se habían encontrado signos de vida inteligente en otros planetas. Excepto un extraño planeta, Beta Hydri IV, habitado por una especie de arañas gigantescas de las cuales no se tiene demasiada información, excepto que viven en una especie de ciudades como las que había en la Tierra antes de la era espacial.
+
+Muller es uno de los más brillantes exploradores diplomáticos y, ansioso por ser reconocido y por explorar nuevos mundos, es seleccionado para ir al planeta habitado por las arañas en calidad de representante de la Tierra. Sus esfuerzos son infructuosos y regresa a la Tierra sin haber podido establecer contacto. Pero lo que no sabe es que los extraños seres del planeta lo han cambiado, lo han modificado irreversiblemente, convirtiéndolo en un ser repudiado que no puede estar cerca de nadie sin que éste sufra terriblemente. Por este motivo decide dejar atrás la humanidad y refugiarse en Lemnos, un planeta deshabitado y apartado, pero con un escondite excelente: un enorme laberinto dotado con una sofisticada tecnología creada por una antigua raza inteligente. Además, está plagado de trampas y trucos mortales, motivo por el cual dejó de ser estudiado por los científicos terrestres, tras la muerte de muchos científicos que no tuvieron tanta suerte con Muller, que consigue instalarse en el centro del laberinto.
+
+Ahora la Tierra está en peligro y vuelve a necesitar a Muller. Por eso, una nave es enviada para buscarlo y convencerlo de qué regrese, tarea complicada y arriesgada, pues deben adentrarse en el laberinto y sortear toda clase de letales obstáculos para llegar hasta él.</dc:description>
+        <dc:publisher>Bruguera</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788402049179</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-06-09T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Hombre en el Laberinto" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Hombre en el Laberinto - Robert Silverberg.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1375</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b05503cd-53dd-4267-bf5a-8c11a26445f1</dc:identifier>
+    <dc:title>Historia del Futuro III</dc:title>
+        <dc:creator opf:file-as="Heinlein, Robert A." opf:role="aut">Robert A. Heinlein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-05-31T22:00:00+00:00</dc:date>
+        <dc:description>Historia Del futuro consta de los veintiún relatos, novelas cortas y novelas que forman la monumental Historia del Futuro de Robert A. Heinlein. Una obra gigantesca en la que se traza, de modo magistral, el futuro de la raza humana, que podría ser, que tal vez será, que en algunos de sus detalles ya ha sido. Iniciada hace más de un tercio de siglo, esta obra ha sido calificada como la cúspide de la carrera de escritor de este meticuloso arquitecto del futuro que es Robert A. Heinlein.
+
+Relatos que contiene:
+- La amenaza de la tierra
+- «Si esto continua...»
+- Coventry</dc:description>
+        <dc:publisher>Ediciones Orbis, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788476348413</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-06-30T22:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Historia del Futuro III" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Historia del Futuro III - Robert A. Heinlein.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

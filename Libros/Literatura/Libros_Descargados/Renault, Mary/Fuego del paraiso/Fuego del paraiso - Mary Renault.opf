@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2759</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f3435df-816d-44cb-8d5b-3fadf01d4647</dc:identifier>
+    <dc:title>Fuego del paraíso</dc:title>
+        <dc:creator opf:file-as="Renault, Mary" opf:role="aut">Mary Renault</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-10T16:00:00+00:00</dc:date>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788425319204</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-10T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Fuego del paraíso" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Fuego del paraiso - Mary Renault.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

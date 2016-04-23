@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2174</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b237d46d-2d65-443a-af85-8587cdea5200</dc:identifier>
+    <dc:title>El Codigo Da Vinci</dc:title>
+        <dc:creator opf:file-as="Brown, Dan" opf:role="aut">Dan Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-25T16:00:00+00:00</dc:date>
+        <dc:description>¿Qué misterio se oculta tras la sonrisa de Mona Lisa? Durante siglos, la Iglesia ha conseguido mantener oculta la verdad, hasta ahora. Antes de morir asesinado, Jacques Sauniere, el último Gran Maestre de una sociedad secreta que se remonta a la fundación de los Templarios, transmite a su nieta Sofía una misteriosa clave. Sauniére y sus predecesores, entre ellos Isaac Newton o Leonardo Da Vinci, han conservado durante siglos un conocimiento que puede cambiar la historia de la humanidad. Ahora Sofí­a, con la ayuda del experto en simbología Robert Langdon, comienza la búsqueda de ese secreto, en una trepidante carrera que les lleva de una clave a otra, descifrando mensajes ocultos en los m¡s famosos cuadros del genial pintor y en las paredes de antiguas catedrales.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788496829008</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-05-25T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Codigo Da Vinci" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Codigo Da Vinci - Dan Brown.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

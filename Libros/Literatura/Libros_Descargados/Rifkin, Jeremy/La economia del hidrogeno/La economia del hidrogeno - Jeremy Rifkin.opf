@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2743</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e700015a-ce54-4bd4-a81c-8e5d01eb8eaf</dc:identifier>
+    <dc:title>La economía del hidrógeno</dc:title>
+        <dc:creator opf:file-as="Rifkin, Jeremy" opf:role="aut">Jeremy Rifkin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-09-08T16:00:00+00:00</dc:date>
+        <dc:description>El hidrógeno es el elemento más básico y ubicuo del universo, la materia de la que están hechos el sol y las estrellas. En este inicio del siglo XXI, los principales fabricantes de automóviles han destinado más de 2.000 millones de dólares a desarrollar prototipos alimentados con hidrógeno, y se espera que en pocos años circulen ya los primeros vehículos producidos en serie. Además, cuando millones de usuarios puedan conectarse a redes energéticas de hidrógeno de alcance local, regional y nacional, basadas en los mismos principios que hicieron posible la World Wide Web, podrán compartir la energía de igual a igual y crear un modelo descentralizado. El hidrógeno puede paliar la dependencia del mundo respecto a las importaciones de petróleo, y contribuir a enfriar el peligroso juego geopolítico que se genera entre algunos países productores y el mundo occidental.</dc:description>
+        <dc:publisher>Ediciones Paidós Ibérica, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788449312809</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-08T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La economía del hidrógeno" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La economia del hidrogeno - Jeremy Rifkin.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1130</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6280ed1b-e5fb-46bb-86d8-fdabc8ff1c72</dc:identifier>
+    <dc:title>El hombre que nunca llegaba a joven</dc:title>
+        <dc:creator opf:file-as="Leiber, Fritz" opf:role="aut">Fritz Leiber</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-12T16:00:00+00:00</dc:date>
+        <dc:publisher>Ediciones Martínez Roca</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-04-04T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El hombre que nunca llegaba a joven" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El hombre que nunca llegaba a joven - Fritz Leiber.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

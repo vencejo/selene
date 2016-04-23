@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">434</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e1192fd0-e103-42ef-a967-5b9410aa8443</dc:identifier>
+    <dc:title>Juan Raro</dc:title>
+        <dc:creator opf:file-as="Stapledon, Olaf" opf:role="aut">Olaf Stapledon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-09-30T16:00:00+00:00</dc:date>
+        <dc:description>William Olaf Stapledon (1886-1950) nació en Inglaterra. Fue maestro de escuela, empleado de una compañía naviera en Liverpool y Port Said, y lector de filosofía, psicología, literatura e historia de la industria en la Universidad de Liverpool.
+Publicó varias obras de filosofía y las siguientes novelas: "Primeros y últimos hombres" (1930) "Los últimos hombres en Londres" (1932), "Juan raro" (1936), "El hacedor de estrellas" (1937), "Oscuridad y luz" (1942), "Sirio" (1944), "Las llamas" (1947) y "Un hombre dividido" (1950).
+"Juan raro" es la novela clásica del superhombre, una discusión apasionada de los problemas del hombre moderno, sus ideas, sus costumbres, y sus absurdos prejuicios.
+"Stapledon es dueño de una de las imaginaciones más profundas y extrañas de nuestra época; quizá la más profunda, quizá la más extraña...". (Howard Spring)
+"No conozco escritor moderno que pueda volar más lejos o más rápido por los reinos del espíritu y que, al mismo tiempo, haga este vuelo más excitante para sus lectores". (C. E. M. Joad)</dc:description>
+        <dc:publisher>Minotauro Ediciones</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788445072356</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-06-09T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Juan Raro" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Juan Raro - Olaf Stapledon.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

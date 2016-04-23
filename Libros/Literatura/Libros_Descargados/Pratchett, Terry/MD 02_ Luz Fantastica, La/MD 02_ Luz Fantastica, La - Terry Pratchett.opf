@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">677</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7635d340-a928-41eb-87d6-f1a5ff00ddbc</dc:identifier>
+    <dc:title>MD 02: Luz Fantástica, La</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-10T16:00:00+00:00</dc:date>
+        <dc:description>La secuela de El Color de la Magia comienza con Rincewind y Dosflores de nuevo sobre el Mundodisco, que de repente parece estar metido en problemas muy, muy serios. Y cuando un mundo entero es quien se mete en problemas, sus habitantes van detrás. Ha aparecido una temible estrella roja en el cielo que se hace más grande cada día que pasa, y los astrólogos dicen que no es precisamente una buena señal. Aunque claro, los astrólogos del Mundodisco también tienen un zodíaco compuesto de cientos de signos y siguien descubriendo nuevos cada día a medida que la tortuga que transporta el mundo se desplaza por el espacio...
+
+Pratchett continúa con la parodia desenfrenada que inició en la novela anterior, aunque esta vez va dirigida a multitud de cuentos infantiles e historias como Conan el Bárbaro. Los peligros para Rincewind y Dosflores (porque parece que el Equipaje, el baúl asesino del segundo, no se preocupa demasiado) incluyen magos, cazarecompensas, trolls, druidas expertos en hardware (no preguntéis, leedlo), fanáticos religiosos, conjuros con mala leche, dioses y, cómo no, esa famosa estrella roja que no presagia nada bueno...
+
+La luz fantástica es la única novela en la serie que continúa su trama exactamente allí donde la dejó otra novela, por lo que pierde algo de gracia si no has leído antes El Color de la Magia. Sin embargo, las referencias a cuentos e historias de esta novela se captan con mucha más facilidad que allí sin necesidad de haber leído nada de fantasía antes. Podría valer como introducción al Mundodisco pero, ya que es una continuación, yo casi que buscaría otro.</dc:description>
+        <dc:publisher>DEBOLSILLO</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788497931786</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>fantasía</dc:subject>
+        <meta content="mundodisco" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2008-06-10T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="MD 02: Luz Fantástica, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="MD 02_ Luz Fantastica, La - Terry Pratchett.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

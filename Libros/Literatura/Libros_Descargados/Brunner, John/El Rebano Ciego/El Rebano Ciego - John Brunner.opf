@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2188</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1057f47a-3627-442e-a8c1-d944db9c91e8</dc:identifier>
+    <dc:title>El Rebaño Ciego</dc:title>
+        <dc:creator opf:file-as="Brunner, John" opf:role="aut">John Brunner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1982-03-31T16:00:00+00:00</dc:date>
+        <dc:description>En este libro, escrito en 1970, se describe el mundo de principios del Siglo XXI (nuestra época actual). Este mundo imaginado se aboca el desatre total por la contaminación química y biológica. Los niños mueren de disentería, malaria, tifus, avitaminosis (y no sólo en los países del Tercer Mundo, también Europa sufre una gran hambruna por la contaminación definitiva y total del Mediterraneo). Mientras, los adultos contemplan cómo su esperanza de vida se acorta cada día que pasa y son cada vez más conscientes que no habrá una nueva generación. “El rebaño ciego”, sin embargo, no es panfletario en la denuncia del consumo desenfrenado y la amoralidad empresarial y política. Todos los datos están documentados y son presentados de manera rigurosa. Es un libro que está viendo como muchos de sus presupuestos se están cumpliendo cuarenta años después. En el que no da tiempo para coger cariño a los personajes pues estos circulan luchando en guerras sin sentido y son mutilados y muertos por las bombas de su propio gobierno o por catástofes naturales y enfermedades.
+
+En la cúpula de ese gobierno está el Prexy, un presidente de EE. UU. que es inútil. La única esperanza es un antiguo lider universitario, Austin Train, que se esconde bajo falsas identidades, y que tiene una teoría crítica con su presente que cala en grupos de jóvenes idealistas y adultos desencantados.</dc:description>
+        <dc:publisher>Acervo</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788470023361</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-05-09T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Rebaño Ciego" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Rebano Ciego - John Brunner.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

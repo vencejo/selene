@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1534</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c2669c9-c444-47b2-8e48-6d64a951bfd7</dc:identifier>
+    <dc:title>Entre tu pediatra y tu</dc:title>
+        <dc:creator opf:file-as="González, Carlos" opf:role="aut">Carlos González</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-09T16:00:00+00:00</dc:date>
+        <dc:description>La esperada nueva obra de Carlos González después de 4 años.
+Entre tu pediatra y tú es la mejor ayuda que una madre puede tener para disfrutar con seguridad de la crianza de sus hijos. Si las teorías de Carlos González se pudieran resumir en una frase, esta sería: «Tranquila, tu hijo y tú sabréis cómo lo tenéis que hacer». Esa es la constante que subyace en cada una de las más de doscientas cartas que componen este libro y que han sido seleccionadas entre las miles que el pediatra ha respondido durante catorce años en la revista Ser padres. Este libro de consulta, estructurado en temáticas muy concretas (lactancia, alimentación, cuidados...) contará con índices que lo harán muy manejable y práctico.
+En este libro, Carlos González se ocupa de lactancia, cuidados y alimentación, pero también arroja luz sobre problemas relacionados con la educación, las relaciones materno y paterno filiales o la salud en general.</dc:description>
+        <dc:publisher>Temas De Hoy</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788484608301</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2010-03-09T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Entre tu pediatra y tu" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Entre tu pediatra y tu - Carlos Gonzalez.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

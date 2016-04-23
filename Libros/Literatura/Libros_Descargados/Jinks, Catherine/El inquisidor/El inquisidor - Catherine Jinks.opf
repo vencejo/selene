@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2772</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">654300cc-e321-48e2-b584-381e5efc0d44</dc:identifier>
+    <dc:title>El inquisidor</dc:title>
+        <dc:creator opf:file-as="Jinks, Catherine" opf:role="aut">Catherine Jinks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-09-12T16:00:00+00:00</dc:date>
+        <dc:description>Francia, 1318. El padre Bernard Peyre, inquisidor de la abadía de Lezet, es el encargado de investigar los brutales asesinatos del padre Agustín y su guardaespaldas, cuyos descuartizados cuerpos han sido descubiertos a las afueras de la ciudad. Su meta es desenmascarar al verdadero asesino y revelar las razones de su crimen; sólo así podrá salvar a una inocente que, acusada injustamente, ha sido condenada a morir en la hoguera.
+
+Lo que el padre Bernard desconoce es que él mismo se convertirá en el objetivo de una misteriosa persecución que pretende acallar la verdad.
+
+El inquisidor, una novela que en ocasiones roza la sátira al hablar de la corrupción eclesiástica y las maquinaciones del clero en la Edad Media, está en la línea del suspense y rigor histórico de El nombre de la rosa. La australiana Catherine Jinks ha conseguido con El Inquisidor dotar de vida y acción una de las épocas más oscuras de la historia francesa y europea.</dc:description>
+        <dc:publisher>Roca Editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788496525047</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El inquisidor" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El inquisidor - Catherine Jinks.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

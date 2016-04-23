@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">465</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d21ec33-e280-4a24-9b33-9de8334783ad</dc:identifier>
+    <dc:title>La Colonia Perdida</dc:title>
+        <dc:creator opf:file-as="Scalzi, John" opf:role="aut">John Scalzi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-14T16:00:00+00:00</dc:date>
+        <dc:description>John Perry y Jane Sagan han encontrado la paz junto a su hija adoptiva Zoë en el planeta colonial Huckleberry. Es una buena vida, pero sienten que les falta... algo. Por eso, cuando se les propone liderar una nueva colonia. John y Jane no pueden resistir la tentación de explorar el universo una vez más.
+Pero cuando los colonos son abandonados en un planeta desconocido. Perry descubre que nada es lo que parece. Él y su nueva colonia son simples peones en la confrontación entre la Unión Colonial humana y la confederación alienigena denominada el Cónclave, que pretende frenar la colonización humana.
+Mientras la partida se decide, Perry deberá proteger a sus colonos de la amenaza que suponen ambos bandos y mantenerlos con vida en un planeta que esconde sus propios secretos. Al mismo tiempo intentará prevenir una guerra que podría significar no sólo la destrucción de su nuevo hogar, sino también la aniquilación de toda la Unión Colonial.</dc:description>
+        <dc:publisher>Minotauro</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788445077337</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="Fuerzas de defensa coloniales" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="2010-06-09T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La Colonia Perdida" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La Colonia Perdida - John Scalzi.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

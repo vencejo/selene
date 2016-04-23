@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2540</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5ca7117-2377-4402-9619-3f62e3e3c780</dc:identifier>
+    <dc:title>Fundación</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-29T16:00:00+00:00</dc:date>
+        <dc:description>El hombre se ha dispersado por los planetas de la galaxia. La capital del Imperio es Trántor, centro de todas las intrigas y símbolo de la corrupción imperial. Un psicohistoriador, Hari Seldon, prevé, gracias a su ciencia fundada en el estudio matemático de los hechos históricos, el derrumbamiento del Imperio y el retorno a la barbarie por varios milenios. Seldon decide crear dos Fundaciones, situadas en cada extremo de la galaxia, a fin de reducir este periodo de barbarie a mil años.</dc:description>
+        <dc:publisher>DEBOLSILLO</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788497599245</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="Fundación" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2008-05-26T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Fundación" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Fundacion - Isaac Asimov.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

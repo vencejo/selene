@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">209</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73a7baa9-9403-4bc6-8558-71e6bb829e86</dc:identifier>
+    <dc:title>Asesinato en el Savoy</dc:title>
+        <dc:creator opf:file-as="Wahlöö, Per" opf:role="aut">Per Wahlöö</dc:creator>
+        <dc:creator opf:file-as="Wahlöö, Per" opf:role="aut">Maj Sjöwall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1987-07-14T16:00:00+00:00</dc:date>
+        <dc:description>En ASESINATO EN EL SAVOY, a Beck se le plantea un caso complejo y delicado. Viktor Palmgren es un magnate sueco al que se le conocen muchos negocios legales y se le suponen otros tantos, más subterráneos y de dudosa moralidad, que le proporcionan cuantiosos beneficios. Su inmensa riqueza le ha convertido en un mito. Un día, en el transcurso de una cena en el Savoy, es asesinado de un disparo en la nuca. Las connotaciones políticas y económicas de este crimen exigen una investigación meticulosa en la que el policía debe andar con pies de plomo. Nadie es capaz de describir al asesino y el análisis balístico es poco esclarecedor. El policía deberá enfrentarse, además, a una intriga para la que los métodos detectivescos no tienen solución: ¿puede un crimen ser justo?</dc:description>
+        <dc:publisher>Versal</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788486311582</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-22T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Asesinato en el Savoy" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Asesinato en el Savoy - Per Wahloo &amp; Maj Sjowall.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

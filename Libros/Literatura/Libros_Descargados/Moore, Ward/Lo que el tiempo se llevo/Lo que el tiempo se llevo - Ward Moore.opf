@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">926</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f3d5fbd-5bb9-4d56-b976-8b62e90bd6a8</dc:identifier>
+    <dc:title>Lo que el tiempo se llevó</dc:title>
+        <dc:creator opf:file-as="Moore, Ward" opf:role="aut">Ward Moore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1989-04-14T16:00:00+00:00</dc:date>
+        <dc:description>Sinopsis:¿Y si los Confederados hubiesen ganado la guerra civil Estadounidense?De esta forma arranca la novela en el año “1952” en el que los Estados Confederados de América es el indiscutible líder mundial gracias a sus ingente mano de obra esclava. Todo narrado desde el punto de vista de un yanqui que tiene que emigrar desde una provinciana Nueva York hasta el próspero sur.</dc:description>
+        <dc:publisher>Martínez Roca</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788427012844</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-04-04T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Lo que el tiempo se llevó" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Lo que el tiempo se llevo - Ward Moore.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

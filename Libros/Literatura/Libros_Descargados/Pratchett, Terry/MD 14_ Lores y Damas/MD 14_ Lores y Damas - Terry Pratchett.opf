@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">706</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">71aedf21-dadd-400f-9834-6b5979445903</dc:identifier>
+    <dc:title>MD 14: Lores y Damas</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-07-01T16:00:00+00:00</dc:date>
+        <dc:description>Un nuevo éxito de la mundialmente aclamada saga de Mundodisco, el planeta que navega por el espacio sobre el lomo de cuatro elefantes que a su vez se sostienen sobre una tortuga gigante. Parodia desternillante de El sueño de una noche de verano, esta novela narra el enfrentamiento entre los duendes, seres crueles y viciosos que pretenden sabotear una boda real, y las brujas, únicas critaturas capaces de plantarles cara con alguna posibilidad de victoria...</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401329494</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>fantasía</dc:subject>
+        <meta content="mundodisco" name="calibre:series"/>
+        <meta content="14" name="calibre:series_index"/>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2008-07-17T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="MD 14: Lores y Damas" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="MD 14_ Lores y Damas - Terry Pratchett.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

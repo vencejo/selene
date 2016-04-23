@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1402</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b18a0105-0904-4926-9e24-943194bd680f</dc:identifier>
+    <dc:title>Copista del rey Alfonso, La</dc:title>
+        <dc:creator opf:file-as="Guiladi, Yael" opf:role="aut">Yael Guiladi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-08-14T16:00:00+00:00</dc:date>
+        <dc:description>Con la habilidad narrativa y la profundidad psicológica que ya puso de manifiesto en Orovida y Los cipreses de Córdoba, Yael Guiladi cierra su trilogía sobre la presencia hebrea en la Península con una intensa novela que recrea con brillantez el ambiente cultural del siglo XIII. Beatriz, la protagonista de esta novela, lucha con tenacidad por salir adelante poniéndose al servicio de Alfonso X el Sabio como copista del Estudio General, donde entrará en contacto con algunas figuras importantes del mundo intelectual de la época y vivirá algunas experiencias que transformarán su concepción del mundo, e incluso el rumbo de su vida.</dc:description>
+        <dc:publisher>Planeta-De Agostini</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788439582588</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-06-27T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Copista del rey Alfonso, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Copista del rey Alfonso, La - Yael Guiladi.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2305</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">713882aa-1974-49d5-af76-1604379935d9</dc:identifier>
+    <dc:title>Efecto Práctica, El</dc:title>
+        <dc:creator opf:file-as="Brin, David" opf:role="aut">David Brin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-09-30T16:00:00+00:00</dc:date>
+        <dc:description>"Cualquier tecnología suficientemente avanzada es vista como magia". La frase, a menudo atribuida a Arthur C. Clarke, se hace realidad en esta amena y divertida novela de David Brin.
+
+Dennis Nuel, profesor universitario de física, es transportado a un mundo alternativo donde el segundo principio de la termodinámica está invertido y los objetos mejoran con su uso en lugar de deteriorarse.
+
+Inevitablemente, Dennis recibe en ese mundo dotado de una organización feudal la consideración de mago. Deberá intervenir en innumerables aventuras y participar en viajes sorprendentes donde encontrará a una rubia princesa y deberá enfrentarse a un inteligente señor de la guerra y a los habituales villanos envidiosos. Todo ello en un mundo dotado de tecnología de pacotilla.
+
+Una idea brillante servida con una técnica narrativa que recuerda explícita y voluntariamente la ciencia ficción de los años cuarenta y cincuenta. Una viaje alucinante y alucinado por un mundo anómalo donde las leyes de la física son distintas.</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788440672179</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-08-29T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Efecto Práctica, El" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Efecto Practica, El - David Brin.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2395</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af5f99ce-822b-49ff-a0ce-74bcb7b90aed</dc:identifier>
+    <dc:title>Valle de los caballos, El</dc:title>
+        <dc:creator opf:file-as="Auel, Jean M." opf:role="aut">Jean M. Auel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-09-15T16:00:00+00:00</dc:date>
+        <dc:description>RESEÑA:
+
+Esta inolvidable odisea hacia un pasado lejano nos conduce de nuevo a los asombrosos misterios del mundo exótico y primitivo de El clan del oso cavernario, y a Ayla, convertida ahora en una hermosa y valiente jovencita. Cruelmente expulsada por el nuevo lÍder del antiguo Clan que la adoptó cuando era niña, Ayla deja atrás a sus seres queridos y viaja sola a través de un paisaje abierto y desolado, lleno de animales peligrosos y poco poblado, en busca de los Otros, que son altos y rubios como ella. El breve verano le proporciona escaso tiempo para buscarlos, y cuando encuentra un abrigado valle habitado por una manada de robustos caballos esteparios, decide permanecer allÍ y prepararse para el largo invierno glacial que tiene por delante. Con el Clan, Ayla ha aprendido mucho pero no realmente a cazar. Al final se da cuenta de que puede sobrevivir cuando captura un caballo, el cual le da carne y una piel caliente para el invierno, pero el destino le ha deparado un regalo aún mayor: una potranca huérfana con la que desarrolla una afinidad especial. Un invierno se convierte en varios; Ayla descubre una manera más rápida de hacer fuego, y un cachorro de puma herido se une a su peculiar familia; pero sus queridos animales no satisfacen su inquietante necesidad de tener compañÍa humana. Entonces oye el grito de dolor de un hombre. Le salva la vida al alto y apuesto Jondalar, quien le trae un lenguaje hablado y el despertar del amor y el deseo, pero Ayla está dividida entre el temor de abandonar su valle y la esperanza de vivir junto a su propia gente.</dc:description>
+        <dc:publisher>Simon &amp; Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780743236034</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Hijos de la Tierra" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2009-10-18T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Valle de los caballos, El" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Valle de los caballos, El - Jean M. Auel.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

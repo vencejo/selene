@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">466</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">23876b98-168c-4c02-8c8c-113b79d34dc2</dc:identifier>
+    <dc:title>La Vieja Guardia</dc:title>
+        <dc:creator opf:file-as="Scalzi, John" opf:role="aut">John Scalzi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-06-14T16:00:00+00:00</dc:date>
+        <dc:description>«Apasionante y de una originalidad sorprendente. Sin los sermones de Tropas del espacio  y con mucho más sexo que La guerra interminable. Divertida, triste, auténtica.»
+- CORY DOCTOROW
+
+«-Ahora mismo en esta sala hay 1022 reclutas -dijo el teniente coronel Higgee- Dentro de dos años, cuatrocientos de ustedes habrán muerto. En el tercer año, morirán otros cien. Ciento cincuenta más durante el cuarto y el quinto. Dentro de diez años (si, reclutas, lo más probable es que se les exija servir durante diez años enteros), setecientos cincuenta de ustedes habrán muerto cumpliendo con su deber. Tres cuartas partes de ustedes, muertos. Esas han sido las estadísticas de supervivencia, no sólo de los diez o veinte últimos años, sino de los más de doscientos que las Fuerzas de Defensa coloniales llevan en activo.
+Hubo un silencio letal:
+-Sé perfectamente lo que están pensando ahora mismo, porque yo lo pensé cuando estuve en su lugar -continuó Higgee-. Están pensando: ¿qué demonios hago aquí? ¡Este tipo me está diciendo que dentro de diez años estaré muerto! Pero recuerden que en casa probablemente estarían también muertos dentro de diez años: frágiles y viejos, una muerte inútil. Puede que mueran en las Fuerzas de Defensa Coloniales. De hecho, probablemente mueran en las Fuerzas de Defensa Coloniales. Pero su muerte no habrá sido inútil. Habrán muerto por la supervivencia de la humanidad en el universo.»
+
+John Scalzi nació en California y actualmente reside en Ohio. Es un prolífico columnista y escritor de ensayo. Entre sus libros destacan The Roghe Guide to the Universe y The Book of the Dumb. The Whatever es uno de los más visitados en la red. La vieja guardia, que obtuvo una nominación al premio Hugo en 2006 y fue galardonada con el premio Campbell ese mismo año en la categoría de mejor autor novel, es su primera novela.</dc:description>
+        <dc:publisher>Minotauro</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788445076385</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="Fuerzas de defensa coloniales" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2010-06-09T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La Vieja Guardia" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La Vieja Guardia - John Scalzi.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

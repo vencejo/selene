@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2734</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">60318750-3aa8-474d-a7f9-c7c994fe00b7</dc:identifier>
+    <dc:title>La profecia del águila</dc:title>
+        <dc:creator opf:file-as="Scarrow, Simon" opf:role="aut">Simon Scarrow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-28T16:00:00+00:00</dc:date>
+        <dc:description>Corre el año 45 d.C. y un inesperado lance en el Mediterráneo amenaza la seguridad del Imperio. Los centuriones Macro y Cato, que deambulan por Roma mientras esperan el desenlace de una investigación por asesinato en la que se han visto involucrados, se ven de pronto enfrentados a una misión de la que puede depender el futuro del Imperio. Los piratas del Mediterráeno se están convirtiendo en algo más que una molesta piedrecita en las sandalias de los soldados romanos, y la captura de tres embarcaciones que llevaban a bordo documentos de trascendental importancia política ha colmado la paciencia de Narciso, el secretario imperial, y del propio Claudio.</dc:description>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">8435061388</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="Quinto Licinio Cato" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-05T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La profecia del águila" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La profecia del aguila - Simon Scarrow.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

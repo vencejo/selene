@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2751</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">71f6ecb7-72a3-480e-ade9-748e3797dbb3</dc:identifier>
+    <dc:title>La Hermandad de la Buena Suerte</dc:title>
+        <dc:creator opf:file-as="Savater, Fernando" opf:role="aut">Fernando Savater</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-14T16:00:00+00:00</dc:date>
+        <dc:description>Un caballo invencible que ya ha sido vencido, un jockey que desaparece misteriosamente cuando busca el secreto de la buena suerte, dos magnates sin escrúpulos que pretenden zanjar sus rivalidades en la pista del hipódromo... Ya se acerca la fecha de la Gran Copa, la carrera internacional que desata pasiones. Cuatro aventureros deben encontrar al desaparecido a tiempo para que pueda montar en la prueba crucial: mientras, cada uno de ellos lucha contra los fantasmas de su pasado. Su búsqueda los hará enfrentarse con enigmas y peligros, hasta el desenlace en una isla del Mediterráneo donde se encontrarán con la traición... y con el acecho de los leones. Una novela de aventuras, aliñada con gotas de metafísica y ambientada en el fascinante mundo de las carreras de caballos.</dc:description>
+        <dc:publisher>Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408083689</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-08T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La Hermandad de la Buena Suerte" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La Hermandad de la Buena Suerte - Fernando Savater.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

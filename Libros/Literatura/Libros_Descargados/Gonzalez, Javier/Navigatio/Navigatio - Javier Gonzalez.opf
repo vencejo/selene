@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2697</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d820b55f-8dd8-46fd-9a41-f52ee9c658bb</dc:identifier>
+    <dc:title>Navigatio</dc:title>
+        <dc:creator opf:file-as="González, Javier" opf:role="aut">Javier González</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-14T16:00:00+00:00</dc:date>
+        <dc:description>Tras el falso muro de una iglesia en restauración en un pequeño pueblo de Castilla, aparecen la talla de una Virgen, un extraño manuscrito, los restos momificados de un monje y la presunta reliquia de la pluma de un ángel. El estudio del manuscrito, una supuesta falsificación de un texto medieval del siglo VI, el «Navigatio Sancti Brandani abbatis», arroja conclusiones imposibles y el Vaticano no encuentra una explicación científica razonable para la hipotética reliquia. Alejandra Recasens, la doctora forense encargada de la autopsia de los restos del monje, y el historiador americano Sebastian Cameron, se verán involucrados en la investigación de estos extraños hallazgos. Ambos están a punto de descubrir un secreto que cambiará la Historia de la Humanidad, el concepto que tenemos del tiempo y sus vidas para siempre. Para ello tendrán que repetir el legendario viaje que unos monjes realizaron hace mas de mil quinientos años. Y descubrir que en mitad del océano, detrás de la niebla, desde hace siglos, les están esperando todas las respuestas. En la Isla de Final del Tiempo.</dc:description>
+        <dc:publisher>Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408084099</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-20T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Navigatio" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Navigatio - Javier Gonzalez.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

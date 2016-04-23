@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2707</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f7e7b1f-806e-48fb-adff-9f47a2ce9b73</dc:identifier>
+    <dc:title>Los Coleccionistas</dc:title>
+        <dc:creator opf:file-as="Baldacci, David" opf:role="aut">David Baldacci</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-25T16:00:00+00:00</dc:date>
+        <dc:description>El Camel Club entra de nuevo en acción en Los coleccionistas. Son cuatro ciudadanos peculiares con una misma meta: buscar la verdad, algo difí­cil en Washington, su ciudad natal. Y en su búsqueda de la verdad, reclutan a personajes de lo más curiosos. Esta vez el asesinato del presidente de la Cámara de los Representantes sacude Estados Unidos. Y el Camel Club -que se resiste a creer la versión oficial de los hechos- encuentra una sorprendente conexión con otra muerte: la del director del departamento de Libros Raros y Especiales de la Biblioteca del Congreso. Los miembros del club -a quienes se une Annabelle Conroy, una estafadora profesional que planea dar ""el gran golpe""- se precipitarán en un mundo de espionaje, códigos cifrados y coleccionistas.</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788498721713</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Camel Club" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-25T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Los Coleccionistas" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Los Coleccionistas - David Baldacci.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

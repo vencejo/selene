@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2713</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">580413f6-9a5d-458a-8ed1-9d6b27678c6d</dc:identifier>
+    <dc:title>El prisionero enmascarado</dc:title>
+        <dc:creator opf:file-as="Benzoni, Juliette" opf:role="aut">Juliette Benzoni</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-08-28T16:00:00+00:00</dc:date>
+        <dc:description>A la muerte de su esposo en duelo con François de Beaufort, Sylvie, duquesa de Fontsomme, jura no volver a ver nunca a éste y se retira a las propiedades de su familia a criar a su hija y al pequeño Philippe, el secreto de cuyo nacimiento guarda celosamente. Entre los amigos que la visitan está Nicolas Fouquet, que se ha convertido en superintendente de las Finanzas del reino.Es entonces cuando el joven rey Luis XIV, que no olvida, ordena a Sylvie que se incorpore a la corte en Saint-Jean-de-Luz: va a casarse con la infanta Marie-Thérése y ella debe formar parte de las damas de la nueva reina. Durante las fiestas de celebración de la boda tiene la oportunidad de sacar de una situación comprometida a un mosquetero enamorado pero pobre, y ello le vale la amistad de D`Artagnan.. .De nuevo en París, no puede evitar a Beaufort, que parece haber recuperado el favor real, y que también ha trabado amistad con el superintendente. La ayuda de ambos resultará inestimable al sobrevenir un peligro que amenaza la vida del pequeño Philippe. Para colmo, Fouquet cae en desgracia, y el vengativo ministro Colbert se dedica a perseguir a los amigos del vencido.El peso de los secretos de Estado se hace sentir de nuevo. ¿Guardará el último de ellos una esperanza de felicidad para Sylvie?</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466615983</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Secreto de estado" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-28T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El prisionero enmascarado" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El prisionero enmascarado - Juliette Benzoni.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

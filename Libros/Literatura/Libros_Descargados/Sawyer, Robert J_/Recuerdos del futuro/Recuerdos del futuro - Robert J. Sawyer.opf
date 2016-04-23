@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">460</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9730308f-7df4-442a-879d-66e1f679c768</dc:identifier>
+    <dc:title>Recuerdos del futuro</dc:title>
+        <dc:creator opf:file-as="Sawyer, Robert J." opf:role="aut">Robert J. Sawyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-12-30T16:00:00+00:00</dc:date>
+        <dc:description>En el acelerador de partículas del CERN de Ginebra se lleva a cabo un experimento para tratar de capturar al evasivo bosón de Higgs. Esta partícula elemental, que ha sido postulada pero no descubierta, es fundamental para explicar la constitución del Universo. Como consecuencia de dicho experimento, la humanidad da un salto en el futuro de unos veinte años, durante unos minutos. Las implicaciones morales, filosóficas, etc.. son tremendas. Unos ven un futuro a su gusto, mientras otros están descontentos con lo que le ha deparado el destino. Entre un mar de dudas se plantea la posibilidad de repetir el experimento, y el resultado es...</dc:description>
+        <dc:publisher>La Factoría de Ideas</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788484214625</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2009-10-06T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Recuerdos del futuro" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Recuerdos del futuro - Robert J. Sawyer.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

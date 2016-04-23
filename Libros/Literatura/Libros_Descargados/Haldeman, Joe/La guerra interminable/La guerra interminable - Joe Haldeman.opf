@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1423</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e14ece7b-981b-410f-a02e-64eb7b8294cf</dc:identifier>
+    <dc:title>La guerra interminable</dc:title>
+        <dc:creator opf:file-as="Haldeman, Joe" opf:role="aut">Joe Haldeman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-14T16:00:00+00:00</dc:date>
+        <dc:description>Si bien situada en el espacio, en una guerra de larguísima duración entre la Tierra y los taurinos, esta obra es un duro alegato contra la consideración de los soldados como mera carne de cañón. La historia del soldado Mandella, que gradualmente va ascendiendo en el escalafón militar, es la de un hombre, que por el hecho de viajar a la velocidad de la luz, cada vez que regresa a la Tierra la encuentra más cambiada e irreconocible, lo que provoca una situación de desencuentro e incompresión entre él y sus familiares y amigos.</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466624121</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-04-04T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La guerra interminable" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La guerra interminable - Joe Haldeman.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

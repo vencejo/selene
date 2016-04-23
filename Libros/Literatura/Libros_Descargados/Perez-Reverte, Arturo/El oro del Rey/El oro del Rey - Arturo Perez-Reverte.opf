@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">708</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d402c559-7f68-4227-b73d-ee295d1f038e</dc:identifier>
+    <dc:title>El oro del Rey</dc:title>
+        <dc:creator opf:file-as="Pérez-Reverte, Arturo" opf:role="aut">Arturo Pérez-Reverte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-14T16:00:00+00:00</dc:date>
+        <dc:description>Sevilla, 1626. A su regreso de Flandes, donde han participado en el asedio y rendición de Breda, el capitán Alatriste y el joven mochilero Íñigo Balboa reciben el encargo de reclutar a un pintoresco grupo de bravos espadachines para una peligrosa misión, relacionada con el contrabando del oro que los galeones españoles traen de las Indias. Los bajos fondos de la turbulenta ciudad andaluza, el corral de los Naranjos, la cárcel real, las tabernas de Triana, los arenales del Guadalquivir, son los escenarios de esta nueva aventura, donde los protagonistas reencontrarán traiciones, lances y estocadas, en compañía de viejos amigos y de viejos enemigos.</dc:description>
+        <dc:publisher>Punto De Lectura</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466320566</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Alatriste" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-07-05T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El oro del Rey" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El oro del Rey - Arturo Perez-Reverte.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

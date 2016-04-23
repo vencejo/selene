@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1069</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b24ad15-9c63-4edb-a93f-b2c9e1083c38</dc:identifier>
+    <dc:title>El caso Bourne</dc:title>
+        <dc:creator opf:file-as="Ludlum, Robert" opf:role="aut">Robert Ludlum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-14T16:00:00+00:00</dc:date>
+        <dc:description>Un hombre, herido de bala y al borde de la muerte, es rescatado del mar por unos pescadores franceses. Al cabo de varios días de inconsciencia, vuelve en sí. Pero ignora su nombre, su nacionalidad, su procedencia: todo. Su amnesia es absoluta. Una sola pista lo une al pasado: un microfilme que lleva implantado bajo la piel, y en el que figura el número de una cuenta bancaria en Zurich. A partir de esa referencia, el desconocido empieza a rastrear su propia identidad en Zurich, Marsella, París, Nueva York... Lo que va descubriendo es aterrador. Dentro de este laberinto, sus pasos se encaminan inexorablemente hacia el más buscado terrorista internacional de todos los tiempos: «Carlos».</dc:description>
+        <dc:publisher>DEBOLSILLO</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788497593694</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta content="Jason Bourne" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2010-04-16T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El caso Bourne" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El caso Bourne - Robert Ludlum.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

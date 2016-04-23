@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1148</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9623ee4-42f9-4738-b037-6484a26d6db0</dc:identifier>
+    <dc:title>Flores para Algernon</dc:title>
+        <dc:creator opf:file-as="Keyes, Daniel" opf:role="aut">Daniel Keyes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-06-29T16:00:00+00:00</dc:date>
+        <dc:description>A través del diario de un disminuido psíquico que es seleccionado para un experimento que permite triplicar la inteligencia, asistimos primero a cómo su inteligencia le descubre la amarga realidad y le separa de aquellos que creía su amigos. El nombre alude al ratón Algernon, con el que Charlie compite recorriendo un laberinto.
+
+Fue publicado por primera vez en abril de 1959 en The Magazine of Fantasy &amp; Science Fiction como novela corta y recibió el premio Hugo en 1959. Por su ampliación a novela en 1966 recibió el premio Nébula.
+
+Se hizo una versión cinematográfica en 1968 (Charlie) y otra para televisión en 2000.
+
+# Premio Hugo, 1959, Mejor Novela Corta (Ganador)
+# Premio Nébula, 1966, Mejor Novela (Ganador)
+# Premio Locus, 1975, Mejor Novela de todos los tiempos (Puesto: 36)
+# Premio Locus, 1998, Mejor Novela de Ciencia Ficción antes de 1990 (Puesto: 40)</dc:description>
+        <dc:publisher>Ediciones SM</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467503487</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-05-14T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Flores para Algernon" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Flores para Algernon - Daniel Keyes.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2760</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">239f8924-56df-4ace-a8bf-6c8b1f9df5c1</dc:identifier>
+    <dc:title>Historia de los griegos</dc:title>
+        <dc:creator opf:file-as="Montanelli, Indro" opf:role="aut">Indro Montanelli</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-04T16:00:00+00:00</dc:date>
+        <dc:description>La contribución de Grecia a la civilización occidental es vasta y fascinadora. Historia de los griegos constituye una obra inteligente y rigurosa que devuelve la condición de seres de carne y hueso a los grandes personajes de la cultura griega. Indro Montanelli, reconocido especialista en el tema, ofrece una visión casi periodística de la vida política y sociocultural del mundo griego, y permite conocer una serie de hechos y circunstancias hasta ahora mantenidas en segundo plano por la Historia tradicional.</dc:description>
+        <dc:publisher>Plaza &amp; Janes Editores, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401550133</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-10T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Historia de los griegos" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Historia de los griegos - Indro Montanelli.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

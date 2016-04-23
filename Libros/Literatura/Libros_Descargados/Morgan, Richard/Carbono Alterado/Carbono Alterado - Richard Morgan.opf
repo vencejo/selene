@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">929</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a89a25b5-78ca-4e99-b28c-988c449dafee</dc:identifier>
+    <dc:title>Carbono Alterado</dc:title>
+        <dc:creator opf:file-as="Morgan, Richard" opf:role="aut">Richard Morgan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-29T16:00:00+00:00</dc:date>
+        <dc:description>Carbono alterado: la opera prima del escocés Richard Morgan, que ha merecido muy buena acogida en los países de habla inglesa. Los editoresla definen como "un trepidante thriller en un mundo determinado por la manipulación genética. Una novela cuya combinación de intriga, acción,sexo y violencia ha fascinado al público y la crítica de Inglaterra y Estados Unidos". De hecho, los productores de Matrix han comprado los derechos cinematográficos. 
+
+En el siglo XXV, la humanidad se ha expandido por la galaxia supervisada por la ONU. Mientras las divisiones de clase, raza y religión persisten, los avances tecnológicos han redefinido la vida: la conciencia se almacena en un disco digital implantado en la base del cerebro, y resulta fácilmente descargable en un nuevo cuerpo, como side un molde se tratara. 
+
+Después de ser implacablemente destituido como Enviado de la ONU,Takeshi Kovacs viaja a la Tierra encarnado en un investigador privado contratado por Laurens Bancroft, uno de los hombres más ricos y poderosos de Bay City. El magnate asegura haber sido asesinado, pero la versión de la policía es que se ha suicidado. A medida que investiga,Takeshi se sumerge en un submundo de drogas, sexo y violencia, destapando una sórdida trama de corrupción orquestada por una antigua enemiga.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788445075043</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2008-09-29T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Carbono Alterado" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Carbono Alterado - Richard Morgan.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

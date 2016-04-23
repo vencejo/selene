@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1604</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c7e45283-16a0-418f-9d65-82202db01de4</dc:identifier>
+    <dc:title>Mundo sin Fin, Un</dc:title>
+        <dc:creator opf:file-as="Follett, Ken" opf:role="aut">Ken Follett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-10T16:00:00+00:00</dc:date>
+        <dc:description>El día después de Halloween de 1327, cuatro niños se escabullen de ciudad de Kingsbridge. Son una ladronzuela, un abusón, un pequeño genio y una niña que sueña con ser médico. En el bosque ven como dos hombres son asesinados. Al crecer, sus vidas se verán entrelazadas a causa de la ambición, el amor, la codicia y la venganza. Conocerán la prosperidad y el hambre, enfermedades y guerra. Uno de los chicos viajará por todo el mundo para terminar volviendo a casa, mientras que el otro se transformará en un noble poderoso y corrupto. Una chica desafiará al poder de la Iglesia medieval y la otra perseguirá un amor inalcanzable. Pero siempre vivirán bajo la alargada sombra del asesinato que presenciaron de niños en aquel profético día. El Mundo sin Fin es la secuela de Los Pilares de la Tierra, pero no importa en qué orden las leas. El segundo libro está ambientado en la misma ciudad, Kingsbridge, pero tiene lugar doscientos años después.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9780307392251</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="2008-10-10T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Mundo sin Fin, Un" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Mundo sin Fin, Un - Ken Follett.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

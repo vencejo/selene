@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">414</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ded0ab07-bdf7-44d3-9bb9-8ea0949566f6</dc:identifier>
+    <dc:title>Los hijos de nuestros hijos</dc:title>
+        <dc:creator opf:file-as="Simak, Clifford D." opf:role="aut">Clifford D. Simak</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1980-04-14T16:00:00+00:00</dc:date>
+        <dc:description>Un día de verano como otro cualquiera, se abre una puerta en el vacío y empiezan a salir cientos, miles, millones de personas procedentes de ninguna parte. Dicen que vienen del futuro. Son los hijos de nuestros hijos. Un peligro incontrolable acecha en el futuro, y se hace preciso cortar el puente que los ha traído a través del tiempo. Pero, como suele ocurrir en estos casos, alguien se deja, una puerta abierta…Y es precisamente como se dice en la Sinopsis, que una puerta en el vacío se abre ante un hombre en su jardín. Luego se abrirán más puertas, y unos dos millones de personas, procedentes del siglo XXV, regresan al siglo XX. Se pide al ejército que si algo anormal sucede en las puertas, éstas deben ser destruidas al instante, sin importar las personas que crucen o estén por cruzar. Pronto, se sabe que ésta gente huye de un peligro que amenaza a toda la humanidad del futuro: una raza de seres parecidos a dragones, prácticamente indestructibles y que son altamente hostiles, llega a la Tierra para destruirlo todo. Los humanos no tienen más remedio que asentarse en el siglo XX mediante un fenómeno espacio-temporal, muy extraño, que permite a los humanos viajar únicamente al pasado.Se nos presenta así una sociedad con valores e ideas distintas. La religión ha desaparecido por completo, así como la creencia en un Dios (algo que dudo muchísimo que llegue a ocurrir y que a Simak le llamó la atención).Y de pronto sucede: uno, dos, tres de estos “ dragones ” logran pasar a la época actual y hacer de las suyas. Mientras, los humanos tienen un plan para no intervenir con la época contemporánea: dividirse en grupos y repartirse a lo largo del pasado, con una diferencia de un millón de años, de tal modo que éstos no se encuentren y que en pocos miles de años lleguen a una era espacial y abandonen la Tierra.Cuando el plan está listo, los dragones hacen algo inesperado: después de haber viajado en el tiempo, aprenden a hacer lo mismo sin necesidad de aparatos ni de tecnología alguna. Según los personajes, las bestias invasoras viajan a la época de los dinosaurios en una sencilla explicación para entender la extinción de estos.Es una novela sencilla, floja por momentos, pero interesante para pasar un buen rato en compañía de algunas de las ideas de este gran escritor. No es lo mejor de Simak, pero vale la pena echarle un ojo.</dc:description>
+        <dc:publisher>Martínez Roca</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788427003118</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-04-04T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Los hijos de nuestros hijos" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Los hijos de nuestros hijos - Clifford D. Simak.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

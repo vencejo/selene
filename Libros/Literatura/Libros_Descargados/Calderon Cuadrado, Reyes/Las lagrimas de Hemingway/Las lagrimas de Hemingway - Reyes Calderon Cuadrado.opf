@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2151</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ecf80628-92f3-477b-8152-edd5edef338a</dc:identifier>
+    <dc:title>Las lágrimas de Hemingway</dc:title>
+        <dc:creator opf:file-as="Calderón Cuadrado, Reyes" opf:role="aut">Reyes Calderón Cuadrado</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-14T16:00:00+00:00</dc:date>
+        <dc:description>El joven Alejandro Mocciaro - turbio personaje, aunque noble y catedrático - sufre una cogida mortal durante uno de los encierros en honor a San Fermín. La autopsia demuestra que ha sido drogado, y que el toro sólo ha concluido lo que otros iniciaran…
+Con la maestría propia de los grandes escritores, Reyes Calderón Cuadrado logra que se imponga la fascinante personalidad de sus personajes y que deseemos seguirlos a través de otras novelas. El inspector Juan Iturrri y Lola MacHor están llamados, sin duda, a ocupar un lugar destacado en la nueva literatura detectivesca.
+Conspiración e intriga bajo la atmósfera de los sanfermines, una de las fiestas más atractivas de todo el mundo.</dc:description>
+        <dc:publisher>Difácil</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788493258665</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Iturri y MacHor" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2010-04-11T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Las lágrimas de Hemingway" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Las lagrimas de Hemingway - Reyes Calderon Cuadrado.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

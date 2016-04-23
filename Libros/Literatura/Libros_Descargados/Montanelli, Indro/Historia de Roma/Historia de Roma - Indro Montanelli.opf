@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2761</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4730bf04-9333-49cd-8bf0-b3939a4c23dc</dc:identifier>
+    <dc:title>Historia de Roma</dc:title>
+        <dc:creator opf:file-as="Montanelli, Indro" opf:role="aut">Indro Montanelli</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-27T16:00:00+00:00</dc:date>
+        <dc:description>Para el que no esté demasiado interesado en leer un libro de historia (aunque ya he dicho que no es el típico libro de historia, no deja de ser un libro de historia) bastará con que eche un vistazo a su primera página, seguramente no lo dejará ahí. Montanelli comienza haciendo una referencia a los muchachos romanos y sus estudios en las escuelas romanas y dice: Sabemos, empero, con certeza, que tenían que fatigarse menos que los de hoy. El latín lo sabían ya. Si hubiesen tenido que estudiarlo, decía el poeta alemán Heine, no habrían encontrado jamás tiempo para conquistar el mundo. Y en cuanto a la historia de su patria, se la contaban más o menos así…</dc:description>
+        <dc:publisher>Random House Mondadori</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788497593151</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-10T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Historia de Roma" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Historia de Roma - Indro Montanelli.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

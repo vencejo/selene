@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">692</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a265b72e-47b7-4eeb-a901-0b2133119d88</dc:identifier>
+    <dc:title>Ciudad abismo</dc:title>
+        <dc:creator opf:file-as="Reynolds, Alastair" opf:role="aut">Alastair Reynolds</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-30T16:00:00+00:00</dc:date>
+        <dc:description>Autor y Novela ganadores del British SF
+
+Regreso al universo de Espacio Revelación, en esta deliciosa, inteligente y ambiciosa novela negra del espacio
+Tanner Mirabel era un experto en seguridad que nunca cometía errores... Hasta que una mujer a su cargo muere asesinada durante un ataque dirigido por un joven postmortal llamado Argent Reivich. Tanner persigue a Reivich más allá de su mundo natal, hasta llegar a Ciudad Abismo, un asentamiento humano construido bajo una cúpula en el inhóspito planeta Yellowstone. Pero la ciudad no es lo que era, ahora es un lugar poblado por máquinas extrañas, misteriosas facciones y nuevos juegos mortales. Antes de que finalice la persecución Tanner tendrá que enfrentarse a verdades inquietantes que se remontan siglos atrás, al espacio profundo, a una atrocidad que la historia casi ha olvidado...
+
+Alastair Reynolds es por derecho propio desde la ultima década la nueva vanguardia de la ciencia ficción británica. Con años de experiencia trabajando para la Agencia Espacial Europea, sus obras están dotadas de un extraordinario realismo y desbordan sentido de la maravilla.</dc:description>
+        <dc:publisher>La Factoría de Ideas</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788498000436</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-05-22T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Ciudad abismo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Ciudad abismo - Alastair Reynolds.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

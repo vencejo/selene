@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1367</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b8310f42-1419-4486-808c-59bc2b022504</dc:identifier>
+    <dc:title>Estrella doble</dc:title>
+        <dc:creator opf:file-as="Heinlein, Robert A." opf:role="aut">Robert A. Heinlein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1987-06-14T16:00:00+00:00</dc:date>
+        <dc:description>¿Podría un miserable actor sustituir al político más famoso del imperio? Lorenzo Smith sintió un hormigueo en su cuerpo cuando le propusieron el trabajo, ya que Bonforte era el político más reputado en la Galaxia. Sería un gran desafío dar vida a este personaje, por supuesto. Pero cuando estudió el papel vio muy claro que se encontraba ante una peligrosa misión de cuyo resultado dependía el destino del Sistema Solar…
+&lt;br /&gt;
+La obra de Robert A. Heinlein se caracteriza por un dominio absoluto de la trama y los diálogos, que confieren gran agilidad a sus relatos esencialmente de acción y marcado realismo. Alcanzó muy pronto la celebridad en el género y se convirtió, merced a lo ingente, en calidad y cantidad de su producción, en una de las figuras norteamericanas más influyentes y controvertidas.
+&lt;br /&gt;
+Las novelas que lo afianzaron como uno de los escritores más célebres, Tropas del espacio, Amos de títeres o Estrella doble, le permitieron desarrollar su carrera, consagrándose definitivamente con obras como Forastero en tierra extraña, Puerta al verano o Ciudadano de la Galaxia.
+&lt;br /&gt;
+# Premio Hugo 1956</dc:description>
+        <dc:publisher>Martínez Roca</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788427011694</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2008-05-30T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Estrella doble" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Estrella doble - Robert A. Heinlein.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2757</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">91cee865-150b-492c-a7b3-b8fe60470196</dc:identifier>
+    <dc:title>Astur</dc:title>
+        <dc:creator opf:file-as="Sebastián, Isabel San" opf:role="aut">Isabel San Sebastián</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-01T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+En los albores del siglo VIII, la sacerdotisa del castro de Coaña da a luz a una niña en una noche sin luna. Una profecía y una maldición sellarán el futuro de Huma, poseedora de un don tan poderoso como aterrador. Al sur, en Recópolis, la gran ciudad fundada por Leovigildo, ocupada por los guerreros de Alá, el joven de estirpe goda Ickila es castigado al destierro y decide buscar fortuna en Asturias, el único territorio que aún resiste al poder de Al Ándalus. Los destinos de Huma e Ickila se entrelazan aun a su pesar movidos por una fuerza ancestral que les arrastra. Él entra al servicio del príncipe Alfonso en defensa de la Hispania cristiana mientras ella luchará con todas sus fuerzas para salvar a su pueblo astur, condenado a desaparecer en la bruma del pasado.</dc:description>
+        <dc:publisher>Esfera de los Libros</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788497347600</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-10T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Astur" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Astur - Isabel San Sebastian.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

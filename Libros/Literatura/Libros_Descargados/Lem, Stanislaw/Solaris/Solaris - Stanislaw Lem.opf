@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1141</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5285fc51-503d-47b8-abfc-e1b3226373f2</dc:identifier>
+    <dc:title>Solaris</dc:title>
+        <dc:creator opf:file-as="Lem, Stanislaw" opf:role="aut">Stanislaw Lem</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1985-08-14T16:00:00+00:00</dc:date>
+        <dc:description>El astronauta Kelvin se enfrenta a una nueva modalidad de agresión, una especie de enorme inteligencia oceánica que ocupa el planeta Solaris... Éste es el punto de partida de una alegoría de la condición humana, condenada a no obtener jamás respuestas definitivas a su ansia de conocimiento.
+
+Stanislav Lem ha escrito una novela ecléctica, en que conviven la ciencia ficción, el misterio y el amor en un ambiente denso e inquietante, repleto de imágenes evocadores y pinceladas de ironía que la han consolidado como un clásico de la literatura fantástica.</dc:description>
+        <dc:publisher>Minotauro Ediciones</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788445070482</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-10-20T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Solaris" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Solaris - Stanislaw Lem.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

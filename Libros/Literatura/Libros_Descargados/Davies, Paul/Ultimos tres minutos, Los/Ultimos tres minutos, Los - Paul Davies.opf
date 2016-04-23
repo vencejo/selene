@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1821</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec30b70f-3007-424a-97c5-3251729d0fb7</dc:identifier>
+    <dc:title>Últimos tres minutos, Los</dc:title>
+        <dc:creator opf:file-as="Davies, Paul" opf:role="aut">Paul Davies</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-11T16:00:00+00:00</dc:date>
+        <dc:description>Los últimos tres minutos, obra del físico y escritor Paul Davies, es un libro maravilloso y divertido que recoge las más recientes ideas científicas sobre el destino último del universo, transportando al lector a vivir las sensaciones que experimentará cuando llegue el final.
+
+El lector asiste al último día de luz solar y a la llegada de la noche perpetua. Experimenta el inicio del cataclismo estelar, una vez que se haya agotado definitivamente la energía de las estrellas activas, y viaja por los eones de tiempo en los que los agujeros negros son la última fuente de energía importante, devorando los restos dispersos de las galaxias apagadas. Y luego, quizá, podrá vivir el gran crujido, esos últimos tres minutos en los que la temperatura del cosmos se hace tan grande que incluso deben desintegrarse los núcleos atómicos, en que regiones cada vez mayores de espacio se comprimen en volúmenes cada vez menores, cuando «la obra del gran pum y de generaciones de estrellas se deshace en menos tiempo del que se tarda en leer esta frase».
+
+¿Será éste el escenario en el que la vida cósmica represente su escena final? ¿O está destinado el universo a acabar de forma muy distinta y en un futuro mucho menos lejano, avasallado por una catástrofe cósmica súbita e inesperada? ¿Se acabará de verdad el universo? Y si dura eternamente, ¿hallará la humanidad, o sus descendientes, sean robots o seres de carne y hueso, el modo de sobrevivir a esa eterna noche?
+
+Los últimos tres minutos es uno de los libros de ciencia más originales que han aparecido en los últimos años, lectura fascinante de un científico plenamente acreditado.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788483064443</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>divulgación científica</dc:subject>
+        <dc:subject>física</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-09-11T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Últimos tres minutos, Los" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Ultimos tres minutos, Los - Paul Davies.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

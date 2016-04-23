@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9cfa071c-d43b-496a-b18e-4176e1d26a28</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">446abc09-f201-4818-ae56-d34951c89cd8</dc:identifier>
+        <dc:title>Ines y la alegria</dc:title>
+        <dc:creator opf:file-as="Grandes, Almudena" opf:role="aut">Almudena Grandes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.28) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-23T17:52:43.863000+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="2010-11-23T17:52:43.863000+00:00" name="calibre:timestamp"/>
+        <meta content="Ines y la alegria" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

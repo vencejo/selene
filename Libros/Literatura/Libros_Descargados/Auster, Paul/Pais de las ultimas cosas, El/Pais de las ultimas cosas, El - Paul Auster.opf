@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2414</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74cb684a-76b5-4da0-870a-048205edcb1b</dc:identifier>
+    <dc:title>País de las últimas cosas, El</dc:title>
+        <dc:creator opf:file-as="Auster, Paul" opf:role="aut">Paul Auster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-03T16:00:00+00:00</dc:date>
+        <dc:description>Se trata de una novela (una de las primeras) metafórica y narrada en forma de epístola, cuyo manuscrito es un cuaderno azul que Anna Blume encuentra en un piso en el país donde vive, una ciudad asolada por el precipicio de la ruina y desaparición; se contempla el lugar como un indómito territorio de nadie en el que calles y edificios por los que se pasea un día, bien pueden haber desaparecido al día siguiente; un lugar donde lo mejor es acostumbrarse a no tener nada y, por lo tanto, a no ser nada, antes que luchar contra unos elementos o cosas, cuya existencia no sólo se borra, sino también su recuerdo. Toda una metáfora vital y del oficio de escritor, ya quesi escribir en un mundo material sirve de bien poco, cuando todo desaparece, a pesar de que la necesidad de contar historias parece hacerse necesaria, ésta se vuelve, si cabe, aún más inútil.
+
+Anna desarrolla un oficio incierto y que pretende alejarse de las burocracias propias del Gobierno del lugar, busca una salida, el final de su desesperación existencial, y para ello trabaja como basurera o vendiendo sus objetos personales o aquellos que la calle le suministre,al mejor postor, tratando de conseguir el mayor número de goles (así se llama la moneda oficial) posibles.La población está tan alarmada que en los hospitales proliferan asociaciones privadas en pro de la eutanasia, de tal forma que pagando algo más de dinero se suministra muerte por enfermedad, pero las ideas de suicidio no van unidas necesariamente a una enfermedad, por lo que también surgen de la urbe clubs de asesinatos, por los que, a cambio de una mayor cantidad, un grupo de asesinos propone matar a un cliente; este hecho hace que el cliente se acobarde y en el lugar y momento precisos, en vez de abandonarse a la muerte, se apeguen extrañamente a su vida como nunca lo hicieron y resulten ser asesinos de su propio asesino, pudiendo así acceder a un puesto de trabajo en el club, y nouna mera mención como clientes desesperados.
+
+El concepto de supervivencia se rige por la ataraxia o indiferencia, de nada sirve el pesimismo feroz, cualquier día pueden echarte de tu casa y tendrás que vivir en la calle. Esta actitud favorece el amoldamiento a todo tipo de circunstancias y todo lo que suponga desarrollar la personalidad en otro sentido, tendrá consecuencias funestas. Anna se encontrará por el camino a personajes como Isabel o Ferdinand. Ferdinand es un despreocupado artista que realiza carteles publicitarios para tiendas y construye barcos y goletas de miniatura (cuanto menos se vean, mejor) como capricho a su estado de nulidad espiritual. Isabel trabaja con Anna y morirá al poco tiempo por no saber encontrar las palabras que definen su pensamiento.Bueno, por eso y porque se ve sola cuando Ferdinand muere, producto de un estrangulamiento que le practica Anna, que siente asco ante su prepotencia y vagancia.
+
+En uno de los desvalimientos mayores de la protagonista, ésta entra en la Biblioteca Nacional, y tras sortear a un conserje con gafas, consigue introducirse con ánimo de encontrar a su hermano William. Un becario y estudiante judío le hablará de un importante escritor que seguramente le puede conocer y que está escribiendo la historia de la ciudad, así como un estudio intelectual que le permita salir de allí. Anna se da cuenta de que no tiene dinero para sobreviviry ambos deciden irse a vivir juntos, calentándose con la hoguera de otros libros y montar una Residencia que suponga un paraje de bienestar para todos los que lo están pasando tan mal.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788433920980</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="2008-10-03T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="País de las últimas cosas, El" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Pais de las ultimas cosas, El - Paul Auster.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

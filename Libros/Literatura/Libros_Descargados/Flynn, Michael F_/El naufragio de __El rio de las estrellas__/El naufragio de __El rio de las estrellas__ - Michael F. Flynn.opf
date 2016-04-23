@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1597</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd9c2fa6-b7be-4410-9af9-322c1170aad7</dc:identifier>
+    <dc:title>El naufragio de «El río de las estrellas»</dc:title>
+        <dc:creator opf:file-as="Flynn, Michael F." opf:role="aut">Michael F. Flynn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-07-25T16:00:00+00:00</dc:date>
+        <dc:description>Si Rhysling, el famoso poeta personaje de Heinlein en "Las verdes colinas de la Tierra", hubiera escrito alguna vez una novela, sería esta. La space opera más moderna y melancólica sobre el posible naufragio de un viejo cascarón del espacio ya tecnológicamente obsoleto pero con un historial insuperable. Una novela crepuscular, que es a la space opera lo que Sin perdón de Clint Eastwood fue al western. Una historia repleta de añoranza, de personajes inolvidables y con todo el romance del viejo y añorado viaje por el espacio.</dc:description>
+        <dc:publisher>EDICIONES B, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466621427</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-25T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El naufragio de «El río de las estrellas»" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El naufragio de __El rio de las estrellas__ - Michael F. Flynn.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

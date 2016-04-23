@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2679</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b72a4c1d-b399-4cf4-bef6-ecdb63f0a19b</dc:identifier>
+    <dc:title>Amigas entre fogones</dc:title>
+        <dc:creator opf:file-as="Jacobs, Kate" opf:role="aut">Kate Jacobs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-12T16:00:00+00:00</dc:date>
+        <dc:description>Augusta Simpson, cariñosamente apodada «Gus», es una estrella de la televisión al mando de su programa gastronómico «¡Cocinar con Gusto!». A punto de cumplir los cincuenta años, se encuentra pensando en el pastel más apropiado para el cumpleaños que preferiría no celebrar. Viuda desde los treinta, tuvo que criar sola a sus dos hijas: Aimee, que trabaja como economista para la ONU, y Sabrina, decoradora de interiores y rompecorazones profesional. Para subir la audiencia, el productor del programa le impone copresentar el programa con una ex-miss joven, deslumbrante y con aires de diva, que le hace todavía más patente su edad. Tras los primeros programas con la nueva colaboradora en los que participan también sus hijas y un antiguo novio de Sabrina, además de Hannah, su enigmática vecina; el éxito es tal que el productor del canal los envía a todos a pasar un fin de semana juntos para conocerse mejor.</dc:description>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788492695768</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Amigas entre fogones" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Amigas entre fogones - Kate Jacobs.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

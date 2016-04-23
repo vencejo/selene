@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1144</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d3d9980-99ff-4095-a33e-c536a329a99d</dc:identifier>
+    <dc:title>Una Llama Misteriosa</dc:title>
+        <dc:creator opf:file-as="Kerr, Philip" opf:role="aut">Philip Kerr</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-14T16:00:00+00:00</dc:date>
+        <dc:description>Vuelve Bernie Gunther. Huyendo de una absurda acusación de criminal de guerra, dejará Berlín con destino a Buenos Aires. Es 1950 y su destino no es casual: una muchacha ha sido asesinada de forma espantosa al otro lado del Atlántico y el modus operandi lo enlaza con otro semejante en los últimos días de la República de Weimar. Y Gunther nunca se rinde.
+Philip Kerr nos vuelve a proporcionar un thriller poderoso e irresistible, trasladándonos de la Alemania nazi a la convulsa Argentina de 1950.</dc:description>
+        <dc:publisher>RBA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789876091480</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Berlin Noir" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-04-16T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Una Llama Misteriosa" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Una Llama Misteriosa - Philip Kerr.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

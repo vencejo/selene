@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2187</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b16bf5f-30ad-463b-b48c-2a23f406f0d4</dc:identifier>
+    <dc:title>El crisol del tiempo</dc:title>
+        <dc:creator opf:file-as="Brunner, John" opf:role="aut">John Brunner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-04-14T16:00:00+00:00</dc:date>
+        <dc:description>Ésta es la historia de un planeta condenado porque su estela atraviesa una peligrosa zona del brazo espiral de la galaxia, una región de gas, polvo y torbellinos cósmicos que alteran la vida de las estrellas hasta convertirlas en novae y destruir su cortejo de planetas.La vida inteligente del planeta reside en una extraña especie surgida del mundo vegetal. Gente sin esqueleto que se mantiene ergida por efecto de la presión hidráulica en unos frágiles túbulos protegidos por un manto. Usan zarpas para manipular objetos y enfrentarse a un mundo que contemplan con su único ojo y un sofisticado sentido-del-clima. Con el hambre son susceptibles de caer en peligrosos estados de ensoñación que los hace muy vulnerables a la peor histeria religiosa. Pero están obligados a superar sus propias limitaciones para realizar el viaje a las estrellas, único camino que puede salvarlos del inclemente desafío de los cielos.John Brunner, galardonado con el premio Hugo por Todos sobre Zanzibar, combina aquí dos fascinantes ideas de tecnología biológica con unos personajes cautivadores. Llena de nuevas ideas, de peculiares alienígenas, de hermosas historias de amor y de descubrimiento, El crisol del tiempo es una maravillosa saga multigeneracional sobre los progresos que hace un pueblo medieval hasta convertirse en una sofisticada civilización poseedora del viaje espacial. Una lectura apasionante y una de las mejores obras de un autor imprescindible en la historia de la ciencia ficción.</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788440653260</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-04-04T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El crisol del tiempo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El crisol del tiempo - John Brunner.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

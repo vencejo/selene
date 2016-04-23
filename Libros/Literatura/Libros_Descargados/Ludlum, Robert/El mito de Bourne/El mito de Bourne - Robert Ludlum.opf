@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1072</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1c82c58-3b77-4185-872b-0fa05321b985</dc:identifier>
+    <dc:title>El mito de Bourne</dc:title>
+        <dc:creator opf:file-as="Ludlum, Robert" opf:role="aut">Robert Ludlum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-14T16:00:00+00:00</dc:date>
+        <dc:description>David Webb trabaja como profesor de estudios orientales en una universidad norteamericana, pero tras esta apariencia inofensiva se culta un turbulento pasado: su intervención en la guerra de Vietnam, en la que murió su primera esposa, y haber formado parte, con el falso nombre de Jason Bourne, de un grupo guerrillero financiado por la CIA. El amor de su segunda esposa le ha permitido recuperar una vida plácida y normal. Sin embargo, la situación se complica cuando en Extremo Oriente un misterioso asesino adopta el nombre de Bourne. David Webb vuelve a verse inmerso en una trepidante y peligrosísima aventura en la que el terrorismo internacional y el juego sucio de la alta política le empujan a acciones cada vez más arriesgadas y más amenazadoras para la paz del mundo.</dc:description>
+        <dc:publisher>DEBOLSILLO</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788497935982</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta content="Jason Bourne" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="2010-07-22T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El mito de Bourne" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El mito de Bourne - Robert Ludlum.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

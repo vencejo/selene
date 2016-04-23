@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1233</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a86f7d47-00c3-4cc3-94cb-d0596f355855</dc:identifier>
+    <dc:title>Nunca la Jodas</dc:title>
+        <dc:creator opf:file-as="Lapidus, Jens" opf:role="aut">Jens Lapidus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-14T16:00:00+00:00</dc:date>
+        <dc:description>Si en Dinero fácil los bajos fondos de Estocolmo eran los protagonistas absolutos, en Nunca la jodas sus antihéroes se siguen moviendo como peces en el agua entre maleantes, estafadores, mafiosos y ex convictos. Jorge, Mrado y JW ceden la batuta a Mahmud, Niklas y Thomas Andrén, pero sin llegar a desaparecer de escena.
+&lt;br /&gt;
+A Mahmud no le queda otra que acabar trabajando para el capo yugoslavo Radovan tras su paso por la cárcel. Niklas vuelve a casa de su madre después de unos difíciles años en Irak enrolado en una organización militar. Y Thomas se debate entre policía corrupto y delincuente de poca monta. Un caso de asesinato en el que hay más sombras que luces se convierte en una niebla que envilece las calles de la capital, y además hace que los protagonistas tropiecen con algo que podría resultar demasiado grande... Incluso para la propia Suecia: la muerte del primer ministro, Olof Palme.
+&lt;br /&gt;
+«Una nueva voz que aporta solvencia narrativa, inteligencia en la creación de personajes y una inquietante verosimilitud. Otra instantánea perturbadora, acaso la más realista hasta la fecha,, del antiguo paraíso nórdico zarandeado por la globalización criminal».LORENZO SILVA</dc:description>
+        <dc:publisher>Santillana Ediciones Generales, S. L.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788483651735</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Trilogía Negra de Estocolmo" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="2010-06-14T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Nunca la Jodas" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Nunca la Jodas - Jens Lapidus.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

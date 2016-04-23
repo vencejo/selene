@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2685</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2004422b-a3e5-496c-b663-a9bea120952e</dc:identifier>
+    <dc:title>MD 30: Los Pequenos Hombres Libres</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-17T16:00:00+00:00</dc:date>
+        <dc:description>Armada con tan solo una sartén y su sentido común, Tiffany Dolorido, una joven aspirante a bruja, es lo único que se interpone entre los monstruos del País de las Hadas y la cálida y verde tierra de la Caliza, su hogar. Obligada a entrar en los dominios feéricos para rescatar a su hermano secuestrado, Tiffany se une a los Nac Mac Feegle locales (también llamados pequeños hombres libres), un clan de hombrecillos azules de quince centímetros de altura que roban ovejas, blanden espadas y son tan feroces como divertidos. Juntos lucharán en un territorio espeluznante y siempre en movimiento, se enfrentarán a brutales hadas voladoras, seres tejedores de sueños y perros sombríos (unos canes negros con ojos de fuego y dientes como cuchillas), antes de llegar hasta la Reina de los Elfos, la soberana absoluta de un mundo en el que la realidad se mezcla con las pesadillas. En el momento decisivo, Tiffany tendrá que enfrentarse sola a su cruel poder...</dc:description>
+        <dc:publisher>EDICIONES EL TORO MITICO S.L.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788496947597</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="mundodisco" name="calibre:series"/>
+        <meta content="31" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-17T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="MD 30: Los Pequenos Hombres Libres" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="MD 30_ Los Pequenos Hombres Libres - Terry Pratchett.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1458</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d85392eb-4567-4fa9-ae6b-63408205d0e9</dc:identifier>
+    <dc:title>Bill en el Planeta de los Esclavos Robots</dc:title>
+        <dc:creator opf:file-as="Harrison, Harry" opf:role="aut">Harry Harrison</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-06-14T16:00:00+00:00</dc:date>
+        <dc:description>Grandote, fortachón, encefalograma plano: el ejército hizo de Bill el perfecto soldado de las galaxias, el perfecto peón de la épica lucha entre la cultura y la civilización terráqueas y todos los imperios del mal (son muchos) del universo, el perfecto fantaseador sexual y el perfecto aspirante a la muerte por cirrosis alcohólica. Pertrechado con dos brazos derechos -el que cuelga de su hombro izquierdo es negro, rescatado, tras la muerte de un camarada, por un cirujano militar poco escrupuloso-; un glorioso colmillo procedente del más sanguinario de los muy sanguinarios instructores de reclutas, y de un pie (o una sucesión de pies, todos insatisfactorios: ¿quién va a molestarse en buscr buenos pies a los soldados rasos?) en sustitución del que se había volado; no puede decirse que Bill hubiera triunfado en la vida, incluso procediendo de una granja. Pero el destino, siempre misericordioso con los más brutos, le iba a deparar las más estupendas, indeseables y emocionantes pruebas...
+
+EN EL PLANETA DE LOS ESCLAVOS ROBOT
+En la primera de sus épicas aventuras, Bill pasará, desde la tripulación de la nave-basurero Imelda Marcos a un planeta cuya vida está basada en el metal; también aparecerá Bgrr el chinger, miembro de una raza que es algo así como el Saddam Husein del espacio: bastante inofensiva (para el Imperio), pero convertida por los terráqueos en paradigma del enemigo que hay que destruir.</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788425324888</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-06-10T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Bill en el Planeta de los Esclavos Robots" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Bill en el Planeta de los Esclavos Robots - Harry Harrison.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

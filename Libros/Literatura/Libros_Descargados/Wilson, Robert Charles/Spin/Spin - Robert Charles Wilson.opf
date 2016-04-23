@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2079</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">791de619-481f-4b70-881c-5283b8f409ac</dc:identifier>
+    <dc:title>Spin</dc:title>
+        <dc:creator opf:file-as="Wilson, Robert Charles" opf:role="aut">Robert Charles Wilson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-26T16:00:00+00:00</dc:date>
+        <dc:description>Tres adolescentes, los gemelos Diane y Jason Lawton y su mejor amigo, Tyler Dupree, contemplan las estrellas cuando, de repente, éstas se apagan. Ha nacido el Spin, un peculiar escudo alrededor del planeta, de origen y objetivo desconocidos.
+    Spin trata de los extraños años en la vida de este trío, mientras el Universo verá transcurrir tres mil millones de años al otro lado del escudo que resulta ser, también, una discontinuidad temporal creada por fuerzas e ingenieros desconocidos, los misteriosos Hipotéticos.
+    Jason, un genio, invertirá su vida de célibe en una lucha contra el tiempo para descubrir los porqués del Spin, siguiendo primero los dictados de su poderoso padre y enfrentándose a él en momentos crucialess, Tyler se convertirá en médico y será el narrador de la historia gracias a ser el amigo y confidente de Jason, mientras mantiene oculto su amor, nunca correspondido, por Diane, la única que se dejará llevar por el nuevo fanatismo religioso que el Spin desencadena irremediablemente. Aprovechando el tiempo al otro lado del escudo, se terraformará Marte y la llegada posterior de un descendiente de humanos nacido en Marte centrado en las biotecnologías ofrece la posibilidad de entrar en el Cuarto Estado, «una madurez más allá de la madurez», casi una inmortalidad...</dc:description>
+        <dc:publisher>Omicron</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788496938038</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="Spin" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-26T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Spin" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Spin - Robert Charles Wilson.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

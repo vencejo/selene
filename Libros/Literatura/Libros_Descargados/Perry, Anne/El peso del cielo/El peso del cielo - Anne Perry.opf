@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2753</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0635daa6-6467-4104-99ab-495ebaa522db</dc:identifier>
+    <dc:title>El peso del cielo</dc:title>
+        <dc:creator opf:file-as="Perry, Anne" opf:role="aut">Anne Perry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-09T16:00:00+00:00</dc:date>
+        <dc:description>Abril, 1915. La Primera Guerra Mundial sigue su implacable marcha. Entre las tropas británicas enviadas al frente, se hallan los hermanos Reavley. Joseph, el mayor de los tres, ejerce de capellán en las trincheras, mientras que Judith es conductora y traductora del general que está al mando del ejército británico. Matthew también participa en los acontecimientos históricos desde su puesto en los servicios de inteligencia en Londres. 
+   Tanto Joseph como él siguen investigando la extraña muerte de sus padres, hecho que asocian con un posible complot a nivel internacional y en el que dos de las potencias mundiales, Inglaterra y Alemania, estarían involucradas.
+  
+   Además de la incógnita en torno a sus progenitores y de tener que hacer frente a la cruda experiencia de la contienda, Joseph intenta descubrir quién asesinó a Eldon Prentice, un corresponsal de guerra inglés que se había ganado la antipatía de muchos.
+   
+   Con la veracidad y riqueza de detalles que caracterizan a sus novelas de corte victoriano, Anne Perry retrata con humanismo el día a día de aquellos que participaron en la Gran Guerra.
+
+   “Sus vívidas evocaciones de los campos de batalla —el dolor, el miedo y el extraordinario valor de unos jóvenes que soportaron “el peso del cielo”— la convierten en una novela inolvidable.” Booklist.</dc:description>
+        <dc:publisher>EDICIONES B, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466619738</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-09T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El peso del cielo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El peso del cielo - Anne Perry.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

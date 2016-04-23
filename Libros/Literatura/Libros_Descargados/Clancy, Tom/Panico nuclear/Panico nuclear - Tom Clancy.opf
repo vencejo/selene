@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2105</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5dbbdae6-f731-4f77-9065-bf716bb80759</dc:identifier>
+    <dc:title>Pánico nuclear</dc:title>
+        <dc:creator opf:file-as="Clancy, Tom" opf:role="aut">Tom Clancy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-29T16:00:00+00:00</dc:date>
+        <dc:description>El mundo asiste a la firma de un tratado que pone término al sangrientoconflicto árabe-israelí y garantiza la estabilidad en Oriente Medio.Sin embargo, un grupo terrorista pro-árabe se apropia de una bombanuclear e intenta chantajear a los gobiernos occidentales. Sedesencadena una frenética carrera contra el tiempo y el pánico seapodera de Washington, Moscú y las principales capitales europeas...</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401491504</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="2008-08-29T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Pánico nuclear" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Panico nuclear - Tom Clancy.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1366</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">38ca4c7f-d556-4411-9540-8bf1bdb4fba5</dc:identifier>
+    <dc:title>El número de la bestia</dc:title>
+        <dc:creator opf:file-as="Heinlein, Robert A." opf:role="aut">Robert A. Heinlein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1987-04-14T16:00:00+00:00</dc:date>
+        <dc:description>El famoso «número de la bestia», el 666, no significa seisciento sesenta y seis, sino seis elevado a sexta potencia y vuelto a elevar a la sexta potencia, y refleja el número de universos posibles. Este es el tema de la nueva, e importante novela de Robert A. Heinlein, el autor de ciencia ficción más galardonado de todos los tiempos que ha obtenido -hasta ahora- cuatro premios Hugo.</dc:description>
+        <dc:publisher>Edisan</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788486472757</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-04-04T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El número de la bestia" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El numero de la bestia - Robert A. Heinlein.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2682</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13807198-4fce-46e4-8e49-e37169d7e3de</dc:identifier>
+    <dc:title>Bruja mala nunca muere</dc:title>
+        <dc:creator opf:file-as="Harrison, Kim" opf:role="aut">Kim Harrison</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-17T16:00:00+00:00</dc:date>
+        <dc:description>Todas las criaturas de la noche se reúnen en el barrio de los Hollows para esconderse, merodear, divertirse… y alimentarse. 
+Rachel Morgan es una bruja Blanca que lleva tres años trabajando como cazarecompensas para Inderland Security en constante, aunque torpe, lucha por hacerse con las mejores misiones para demostrar su valía. Está harta y desilusionada con el trabajo y quiere dejarlo. El problema radica en que dejar la SI significa también dejar rápidamente esta vida. La SI no acepta de buen grado el incumplimiento de contrato.
+Entonces se le ocurre una descabellada idea que podría sacarle del apuro, siempre que… viva lo suficiente para llevarla a cabo. Rachel imagina que si puede localizar al mayor traficante de azufre de la zona de Los Hollows y Cincinnati, será capaz de rescindir su contrato. No obstante, conseguir las pruebas para atraparle no será nada fácil.
+Con la ayuda de su guardaespaldas y de su compañera de cuarto, una vampiro, puede que tenga éxito…</dc:description>
+        <dc:publisher>La Factoría de Ideas</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788498004595</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Raquel Morgan" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-17T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Bruja mala nunca muere" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Bruja mala nunca muere - Kim Harrison.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

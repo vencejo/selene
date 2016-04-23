@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1829</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8b186cc5-e1d9-4588-bea8-f76c50e7cd19</dc:identifier>
+    <dc:title>Destejiendo el arco iris</dc:title>
+        <dc:creator opf:file-as="Dawkins, Richard" opf:role="aut">Richard Dawkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-07-14T16:00:00+00:00</dc:date>
+        <dc:publisher>Tusquets Editores</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788483106693</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>divulgación científica</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2008-06-28T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Destejiendo el arco iris" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Destejiendo el arco iris - Richard Dawkins.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

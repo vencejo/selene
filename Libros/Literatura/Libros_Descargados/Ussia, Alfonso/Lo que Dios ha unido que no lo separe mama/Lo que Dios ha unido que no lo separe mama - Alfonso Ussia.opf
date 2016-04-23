@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2704</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dba450ba-e40e-4e5f-a02a-b686c7c77d5f</dc:identifier>
+    <dc:title>Lo que Dios ha unido que no lo separe mamá</dc:title>
+        <dc:creator opf:file-as="Ussía, Alfonso" opf:role="aut">Alfonso Ussía</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-08-24T16:00:00+00:00</dc:date>
+        <dc:description>Cristián Ildefonso, marqués de Sotoancho, ya es libre..
+
+Ha despachado a Mamá y al cura, y se ha desbocado..
+
+No está mal tras sesenta y dos años de sometimiento materno, tan entero que podría pasar por castrado, y tan inexperto que necesita recurrir a un spray mágico para conseguir el beso deseado..
+
+Susú se ha convertido en un potro relinchón, un tiburón sexual, cuyos ardores traen en jaque a Mamá, tan recatada siempre..</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788440698377</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-24T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Lo que Dios ha unido que no lo separe mamá" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Lo que Dios ha unido que no lo separe mama - Alfonso Ussia.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

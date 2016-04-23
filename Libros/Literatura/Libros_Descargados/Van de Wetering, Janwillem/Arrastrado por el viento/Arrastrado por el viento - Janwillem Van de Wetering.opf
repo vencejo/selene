@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">346</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec5e4e3c-8ca0-428c-9965-c095eeb10764</dc:identifier>
+    <dc:title>Arrastrado por el viento</dc:title>
+        <dc:creator opf:file-as="Van de Wetering, Janwillem" opf:role="aut">Janwillem Van de Wetering</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1989-07-14T16:00:00+00:00</dc:date>
+        <dc:publisher>Versal</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788486717711</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-21T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Arrastrado por el viento" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Arrastrado por el viento - Janwillem Van de Wetering.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

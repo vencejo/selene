@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2410</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47e74248-0b2f-47de-ab0f-15d1b70c0e97</dc:identifier>
+    <dc:title>Libro de las ilusiones, El</dc:title>
+        <dc:creator opf:file-as="Auster, Paul" opf:role="aut">Paul Auster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-03T16:00:00+00:00</dc:date>
+        <dc:description>David Zimmer, un escritor y profesor de literatura de Vermont, ya no es ni la sombra de sí mismo. Se pasa los días bebiendo y cavilando sobre el último instante en que su vida aún podría haber cambiado, el minuto aquel en que su mujer y sus hijos todavía no habían subido al avión que estalló. Hasta que una noche, mirando casi sin ver la televisión, y por primera vez tras seis meses de deambular en el vacío, algo lo hace reír. El causante del ínfimo milagro es Hector Mann, uno de los últimos cómicos del cine mudo. Y David Zimmer descubre que aún no ha tocado fondo, que todavía quiere vivir. Comenzará entonces su investigación para escribir un libro sobre Mann, un joven, brillante, enigmático cómico nacido en Argentina, una de cuyas últimas películas, Don Nadie, cuenta la historia de un hombre a quien un pérfido amigo convence de que beba una poción que lo hace desaparecer. Y anticipa la propia historia del actor, que hace sesenta años se desvaneció sin que jamás se supiera nada más de él, ni apareciera su cadáver. Zimmer consigue acabar su libro y lo publica, y tres meses después recibe una carta de una mujer que afirma ser la esposa de Hector Mann, y lo invita a que vaya a verlos a ella y a su marido a Tierra del Sueño, en Nuevo México. Zimmer le pide pruebas, piensa que puede ser una impostora, o una chiflada.Hasta que una noche, una extraña joven llama a su puerta y, amenazándolo con una pistola, lo obliga a acompañarla...</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788433969972</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="2008-10-03T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Libro de las ilusiones, El" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Libro de las ilusiones, El - Paul Auster.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

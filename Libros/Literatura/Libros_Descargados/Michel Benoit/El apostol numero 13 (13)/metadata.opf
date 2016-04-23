@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">064f8e93-4bbb-4107-8730-6e230d053ba4</dc:identifier>
+        <dc:title>El apóstol número 13</dc:title>
+        <dc:creator opf:file-as="Benoît, Michel" opf:role="aut">Michel Benoît</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.28) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-31T22:00:00+00:00</dc:date>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788425341076</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="2010-11-23T17:52:36.371000+00:00" name="calibre:timestamp"/>
+        <meta content="El apóstol número 13" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

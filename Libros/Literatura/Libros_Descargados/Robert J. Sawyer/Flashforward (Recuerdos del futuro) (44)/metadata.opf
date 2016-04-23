@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">c1965389-429a-4335-99b6-f49bb71cbb9c</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25cc1591-6454-4961-bdcd-e58b778a25c5</dc:identifier>
+        <dc:title>Flashforward (Recuerdos del futuro)</dc:title>
+        <dc:creator opf:file-as="Sawyer, Robert J." opf:role="aut">Robert J. Sawyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.28) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-23T17:52:47.905000+00:00</dc:date>
+        <dc:identifier opf:scheme="ISBN">94-8421-462-1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="2010-11-23T17:52:47.905000+00:00" name="calibre:timestamp"/>
+        <meta content="Flashforward (Recuerdos del futuro)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

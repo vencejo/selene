@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">517</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf05346f-e870-4cef-88ec-9e179337a33d</dc:identifier>
+    <dc:title>Las crónicas de Mcandrew</dc:title>
+        <dc:creator opf:file-as="Sheffield, Charles" opf:role="aut">Charles Sheffield</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-15T16:00:00+00:00</dc:date>
+        <dc:description>Como Newton en el siglo XVII o Einstein en el XX, McAndrew es el genio indiscutido de la física del siglo XXII. Los kernels, minúsculos agujeros negros cargados y en rotación, no tienen secretos para quien ha descubierto la forma de usarlos como fuente de energía. Su dominio de la ciencia y un sin par sentido práctico le llevan a inventar los más sorprendentes artilugios como la primera nave interestelar sin efectos de inercia. La pilota su compañera, la capitana Jeanie Roker, y juntos explorarán a fondo el sistema solar interior, el Halo de cometas que le rodea y llegarán a viajar a Alfa Centauro, en medio de las más sorprendentes situaciones.</dc:description>
+        <dc:publisher>EDICIONES B, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">8440614411</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Las crónicas de Mcandrew" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Las cronicas de Mcandrew - Charles Sheffield.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

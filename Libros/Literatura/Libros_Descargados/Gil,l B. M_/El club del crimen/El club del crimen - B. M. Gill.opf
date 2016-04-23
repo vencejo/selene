@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1475</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">825bf3c6-6fcb-467b-979f-e8373b4f3723</dc:identifier>
+    <dc:title>El club del crimen</dc:title>
+        <dc:creator opf:file-as="Gil,l B. M." opf:role="aut">B. M. Gill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1988-07-14T16:00:00+00:00</dc:date>
+        <dc:description>En la parte posterior de la casa en la que tiene su discreta sede EL CLUB DEL CRIMEN, hay aparcados varios coches lujosos. Sus propietarios son expertos en armas de fuego cuchillos exóticos, venenos, drogas y demas artilugios letales, sin embargo ninguno de ellos se enfrentado con la sangrienta brutalidad de un crimen real, y la mayoría solo aspira a obtener unos buenos ingresoso de sus derechos de autor de sus novelas policíacas . Tras el asesinato de uno de ellos el inspector Maybridge, encargado de la investigación, deberá convertir su trabajo en una lección magistral de deducción para el auditorio de aficionados que le rodea...</dc:description>
+        <dc:publisher>Versal</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788486717148</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-07-21T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El club del crimen" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El club del crimen - B. M. Gill.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

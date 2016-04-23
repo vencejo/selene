@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44194877-1dd5-429a-8136-b2a597e154e1</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f5b8d497-05f7-4436-b7c6-93d63f838b70</dc:identifier>
+        <dc:title>La estrella más brillante</dc:title>
+        <dc:creator opf:file-as="Keyes, Marian" opf:role="aut">Marian Keyes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.28) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-29T22:00:00+00:00</dc:date>
+        <dc:publisher>Random House Mondadori</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401337451</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="2010-11-23T17:52:45.534000+00:00" name="calibre:timestamp"/>
+        <meta content="La estrella más brillante" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

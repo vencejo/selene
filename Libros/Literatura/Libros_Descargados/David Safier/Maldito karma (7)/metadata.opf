@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">15131cb7-91d6-4d74-b25f-f6a2d00f26e2</dc:identifier>
+        <dc:title>Maldito karma</dc:title>
+        <dc:creator opf:file-as="Safier, David" opf:role="aut">David Safier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.28) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-30T22:00:00+00:00</dc:date>
+        <dc:publisher>Planeta Publishing Corp</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788432228582</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="2010-11-23T17:52:35.181000+00:00" name="calibre:timestamp"/>
+        <meta content="Maldito karma" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

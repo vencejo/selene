@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">703</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">714a3555-7311-4d10-8bac-7572a65265e5</dc:identifier>
+    <dc:title>El Asedio</dc:title>
+        <dc:creator opf:file-as="Pérez-Reverte, Arturo" opf:role="aut">Arturo Pérez-Reverte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-29T16:00:00+00:00</dc:date>
+        <dc:description>v2.0
+
+Cádiz, 1811. España lucha por su independencia mientras América lo hace por la suya. En las calles de la ciudad más liberal de Europa se libran batallas de otra índole. Mujeres jóvenes aparecen desolladas a latigazos. En cada lugar, antes del hallazgo del cadáver, ha caído una bomba francesa. Eso traza sobre la ciudad un mapa superpuesto y siniestro: un complejo tablero de ajedrez donde la mano de un jugador oculto -un asesino despiadado, el azar, las curvas de artillería, la dirección de los vientos, el cálculo de probabilidades- mueve piezas que deciden el destino de los protagonistas: un policía corrupto y brutal, la heredera de una importante casa comercial gaditana, un capitán corsario de pocos escrúpulos, un taxidermista misántropo y espía, un enternecedor guerrillero de las salinas y un excéntrico artillero a quien las guerras importan menos que resolver el problema técnico del corto alcance de sus obuses.El asedio narra el pulso asombroso de un mundo que pudo ser y no fue. El fin de una época y unos personajes condenados por la Historia, sentenciados a un vida que, como la ciudad que los alberga -una Cádiz equívoca, enigmática, sólo en apariencia luminosa y blanca-, nunca volverá a ser la misma.</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786071104427</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-04-23T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Asedio" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Asedio - Arturo Perez-Reverte.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

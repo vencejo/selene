@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1523</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df9b9e1d-78e4-41e5-8114-2c02fedd3866</dc:identifier>
+    <dc:title>Herederos, Los</dc:title>
+        <dc:creator opf:file-as="Golding, William" opf:role="aut">William Golding</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-08-14T16:00:00+00:00</dc:date>
+        <dc:description>En primavera, la tribu de Lok regresa a los pastos donde, desde tiempos inmemoriales, su gente pasa las épocas de bonanza. Esta vez, sin embargo, sonidos y olores inexplicables los sorprenden y atemorizan: sus tierras han sido ocupadas por unos extraños seres que, si bien guardan cierto parecido con ellos, muestran fascinantes habilidades y sofisticación. Se trata de la tribu de Tuami, de una nueva raza: el homo sapiens, cuya crueldad y corrupción los convertirá en los herederos de unos humanoides condenados a la extinción.
+ 
+En esta novela, por la que él mismo sentía una especial predilección, el premio Nobel Golding traslada el tema de El señor de las moscas, la crueldad consustancial al hombre, a la prehistoria. Con inigualable virtuosismo, que otorga una dimensión tangible a las descripciones, construye una obra deslumbrante y perturbadora que desvela la barbarie inherente a la llamada «civilización», donde el progreso es en realidad una larga caída.</dc:description>
+        <dc:publisher>Minotauro</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788445071922</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-10-14T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Herederos, Los" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Herederos, Los - William Golding.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

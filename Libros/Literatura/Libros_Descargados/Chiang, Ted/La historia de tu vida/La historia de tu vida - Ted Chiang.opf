@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2691</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">424f1b57-1f2d-4869-b19e-61f54ac504ad</dc:identifier>
+    <dc:title>La historia de tu vida</dc:title>
+        <dc:creator opf:file-as="Chiang, Ted" opf:role="aut">Ted Chiang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-14T16:00:00+00:00</dc:date>
+        <dc:description>La obra completa del ultimo gran gran maestro de la ciencia-ficción
+
+Una torre que se alza sobre la llanura mesopotámica hasta tocar la bóveda del cielo. Dos hombres que alcanzar un grado de inteligencia tan alto que se asemejan a dioses. La prueba de que las matemáticas carecen de sentido. Un lenguaje alienígena que permite a quienes lo leen expandir su consciencia a lo largo del tiempo. La cábala y la teoría de la preformación se combinan en una Inglaterra victoriana salida de nuestros sueños, o de nuestras pesadillas. Ante la llegada de los metahumanos, la ciencia humana se ve reducida a una nota a pie de página. En un universo donde Dios existe sin que quepa ninguna duda, ¿es posible no amarle? Y si pudieras programarte para ignorar las apariencias, ¿te arriesgarías a perder toda percepción de la belleza humana?
+
+Ted Chiang, galardonado con el premio John W. Campbell Jr., brilla como una nueva estrella en el firmamento de la ciencia-ficción. Con un premio Hugo, tres Nebula, un Sturgeon, un Seiun, un Sidewise y dos Locus, La historia de tu vida es un libro imprescindible.
+
+“Chiang no se prodiga como escritor, pero sus relatos casi inefablemente maravillosos funcionan con la precisión de un reloj... y estallan en la consciencia del lector con una fuerza devastadora.”
+Kirkus Reviews
+
+“Esta forma de revolución mental sólo puede practicarse con tanta intensidad en distancias cortas; si estos relatos fueran mucho más largos, las cabezas de los lectores podrían estallar.”
+Publisher’s Weekly
+
+“No es probable que se publique en muchos años otra antología tan elegante y precisa como ésta.”
+Locus</dc:description>
+        <dc:publisher>Bibliópolis</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788496173088</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-19T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La historia de tu vida" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La historia de tu vida - Ted Chiang.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

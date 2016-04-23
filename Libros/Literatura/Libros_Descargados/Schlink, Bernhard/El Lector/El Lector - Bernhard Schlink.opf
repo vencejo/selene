@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">471</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0481c90-a6cc-495b-87f4-1da3b818bd90</dc:identifier>
+    <dc:title>El Lector</dc:title>
+        <dc:creator opf:file-as="Schlink, Bernhard" opf:role="aut">Bernhard Schlink</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-09-01T16:00:00+00:00</dc:date>
+        <dc:description>Una novela del despertar emocional que nunca olvidará.Cuando el adolescente Michael Berg cae enfermo volviendo a casa del colegio, es ayudado por Hanna, una mujer que lo dobla en edad. Con el tiempo, ella se convertirá en su amante, cautivándolo con su pasión, pero confundiéndolo con sus silencios. Pero un día, Hanna desaparece sin dejar rastro. Siete años después, Michael, ahora estudiante de derecho, vuelve a ver a Hanna cuando ésta es llevada a juicio por un horrible crimen del que se niega a defenderse. Mientras sigue el juicio, debatiéndose entre el rechazo y los recuerdos de la mujer a la que amó,  Michael comprenderá que quizá Hanna guarde un secreto más vergonzoso que el propio asesinato.</dc:description>
+        <dc:publisher>Anagrama</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788433908490</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-18T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Lector" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Lector - Bernhard Schlink.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

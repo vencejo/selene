@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1208</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db9030c7-12b7-41e5-b4cd-78d760bbe46a</dc:identifier>
+    <dc:title>Nadie lo ha oído</dc:title>
+        <dc:creator opf:file-as="Jungstedt, Mari" opf:role="aut">Mari Jungstedt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-30T16:00:00+00:00</dc:date>
+        <dc:description>Cuando el fotógrafo alcohólico Henry Dahlström aparece asesinado en pleno centro de Gotland, las pesquisas policiales apuntan directamente a algunos de sus compañeros de juerga. El caso no parece revestir mayor misterio, hasta que el comisario Anders Knutas descubre que el fallecido recibió una importante cantidad de dinero el día anterior a su muerte. Paralelamente, la señora Jannson denuncia la desaparición de su hija Fanny, de catorce años, y la policía inicia inmediatamente la investigación de este supuesto caso de secuestro. Sin embargo, la investigación da un giro inesperado cuando el portero del piso de Dahlström descubre una caja con fotos de carácter pederasta en las que aparece la joven Fanny. Knutas necesitará todo su talento y la ayuda de su amigo periodista Johan Berg para descubrir qué se esconde detrás de este terrible caso.</dc:description>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788492695065</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela negra</dc:subject>
+        <meta content="Anders Knutas" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="2010-08-01T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Nadie lo ha oído" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Nadie lo ha oido - Mari Jungstedt.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

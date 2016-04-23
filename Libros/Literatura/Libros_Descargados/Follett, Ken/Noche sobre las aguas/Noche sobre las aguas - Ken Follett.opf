@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1605</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">87041b5c-ec22-46b8-a293-3888ddc07e85</dc:identifier>
+    <dc:title>Noche sobre las aguas</dc:title>
+        <dc:creator opf:file-as="Follett, Ken" opf:role="aut">Ken Follett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-10-31T16:00:00+00:00</dc:date>
+        <dc:description>Septiembre de 1939. Gran Bretaña ha declarado la guerra a Alemania. Aventureros, artistas, hombres de negocios, ciudadanos que huyen de la vejación y la miseria embarcan en el último hidroavión que despega rumbo a Estados Unidos, abandonando un país sobre el que plantea la incertidumbre.... Intriga, pasión y aventura en un thriller de altísima tensión, por el maestro indiscutible del género.</dc:description>
+        <dc:publisher>Grijalbo Mondadori</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788425330506</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="2008-10-10T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Noche sobre las aguas" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Noche sobre las aguas - Ken Follett.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

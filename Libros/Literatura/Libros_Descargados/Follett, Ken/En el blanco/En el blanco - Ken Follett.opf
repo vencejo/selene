@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1600</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89b71338-cfaf-4ac5-bfb5-23a178110ce3</dc:identifier>
+    <dc:title>En el blanco</dc:title>
+        <dc:creator opf:file-as="Follett, Ken" opf:role="aut">Ken Follett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-10T16:00:00+00:00</dc:date>
+        <dc:description>Escocia, unos días antes de Navidad. Toni (Antonia), jefa de seguridad de unos laboratorios de investigación farmacéutica, detecta el robo de una droga antiviral en fase de experimentación: es muy peligrosa, un virus letal. Rápidamente hace saltar las alarmas, logra encontrar al ladrón (un empleado, que ha muerto por el virus) y aislar su casa contaminada. Cuando la noticia llega a los periodistas, la situación ya está controlada, como les informan en rueda de prensa ella y Stanley, el propietario del laboratorio. Algo así no volverá a ocurrir. Pero unos días después...
+ 
+Toda la familia de Stanley se ha reunido en casa de él para celebrar la Navidad y les cuenta su relación con Toni. Stanley es viudo y tiene tres hijos adultos. No aceptan a Toni; es una amenaza para ellos y no tardan en comenzar a discutir. A la reunión también ha venido Kit, el hijo problemático. Todos creen que quiere hacer las paces con su padre (que se vio obligado a pagarle todas su deudas hace un tiempo). En realidad, Kit vuelve a tener problemas. Debe millnes a unon gángsters y estos han decidido cobrárselos de otra manera: quieren el virus.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788467211849</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="2008-10-10T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="En el blanco" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="En el blanco - Ken Follett.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

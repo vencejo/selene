@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1612</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a36ccf68-8d9b-4ad5-8d4f-2976778fb63f</dc:identifier>
+    <dc:title>El cirujano</dc:title>
+        <dc:creator opf:file-as="Gerritsen, Tess" opf:role="aut">Tess Gerritsen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-04-14T16:00:00+00:00</dc:date>
+        <dc:description>Un asesino silencioso se desliza en las casas de las mujeres y entra en las habitaciones mientras ellas duermen. La precisión de las heridas que les inflige sugiere que es un experto en medicina, por lo que los diarios de Boston y los atemorizados lectores comienzan a llamarlo «el cirujano». La única clave de que dispone la policía es la doctora Catherine Cordell, víctima hace dos años de un crimen muy parecido. Ahora ella esconde su temor al contacto con otras personas bajo un exterior frío y elegante, y una bien ganada reputación como cirujana de primer nivel. Pero esta cuidadosa fachada está a punto de caer ya que el nuevo asesino recrea, con escalofriante precisión, los detalles de la propia agonía de Catherine. Con cada nuevo asesinato parece estar persiguiéndola y acercarse cada vez más.</dc:description>
+        <dc:publisher>Emecé Editores</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789500425209</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Jane Rizzoli" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2010-04-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El cirujano" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El cirujano - Tess Gerritsen.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

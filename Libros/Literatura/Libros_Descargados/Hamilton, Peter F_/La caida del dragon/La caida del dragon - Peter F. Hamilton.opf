@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1436</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25f6577b-df6d-4d9a-83b9-f058c9a28c9b</dc:identifier>
+    <dc:title>La caída del dragón</dc:title>
+        <dc:creator opf:file-as="Hamilton, Peter F." opf:role="aut">Peter F. Hamilton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-07-15T16:00:00+00:00</dc:date>
+        <dc:description>De niño, Lawrence Newton solo quería pilotar naves espaciales y explorar la galaxia. Pero vive en la época equivocada: la edad de los vuelos estelares del hombre está tocando a su fin, por lo que se rebela y huye en pos de su sueño. Veinte años después es el sargento de un problemático pelotón que está invadiendo otro planeta, eufemismo para un acto de piratería de una de las grandes corporaciones. Mientras está luchando en tierra, Lawrence escucha la historia del Templo del Dragón Caído, el lugar sagrado de una secta que adora a una criatura mítica que cayó de los cielos hace milenios. Se dice que allí hay un tesoro de proporciones épicas, para garantizar la felicidad eterna de un hombre. Esta información le lleva a planear una misión privada.</dc:description>
+        <dc:publisher>La Factoría de Ideas. Solaris Ficción nº68</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788498001976</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-07-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La caída del dragón" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La caida del dragon - Peter F. Hamilton.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

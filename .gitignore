@@ -66,3 +66,15 @@ target/
 
 #Data files
 *.json
+
+# books
+*.epub
+*.pdf
+*.mobi
+*.opf
+
+# images
+*.jpg
+
+# Folders
+./Literatura/Libros_Descargados/*

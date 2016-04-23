@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">239</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1396f2ac-d639-4c15-80ed-06aadd63e660</dc:identifier>
+    <dc:title>El círculo cero</dc:title>
+        <dc:creator opf:file-as="Weinbaum, Stanley" opf:role="aut">Stanley Weinbaum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-12T16:00:00+00:00</dc:date>
+        <dc:description>La hipnosis utilizada para hacer retroceder la mente del protagonista en el tiempo..</dc:description>
+        <dc:publisher>Ediciones Martínez Roca</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-04-04T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El círculo cero" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El circulo cero - Stanley Weinbaum.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

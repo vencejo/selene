@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">916</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a71e24eb-14f9-42e0-b4cb-26ae63f9ddb0</dc:identifier>
+    <dc:title>Perdona Pero Quiero Casarme Contigo</dc:title>
+        <dc:creator opf:file-as="Moccia, Federico" opf:role="aut">Federico Moccia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-23T16:00:00+00:00</dc:date>
+        <dc:description>Segunda parte de Perdona si te llamo amor. La historia de amor continúa...
+Alex y Niki están más enamorados que nunca, acaban de volver del faro en la isla de Blu donde han vivido días inolvidables. Niki se reencuentra con sus amigas, pero el grupo de las Ondas deberá afrontar grandes cambios que pondrán a prueba su amistad. Alex retoma su vida de siempre, sus viejos amigos. Ellos, Flavio, Enrico y Pietro han pasado de ser maridos serenos y seguros a tener que afrontar muchas difi cultades que han puesto en peligro sus matrimonios. Y ahora todas esta personas, hombres y mujeres de diferentes edades, cada uno a su manera se encuentran para refl exionar sobre el amor. Pues, ¿existe el amor? ¿Es cierta la crisis del séptimo año? ¿Tienen razón los que dicen que un amor no puede durar más de tres años? Y después, la pregunta más difícil: ¿un amor puede durar para siempre?</dc:description>
+        <dc:publisher>Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408089407</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-03-23T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Perdona Pero Quiero Casarme Contigo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Perdona Pero Quiero Casarme Contigo - Federico Moccia.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

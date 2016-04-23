@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2649</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">66c2fa6e-1b0b-47f0-8654-4f4908c82978</dc:identifier>
+    <dc:title>MD 24: El Quinto Elefante</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-14T16:00:00+00:00</dc:date>
+        <dc:description>Si lord Vetinari, el taimado gobernante de la metrópoli de Ankh-Morpork, quería alguien con tacto y diplomacia para que representara a la ciudad durante la ceremonia de coronación del nuevo rey electo de los enanos en el distante país de Überwald, ¿por qué -se pregunta Sam Vimes- lo ha escogido a él? Lord Vetinari quiere echarle a los lobos. Y a los enanos. Y a los vampiros. Porque éstas son las tres mayorías que gobiernan el vasto y feudal reino de Überwald. Donde se extrae el mejor sebo para velas y cirios, del que es absolutamente dependiente la ciudad de Ankh-Morpork. Así que esta misión diplomática es también una misión económica encubierta, para lo cual un curioso funcionario de palacio acompañará a los nuevos embajadores: él se encargará de todos los susurros y guiños mientras Vimes se dedique a servir los sándwiches de pepinillo. Aunque no le apetezca, sir Samuel Vimes, comandante de la Guardia de la Ciudad, no va a poder negarse a la orden de lord Vetinari, y pronto parte con su séquito hacia Überwald, donde deberá resolver un misterio inesperado…</dc:description>
+        <dc:publisher>DEBOLSILLO</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788499081359</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="mundodisco" name="calibre:series"/>
+        <meta content="24" name="calibre:series_index"/>
+        <meta content="2010-07-25T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="MD 24: El Quinto Elefante" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="MD 24_ El Quinto Elefante - Terry Pratchett.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

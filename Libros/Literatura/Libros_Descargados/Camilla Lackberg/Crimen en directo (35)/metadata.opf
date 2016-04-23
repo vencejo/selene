@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">ec4a9800-94a7-4717-9ec1-d80d27ddbe25</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa6f6542-b3d1-47b0-a9d7-a03c65801f7f</dc:identifier>
+        <dc:title>Crimen en directo</dc:title>
+        <dc:creator opf:file-as="Läckberg, Camilla" opf:role="aut">Camilla Läckberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.28) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-31T22:00:00+00:00</dc:date>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788492695751</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="2010-11-23T17:52:42.840000+00:00" name="calibre:timestamp"/>
+        <meta content="Crimen en directo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2127</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c2e8176a-5266-4271-b5f6-b5f00c46cf60</dc:identifier>
+    <dc:title>Tormenta roja</dc:title>
+        <dc:creator opf:file-as="Clancy, Tom" opf:role="aut">Tom Clancy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-07-14T16:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Estados Unidos y la Union Sovietica se enfrentan en un conflicto que adquiere dimensiones espeluznantes.  Cuando fundamentalistas islámicos vuelan un complejo petrolifero vital en la URSS, hacen que una ya crítica escaéz de combustible resulte catastrófico.</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401495212</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2008-08-29T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Tormenta roja" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Tormenta roja - Tom Clancy.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

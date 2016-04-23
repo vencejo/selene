@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2430</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89b1e33f-f569-4a0b-b068-71c23775bd0a</dc:identifier>
+    <dc:title>Rapsodia Gourmet</dc:title>
+        <dc:creator opf:file-as="Barbery, Muriel" opf:role="aut">Muriel Barbery</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-31T16:00:00+00:00</dc:date>
+        <dc:description>En el corazón de París, Pierre Arthens, el crítico de gastronomía más célebre del mundo, está a punto de morir. Admirado por algunos y odiado por muchos, Monsieur Arthens lleva años decidiendo el destino de los chefs más prestigiosos, destruyendo y construyendo reputaciones a su antojo. Ahora, en sus últimas horas de vida, su pensamiento se posa sobre algo mucho más sencillo: busca desesperadamente un sabor único, el sabor que un día le hizo feliz. Empieza así un viaje en el que Monsieur Arthens se pasea por los entresijos de su memoria gustativa, se sumerge en los paraísos de la infancia y rememora todo tipo de delicias culinarias. Junto a la voz del propio Arthens escuchamos la de aquellos que han vivido junto a él: familiares, vecinos, amantes, protegidos… e incluso su gato.</dc:description>
+        <dc:publisher>Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788432228636</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>narrativa</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-22T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Rapsodia Gourmet" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Rapsodia Gourmet - Muriel Barbery.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

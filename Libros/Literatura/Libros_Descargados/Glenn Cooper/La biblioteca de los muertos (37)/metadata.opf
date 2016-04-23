@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9b1ac00f-0c30-47cc-952e-a4014413633e</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e2598642-f966-43e3-9448-b52da7e7b4bc</dc:identifier>
+        <dc:title>La biblioteca de los muertos</dc:title>
+        <dc:creator opf:file-as="Cooper, Glenn" opf:role="aut">Glenn Cooper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.28) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-30T22:00:00+00:00</dc:date>
+        <dc:publisher>Random House Mondadori</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788425343902</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="2010-11-23T17:52:43.243000+00:00" name="calibre:timestamp"/>
+        <meta content="La biblioteca de los muertos" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

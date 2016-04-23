@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1374</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6b29d5a-6ce2-458c-9ed6-1cc5076575c0</dc:identifier>
+    <dc:title>Historia del Futuro II</dc:title>
+        <dc:creator opf:file-as="Heinlein, Robert A." opf:role="aut">Robert A. Heinlein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1983-06-14T16:00:00+00:00</dc:date>
+        <dc:description>Historia Del futuro consta de los veintiún relatos, novelas cortas y novelas que forman la monumental Historia del Futuro de Robert A. Heinlein. Una obra gigantesca en la que se traza, de modo magistral, el futuro de la raza humana, que podría ser, que tal vez será, que en algunos de sus detalles ya ha sido. Iniciada hace más de un tercio de siglo, esta obra ha sido calificada como la cúspide de la carrera de escritor de este meticuloso arquitecto del futuro que es Robert A. Heinlein.
+
+Relatos que contiene:
+
+- Dalila y el montador del espacio
+- Jockey del espacio
+- Requiem
+- La larga guardia
+- Caballeros, permanezcan sentados
+- Los negros fosos de la Luna
+- ¡Qué grande es estar de vuelta!
+- Â…también paseamos perros
+- Rayo de luz
+- Prueba en el espacio
+- Las verdes colinas de la Tierra
+- Lógica del imperio</dc:description>
+        <dc:publisher>Orbis</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788476348437</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-06-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Historia del Futuro II" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Historia del Futuro II - Robert A. Heinlein.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2690</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5c0fe12-5a7a-481f-9bcf-a9d09fe9e310</dc:identifier>
+    <dc:title>La última cita</dc:title>
+        <dc:creator opf:file-as="Geneve, Arlette" opf:role="aut">Arlette Geneve</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-18T16:00:00+00:00</dc:date>
+        <dc:description>El trabajo, las amigas, el teléfono que no para de sonar, las obligaciones, el correo electrónico, la casa, la agenda, los hombres: no hay mujer moderna que no tenga que lidiar con todo eso, Alins no es la excepción. Y, además, debe llegar a tiempo para la última cita de la semana. Ha decidido acudir a un sicólogo para poder hablar de sus problemas, para relajarse, tener alguien quien la escuche. Sin embargo, no todo es como esperaba. Por ejemplo, su sicólogo es demasiado atractivo. Parece un modelo de revista, y a Alins le cuesta articular las palabras en un principio. Luego, consigue hablar con él, contarle sus cosas y escuchar las pocas que él deja entrever. 
+¿”Y si me enamoro”? se pregunta Alins. No sabe nada de ese hombre. Pero, seguramente, tiene un pasado. No existen los hombres sin pasado, como no existen las mujeres sin fantasías. Alins quiere realizar la suya y, sin quererlo, se meterá en un lío. ¿Qué sucede, si, para cumplir sus fantasías, ella comienza a verse con el hermano de su sicólogo? ¿Interfiere en la terapia? ¿Aún cuando ella no sepa que es el hermano de su terapeuta? Pero los enredos no terminarán allí y siempre, con humor e inocencia, Alins se acercará a su objetivo: que la última cita de la semana deje de ser una consulta y se transforme en la última cita que ella tenga con un hombre.</dc:description>
+        <dc:publisher>Ed. Vestales</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789871405091</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-18T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La última cita" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La ultima cita - Arlette Geneve.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

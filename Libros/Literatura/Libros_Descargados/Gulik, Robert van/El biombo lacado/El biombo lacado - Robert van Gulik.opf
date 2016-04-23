@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1408</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0fb7d55-9672-4d70-b0ae-c5ddad53c96a</dc:identifier>
+    <dc:title>El biombo lacado</dc:title>
+        <dc:creator opf:file-as="Gulik, Robert van" opf:role="aut">Robert van Gulik</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-12-31T16:00:00+00:00</dc:date>
+        <dc:description>Aprovechando un período de descanso, el juez Di y su colaborador Chao Tai se desplazan al distrito de Wei-ping para conocer los monumentos más importantes, pero lo que acaban por descubrir son los entresijos de la vida del hampa local. Su llegada coincide con la muerte de la esposa del juez local, con el asesinato de un prestigioso banquero y con la extorsión a un rico comerciante, y sus pesquisar no tardan en situarlos en el centro de una vorágine de situaciones violentas y comprometidas. Simultáneamente, Van Gulik va narrando el avance de estos tres caos, al tiempo que revela algunas singularidades de la China del siglo VII y muestra al lector una interesantísima galería de personajes característicos de la época.</dc:description>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788435035323</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-22T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El biombo lacado" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El biombo lacado - Robert van Gulik.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1071</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c7a849f3-51f1-4106-8b54-f71f783a1687</dc:identifier>
+    <dc:title>El Factor Hades</dc:title>
+        <dc:creator opf:file-as="Ludlum, Robert" opf:role="aut">Robert Ludlum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-06-30T16:00:00+00:00</dc:date>
+        <dc:description>Un vagabundo en Boston, un mayor del ejército en California y una adolescente en Atlanta mueren en forma súbita y dolorosa, a causa de un desconocido virus fatal que sorprende por elegir sus víctimas en forma precisa.
+Durante días un equipo de científicos que trabaja en un laboratorio del gobierno de los Estados Unidos se dedica desesperadamente a la tarea de develar el secreto del mortal virus. Cuando el principal investigador, el teniente coronel Jonathan Smith, regresa de Europa, sobrevive casi por milagro a una serie de ataques muy bien organizados cuyo fin era acabar con su vida.
+Después de eludir a sus perseguidores y regresar a su casa, descubre que el virus se ha cobrado una cuarta víctima, la doctora Sophia Russell, con quien Smith estaba por casarse. Devastado por la pena, pero impulsado por la furia, Smith no tarda en descubrir que la muerte de su prometida no fue casualidad, que alguien tiene en su poder el virus y que la pandemia que amenaza a millones de vidas tampoco es accidente.
+Sin saber en quién confiar, Smith reúne un equipo privado para alcanzar la verdad oculta tras el virus letal. Y a medida que la lista de víctimas aumenta, su búsqueda llega a los niveles más altos del poder y a los rincones más oscuros de la tierra. Su capacidad de investigador se enfrenta con un genio decidido a todo, y el destino del mundo depende de ella.</dc:description>
+        <dc:publisher>Editorial Atlántida</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789500825092</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-04-16T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Factor Hades" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Factor Hades - Robert Ludlum.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2735</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82b539c5-4989-487f-87d7-8f06da453d4c</dc:identifier>
+    <dc:title>El Guardiamarina Bolitho</dc:title>
+        <dc:creator opf:file-as="Kent, Alexander" opf:role="aut">Alexander Kent</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-09-06T16:00:00+00:00</dc:date>
+        <dc:description>En 1772, a la edad de dieciséis años, Bolitho embarca como guardiamarina en el Gorgon, un navío de línea de setenta y cuatro cañones, con órdenes de navegar hacia África oriental para reprimir a quienes osaban oponerse a la marina de Su Majestad. Ya de regreso a su Cornualles natal, disfruta de un merecido permiso mientras su barco está en reparaciones. Pero la región en que pasó su infancia está infestada de contrabandistas y malhechores, y Bolitho tiene que interrumpir su descanso para embarcarse de nuevo.</dc:description>
+        <dc:publisher>Plaza y Janes Editores, S. A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788474861006</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Richard Bolitho" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-06T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Guardiamarina Bolitho" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Guardiamarina Bolitho - Alexander Kent.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

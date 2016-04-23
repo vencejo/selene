@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1293</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ca08e84-eb37-4ce2-8f60-9bf8a2a34a6e</dc:identifier>
+    <dc:title>Un mundo feliz</dc:title>
+        <dc:creator opf:file-as="Huxley, Aldous" opf:role="aut">Aldous Huxley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1932-08-14T16:00:00+00:00</dc:date>
+        <dc:description>En este libro visionario escrito en 1932, Aldous Huxley imagina una sociedad que utilizaría la genética y el clonaje para el condicionamiento y el control de los individuos. En esta sociedad futurista, todos los niños son concebidos en probetas. Ellos son genéticamente condicionados para pertenecer a una de las 5 categorías de población. De la más inteligente a la más estupida: les Alpha (la elite), los Betas (los ejecutantes), los Gammas (los empleados subalternos), los Deltas y los Epsilones (destinados a trabajos arduos). "El mundo feliz" describe también lo que seria una dictadura perfecta que tendría la apariencia de una democracia, una cárcel sin muros en el cual los prisioneros no sonarían en evadirse. Un sistema de esclavitud donde, gracias al sistema de consumo y el entretenimiento, los esclavos "tendrían el amor de su servitud".</dc:description>
+        <dc:publisher>Orbis</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788476340943</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2008-05-26T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Un mundo feliz" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Un mundo feliz - Aldous Huxley.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+(lp0
+(i__main__
+Libro
+p1
+(dp2
+S'ruta'
+p3
+S'/home/pi/Desktop/Dialogo/selene/Libros/Literatura/Anderson Poul/Estrella del mar/Estrella del mar - Poul Anderson.epub'
+p4
+sS'meGusta'
+p5
+I01
+sS'numCapLeidos'
+p6
+I1
+sba(i__main__
+Libro
+p7
+(dp8
+g3
+S'/home/pi/Desktop/Dialogo/selene/Libros/Literatura/Kay, Guy Gavriel/Tigana/Tigana - Guy Gavriel Kay.epub'
+p9
+sg5
+I00
+sg6
+I3
+sba.

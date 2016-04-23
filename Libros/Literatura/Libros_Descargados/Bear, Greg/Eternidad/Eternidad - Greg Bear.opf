@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2327</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d6ed7c05-779e-4945-bcb7-fa4b0d6289e0</dc:identifier>
+    <dc:title>Eternidad</dc:title>
+        <dc:creator opf:file-as="Bear, Greg" opf:role="aut">Greg Bear</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-06-14T16:00:00+00:00</dc:date>
+        <dc:description>Cerrada la Vía y "recuperada" la humanidad tras la hecatombe nuclear, los cuarenta años transcurridos han alterado muchas cosas.&lt;br /&gt;
+En la Tierra, Garry Lanier, líder de la primera expedición a Thistledown, ha envejecido y se ha convertido en un personaje cansado y amargado que desea morir. No obstante, todo cambiará con la llegada del general Pavel Mirsky, un ser que no puede existir ya que desapareció con la Vía y que ahora se presenta como mensajero de la Mente Final del Universo.&lt;br /&gt;
+En Gaia, donde el imperio de Alejandro Magno ha perdurado durante dos mil años, la joven Rhita Vaskayza examina la herencia de su enigmática abuela, la söphe Patrikia, llegada de una misteriosa puerta ya desaparecida y cuya reapertura puede traer el horror a un mundo tal vez inocente.
+En Thistledown, el Hexamon Infinito desea reabrir la Vía. Konrad Korzenowski, asesinado precisamente por haberla creado y resucitado después para investigarla, no sabe qué hacer. Tal vez debería tener en cuenta la amenaza de los peligrosos jarts, unos enemigos que, como ser Olmy sabe, los humanos han subestimado lamentablemente.</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788440673435</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="Thistledown" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="2010-06-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Eternidad" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Eternidad - Greg Bear.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

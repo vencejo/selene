@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1980</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e6a9268b-fe2a-4c3e-80d1-bf915dd207eb</dc:identifier>
+    <dc:title>Cita con Rama</dc:title>
+        <dc:creator opf:file-as="Clarke, Arthur C." opf:role="aut">Arthur C. Clarke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-10-13T16:00:00+00:00</dc:date>
+        <dc:description>En el año 2130 se descubre un nuevo asteroide que aparece más allá de la órbita de Júpiter: su nombre es Rama. Pero después, observado atentamente, los preocupados científicos comprueban que no es un objeto natural porque se dirige directamente hacia el Sol.
+¿Qué es Rama?
+La nave espacial Endeavour, dirigida por Bill Norton, hace contacto con Rama y dispone de tres semanas para explorarlo. La extraña amenaza se hace realidad cuando Norton y sus hombres se enfrentan con un mundo que parece muerto, pero donde el peligro se intensifica pues en cierto modo hay vida.
+Sólidamente basada en la ciencia, claramente narrada, a la vez visionaria e irónica en su impacto final, Cita con Rama es una novela cuyo suspense no decae en momento alguno, prueba evidente de la habilidad y la imaginación audaz de Arthur C. Clarke en su mejor estilo.
+
+# Premio Hugo
+# Premio Nebula
+# Premio John W. Campbell Memorial
+# Premio Locus
+# Premio Británico de Ciencia Ficción
+# Premio Júpiter
+# Premio Seiun (Japón) – novela extranjera</dc:description>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788435021043</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="Rama" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2008-05-25T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Cita con Rama" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Cita con Rama - Arthur C. Clarke.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

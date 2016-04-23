@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1524</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c84bd1e-8bc9-46ac-9016-3674d7e1c6d6</dc:identifier>
+    <dc:title>Señor de las Moscas, El</dc:title>
+        <dc:creator opf:file-as="Golding, William" opf:role="aut">William Golding</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-15T04:03:50+00:00</dc:date>
+        <dc:description>Una treintena de muchachos son los únicos supervivientes de un naufragio en el que perecen todos los adultos. Enseguida se plantea cómo sobrevivir en tales condiciones, y no tardan en crearse dos grupos con sus respectivos líderes. Ralph se convierte en el cabecilla de quienes están dispuestos a construir refugios y a recolectar, mientras que Jack se convierte en el jefe de los cazadores, animados por un espíritu más aventurero. Las tensiones entre ambos bandos desembocan en un enfrentamiento que se resuelve en un baño de sangre. El señor de las moscas es un nombre para el mal en la cultura judía, y este es uno de los temas principales de la novela, junto con la contraposición entre civilización y barbarie y la validez de la disciplina, entre otros muchos.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788478241859</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="2008-10-15T04:03:50+00:00" name="calibre:timestamp"/>
+        <meta content="Señor de las Moscas, El" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Senor de las Moscas, El - William Golding.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

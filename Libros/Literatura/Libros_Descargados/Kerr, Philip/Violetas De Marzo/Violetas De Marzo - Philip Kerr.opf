@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1147</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9993bb34-7e96-4c0e-b0e6-173f0c34b6aa</dc:identifier>
+    <dc:title>Violetas De Marzo</dc:title>
+        <dc:creator opf:file-as="Kerr, Philip" opf:role="aut">Philip Kerr</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-14T16:00:00+00:00</dc:date>
+        <dc:description>El antiguo policía Bernie Gunther creía que ya lo había visto todo en las calles de Berlín de los años treinta. Pero cuando dejó el cuerpo para convertirse en detective privado, cada nuevo caso lo iba hundiendo un poco más en los horribles excesos de la subcultura nazi. Después de la guerra, en medio del esplendor imperial y decadente de Viena, Bernie incluso llega a poner al descubierto un legado que, en comparación, convierte las atrocidades cometidas en
+época de guerra en un juego de niños...</dc:description>
+        <dc:publisher>RBA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788479013516</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Berlin Noir" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2010-04-11T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Violetas De Marzo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Violetas De Marzo - Philip Kerr.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

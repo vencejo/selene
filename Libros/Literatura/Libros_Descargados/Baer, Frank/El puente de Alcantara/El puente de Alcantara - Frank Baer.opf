@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2741</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b09d8c6e-eb12-4759-b1e5-9e1013624ff9</dc:identifier>
+    <dc:title>El puente de Alcántara</dc:title>
+        <dc:creator opf:file-as="Baer, Frank" opf:role="aut">Frank Baer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-09-14T16:00:00+00:00</dc:date>
+        <dc:description>En el año 1064, caballeros normandos y franceses emprendieron una cruzada contra los moros en España. Ante las murallas de esta ciudad se produjo el encuentro de tres hombres: Mohamed Ibn Amar, un poeta andaluz de origen árabe, Yunus Ibn al Ahwar, un médico judío, y Lope, un escudero de quince años. Los caminos de los tres se separaron y volvieron a cruzarse años después en Sevilla. El poeta se había convertido en gran visir y Lope estaba enamorado de la hija del médico judío, pero los sucesos de una noche infausta en el puente de Alcántara hicieron de él una persona distinta. En estos tres destinos se refleja la diversidad de una época grandiosa, en la que Andalucía era un floreciente centro artístico y cultural.
+SUMMARY:
+El argumento de El puente de Alcantara gira alrededor de tres personajes representativos de las tres culturas que hacia la segunda mitad del siglo XI convivian en la Peninsula. Mohamed Ibn Amar es un poeta andaluz de origen arabe; Yanus Ibn Al Ahwar, un medico judio, y Lope, un joven escudero cristiano enamorado de la hija del medico. Tras un encuentro durante el sitio de Barbastro (1604), los caminos de estos tres personajes se bifurcan para converger de nuevo anos despues en Sevilla. A traves de las peripecias de estos tres personajes, Baer pinta un colorido fresco de la Espana de la epoca, al tiempo que reconstruye la evolucion de las relaciones entre las culturas y religiones que representan cada uno de ellos.</dc:description>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788435016650</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-08T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El puente de Alcántara" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El puente de Alcantara - Frank Baer.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

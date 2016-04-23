@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2640</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">27ea28b2-ff79-4e2d-a645-4b5e00cb1fcf</dc:identifier>
+    <dc:title>Ciudad Permutación</dc:title>
+        <dc:creator opf:file-as="Egan, Greg" opf:role="aut">Greg Egan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-14T16:00:00+00:00</dc:date>
+        <dc:description>«Ciudad Permutación», parte de la posibilidad de crear copias informáticas de las personas, y se centra especialmente en la teoría de autómatas universales y, sobre todo, en la conciencia humana y su distribución en el tiempo. Obtuvo el premio Ditmar de la ciencia ficción australiana y el John W Campbell Memorial.</dc:description>
+        <dc:publisher>Zeta Bolsillo</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788498720853</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-08-29T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Ciudad Permutación" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Ciudad Permutacion - Greg Egan.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">678</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05e78357-e879-4d35-8bd3-606c83320fc8</dc:identifier>
+    <dc:title>MD 03: Ritos iguales</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-10T16:00:00+00:00</dc:date>
+        <dc:description>Lo último que hizo Tambor Leño, antes de que LA MUERTE apoyara una mano huesuda sobre su hombro, fue entregar su cayado de poder al octavo hijo de un octavo hijo. Y hay que decir que lo hizo justo a tiempo. Bueno, quizá un poco precipitadamente. De acuerdo, tenía prisa y no podía entretenerse en cuidar los detalles. Pero ¿cómo iba a saber él que el recién nacido no era varón? Además, si no hubiera pasado así, el Mundodisco sería un lugar mucho más aburrido, ¿no? 
+
+Pues volviendo al grano, la cuestión es que ahí tenemos a una atribulada familia numerosa que no sabe demasiado bien qué hacer con su hija menor, una niña tozuda y muy revoltosa que responde al nombre de Eskarina. Y no son los únicos: Yaya Ceravieja, bruja oficial de la localidad, se encuentra también con problemas cuando intenta enseñarle la tradición brujeril a una joven que insiste en que de mayor quiere ser mago... 
+
+Ritos iguales (¿o era Derechos de igualdad ? Aunque quizá quedaría mejor que se titulara Libertad, amnistía y un hechizo cada día...) es la desternillante tercera novela de la serie del Mundodisco.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788448725747</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>fantasía</dc:subject>
+        <meta content="mundodisco" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2008-06-10T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="MD 03: Ritos iguales" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="MD 03_ Ritos iguales - Terry Pratchett.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

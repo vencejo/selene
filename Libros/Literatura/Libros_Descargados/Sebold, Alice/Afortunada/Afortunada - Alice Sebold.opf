@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2730</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">42aeb14f-62a5-44ac-9d21-109b750a330a</dc:identifier>
+    <dc:title>Afortunada</dc:title>
+        <dc:creator opf:file-as="Sebold, Alice" opf:role="aut">Alice Sebold</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-27T16:00:00+00:00</dc:date>
+        <dc:description>Esta es una historia real de una violación. Cuando Alice Sebold, autora de Desde mi cielo, tenía 19 años y estudiaba en la Universidad de Syracuse fue asaltada y brutalmente violada. En Afortunada la autora habla de ello con total libertad, haciendo un retrato profundo de la tragedia de una mujer americana, de clase media y su lucha por salir adelante. Afortunada empieza con el relato detallado de la violación, que tuvo lugar en un parque a media noche. La autora explica cómo sintió la muerte muy cercana, cómo reconoció a su violador, un hombre negro joven, y cómo la justicia manejó su caso.</dc:description>
+        <dc:publisher>Mondadori</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788439710264</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-05T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Afortunada" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Afortunada - Alice Sebold.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">402</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">248d101b-5a43-4cba-adfe-9d18303d7fe7</dc:identifier>
+    <dc:title>Sadrac en el horno</dc:title>
+        <dc:creator opf:file-as="Silverberg, Robert" opf:role="aut">Robert Silverberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1989-06-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Siglo veintiuno. Un mundo en ruinas gobernado por un viejo y astuto tirano, genghis II Mao Khan. La vida del Khan se mantiene gracias a la habilidad de Sadrac Mordecai, un brillante cirujano de raza negra, cuya misión es reemplazar los órganos deteriorados del presidente. Los más modernos aparatos se utilizan en tres proyectos de gran envergadura. Uno de ellos, el Proyecto Avatar, tiene por objeto lograr la inmortalidad del viejo líder, transfiriendo la mente y la personalidad del Khan a un cuerpo más joven.&lt;/p&gt;
+&lt;p&gt;Sadrac descubre que ha sido elegido para el macabro proyecto. Sus amigos intentan persuadirle para que huya, pero Sadrac logra idear, con increíble serenidad un peligroso plan capaz de cambiar la faz de la Tierra.&lt;/p&gt;
+&lt;p&gt;La novela de Robert Silverberg se centra en torno a la lucha a vida o muerte entre estos dos titanes. En el fondo se trata del eterno enfrentamiento entre el bien y el mal.&lt;/p&gt;</dc:description>
+        <dc:publisher>Ultramar</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788473863841</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-06-16T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Sadrac en el horno" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Sadrac en el horno - Robert Silverberg.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

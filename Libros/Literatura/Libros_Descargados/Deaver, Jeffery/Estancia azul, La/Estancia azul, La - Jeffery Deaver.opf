@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1847</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0664239b-731d-46fe-9ed2-9df5b4d75fd1</dc:identifier>
+    <dc:title>Estancia azul, La</dc:title>
+        <dc:creator opf:file-as="Deaver, Jeffery" opf:role="aut">Jeffery Deaver</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-11-14T16:00:00+00:00</dc:date>
+        <dc:description>Jeffery Deaver explora en La Estancia Azul el siniestro territorio del suspense en la red. El asesino del relato responde al apodo de Phate, pero su verdadero nombre es Jon Patrick Holloway. Aparentemente no es más que un hacker, un inofensivo pirata informático. Pero su mente perversa ha ideado un programa llamado Trapdoor, el cual le permite ¿asaltar¿ los ordenadores de sus víctimas potenciales, apoderarse de todos los archivos que contienen información de carácter personal y, de este modo, iniciar un juego macabro cuyo objetivo final es la eliminación del usuario elegido. Para atrapar a este peligroso psicópata, la policía recurre a la ayuda de Wyatt Gillette, un hacker experto que cumple un año de condena en la cárcel por un delito informático menor. Es preciso actuar deprisa, pues los terribles asesinatos se suceden uno tras otro, y nadie en la red está a salvo.</dc:description>
+        <dc:publisher>Punto De Lectura</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466368551</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-02-24T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Estancia azul, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Estancia azul, La - Jeffery Deaver.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

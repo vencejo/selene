@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2726</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bbd23ff2-8c8d-4900-b5b7-fa12b59e31c6</dc:identifier>
+    <dc:title>Las garras del águila</dc:title>
+        <dc:creator opf:file-as="Scarrow, Simon" opf:role="aut">Simon Scarrow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-05-31T16:00:00+00:00</dc:date>
+        <dc:description>Tras la sangrienta conquista de Camuloduno, durante el crudo invierno del año 44 d.C. el ejérctio romano se prepara para extender la invasión de Britania con un contingente de 20.000 legionarios armados hasta los dientes. El general Aulo Plautio confía en que la llegada de la primavera facilite la campaña, pero, inesperadamente, su familia es raptada por los druidas de la Luna Oscura.
+El centurion Macro y el optio Cato seran los encargados de adentrarse en el peligroso territorio de la tribu de los durotriges, encontrar a la familia del general y, si es posible, rescatarla.</dc:description>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788435060431</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="Quinto Licinio Cato" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-30T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Las garras del águila" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Las garras del aguila - Simon Scarrow.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

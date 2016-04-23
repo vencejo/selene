@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2763</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68c6f288-022a-47e5-95de-69cebba30a0d</dc:identifier>
+    <dc:title>La traición de Roma</dc:title>
+        <dc:creator opf:file-as="Posteguillo, Santiago" opf:role="aut">Santiago Posteguillo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-21T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+How did they die Scipio and Hannibal? The two legendary generals are famous for their exploits during the Second Punic War: Hannibal by his incredible journey through the Alps with his army and his countless victories against the Romans on italic ground; Scipio for his conquest of Hispania and its strategy of taking the war to Africa where in October 202 BC Hannibal got beat in an epic battle near Zama. What happened later? What happened to both warriors? None of them died at Zama. Both surviving to the second Punic War and both returned to their cities, Rome and Carthage, and there each one launched a political career as the ruler of the epic cities of the ancient Mediterranean.</dc:description>
+        <dc:publisher>EDICIONES B, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466640824</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-10T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La traición de Roma" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La traicion de Roma - Santiago Posteguillo.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

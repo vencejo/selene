@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2090</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc8af6c5-72ce-4daa-8e02-b57b3258912d</dc:identifier>
+    <dc:title>Cómo nos Venden la Moto</dc:title>
+        <dc:creator opf:file-as="Chomsky, Noam" opf:role="aut">Noam Chomsky</dc:creator>
+        <dc:creator opf:file-as="Chomsky, Noam" opf:role="aut">Ignacio Ramonet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-04-14T16:00:00+00:00</dc:date>
+        <dc:description>La propaganda es a la democracia lo que la cachiporra al estado totalitario. Chomsky nos muestra, tomando casos concretos, qué son las técnicas de persuasión, cómo y quién las aplica, con qué intenciones y cómo actúan sobre nosotros. Ramonet da un paso más. Examina, e ilustra con hechos, cómo los medios de control y vigilancia se han multiplicado con la fantástica capacidad de las nuevas herramientas. ¿Quién tiene la propiedad de estos medios?</dc:description>
+        <dc:publisher>Icaria editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788474262452</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-04-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Cómo nos Venden la Moto" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Como nos Venden la Moto - Noam Chomsky &amp; Ignacio Ramonet.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28f006f7-7416-49b5-9821-3263354a8e26</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a17f0bb-a8d1-4a57-96d5-7a93f9ce38be</dc:identifier>
+        <dc:title>Orgullo y prejuicio y zombis</dc:title>
+        <dc:creator opf:file-as="Grahame-Smith, Seth" opf:role="aut">Seth Grahame-Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.28) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-09T22:00:00+00:00</dc:date>
+        <dc:description>«Es una verdad universalmente reconocida que un zombi que tiene cerebro necesita más cerebros». 
+
+Así empieza Orgullo y prejuicio y zombis, una versión ampliada de la clásica novela de Jane Austen, sólo que con escalofriantes escenas de zombis que siembran el terror y devoran a seres humanos. Cuando esa misteriosa plaga llega a la apacible población inglesa de Meryton y los difuntos empiezan a resucitar convertidos en temibles muertos vivientes, la intrépida heroína Elizabeth Bennett tendrá que acabar con la amenaza y, al mismo tiempo, evitar que la llegada del altivo y arrogante señor Darcy la distraiga de su empeño. 
+
+Reescritura en clave de solfa de un clásico fundamental, Orgullo y prejuicio y zombis es una comedia deliciosa, aderezada con civilizadas peleas entre los dos jóvenes enamorados y otras más violentas en el ensangrentado campo de batalla donde Elizabeth libra una guerra sin cuartel contra legiones de zombis que se alimentan de seres humanos. Orgullo y prejuicio y zombis, con sus desengaños amorosos, sus duelos, su canibalismo y sus cadáveres putrefactos, transforma una obra maestra de la literatura mundial en algo que realmente desearemos leer.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788489367715</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="2010-11-23T17:52:48.740000+00:00" name="calibre:timestamp"/>
+        <meta content="Orgullo y prejuicio y zombis" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

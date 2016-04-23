@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2748</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">78e1e074-ab18-49dc-9661-c8de955223f4</dc:identifier>
+    <dc:title>El Principe de la Niebla</dc:title>
+        <dc:creator opf:file-as="Zafón, Carlos Ruiz" opf:role="aut">Carlos Ruiz Zafón</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-14T16:00:00+00:00</dc:date>
+        <dc:description>"El nuevo hogar" de los Carver está rodeado de misterio. En él aún se respira el espíritu de Jacob, el hijo de los antiguos propietarios, que murió ahogado. Las extrañas circunstancias de esa muerte sólo se empieza a aclarar con la aparición de un diabólico personaje: el príncipe de la Niebla, capaz de conceder cualquier deseo a una persona a un alto precio...
+
+
+  
+
+"Carlos Ruiz Zafón" (Barcelona, 1964) se fugó del esquizofrénico mundo de la publicidad en 1992 con el propósito de hacer algo edificante con su vida. Un año después obtuvo el Premio Edebé de Literatura Juvenil con su primera novela, "El Príncipe de la Niebla". Desde 1993 reside en Los Angeles, donde divide su tiempo entre la música y la literatura.</dc:description>
+        <dc:publisher>Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789504915089</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-08T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Principe de la Niebla" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Principe de la Niebla - Carlos Ruiz Zafon.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

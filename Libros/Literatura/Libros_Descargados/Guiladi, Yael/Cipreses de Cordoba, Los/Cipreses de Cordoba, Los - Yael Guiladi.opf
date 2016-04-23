@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1400</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f498ef26-c3ea-49fc-a9cd-df8dbe63f4d9</dc:identifier>
+    <dc:title>Cipreses de Córdoba, Los</dc:title>
+        <dc:creator opf:file-as="Guiladi, Yael" opf:role="aut">Yael Guiladi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-04-14T16:00:00+00:00</dc:date>
+        <dc:description>Una extraordinaria saga familiar que nos conduce al califato de Córdoba del siglo X, donde el joven Da'ud, educado en el estudio de las ciencias, entra al servicio de Abd al-Rahman III para hallar los componentes de una pócima que anule los efectos mortales de la picadura de víbora. En la corte Da'ud llegará a ser un influyente personaje, cuya labor tendrá una brillante continuación en la labor de su hijo y sus nietos.
+Un mundo de sabios y artistas, de guerreros fanáticos y príncipes cristianos, en el que incluso cabe el intento de fundar un principado judío independiente que garantice la prosperidad de la comunidad hebrea.
+La sensibilidad en el tratameiento de los personajes y su escrupulosa documentación son aspectos que explican suficientemente el prolongado éxito del tríptico formado por "Orovida", "Los cipreses de Córdoba" y "La copista del rey Alfonso"</dc:description>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788435069052</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-06-27T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Cipreses de Córdoba, Los" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Cipreses de Cordoba, Los - Yael Guiladi.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

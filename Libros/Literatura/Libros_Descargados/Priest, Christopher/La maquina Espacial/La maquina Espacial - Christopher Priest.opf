@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">612</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4128ddf6-53b8-4ce7-81d0-72a630989207</dc:identifier>
+    <dc:title>La máquina Espacial</dc:title>
+        <dc:creator opf:file-as="Priest, Christopher" opf:role="aut">Christopher Priest</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1977-04-14T16:00:00+00:00</dc:date>
+        <dc:description>Un encuentro casual en un hotel y un comprometedor incidente de alcoba llevan a una inesperada aventura. El año es 1893. Un joven viajante de comercio visita a una amiga cuyo tutor es Sir William Reynolds, uno de los más eminentes científicos ingleses, que está construyendo en su laboratorio una máquina espacial.La joven pareja es lanzada a través del tiempo y el espacio y emerge en Marte, para regresar luego al destruido valle del Támesis, a una Inglaterra devastada por la invasión de los marcianos.</dc:description>
+        <dc:publisher>Emecé</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788473861069</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-04-04T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La máquina Espacial" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La maquina Espacial - Christopher Priest.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

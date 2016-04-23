@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1373</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">abc26265-a88e-427b-ad31-64cf4ce76856</dc:identifier>
+    <dc:title>Historia del futuro</dc:title>
+        <dc:creator opf:file-as="Heinlein, Robert A." opf:role="aut">Robert A. Heinlein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1980-06-14T16:00:00+00:00</dc:date>
+        <dc:description>Historia Del futuro consta de los veintiún relatos, novelas cortas y novelas que forman la monumental Historia del Futuro de Robert A. Heinlein. Una obra gigantesca en la que se traza, de modo magistral, el futuro de la raza humana, que podría ser, que tal vez será, que en algunos de sus detalles ya ha sido. Iniciada hace más de un tercio de siglo, esta obra ha sido calificada como la cúspide de la carrera de escritor de este meticuloso arquitecto del futuro que es Robert A. Heinlein.
+
+Relatos que contiene:
+
+- La línea de la vida
+- Las carreteras deben rodar
+- Ocurren explosiones
+- El hombre que vendió la luna</dc:description>
+        <dc:publisher>Acervo</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788470022913</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="Historia del Futuro" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2010-06-05T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Historia del futuro" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Historia del futuro - Robert A. Heinlein.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

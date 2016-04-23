@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">493</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d7782a2-85d4-41c1-a8c3-258a8020ff63</dc:identifier>
+    <dc:title>Lugar llamado Nada, Un</dc:title>
+        <dc:creator opf:file-as="Tan, Amy" opf:role="aut">Amy Tan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-15T07:04:06+00:00</dc:date>
+        <dc:description>Doce amigos estadounidenses están a punto de emprender el viaje de suvida, desde el pie del Himalaya en China hacia las selvas inexploradasde Birmania, para profundizar en el arte y la cultura de ambos países.La mañana del día de Navidad, todos menos uno -que sufre resaca-inician una excursión de medio día, pero ya no regresan. Los diezamigos se encuentran en medio de la selva, en un poblado secreto dondese oculta una tribu medio extinguida que ve en uno de ellos a susalvador, el líder que han estado esperando para que les proteja de laviolencia del régimen militar birmano.</dc:description>
+        <dc:publisher>Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408066262</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="2009-02-15T07:04:06+00:00" name="calibre:timestamp"/>
+        <meta content="Lugar llamado Nada, Un" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Lugar llamado Nada, Un - Amy Tan.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

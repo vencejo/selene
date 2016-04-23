@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1963</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c05bc067-9c63-4db4-8095-caaf4387c958</dc:identifier>
+    <dc:title>El fin de la infancia</dc:title>
+        <dc:creator opf:file-as="Clarke, Arthur C." opf:role="aut">Arthur C. Clarke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-14T16:00:00+00:00</dc:date>
+        <dc:description>"Con El fin de la infancia -escribió Basil Davenport- Arthur C. Clarke se une al pequeño grupo formado por Olaf Stapledon, C. S. Lewis y quizá H. G. Wells, que ha usado la ciencia ficción como vehículo de ideas filosóficas. Dicho esto, es necesario añadir que El fin de la infancia es un libro tan ameno, desde el punto de vista de la narrativa pura, como cualquier otra novela común contemporánea."
+
+El fin de la infancia --obra que según William Du Bois merece la total atención de los habitantes de "esta época de ansiedad"-- tiene como tema la futura evolución del hombre. Una raza extraña llega a la Tierra y trae consigo paz, prosperidad..., y la inesperada tragedia de la perfección. ¿Qué seguirá a la extinción de la raza humana? Arthur C. Clarke, en un final de notable belleza, plantea la más alucinante de las hipótesis.</dc:description>
+        <dc:publisher>Minotauro</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788445077009</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-07-02T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El fin de la infancia" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El fin de la infancia - Arthur C. Clarke.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

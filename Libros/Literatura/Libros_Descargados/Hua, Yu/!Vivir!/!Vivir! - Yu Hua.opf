@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2737</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f69ac316-3689-48c2-81e0-4b1d1a6b622c</dc:identifier>
+    <dc:title>¡Vivir!</dc:title>
+        <dc:creator opf:file-as="Hua, Yu" opf:role="aut">Yu Hua</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-09-06T16:00:00+00:00</dc:date>
+        <dc:description>Después de gastar toda la fortuna de su familia en el juego y en burdeles, el joven Fugui, único heredero de la familia Xu, no tiene otra solución que convertirse en un honesto granjero. Obligado por el Ejército a separarse de su familia, es testigo de los horrores de la Guerra Civil. Años después, tiene que hacer frente a las penurias de la Revolución Cultural. Con un buey como único compañero en sus últimos días, Fugui consigue sobrevivir gracias a su amor por la vida. Esta novela celebra la inalterable voluntad de vivir por encima de las desgracias y los golpes del destino.</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788432228735</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-06T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="¡Vivir!" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="!Vivir! - Yu Hua.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

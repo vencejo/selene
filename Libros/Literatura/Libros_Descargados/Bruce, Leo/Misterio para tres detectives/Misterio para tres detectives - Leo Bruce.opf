@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2184</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d53b70a-7802-4d2d-8940-7235d7918b6b</dc:identifier>
+    <dc:title>Misterio para tres detectives</dc:title>
+        <dc:creator opf:file-as="Bruce, Leo" opf:role="aut">Leo Bruce</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1989-07-14T16:00:00+00:00</dc:date>
+        <dc:description>MISTERIO PARA TRES DETECTIVES es una divertida parodia de algunos de los más célebres detectives de la literatura policíaca: Peter Wimsey, llevado a la fama por Dorothy Sayers, Hércules Poirot, inmortalizado por Agatha Christie y el padre Brown, la singular creación de G. K. Chesterton. Enfrentados a un mismo caso, cada uno de ellos presenta sus conclusiones, pero ninguno cuenta con el inmenso sentido común del sargento Beef, un modesto policía de provincias...</dc:description>
+        <dc:publisher>Versal</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788486717612</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-22T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Misterio para tres detectives" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Misterio para tres detectives - Leo Bruce.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

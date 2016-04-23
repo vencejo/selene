@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1038</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57d6c0bb-a8ec-46ac-9e9e-79cf21967f8e</dc:identifier>
+    <dc:title>La Torre de la Soledad</dc:title>
+        <dc:creator opf:file-as="Manfredi, Valerio Massimo" opf:role="aut">Valerio Massimo Manfredi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-23T16:00:00+00:00</dc:date>
+        <dc:description>Un grupo de soldados romanos que avanza por el desierto del Sahara es aniquilado por una presencia feroz y misteriosa nacida de una torre solitaria situada en el extremo del mar de arena. Solo un superviviente: el arúspice etrusco Avile Vipinas. Veinte siglos después, en 1930, un joven arqueólogo norteamericano, Philip Garrett, descubre en Pompeya la habitación de Avile Vipinas quien, antes de morir, quiso dejar testimonio del horror oculto en la torre solitaria y de cómo llegar hasta ella para destruirla. Mientras tanto, en el Vaticano, Guglielmo Marconi es convocado en mitad de la noche al observatorio de La Specola, donde una potentísima radio, construida con gran secreto, está captando una misteriosa señal que proviene del espacio. El padre Boni, director del observatorio, ha hecho construir esa radio tras haber descubierto, en las notas de su predecesor, que diez años antes el desaparecido padre de Garrett había traducido con éxito un texto oculto durante siglos en un lugar recóndito de la Biblioteca Vaticana: una especie de biblia elaborada por una civilización mucho más antigua que cualquiera de las conocidas. Antes de extinguirse habían construido la Torre de la Soledad y lanzado una señal al espacio.</dc:description>
+        <dc:publisher>DEBOLSILLO</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789875661530</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-07-26T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La Torre de la Soledad" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La Torre de la Soledad - Valerio Massimo Manfredi.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

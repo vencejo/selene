@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2705</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c06a67c8-10a6-4aec-a508-18d59c653189</dc:identifier>
+    <dc:title>Noches En Hollywood</dc:title>
+        <dc:creator opf:file-as="Ellroy, James" opf:role="aut">James Ellroy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-24T16:00:00+00:00</dc:date>
+        <dc:description>A la deriva en el brumoso Hollywood de los cincuenta, Dick Contino, un acordeonista prácticamente acabado, trata de dar un empujón a su carrera perpetrando un secuestro perfecto: el suyo propio.
+
+La historia de Contino abre este fantástico libro compuesto por seis relatos ambientados entre 1947 y 1959. A la deriva en el brumoso Hollywood de los cincuenta, Dick Contino, un acordeonista practicamente acabado, trata de dar un empujon a su carrera perpetrando un secuestro perfecto: el suyo propio.
+
+Es en Los Ángeles de los cincuenta, una ciudad poblada por policías, criminales, prostitutas, estafadores, cazatalentos en busca de estrellas, rateros, comunistas ocultos y chivatos que traen a la mente películas en blanco y negro y amarillistas gacetas de sucesos.
+
+Estos extraordinarios, escuetos y descarnados cuentos deslumbran con un humor inesperado, una cruda brutalidad y el realismo que constituye la seña de identidad de Ellroy.
+
+Por el autor de los superventas L. A. Confidential y La Dalia Negra.</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466638449</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-24T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Noches En Hollywood" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Noches En Hollywood - James Ellroy.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2740</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4cc2430d-6f84-4bd6-92fc-c78578bc186a</dc:identifier>
+    <dc:title>Corsarios Americanos</dc:title>
+        <dc:creator opf:file-as="Alexander Kent" opf:role="aut">Alexander Kent</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-09-08T16:00:00+00:00</dc:date>
+        <dc:description>Nueva York, 1777. Mientras la revolución americana hace estragos en el territorio de la Colonia, la armada británica se apresta a entrar en combate desde el mar. La marina inglesa debe enfrentarse a una pujante flota de barcos enemigos, corsarios americanos y franceses, para intentar mantener el bloqueo de suministros militares vitales para Washington.
+
+Atrapado en la contienda, el joven oficial Richard Bolitho se ve obligado a tomar decisiones trascendentales mientras participa en duras batallas. Decisiones de las que depende la vida de muchos hombres, y quizás, también, el devenir de la historia de América.</dc:description>
+        <dc:publisher>Nuevas Ediciones de Bolsillo, S. L.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788484503316</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="Richard Bolitho" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-08T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Corsarios Americanos" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Corsarios Americanos - Alexander Kent.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

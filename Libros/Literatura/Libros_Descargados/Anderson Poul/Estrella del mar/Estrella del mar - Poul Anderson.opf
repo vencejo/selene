@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2498</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e83ed5e4-5de8-49e8-a779-7c11f1dc2c9c</dc:identifier>
+    <dc:title>Estrella del mar</dc:title>
+        <dc:creator opf:file-as="Anderson Poul" opf:role="aut">Poul Anderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-15T16:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="Guardianes del tiempo" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2010-04-04T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Estrella del mar" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Estrella del mar - Poul Anderson.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

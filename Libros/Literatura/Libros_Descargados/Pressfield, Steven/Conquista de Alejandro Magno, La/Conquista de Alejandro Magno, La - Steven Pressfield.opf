@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">607</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40417e93-0651-400e-9a93-94d9d5cfd7c9</dc:identifier>
+    <dc:title>Conquista de Alejandro Magno, La</dc:title>
+        <dc:creator opf:file-as="Pressfield, Steven" opf:role="aut">Steven Pressfield</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-04-29T16:00:00+00:00</dc:date>
+        <dc:description>Ano 338-323 a.C. Varado en la India ante el enemigo, Alejandro y sus tropas no consiguen prosperar en su avance de la conquista asiatica. Este decide entonces contar sus recuerdos a uno de sus hombres y dejar asi registro escrito para la posteridad. Comienza entonces el relato de su infancia en Macedonia, cuando ya acompanaba a su padre a ver el entrenamiento de sus ejercitos, educado por Aristoteles, cuando mas tarde ya se convertiria el mismo en soldado, luchando bajo el mando de su padre que logro devolver el honor a la tierra de Macedonia, convirtiendose en un guerrero temido y respetado, llamado a superar las hazanas de su padre. Siendo todavia muy joven, su padre es asesinado y el se hace cargo del mandato del reino, demostrando su capacidad de liderazgo y militar, sometiendo a ejercitos mas poderosos que el suyo, enfrentandose a reyes y emperadores y extendiendo su conquista a las tierras de Oriente Medio, sometiendo uno a uno a los pueblos de Palestina, Egipto, y pronto empezaria a ser considerado un Dios. En Mesopotamia se enfrenta al primer problema enfrentandose a un ejercito superior al suyo, un millon de hombres, pero aun asi cayo Babilonia. Alejandro se instalo alli y su ejercito empezo a ablandarse, los soldados a convertirse en cortesanos, hasta que comprendio que debia seguir avanzando, hacer lo que mejor sabia: conquistar. A continuacion cayo Persepolis, luego en Afganistan tuvo que enfrentar un nuevo enemigo y una manera distinta de hacer la guerra, y tras tres anos de campana termino comprando la fidelidad de las tribus afganas. Avanzando siempre hacia el Este, hasta la India, y alli sus hombres comprendieron que ya no podian dar mas de si, que el fin delmundo por el Este quedaba muy lejos y le pidieron que detuviera su conquista y regresar a casa. Alejandro se opuso en un principio pero al final comprendio que llevaban razon y ordeno el regreso. Habian pasado ocho anos desde que salieran de Macedonia. Durante el regreso Alejandro cae enfermo y muere rodeado de sus hombres. Una entretenida epopeya belica, con un protagonista que toma el cariz de heroe y casi Dios, y que rinde un retrato completo del guerrero avido de gloria y del hombre.</dc:description>
+        <dc:publisher>DEBOLSILLO</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789875661486</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2009-08-29T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Conquista de Alejandro Magno, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Conquista de Alejandro Magno, La - Steven Pressfield.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

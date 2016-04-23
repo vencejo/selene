@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2594</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">602f4112-709d-4053-9f51-8b8e357b5b68</dc:identifier>
+    <dc:title>El Testamento Maya</dc:title>
+        <dc:creator opf:file-as="Alten, Steve" opf:role="aut">Steve Alten</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-08T16:00:00+00:00</dc:date>
+        <dc:description>21 de diciembre 2012. El da en que termina el calendario maya.  A lo largo de los siglos, los cientficos han credo que este dato era simplemente una curiosidad histrica. Despus de muchos aos de investigaciones, el conocido arquelogo Julius Gabriel descubre la verdad acerca del calendario maya, una verdad tan antigua como poderosa que podra revelar el fatdico destino de la humanidad. Cada monumento de la antigedad —desde Stonehenge a las pirmides de Egipto, desde el templo de Angkor Wat a a las inmemoriales ruinas mayas— guarda secretos y pistas sobre los orgenes de la civilizacin y el destino ltimo de la humanidad. Apunto de descubrir el misterio, una conspiracin que se remonta a 65 millones de aos y que ha alterado el tejido mismo de la civilizacin intentar impedirlo. Cuando el calendario maya termine, ser tambin el fin del mundo?</dc:description>
+        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307475794</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-03-18T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Testamento Maya" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Testamento Maya - Steve Alten.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

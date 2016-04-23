@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1189</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89a7e4fe-df76-479c-b376-f8f52d186fe2</dc:identifier>
+    <dc:title>Mendigos y Opulentos</dc:title>
+        <dc:creator opf:file-as="Kress, Nancy" opf:role="aut">Nancy Kress</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-07-21T16:00:00+00:00</dc:date>
+        <dc:description>En una sociedad futura el progreso de la genética permite la aparición de los Insomnes, unos sujetos que disponen de mayor conocimiento y poder gracias a su capacidad para permanecer activos durante más horas. La sociedad se ha dividido en "ociosos vividores", atendidos a cambio de sus votos por los "auxiliares", e Insomnes, cuyos superdotados descendientes, los Superinsomnes, pueden desarrollar una nueva biotecnología muy tentadora pero también potencialmente muy peligrosa. La Agencia para el Control de las Normas Geneticas (ACNG) puede contrarrestar el poder de los Superinsomnes pero también es capaz de poner en peligro la supervivencia de los "vividores". En ese mundo en crisis, tres personajes, dos "vividores" y un "auxiliar", exponen su particular punto de vista.</dc:description>
+        <dc:publisher>Ediciones B, S.A.  Nova nº87</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788440666918</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="Insomnes" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-21T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Mendigos y Opulentos" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Mendigos y Opulentos - Nancy Kress.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

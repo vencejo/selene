@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">652</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">41d042c9-5d4c-4432-b42c-9b17d50b8458</dc:identifier>
+    <dc:title>Pórtico</dc:title>
+        <dc:creator opf:file-as="Pohl, Frederik" opf:role="aut">Frederik Pohl</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-20T16:00:00+00:00</dc:date>
+        <dc:description>En Pórtico, Frederik Pohl retoma y revigoriza la línea especulativa que le puso a la cabeza de la ciencia ficción mundial. Ésta es la primera novela de una tetralogía cuyo hilo conductor es una misteriosa especie de extraterrestres, los Heeche.</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-10-20T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Pórtico" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Portico - Frederik Pohl.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

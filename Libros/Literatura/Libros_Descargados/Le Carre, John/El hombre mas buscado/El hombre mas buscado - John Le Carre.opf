@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2699</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">76c56f9f-18ac-4ffe-9eeb-cdff3636266c</dc:identifier>
+    <dc:title>El hombre más buscado</dc:title>
+        <dc:creator opf:file-as="Le Carré, John" opf:role="aut">John Le Carré</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-21T16:00:00+00:00</dc:date>
+        <dc:description>Si buscas una gran novela, solo tienes que encontrar a un hombre: John le Carré.
+El gran Le Carré, más radical que nunca, vuelve con una novela sobre el terrorismo y la conculcación de las libertades. Su protagonista, Issa, nacido de la relación entre una chechena y un ofcial ruso a quien aborrece, ha logrado huir de una cárcel turca y ahora se encuentra en Hamburgo. Cuenta con la ayuda de una joven abogada y de un banquero para poder cobrar la herencia de su padre y destinarla a distintas ONG islámicas, pero los servicios secretos alemanes sospechan que sus intenciones son muy distintas…
+
+Una obra de candente actualidad que denuncia los peligros de la actitud discriminatoria de Occidente hacia la comunidad islámica, y su total ineptitud para combatir el terrorismo. Una historia de amores profundos pero imposibles.</dc:description>
+        <dc:publisher>Círculo de Lectores</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789568352202</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-21T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El hombre más buscado" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El hombre mas buscado - John Le Carre.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

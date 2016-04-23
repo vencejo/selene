@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2328</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ab1f276-486f-4ec4-8441-23dac20c3679</dc:identifier>
+    <dc:title>La Radio de Darwin</dc:title>
+        <dc:creator opf:file-as="Bear, Greg" opf:role="aut">Greg Bear</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-06-14T16:00:00+00:00</dc:date>
+        <dc:description>La Radio de Darwin es una intrigante especulación a partir de los actuales conocimientos biológicos y antropológicos, además de un ingenioso y bien tramado thriller que cuestiona casi todas nuestras creencias sobre los orígenes del ser humano y su posible destino.&lt;br /&gt;
+Tres hechos, que al principio parecen no estar relacionados, acabarán convergiendo para sugerir una novedad devastadora y sacudir los cimientos de la ciencia: la conspiración para ocultar los cadáveres de dos mujeres y sus hijos en Rusia, el descubrimiento inesperado en los Alpes de los cuerpos congelados de una familia prehistórica, y una misteriosa enfermedad que sólo afecta a mujeres gestantes e interrumpe sus embarazos.&lt;br /&gt;
+Kaye Lang, una bióloga molecular especialista en retrovirus, y Christopher Dicken, epidemiólogo del Servicio de Inteligencia de Epidemias, temen que algo que ha permanecido dormido en nuestros genes durante millones de años haya empezado a despertar. Ellos dos, junto al antropólogo Mitch Rafelson, parecen ser los únicos capaces de resolver un rompecabezas evolutivo que puede determinar el futuro de la especie humana... si ese futuro sigue existiendo.
+&lt;br /&gt;&lt;br /&gt;
+El premio Nebula, el equivalente en ciencia ficción al Oscar cinematográfico, avala el interés de esta obra, el más sugestivo thriller sobre la investigación genética y el futuro de la especie humana. Cinco premios Nebula, dos premios Hugo, el premio Apollo de Francia y el premio Ignotus en España garantizan la alta calidad e interés de la obra del brillante autor de Marte se mueve y Fundación y caos.
+Premio Nebula 2000 Novela finalista del Premio Hugo 2000
+&lt;br /&gt;&lt;br /&gt;
+«Bear pertenece al pequeño grupo de escritores del género que pueden abordar tanto la complejidad del material intelectual como la solidez y la profundidad necesarias para que una "novela de ideas" se convierta en una novela real.»
+--Rusell Letson en LOCUS</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466605120</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-06-17T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La Radio de Darwin" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La Radio de Darwin - Greg Bear.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

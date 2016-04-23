@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1528</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2146f765-e4ea-4f90-be26-ad7d3734c5c5</dc:identifier>
+    <dc:title>Los griegos: un legado universal</dc:title>
+        <dc:creator opf:file-as="Gómez Espeloíin, Francisco Javier" opf:role="aut">Francisco Javier Gómez Espeloíin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-06-29T16:00:00+00:00</dc:date>
+        <dc:description>Tradicionalmente se ha señalado a los griegos como los creadores e impulsores de las ideas y valores fundamentales que han configurado nuestra civilización. En el imaginario colectivo occidental parecen como un pueblo singular que fue capaz de crear los patrones definitivos de belleza, de articular un sistema político como la democracia o de emprender con audacia la aventura intelectual del conocimiento humano basado en la razón.
+    Sin embargo no siempre es oro todo lo que reluce. La imagen ideal de Grecia hunde sus raíces en toda una tradición favorable que desde el Renacimiento la ensalzó como cultura ejemplar y hegemónica, situándola por completo al margen de la historia como un verdadero milagro surgido en medio de la nada. Esta condición atemporal e imaginaria permitió que Grecia fuera continuamente reinventada a tenor de las necesidades ajenas a las que pretendían servir sus usuarios. Sin embargo, la realidad histórica fue mucho menos idílica. La tierra poblada por poetas, filósofos y artistas se encarnaba en un paisaje áspero y hostil que no se asemejaba mucho a los umbrosos y frescos paisajes imaginados en la mitología. La lucha feroz por la supervivencia constituía la norma de vida, las guerras eran frecuentes, el espacio vital reducido, la presión social agobiante, el código moral inflexible y despiadado, la relación con los dioses tensa y condicionada, la forma de vida miserable y los reducidos ámbitos urbanos carentes de grandes edificios, que limitaban prácticamente su presencia a la acrópolis de Atenas y a los grandes santuarios panhelénicos.</dc:description>
+        <dc:publisher>Alianza Editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788420656052</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-04-24T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Los griegos: un legado universal" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Los griegos_ un legado universal - Francisco Javier Gomez Espeloiin.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

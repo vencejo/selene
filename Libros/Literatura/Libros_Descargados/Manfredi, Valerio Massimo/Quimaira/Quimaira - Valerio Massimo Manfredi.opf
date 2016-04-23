@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1040</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fbd66922-e9c9-4f20-b185-ab50b311226a</dc:identifier>
+    <dc:title>Quimaira</dc:title>
+        <dc:creator opf:file-as="Manfredi, Valerio Massimo" opf:role="aut">Valerio Massimo Manfredi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-03-31T16:00:00+00:00</dc:date>
+        <dc:description>Fabrizio Castellani, joven y brillante arqueólogo, se encuentra una noche trabajando en el museo etrusco de la antigua ciudad de Volterra. Su interés se debe a la estatua etrusca de un niño, llamada "L'ombra della sera". Una llamada de teléfono interrumpirá el trabajo del arqueólogo y al otro lado del interruptor una voz femenina le ordena que abandone su investigación. Acto seguido, un espantoso aullido perturba el silencio de la noche que rodea a Fabrizio. 
+
+Al día siguiente, junto a la tumba etrusca, aparece el cadáver de un hombre salvajemente mutilado por una bestia desconocida. Esta será la primera de una serie de muertes violentas que siembran el terror en Volterra. Castellani comienza a relaciona todas y cada una de las muertes con un asesinato cometido en la antigüedad. Todas las víctimas tienen algo que ver con la profanación de una tumba, en la cual Castellani descubre los restos del Phersu, un escalofriante ritual de la tradición etrusca. 
+
+Además, a todo esto se añade el descubrimiento de una misteriosa inscripción en bronce dividida en seis partes, y a la que le falta una séptima pieza que es, casualmente la pieza que puede desvelar el misterio que se esconde detrás de la terrible tragedia. 
+
+Valerio Massimo Manfredi, arqueólogo y experto en historia del mundo antiguo, trata en esta novela la parábola del monstruo que todos llevamos dentro. Una historia sobre cuentas pendientes en el pasado que tarde o temprano terminan por saldarse. 
+
+El ritmo trepidante de la novela, el amplio conocimiento del mundo del arte y la arqueología por parte del autor, y los golpes de efectos tan propios de Manfredi dan como resultado, al menos, un rato agradable</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788425336454</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-10-09T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Quimaira" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Quimaira - Valerio Massimo Manfredi.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

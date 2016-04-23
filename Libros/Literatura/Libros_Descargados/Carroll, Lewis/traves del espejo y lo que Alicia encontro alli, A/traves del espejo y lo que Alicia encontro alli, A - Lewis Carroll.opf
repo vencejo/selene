@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2745</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6043858a-6520-497a-b594-dba52f0c8f14</dc:identifier>
+    <dc:title>A través del espejo y lo que Alicia encontró allí</dc:title>
+        <dc:creator opf:file-as="Carroll, Lewis" opf:role="aut">Lewis Carroll</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-08T16:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-08T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="través del espejo y lo que Alicia encontró allí, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="traves del espejo y lo que Alicia encontro alli, A - Lewis Carroll.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

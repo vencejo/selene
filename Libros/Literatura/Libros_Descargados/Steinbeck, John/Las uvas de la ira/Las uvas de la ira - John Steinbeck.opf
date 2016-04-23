@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2724</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7bcded8f-2f1b-444b-8a3f-cb2e6ae1c703</dc:identifier>
+    <dc:title>Las uvas de la ira</dc:title>
+        <dc:creator opf:file-as="Steinbeck, John" opf:role="aut">John Steinbeck</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1939-08-29T16:00:00+00:00</dc:date>
+        <dc:description>Premio Nobel de Literatura en 1962, John Steinbeck (1902-1968) fue testigo directo de la Depresión económica que, originada por el crack bursátil de 1929, azotó durante la década de los años treinta a los Estados Unidos. Publicada en 1939 y objeto de varias versiones cinematográficas -entre ellas un memorable film de John Ford-, Las uvas de la ira relata en una narración que alcanza por momentos cotas épicas la emigración que, desde una inhabitable Oklahoma, lleva a cabo la familia Joad junto a miles de personas más hacia la tierra de promisión que parece California. A lo largo del camino, sin embargo, este ejército de desposeídos comprobará la frágil consistencia de un sueño americano que progresiva e inevitablemente acabará desvaneciéndose.</dc:description>
+        <dc:publisher>Alianza Editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788420634128</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-29T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Las uvas de la ira" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Las uvas de la ira - John Steinbeck.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">569c03c3-ee6e-4a00-a77e-29f8f7d96496</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">723e150a-ce5b-42bb-b8dc-1f79f3625320</dc:identifier>
+        <dc:title>Metro 2033</dc:title>
+        <dc:creator opf:file-as="Glukhovsky, Dmitry" opf:role="aut">Dmitry Glukhovsky</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.28) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-23T17:52:42.673000+00:00</dc:date>
+        <dc:description>Año 2033. Tras una guerra nuclear devastadora, amplias zonas del mundo han quedado sepultadas bajo escombros y cenizas debido a la radiación. También Moscú se ha transformado en una ciudad fantasma. Los supervivientes se han refugiado bajo tierra, en la red de metro. En cada una de las estaciones, convertidas en pequeñas ciudades Estado, sus habitantes se agrupan en torno a las más diversas ideologías, religiones o movidos por un único objetivo: impedir una invasión de las criaturas mutantes del exterior.
+				Artyom, un joven soldado, será elegido para penetrar en el corazón del Metro hasta la legendaria Polis y alertar a todos del peligro que acehca a la estación de la que procede, la VDNKh, y a toda la red metropolitana. De él dependerá el futuro de su hogar, del Metro y puede que de toda la Humanidad.</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>sf_fantasy</dc:subject>
+        <dc:subject>sf_horror</dc:subject>
+        <meta content="2010-11-23T17:52:42.673000+00:00" name="calibre:timestamp"/>
+        <meta content="Metro 2033" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">930</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">433d38e4-f096-4063-8a93-7033eef38f89</dc:identifier>
+    <dc:title>Leyes de mercado</dc:title>
+        <dc:creator opf:file-as="Morgan, Richard" opf:role="aut">Richard Morgan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-15T16:00:00+00:00</dc:date>
+        <dc:description>Chris Faulkner es un joven y prometedor ejecutivo que se ha labrado la reputación trabajando en Mercados Emergentes y ha llamado la atención de los cazatalentos de Shorn Associates, que lo contratan en su división estrella: Inversión en Conflictos. 
+Y en el nuevo puesto, las directrices son inequívocas: «En todo el mundo, hombres y mujeres siguen encontrando causas por las que matar y morir. ¿Quiénes somos nosotros para discutírselo? Decidir si es correcto o incorrecto no es nuestro cometido. En Inversión en Conflictos de Shorn Associates sólo nos hacemos dos preguntas: ¿Ganarán? Y en tal caso, ¿pagarán? No juzgamos; no moralizamos; no malgastamos. Nosotros calculamos, invertimos. Y prosperamos.»</dc:description>
+        <dc:publisher>Gigamesh. Gigamesh Ficción nº38</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788496208360</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-07-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Leyes de mercado" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Leyes de mercado - Richard Morgan.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

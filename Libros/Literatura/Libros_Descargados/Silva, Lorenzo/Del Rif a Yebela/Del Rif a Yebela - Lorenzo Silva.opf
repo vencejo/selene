@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">381</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b987e9ab-bb8b-47d8-89bd-b00486af573a</dc:identifier>
+    <dc:title>Del Rif a Yebela</dc:title>
+        <dc:creator opf:file-as="Silva, Lorenzo" opf:role="aut">Lorenzo Silva</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-04-14T16:00:00+00:00</dc:date>
+        <dc:description>Del Rif al Yebala es un singular libro de viajes, y un hermoso ajuste de cuentas con el pasado desde las emocionantes sensaciones del presente.
+ 
+  Para Lorenzo Silva recorrer Marruecos es hacer realidad un sueño de infancia y, a la vez, adentrarse en el impresionante escenario de la aventura bélica de su abuelo, combatiente de a pie en la llamada guerra de Africa. A lo largo de ocho jornadas, y con la compañía de su hermano y un amigo, el escritor explora el interior del país para descubrir –y descubrirnos- la áspera región del Rif y la zona no menos agreste del Yebala, y de paso lugares como Melilla, Annual, Alhucemas, Xauen, Larache, Alcazarseguer, Tánger, Fez, la antigua ciudad romana de Volúbilis o Rabat. También el calor agobiante del verano africano -el mismo calor que sintieron los soldados que luchaban con su abuelo-, el color de la tierra roja, como de herrumbre, el sabor del té con hierbabuena, el sonido de la música andalusí o el silencio de los caminos pésimos y los mendigos inmóviles. El viaje desvela el Marruecos presente y lo anuda a la historia de la guerra pasada, que acude a estas páginas con la enfebrecida claridad del espejismo: combates reducidos a cacerías, el heroísmo inútil, el desdén de los gobernantes, el horror. Y frente a los españoles, sobresale Abd el-Krim, artífice de la resistencia rifeña, un hombre capaz de machacar al enemigo y de rendir al mismo tiempo honores militares al cadáver de su antiguo amigo el coronel Morales, antes de devolverlo en un ataud de zinc a las autoridades españolas.</dc:description>
+        <dc:publisher>Destino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423333349</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-04-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Del Rif a Yebela" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Del Rif a Yebela - Lorenzo Silva.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

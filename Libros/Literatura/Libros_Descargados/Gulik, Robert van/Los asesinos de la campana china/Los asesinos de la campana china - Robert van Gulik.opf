@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1409</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c53c547f-1eec-4b59-8f68-77bee865d4e1</dc:identifier>
+    <dc:title>Los asesinos de la campana china</dc:title>
+        <dc:creator opf:file-as="Gulik, Robert van" opf:role="aut">Robert van Gulik</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-14T16:00:00+00:00</dc:date>
+        <dc:description>La acción del juez Di se sitúa en un templo budista cuya creciente fama se debe a que, no se sabe muy bien cómo, está logrando que mujeres en apariencia estériles consigan quedar embarazadas. Cuando a un joven que ha entrado en el templo se le pierde repentinamente el rastro, el juez Di decide emprender una investigación que, como siempre, acabará desdoblándose en tres casos emocionantes y cuyas pruebas principales se ocultan bajo la gran campana del templo. El humor, el sexo y las costumbres religiosas ocupan un lugar muy importante en la trama.</dc:description>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788435035316</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-07-22T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Los asesinos de la campana china" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Los asesinos de la campana china - Robert van Gulik.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

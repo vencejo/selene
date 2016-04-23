@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2755</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2f1aa41-0f93-495b-8fc0-da4cb327a89c</dc:identifier>
+    <dc:title>Africanus. el hijo del cónsul</dc:title>
+        <dc:creator opf:file-as="Posteguillo, Santiago" opf:role="aut">Santiago Posteguillo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-20T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+A finales del sigloÂ IV antes de Cristo, Roma se encontraba a punto de ser aniquilada por los ejÃ©rcitos cartagineses al mando de AnÃ­bal. Ese era su inexorable destino hasta que surgiÃ³ un solo hombre, un joven oficial de las legiones, que transformÃ³ lo que debÃ­a ocurrir en lo que finalmente fue: la gÃ©nesis de un imperio y una civilizaciÃ³n secular en el tiempo y en la historia del mundo. Aquel niÃ±o recibiÃ³ el nombre de su progenitor, Publio Cornelio EscipiÃ³n, quien fuera cÃ³nsul de Roma durante el primer aÃ±o de aquella guerra. Las hazaÃ±as del hijo del cÃ³nsul alcanzaron tal magnitud que el pueblo le concediÃ³ un sobrenombre especial, un apelativo referente a uno de los territorios que conquistÃ³: Africanus. Africanus, el hÃ­]o del cÃ³nsul narra con una prosa Ã¡gil y directa el.tormentoso y a la vez fascinante mundo de la juventud de Publio Cornelio EscipiÃ³n, el Africano. Esta novela describe con detalle las batallas de Tesino, Trebia, Trasimeno y Cannae, los asedios de Sagunto, Tarento o Cartago Nova, los tensos debates en el senado, las marchas forzadas de las legiones, el avance de los elefantes, las frÃ­as noches previas al combate, la amistad de los legionarios durante la campaÃ±a, el dolor de la muerte, el sinsentido de la guerra, el significado, de la gloria y el honor, las costumbres y las tradiciones de una Roma milenaria. / At the end of IV Century before Christ, Rome was at the brink of being annihilated by the Carthage army at the command of Hannibal. This was its inexorable destiny, until one man emerged, a young officer of the legions that transformed the inevitable into what finally was: the genesis of an empire and a secular civilization in world history. That child got the name of his father, Publio Cornelio EscipiÃ³n, who was consul of Rome during the first year of that war. The heroic deeds of the son of the Consul reached such magnitude that his people gave him a special nickname, because of the territories he conquered: Africanus.</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466639323</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-10T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Africanus. el hijo del cónsul" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Africanus. el hijo del consul - Santiago Posteguillo.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

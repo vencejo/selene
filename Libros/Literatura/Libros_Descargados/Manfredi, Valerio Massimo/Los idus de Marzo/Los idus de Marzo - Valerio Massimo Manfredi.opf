@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2766</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a977ca2-7332-433c-98d4-13d451ed2b6f</dc:identifier>
+    <dc:title>Los idus de Marzo</dc:title>
+        <dc:creator opf:file-as="Manfredi, Valerio Massimo" opf:role="aut">Valerio Massimo Manfredi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-29T16:00:00+00:00</dc:date>
+        <dc:description>«¡Guárdate de los idus de marzo!» Esta fue la célebre
+advertencia que hizo un adivino a Julio César, infausto
+presagio de lo que iba a suceder. El complot ya estaba
+urdido y los conspiradores decididos a dar el golpe fatal.
+Tampoco las palabras de aviso del adivino fueron las
+únicas que escuchó César en los días previos al
+asesinato, pero era tan grande su confianza que las
+rechazó. En muchos aspectos la de César fue una
+muerte anunciada.
+Esta obra de Valerio Massimo Manfredi es la crónica
+implacable de las cuarenta y ocho horas anteriores al
+sangriento acontecimiento que había de cambiar la
+historia. En ella todos los personajes -desde César hasta
+Porcia, desde Cicerón hasta Bruto, la mano ejecutoravan
+asuminedo su papel con la tensa cadencia de una
+tragedia griega. Y es que a veces la historia es la mejor novela...</dc:description>
+        <dc:publisher>Grijalbo Mondadori Sa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788425343520</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-10T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Los idus de Marzo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Los idus de Marzo - Valerio Massimo Manfredi.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

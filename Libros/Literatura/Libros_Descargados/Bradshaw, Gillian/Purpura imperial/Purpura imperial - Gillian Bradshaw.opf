@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2297</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">481953a0-ac7d-4079-8e75-b517a80d8a3c</dc:identifier>
+    <dc:title>Púrpura imperial</dc:title>
+        <dc:creator opf:file-as="Bradshaw, Gillian" opf:role="aut">Gillian Bradshaw</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-17T16:00:00+00:00</dc:date>
+        <dc:description>Desde la antigua Hispania hasta los territorios más ricos de Italia y Siria, con el Mediterráneo como mar interior, el Imperio Bizantino domina el mundo civilizado hasta los confines del norte, donde los hunos desafían las gloriosas conquistas del general Belisario. Sin embargo, en los palacios de Constantinopla son muchos los que consideran al emperador Teodosio una persona débil, incapaz y demasiado tolerante ante la disidencia religiosa y los enemigos bárbaros. Y mientras en la corte aumentan las intrigas políticas, en Tiro, el antiguo centro comercial del mundo cartaginés, la esclava Demetrias, la más diestra de las tejedoras de seda del imperio, ha recibido la orden de confeccionar un manto de color púrpura para uso exclusivo del emperador. Pero al cumplir su cometido, la humilde artesana se ve inmersa en una conspiración para derrocar a Teodosio. Así pues, el destino de Demetrias quedará íntimamente ligado al devenir de un imperio socavado por la ambición de quienes juraron defenderlo.
+
+Gillian Bradshaw, considerada en la actualidad la escritora de novela histórica más importante de Gran Bretaña, culmina con este libro la trilogía dedicada a Bizancio, cuya segunda parte, El faro de Alejandría, obtuvo un enorme éxito de ventas en nuestro país.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788478884643</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="Bizancio" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-11-17T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Púrpura imperial" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Purpura imperial - Gillian Bradshaw.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

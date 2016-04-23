@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">478</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d77cf2c0-3a10-405e-a3c0-acf8122792f6</dc:identifier>
+    <dc:title>Desde mi cielo</dc:title>
+        <dc:creator opf:file-as="Sebold, Alice" opf:role="aut">Alice Sebold</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-13T16:00:00+00:00</dc:date>
+        <dc:description>La protagonista de esta novela, Susie Salmon, vive en el cielo. Desde ese lugar, nos cuenta, con la voz y espíritu de una chica de 14 años, una historia terrorífica y llena de esperanza. Poco después de su asesinato brutal, violada y enterrada, por un vecino, Susie observa desde el cielo la vida de su familia y compañeros de escuela; los rumores acerca de su asesinato. Con el paso del tiempo, ve cómo la relación de sus padres se deteriora, cómo su hermana intenta sobrevivir y cómo su hermano pequeño intenta entender el significado de 'se ha ido'. En el cielo puede conseguir todo lo que desea, sin embargo, no puede conseguir lo que más le importa: volver a la tierra con sus seres queridos.</dc:description>
+        <dc:publisher>DEBOLSILLO</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307273703</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2009-12-07T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Desde mi cielo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Desde mi cielo - Alice Sebold.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">482</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a031f95-1063-4397-a269-3ba6bc870c9c</dc:identifier>
+    <dc:title>Más que humano</dc:title>
+        <dc:creator opf:file-as="Sturgeon, Theodore" opf:role="aut">Theodore Sturgeon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1986-06-14T16:00:00+00:00</dc:date>
+        <dc:description>La evolución no ha alcanzado su punto culminante en el “homo sapiens”, continúa y es posible que los primeros ejemplares de esta nueva especie ya estén entre nosotros. ¿Cuáles serán sus características, sus habilidades que los distingan del hombre actual? Del mismo modo, podemos preguntarnos cuáles serán sus limitaciones y sus miserias. Un mundo nuevo espera ser construido por ellos y descubierto por nosotros. ¿Podremos descubrirlo? ¿Nos dejarán entrever el futuro? ¿Cómo nos relacionaremos con ellos? Todas estas preguntas motivan la lectura de una obra que especula acerca de la escala evolutiva. Dicha especulación no se hace en un tono grandilocuente y pomposo, sino que nos encontramos con numerosos pasajes cargados de patetismo, que hacen de este libro algo entrañable para muchísimos aficionados alrededor del mundo.
+
+La novela está dividida en tres partes: “El idiota fabuloso”, “El bebé tiene tres años” y “Moral”. La primera de ellas comienza con un marcado tono lírico, muy bello por cierto, que hace pensar más en la fantasía que en la ciencia-ficción, la segunda se sirve muchísimo del psicoanálisis para la narración, aunque este método es rastreable en todo el relato, y es recién en la tercera parte que nos encontramos con los elementos que hacen catalogar a Más que humano como ciencia-ficción, además de darnos un mínimo argumento cercano al policial del cual se sirve Sturgeon para finalizar la novela que le valió un premio Fantasy en 1954.</dc:description>
+        <dc:publisher>Minotauro</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788445070635</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-10-20T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Más que humano" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Mas que humano - Theodore Sturgeon.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

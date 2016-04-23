@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2709</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8243a069-bd5e-408b-8b95-1f924a0298f7</dc:identifier>
+    <dc:title>Contra el viento del norte</dc:title>
+        <dc:creator opf:file-as="Glattauer, Daniel" opf:role="aut">Daniel Glattauer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-26T16:00:00+00:00</dc:date>
+        <dc:description>En la vida diaria ¿hay lugar más seguro para los deseos secretos que el mundo virtual? Leo Leike recibe mensajes por error de una desconocida llamada Emmi. Como es educado, le contesta y como él la atrae, ella escribe de nuevo… Así, poco a poco, se entabla un diálogo en el que no hay marcha atrás. Parece solo una cuestión de tiempo que se conozcan en persona, pero la idea los altera tan profundamente que prefieren posponer el encuentro. Además, Emmi está felizmente casada y Leo aún está saliendo de una relación fallida. Y, en cualquier caso ¿sobrevivirían las emociones enviadas, recibidas y guardadas un encuentro «real»? Y en ese caso, ¿qué hacer?
+
+Un libro que, una vez abierto, no puedes volver a cerrar. Una trama audaz y brillante, llena de inteligencia, humor y ternura.
+Unos protagonistas inolvidables que empatizan inmediatamente con el lector.</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788420406107</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-26T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Contra el viento del norte" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Contra el viento del norte - Daniel Glattauer.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2211</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f3f4b99-48e7-4b63-861c-53f892089350</dc:identifier>
+    <dc:title>Contra el viento</dc:title>
+        <dc:creator opf:file-as="Caso, Ángeles" opf:role="aut">Ángeles Caso</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-14T14:00:00+00:00</dc:date>
+        <dc:description>REVISIÓN EDITORIAL:
+
+Gandora del Premio Planeta en Novela 2009.    La novela es un reconocimiento a las mujeres invisibles del siglo XXI.    La niÃ±a Sao, nacida para trabajar, como todas en su aldea, decide construirse una vida mejor en Europa. Tras aprender a levantarse una y otra vez encontrara una amistad nueva con una mujer espanola que se ahoga en sus inseguridades. Sao le devolvera las ganas de vivir y juntas construiran un vinculo indestructible, que las hara fuertes.    Conmovedora historia de amistad entre dos mujeres que viven en mundos opuestos narrada con la belleza de la realidad. Una novela llena de sensibilidad para lectores avidos de aventura y emocion.</dc:description>
+        <dc:publisher>Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408089230</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2009-12-27T14:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Contra el viento" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Contra el viento - Angeles Caso.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

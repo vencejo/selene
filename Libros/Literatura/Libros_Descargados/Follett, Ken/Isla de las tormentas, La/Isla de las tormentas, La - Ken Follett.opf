@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1602</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c84d1051-539b-49b7-a7bd-9b949eb46034</dc:identifier>
+    <dc:title>Isla de las tormentas, La</dc:title>
+        <dc:creator opf:file-as="Follett, Ken" opf:role="aut">Ken Follett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-10T16:00:00+00:00</dc:date>
+        <dc:description>En el año de 1944, en plena Segunda Guerra Mundial, los aliados transmiten a los alemanes a través de la radio y espías dobles información falsa para que crean que el desembarco será en Calais en vez de Normandía. Pero un espía alemán, Henry Faber, descubre el plan y roba una barca para reunirse con el submarino que lo llevará a casa, pero una tormenta lo hace naufragar y llega a la Isla de las Tormentas, habitada solamente por un viejo y un infeliz matrimonio: Lucy, su hijo Jo y su amargado marido David, que está en silla de ruedas.</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="2008-10-10T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Isla de las tormentas, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Isla de las tormentas, La - Ken Follett.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2706</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a8cbb7c-4f2c-4935-9662-0f53e1340658</dc:identifier>
+    <dc:title>La Púrpura Negra</dc:title>
+        <dc:creator opf:file-as="Murillo, Luis" opf:role="aut">Luis Murillo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-24T16:00:00+00:00</dc:date>
+        <dc:description>En el siglo XII San Malaquías de Irlanda formuló las Profecías de los Papas. La última anuncia el fin de los tiempos... ¿Se cumplirá finalmente la más terrible de las profecías del santo irlandés?
+
+    Daniel Foster no pasa por un gran momento. Su mujer lo ha abandonado y un reportaje brutalmente honesto sobre el 11-M lo ha dejado sin empleo. Sin embargo siempre hay una nueva oportunidad. Una editora catalana, alertada confidencialmente sobre el grave estado de salud del sucesor del papa Benedicto XVI, le encarga un libro de investigación sobre los cónclaves cardenalicios reunidos para elegir al nuevo Sumo Pontífice. Enemigo de los métodos convencionales, Dan burla los sistemas de seguridad del Vaticano, se infiltra en el cónclave secreto y obtiene el nombre de quién será investido como el obispo de Roma. Pero Dan descubre algo más. Un misterio cuya revelación haría temblar a toda la cristiandad. Una temeraria investigación periodística, una oscura y peligrosa confabulación palaciega y un amor inconfesable y prohibido dan forma a una carrera desenfrenada por escapar del trágico destino trazado por San Malaquías en sus famosas profecías.
+
+    "La Púrpura Negra es un thriller religioso fascinante y cautivador. Un relato intenso que atrapará al lector en las vertiginosas redes de una aventura que guarda en su seno una conmovedora historia de amor."</dc:description>
+        <dc:publisher>ViaMagna</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788492431458</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-24T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La Púrpura Negra" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La Purpura Negra - Luis Murillo.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

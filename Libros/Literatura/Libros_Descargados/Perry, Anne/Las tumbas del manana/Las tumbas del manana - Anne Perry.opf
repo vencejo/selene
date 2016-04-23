@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2754</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">edf2f8e0-6f60-4c23-b1bf-7c7865cc6527</dc:identifier>
+    <dc:title>Las tumbas del mañana</dc:title>
+        <dc:creator opf:file-as="Perry, Anne" opf:role="aut">Anne Perry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-09-09T16:00:00+00:00</dc:date>
+        <dc:description>Cambridge, Inglaterra, semanas previas al estallido de la Primera Guerra  Mundial. Joseph  Reavley recibe la visita inesperada de su hermano Matthew, quien le anuncia la fatídica muerte de sus padres en un accidente de tráfico. A su dolor se suma el desasosiego: la noche anterior a los hechos, John Reavley había revelado a su hijo Matthew que estaba en posesión de un documento que iba a cambiar la historia de Inglaterra para siempre. Matthew y él habían decidido encontrarse en Londres para discutir sobre el tema, pero nunca tuvieron oportunidad de hacerlo. Joseph –desde su cátedra de Cambridge- y Matthew —desde su cargo en el Servicio Secreto de Inteligencia británico—   intentarán averiguar qué encerraba ese documento y cuáles fueron los motivos que tenía la persona que por preservar el contenido del mismo había decidido eliminar al matrimonio Reavley.
+   
+   La tragedia familiar coincide con otra a nivel mundial: el asesinato del archiduque de Austria enSarajevo. El atentado devela las fricciones existentes entre las distintas naciones europeas, las cuales van tomando posiciones progresivamente y preparándose para un eventual enfrentamiento. La guerra se palpa en el ambiente.
+
+   En Cambridge, las acaloradas discusiones acerca del conflicto acaban de ser silenciadas por un inquietante suceso: Sebastian Allard, uno de los alumnos más brillantes de su promoción, ha sido hallado muerto en las dependencias estudiantiles.
+
+   Con la veracidad y detalle que caracterizan sus novelas de corte victoriano, Anne Perry recrea el ambiente prebélico europeo, a la vez que nos introduce en la vida de los Reavley, quienes protagonizarán la serie de novelas en torno a la Primera Guerra Mundial que se inicia con Las tumbas del mañana.</dc:description>
+        <dc:publisher>EDICIONES B, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466611145</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-09T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Las tumbas del mañana" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Las tumbas del manana - Anne Perry.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

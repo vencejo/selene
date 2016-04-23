@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">459</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d4649df-fd33-4544-b8b3-a076a7eecb50</dc:identifier>
+    <dc:title>Mindscan</dc:title>
+        <dc:creator opf:file-as="Sawyer, Robert J." opf:role="aut">Robert J. Sawyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-02-01T16:00:00+00:00</dc:date>
+        <dc:description>Jake Sullivan consigue engañar a la muerte. Amenazado por una cruel y fatal enfermedad circulatoria, logra copiar su conciencia en un nuevo cuerpo androide que le ha de proporcionar la inmortalidad. La nueva vida parece sin problemas hasta que se plantea un problema de derechos legales y morales con la personalidad... ¿de quién? ¿Qué le ocurre a la persona biológica original cuando el contenido de su mente se ha transferido a un cuerpo androide? Personas y copias: ¿quién debe ser el titular de los derechos legales antes propios de un único individuo? Un drama jurídico, personal, y una interesante especulación en torno a un futuro tal vez no demasiado lejano...</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466630795</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2010-02-21T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Mindscan" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Mindscan - Robert J. Sawyer.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

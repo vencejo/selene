@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2678</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">615f9557-2b4a-4ffc-bd06-bd93391fed00</dc:identifier>
+    <dc:title>El Instante Aleph</dc:title>
+        <dc:creator opf:file-as="Egan, Greg" opf:role="aut">Greg Egan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-08-14T16:00:00+00:00</dc:date>
+        <dc:description>Andrew Worth, periodista especializado en temas de divulgación científica, rechaza investigar una nueva y misteriosa enfermedad mental, la Angustia; en su lugar acepta un reportaje en la isla artificial de Anarkia, donde se celebra el Congreso del Centenario de Einstein y en el que se presentan a debate varias teorías candidatas a la TOE, la Teoría del Todo soñada por los físicos. Pero allí descubre una trama que amenaza la vida de los físicos más eminentes y se ve abocado a una carrera contrarreloj mientras se acerca el Instante Aleph, una catástrofe de dimensiones cósmicas que se extenderá por el tiempo hasta alcanzar el mismísimo Big Bang.
+
+El Instante Aleph es una novela rigurosa que ataca con una valentía singular un tema que rara vez ha sido abordado por la ciencia ficción: la posibilidad de que se llegue a formular la TOE definitiva. Pero además, Greg Egan explora diversas y fascinantes premisas metafísicas y durante el trayecto elabora una de las novelas más complejas, personales y sugerentes que ha dado el género en toda su historia.</dc:description>
+        <dc:publisher>Gigamesh</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788493066376</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-11T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Instante Aleph" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Instante Aleph - Greg Egan.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

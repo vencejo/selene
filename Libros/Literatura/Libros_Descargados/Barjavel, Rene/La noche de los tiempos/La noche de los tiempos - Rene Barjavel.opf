@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2431</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73170aa0-f9ce-4472-ad56-926f36d84219</dc:identifier>
+    <dc:title>La noche de los tiempos</dc:title>
+        <dc:creator opf:file-as="Barjavel, René" opf:role="aut">René Barjavel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1979-06-14T16:00:00+00:00</dc:date>
+        <dc:description>En un gran paisaje polar de tonos pastel, se mueven unas manchas de colores vivos: son los miembros de una misión de las Expediciones Polares de Francia que deben efectuar un trabajo bajo un glaciar. Allí, el espesor del hielo alcanza más de mil metros y sus profundas grietas datan de 900.000 años. Sin embargo, se produce un extraño fenómeno: los aparatos registran una señal proveniente del suelo. Ya no cabe duda alguna: ¡hay una emisora bajo el hielo!&lt;br /&gt;
+La noticia estalla como una bomba. Títulos de la prensa internacional: "El misterio del polo", "Un corazón late bajo el hielo", "Una ciudad bajo el hielo", "La Unesco quiere derretir el Polo Sur", etc.&lt;br /&gt;
+La noche de los tiempos es a la vez un reportaje, una epopeya y un apasionado canto de amor. El presente y el pasado se entremezclan, afrontan sus esperanzas y sus temores y arriesgan el destino del mundo. Atravesando el drama universal como un trazo de fuego, el destino de Elea y Paikan los lleva directamente hacia la leyenda de los amantes dichosos y malditos.</dc:description>
+        <dc:publisher>Ultramar</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788473861335</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-13T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La noche de los tiempos" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La noche de los tiempos - Rene Barjavel.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

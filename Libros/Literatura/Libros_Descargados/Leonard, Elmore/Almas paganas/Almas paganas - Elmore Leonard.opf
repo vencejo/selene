@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1146</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8fc8bac3-62d0-46d0-8538-b27b0090b9ad</dc:identifier>
+    <dc:title>Almas paganas</dc:title>
+        <dc:creator opf:file-as="Leonard, Elmore" opf:role="aut">Elmore Leonard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-07-14T16:00:00+00:00</dc:date>
+        <dc:description>Terry Dunn no es un cura cualquiera. Su parroquia está en los territorios en guerra de Ruanda, su país de adopción desde hace cinco años. Tiene un pasado turbio y un futuro incierto: las circunstancias le obligan a volver a su Detroit natal, de donde huyó por problemas con la justicia. Sin embargo, ahora sus intenciones son otras: recaudar dinero para los niños huérfanos de Ruanda. Y está dispuesto a todo por esta causa, incluso a enfrentarse a la mafia más peligrosa de la ciudad.
+Tampoco puede decirse que Debbie Dewey sea una chica convencional. Ex convicta y aspirante a artista, también está embarcada en una misión: vengarse del tipo que le timó 67.000 dólares y por cuya culpa acabó en prisión. Quizás trabajando a la par, el padre Terry y Debbie consigan cumplir sus propósitos... y a la vez pasar un buen rato.
+Con diálogos ingeniosos, ironía aplastante y un original elenco de personajes -desde un cura insólito hasta un gángster sentimental, pasando por el matón más estúpido de Detroit- Almas paganas es una novela al más puro estilo Leonard.</dc:description>
+        <dc:publisher>Ediciones B Grupo Zeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466602334</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-07-26T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Almas paganas" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Almas paganas - Elmore Leonard.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1656</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7984744-bc5c-44e6-9890-fa874ca1b0e9</dc:identifier>
+    <dc:title>Los Tejedores de Cabellos</dc:title>
+        <dc:creator opf:file-as="Eschbach, Andreas" opf:role="aut">Andreas Eschbach</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-14T16:00:00+00:00</dc:date>
+        <dc:description>Una epopeya que abarca galaxias y miles de años de historia. 
+En un mundo semidesértico perdido en una galaxia olvidada, toda la vida gira en torno al hilado de alfombras de cabellos. Gracias al dinero que su padre antes que él obtuvo por la venta de un tapiz, cada tejedor abre su taller y elabora, a lo largo de toda su vida, una alfombra espléndida con los cabellos de sus esposas e hijas. Tras venderla para entregar a su vez el dinero a su único hijo, la alfombra se une a inmensas caravanas que convergen en el espaciopuerto, desde donde parten fastuosos bajeles estelares rumbo, dicen, al palacio del divino Emperador. Pero, ¿cuál es el propósito que lleva al sacrificio de tantas vidas para elaborar alfombras de cabellos? ¿Y si fueran ciertos los rumores de que el Emperador ha sido derrocado? 
+Andreas Eschbach ha dibujado un fresco impresionante que sigue la pista del misterio de las alfombras de cabellos desde los mundos periféricos hasta la corte imperial y más allá. Los tejedores de cabellos, justamente famosa en Europa, ha obtenido el Grand Prix de l'Imaginaire y ha sido traducida al francés, italiano, polaco y checo. 
+"Con un estilo excelente y una narración soberbia, Eschbach cuenta una fábula moderna, una fábula espeluznante sobre el poder a escala universal que no se olvida una vez leída." 
+Valerio Evangelisti en Galaxies 
+"Una novela de título insólito que esconde múltiples atractivos." 
+Jacques Baudou en Le Monde 
+"Con una sola novela, el joven escritor alemán Andreas Eschbach ha cambiado para siempre el paisaje de la ciencia-ficción europea." 
+Olivier Delcroix en Le Figaro 
+"La ópera prima Los tejedores de cabellos es un relato inolvidable, la sombría y poética historia de un pueblo atrapado en la grotesca adoración a un lejano Dios Emperador." 
+Amazon.de
+
+Grand Prix de l'Imaginaire 2001</dc:description>
+        <dc:publisher>Bibliópolis</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788496173040</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-05-11T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Los Tejedores de Cabellos" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Los Tejedores de Cabellos - Andreas Eschbach.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

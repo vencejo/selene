@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2c0d1aee-37da-4688-966f-70e14af2d522</dc:identifier>
+        <dc:title>Contra el viento del norte</dc:title>
+        <dc:creator opf:file-as="Glattauer, Daniel" opf:role="aut">Daniel Glattauer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.28) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-18T22:00:00+00:00</dc:date>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788420406107</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="2010-11-23T17:52:39.169000+00:00" name="calibre:timestamp"/>
+        <meta content="Contra el viento del norte" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

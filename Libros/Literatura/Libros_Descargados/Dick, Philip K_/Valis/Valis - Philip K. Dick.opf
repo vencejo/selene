@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1211</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">62f87dfc-631a-49b8-bfeb-9c88b6913857</dc:identifier>
+    <dc:title>Valis</dc:title>
+        <dc:creator opf:file-as="Dick, Philip K." opf:role="aut">Philip K. Dick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1981-08-09T16:00:00+00:00</dc:date>
+        <dc:description>Valis es una historia de detectives en que Amacaballo Fat es el loco héroe que busca desesperadamente a Dios, y Dios un ser desaparecido y responsable del crimen definitivo. Esta deslumbrante narración trata de teología, de comunicaciones extraterrestres y de las conspiraciones que amenazan a la humanidad en un mundo en que la realidad se revela a través de un rayo láser de color rosa. En definitiva, Dick y su alter ego abren su mirada al porqué de nuestra existencia, a la presunta benevolencia de Dios y al futuro del universo.</dc:description>
+        <dc:publisher>Ultramar Editores S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788445074466</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-08-09T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Valis" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Valis - Philip K. Dick.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

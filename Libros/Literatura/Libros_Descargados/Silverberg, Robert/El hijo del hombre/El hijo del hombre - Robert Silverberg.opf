@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">394</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3c7520a-22af-426e-a745-80a324ea6161</dc:identifier>
+    <dc:title>El hijo del hombre</dc:title>
+        <dc:creator opf:file-as="Silverberg, Robert" opf:role="aut">Robert Silverberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-12T16:00:00+00:00</dc:date>
+        <dc:description>Clay, el protagonista, despierta en un futuro muy lejano donde los descendientes del hombre adoptan formas de vida muy diversas y alucinantes. En su entrada a ese tiempo es acogido por Hammer, una criatura que tanto puede adoptar formas sexuadas como asexuadas, y también macho y hembra, y en cuya compañía vive asombrosas experiencias de percepción y explora todas las posibilidades de la sexualidad.ROBERT SILVERBERG, ganador de dos premios HUGO y tres NEBULA, logra con esta novela uno de esos raros logros artísticos: una convergencia casi perfecta de ambición y efecto. En el momento de su aparición en Estados Unidos (1971) fue considerada por la crítica especializada como una de las mejores novelas del año, aunque se otorgó el NEBULA a otra de sus novelas, TIEMPO DE CAMBIOS.</dc:description>
+        <dc:publisher>Ediciones Martínez Roca</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-04-04T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El hijo del hombre" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El hijo del hombre - Robert Silverberg.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

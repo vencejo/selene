@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2152</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">529a1b1d-a30b-466e-a057-3413369f300d</dc:identifier>
+    <dc:title>Los crímenes del número primo</dc:title>
+        <dc:creator opf:file-as="Calderón Cuadrado, Reyes" opf:role="aut">Reyes Calderón Cuadrado</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-14T16:00:00+00:00</dc:date>
+        <dc:description>Un abad y el arzobispo de Pamplona aparecen muertos en una ermita recóndita a unos kilómetros de la ciudad junto a un relicario y una gran cantidad de dinero. A los dos les falta un dedo y tienen las vestiduras rasgadas.
+La jueza MacHor y el inspector Iturri empiezan a investigar en el monasterio de Leyre este complicado caso que, según parece, empieza con el robo de un relicario, de unas hostias consagradas (el cuerpo de Cristo) y la desaparición no informada del abad.
+Todo parece indicar que el asesino está retando a la policía con un juego terrible que responde a algún tipo de regla matemática...</dc:description>
+        <dc:publisher>RBA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788498673876</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Iturri y MacHor" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2010-04-11T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Los crímenes del número primo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Los crimenes del numero primo - Reyes Calderon Cuadrado.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

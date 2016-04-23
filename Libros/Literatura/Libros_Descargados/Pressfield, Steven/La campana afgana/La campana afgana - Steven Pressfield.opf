@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2762</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2be94584-53e8-4eb1-93a8-58cca1a7822d</dc:identifier>
+    <dc:title>La campaña afgana</dc:title>
+        <dc:creator opf:file-as="Pressfield, Steven" opf:role="aut">Steven Pressfield</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-14T16:00:00+00:00</dc:date>
+        <dc:description>Una novela sobre la campaña de Afganistán de Alejandro Magno.
+
+Hace 2300 años el ejército invicto de Alejandro Magno invadió la tierra natal de las fieras y orgullosas tribus afganas. Esta campaña, que debía durar tres meses, se prolongó por tres largos años. Ésta es la historia de uno de esos soldados...
+Matías, el más joven de tres hermanos y el más ansioso por probarse a sí mismo, se presenta voluntario para unirse a la ambiciosa expedición al indómito país que ahora conocemos como Afganistán. Pero tan pronto como cruza la frontera, Matías empieza a darse cuenta de que los macedonios se enfrentan a un tipo de enemigo al que no están acostumbrados. Para sobrevivir, los hombres de Alejandro tendrán que adaptarse a los métodos de un despiadado adversario que hace uso de tácticas basadas en el terror y en la insurgencia pero, ¿a qué precio? Matías y sus compañeros sufrirán un rito de iniciación marcado por el miedo, la euforia, el horror y la vergüenza.
+En un tono ágil y trepidante, la campaña afgana demuestra una vez más la profunda comprensión de Pressfield acerca de las esperanzas y desesperaciones de los hombres en las batallas.
+
+"Pressfield devuelve a la vida a Alejandro Magno con la misma fuerza y habilidad con que conjuró a los héroes de las Termópilas en "Las puertas de fuego". Manda Scott.</dc:description>
+        <dc:publisher>Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408074274</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-10T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La campaña afgana" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La campana afgana - Steven Pressfield.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

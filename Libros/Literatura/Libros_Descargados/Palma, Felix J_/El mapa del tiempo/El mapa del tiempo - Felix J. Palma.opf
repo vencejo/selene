@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">806</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3073b062-b8d6-4be8-845c-14ce83c8de50</dc:identifier>
+    <dc:title>El mapa del tiempo</dc:title>
+        <dc:creator opf:file-as="Palma, Félix J." opf:role="aut">Félix J. Palma</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-14T16:00:00+00:00</dc:date>
+        <dc:description>Críticas Literarias Regina Iraelunes, 08 de diciembre de 2008El Mapa del Tiempo, de Félix J. PalmaPREMIO ATENEO DE NOVELA 2008El Mapa del TiempoFelix J. PalmaEditorial Algaida628 páginasArgumento:Londres, 1896. La empresa de viajes Temporales Murray ofrece al público la posibilidad de viajar al año 2000. Solo el escritor Wells, autor de La máquina del Tiempo, duda de la posibilidad real de tal hecho. Pero el joven y enamorado Harrington, desea viajar al pasado para evitar un crimen, mientras la inadaptada Claire sueña por su parte con el futuro y un amor romántico.Comentario:El Mapa del Tiempo es una novela que mezcla varios subgéneros literarios con gran acierto, de una forma fluida. Ese mismo eclecticismo permite hablar de ella como obra de aventuras, de misterio, ciencia ficción, fantasía, romántica, histórica incluso, tomando como guía los cánones del folletín decimonónico.Lo primero que destaca nada más abrirla, ya en la primera página, es lo bien redactada que está. Esto que debería ser la norma, se convierte en algo a reseñar en los tiempos que corren donde se observa cierto descuido por parte de muchos autores en los elementos formales de la escritura. Palma conjuga de un modo magistral una prosa literaria, de frases elaboradas y de una gran calidad, con una historia muy interesante y ciertamente ambiciosa en sus pretensiones. Nos deslumbra haciendo una especie de compendio de todos los iconos literarios e históricos del XIX: Wells, Verne, la fe ciega en el progreso de la ciencia y en las maravillas que vendrían, Jack el Destripador, Stoker, El hombre elefante, El Hombre Invisible, la máquina del tiempo del propio Wells. La ambientación es extraordinaria, y además, está introducida con muy buen tino, aprovechando las circunstancias que la propia trama provoca. También me ha gustado que no nos lo explica todo como si se dirigiera a una persona del siglo XXI. Palma nos hace creer que estamos en el siglo XIX y da la información y el punto de vista que tendrían gentes de esa época. Huye del didactismo en el apartado histórico, lo cual demuestra que es un autor con recursos que busca un resultado artístico por encima de todo. Como diría él, el bestseller no tiene por qué estar reñido con la calidad literaria.</dc:description>
+        <dc:publisher>Algaida</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788498771596</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-04-04T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El mapa del tiempo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El mapa del tiempo - Felix J. Palma.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

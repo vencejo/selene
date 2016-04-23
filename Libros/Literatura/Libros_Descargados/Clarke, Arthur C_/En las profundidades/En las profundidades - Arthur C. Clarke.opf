@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2688</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c291327a-47f3-4d31-81f7-053bd2f17115</dc:identifier>
+    <dc:title>En las profundidades</dc:title>
+        <dc:creator opf:file-as="Clarke, Arthur C." opf:role="aut">Arthur C. Clarke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1989-08-14T16:00:00+00:00</dc:date>
+        <dc:description>Tras una terrible experiencia en el espacio exterior, un ingeniero de astronave se encuentra sin motivo para seguir existiendo, pues siente tal pavor por el vacío interplanetario que jamás podrá volver a tripular una nave. Separado permanentemente de su esposa e hijos, que se hallan en Marte, se ve frente a un terrible futuro en la Tierra... a menos que la psiquiatría le ayude a encontrar un nuevo destino en las profundidades del océano.
+En esta obra plena de excitación y suspense, el autor de 2001 y Cita con Rama nos da una nueva muestra de su maestría al pintarnos un fascinante mundo bajo los mares en un futuro en el que los habitantes de los mismos trabajan para ofrecer a la Humanidad las riquezas del océano.</dc:description>
+        <dc:publisher>Ultramar</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788473865555</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-18T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="En las profundidades" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="En las profundidades - Arthur C. Clarke.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

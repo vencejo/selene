@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">397</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">428630fb-a00b-409e-b04e-587f1086bbe8</dc:identifier>
+    <dc:title>La torre de cristal</dc:title>
+        <dc:creator opf:file-as="Silverberg, Robert" opf:role="aut">Robert Silverberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1970-07-15T16:00:00+00:00</dc:date>
+        <dc:description>Corre el siglo XXIII. La sociedad, tecnológicamente muy avanzada, ha explorado el espacio exterior, pero no se ha encontrado vida inteligente. Ahora, desde una estrella en Acuario, llega una señal persistente. Hay una voz en el vacío del espacio... y la obsesión de Simeon Krug es responder a ella. Krug es un agresivo empresario muy astuto amasando dinero, y ha usado todo lo que posee para construir una torre que se alza en el Ártico canadiense. Cuando esté terminada, apuntará a Acuario y él podrá establecer contacto. En la torre trabaja una raza de androides que Krug, inventor incansable, ha fabricado. Y estos lo idolatran. Pero Krug es un soñador excéntrico, y solo piensa en terminar la torre y en su momento de gloria, sin saber que es Dios para sus androides... ¡y que un Dios nunca debe fallarles a sus criaturas!</dc:description>
+        <dc:publisher>Martínez Roca, Super Ficción nº115</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788427014077</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-07-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La torre de cristal" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La torre de cristal - Robert Silverberg.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

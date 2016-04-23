@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1692</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">93d8bcf8-2547-4f91-851d-480eb3b87d07</dc:identifier>
+    <dc:title>Catedral del mar, La</dc:title>
+        <dc:creator opf:file-as="Falcones, Ildefonso" opf:role="aut">Ildefonso Falcones</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-13T16:00:00+00:00</dc:date>
+        <dc:description>Año 1320, en Navarcles, en la masia prospera de Bernat Estanyol se celebra la boda de este con Francesca. Sin embargo, la llegada del senor feudal, Llorenc de Bellera, reclamando su derecho de pernada sobre la joven, sera el principio de una serie de calamidades para los Estanyol: Francesca jamas perdonara a su marido que no haya evitado el abuso. El senor De Bellera le requiere para servir como nodriza de su hijo recien nacido, hasta el punto, de descuidar a su propio bebe, Arnau. Bernat decide raptar a su hijo y huir a Barcelona para conseguir la ciudadania que lo acredite como hombre libre y no siervo de Bellera. Acude a su hermana, casada con un rico ceramista, Grau Puig, que a reganadientes acepta ayudarlos. Bernat trabaja como obrero mientras Arnau se cria con sus primos primero y luego con su padre en el taller. Pasa los dias correteando por la ciudad y conoce a Joan, un nino de su edad cuya madre ha sido emparedada por adultera. Ambos ninos, hermanados y complices, se sienten fascinados por la construccion de la iglesia de Santa Maria del Mar y se convierten en devotos de la virgen en la cual encuentran el consuelo de sus madres ausentes. Se hacen amigos de los bastaixos, los estibadores que acarrean desinteresadamente pesadas piedras para la construccion de la Iglesia. Hay hambruna en Barcelona, y Bernat es expulsado de su trabajo por meterse en revueltas callejeras y acaba siendo colgado y expuesto en plaza publica ante la desesperacion de los dos ninos. Por la noche Arnau con la complicidad de Joan prende fuego al cadaver de su padre y decide entrar a trabajar con los bastaixos, colaborando en la construccion de la iglesia de la virgen a quien venera. Joan entretantoestudia para dominico.. Cuando la guerra estalla, Arnau no duda en prestar ayuda al rey Pedro III bloqueando el paso al enemigo, el rey Pedro Cruel de Castilla, con sus barcos mercantes, lo que le vale el reconocimiento real, una baronia y la mano de la prohijada del rey, Leonor. Este matrimonio sera el principio de su desgracia: una mujer que lo desea ardientemente y a quien el no desea, la joven y bella Mar enamorada de el y tal vez el de ella, Joan convertido en un sacerdote de la Inquisicion y que reprueba su vida, una conspiracion de los nobles que lo condenan por favorecer a los campesinos y entre los que se encuentra el hijo de Llorenc de Bellera y sus primos los Puig. Una conspiracion que culmina cuando Arnau es denunciado a la Santa Inquisicion por su mujer por no cumplir con sus deberes conyugales y por supuestos amores prohibidos con una judia. Todo parece conspirar contra Arnau, y mientras la construccion de Santa Maria del Mar sigue prosperando, su vida parece desmoronarse...Extraordinario retrato de la epoca medieval en Cataluna, la veneracion a la Virgen del Mar y la construccion de la Iglesia, de los gremios y barrios de la ciudad de Barcelona, de las luchas de clases entre obreros, campesinos y senores feudales, la xenofobia contra la juderia, el peso de la Inquisicion. Historia, intrigas sociales, venganza, guerra, conspiracion y amor en un fresco de epoca que solo tiene una comparacion: "Los pilares de la tierra."</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307376657</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2009-05-13T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Catedral del mar, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Catedral del mar, La - Ildefonso Falcones.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

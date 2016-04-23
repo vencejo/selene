@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">473</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b3ded96e-9e51-445c-ad04-f0e765131157</dc:identifier>
+    <dc:title>Un Planeta Llamado Traición</dc:title>
+        <dc:creator opf:file-as="Card, Orson Scott" opf:role="aut">Orson Scott Card</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-15T16:00:00+00:00</dc:date>
+        <dc:description>El hierro se ha convertido en el centro alrededor del que giran todos los pueblos del planeta Tración, pues es la única esperanza de poder escapar construyendo una nave espacial. El hilo conductor de la novela, Lanik Mueller, perteneciente a una familia que trafica con miembros humanos que pueden hacer regenerar a voluntad, emprende un viaje iniciático por todo el planeta que le llevará a conocer a todas las familias que lo habitan: los Nkumai, descendientes de un físico; los Schwart, de un geólogo; los Allison, de un teólogo... y a concebir un ambicioso plan para aunar esfuerzos y poner fin así a su cautiverio.</dc:description>
+        <dc:publisher>EDICIONES B, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788440660558</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Un Planeta Llamado Traición" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Un Planeta Llamado Traicion - Orson Scott Card.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

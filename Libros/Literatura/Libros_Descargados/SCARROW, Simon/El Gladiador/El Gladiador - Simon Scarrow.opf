@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2733</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">70799a1a-22a3-486a-8921-decba535a43b</dc:identifier>
+    <dc:title>El Gladiador</dc:title>
+        <dc:creator opf:file-as="SCARROW, Simon" opf:role="aut">Simon Scarrow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-28T16:00:00+00:00</dc:date>
+        <dc:description>Tras sus peripecias por Palmira, Macro y Cato regresan por mar a Roma cuando una violentísima tormenta los lanza a un escenario dominado por el caos. Creta acaba de ser víctima de un terremoto devastador que ha acabado con casi toda autoridad romana, y los
+habitantes de la isla intentan sobrevivir como pueden en un ambiente dominado por la miseria y la anarquía. Cuando Macro y Cato intenten tomar las riendas de la situación e imponer un mínimo control, descubrirán que el hambre, el riesgo de epidemias y las carencias de personal sanitario suficiente son sólo males menores.
+Un viejo amigo de los dos oficiales romanos, Ajax, ha encontrado en el desorden creado por el terremoto una oportunidad excelente para liderar un levantamiento de esclavos.</dc:description>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">8435062114</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>novela histórica</dc:subject>
+        <meta content="Quinto Licinio Cato" name="calibre:series"/>
+        <meta content="9" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-05T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Gladiador" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Gladiador - Simon Scarrow.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

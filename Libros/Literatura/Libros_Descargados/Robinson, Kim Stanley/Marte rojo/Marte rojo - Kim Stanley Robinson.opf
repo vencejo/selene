@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2693</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e97334ae-381d-4e66-9d50-ab4a5836394e</dc:identifier>
+    <dc:title>Marte rojo</dc:title>
+        <dc:creator opf:file-as="Robinson, Kim Stanley" opf:role="aut">Kim Stanley Robinson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-14T16:00:00+00:00</dc:date>
+        <dc:description>Siglo XXI. Durante eones, las tormentas de arena han barrido el estéril y desolado paisaje del planeta rojo. Ahora, en el año 2026, cien colonos, cincuenta mujeres y cincuenta hombres, viajan a Marte para dominar ese clima hostil. Tienen como misión la terraformación de Marte, y como lema «si el hombre no se puede adaptar a Marte, hay que adaptar Marte al hombre». Espejos en órbita reflejarán la luz sobre la superficie del planeta, en las capas polares se esparcirá un polvo negro que fundirá el hielo y grandes túneles, de kilómetros de profundidad, atravesarán el manto marciano para dar salida a gases calientes. En este escenario épico, habrá amistades y rivalidades, pues algunos lucharán hasta la muerte para evitar que el planeta rojo cambie.</dc:description>
+        <dc:publisher>Minotauro</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788445076811</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="Trilogía marciana" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-19T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Marte rojo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Marte rojo - Kim Stanley Robinson.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

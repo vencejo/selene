@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2684</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d11d3b57-560f-4fdd-a123-28093a014398</dc:identifier>
+    <dc:title>El rey de Les Halles</dc:title>
+        <dc:creator opf:file-as="Benzoni, Juliette" opf:role="aut">Juliette Benzoni</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-17T16:00:00+00:00</dc:date>
+        <dc:description>Una niña de cuatro años vaga por el bosque de Anet. Su nombre es SyIvie de rey de Valaines y su familia acaba de ser asesinada, tal vez por orden del cardenal Richelieu para recuperar eiertas cartas comprometedoras.
+Un muchacho de diez años la recoge y la pone a salvo. Se Ilama François de Borbón Vendôme, príncipe de Martigues.
+Criada entre los Vendóme, Sylvie se convertirá en doncella de honor de la reina Ana de Austria y será amiga de Mdemoiselle de Haute­fort, eon quien campartirá el peligroso secreto del nacimiento del Futuro rey. Ella misma, a los quince años, habrá de enfrentarse a los temibles poderes Luis XIII, del cardenal Richelieu y del misteriosó asesino de su madre.
+Obligada a casarse con el abúlico y complaciente La Ferriére, y tras un encuentro terrible con el hombre al que llaman el «verdugo del cardenal, logra escapar y como en otro tiempo, encuentra a François en su camino.
+Pero en adelante será preciso volver a ocultarse, ya que los enemi­gos de la joven no descansan. François, por su parte, piensa única­mente en el odio que le inspira Mazaríno, un odio que hará de él uno de los jefes de la resistencia, conocida por el pueblo entusiasta como el rey de Les Halles ».
+Juliette Benzoni es una de las escritoras más populares de Francia y autora de una cincuentena de libros. Se han vendido alrededor de cincuenta millones de ejemplares de ellos, traducidos a casi todos los idiomas.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788466619455</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Secreto de estado" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-17T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El rey de Les Halles" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El rey de Les Halles - Juliette Benzoni.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

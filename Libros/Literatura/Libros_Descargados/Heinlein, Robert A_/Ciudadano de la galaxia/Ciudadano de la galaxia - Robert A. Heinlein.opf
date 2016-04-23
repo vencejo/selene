@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1365</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1b22f2e8-991b-4c6f-ab00-7f063faeff58</dc:identifier>
+    <dc:title>Ciudadano de la galaxia</dc:title>
+        <dc:creator opf:file-as="Heinlein, Robert A." opf:role="aut">Robert A. Heinlein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1964-06-14T16:00:00+00:00</dc:date>
+        <dc:description>Thorby, el protagonista, es al principio un niño aterrado vendido en una subasta de esclavos en el tiránico Imperio de los Nueve Mundos. Más adelante, su comprador resultará ser agente de un cuerpo de policías y espías galácticos. La relación con su nuevo amo se traducirá en un encargo curioso: una misión delicada que llevará a Thorby a compartir las aventuras de los Libre Cambistas -una especie de zíngaros del espacio- y le involucrará de modo progresivo en su propia lucha por obtener el reconocimiento como ciudadano de la galaxia.</dc:description>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788435000451</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2008-05-30T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Ciudadano de la galaxia" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Ciudadano de la galaxia - Robert A. Heinlein.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

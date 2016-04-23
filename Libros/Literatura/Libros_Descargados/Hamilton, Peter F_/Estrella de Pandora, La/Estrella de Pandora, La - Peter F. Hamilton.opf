@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1434</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68ac8f4a-d771-44c2-baba-fee775b53a42</dc:identifier>
+    <dc:title>Estrella de Pandora, La</dc:title>
+        <dc:creator opf:file-as="Hamilton, Peter F." opf:role="aut">Peter F. Hamilton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-09T08:00:00+00:00</dc:date>
+        <dc:description>Cuando el astrónomo Dudley Bose observa cómo se desvanece una estrella a más de mil años luz de distancia, la Federación se muestra ansiosa por descubrir lo que ha ocurrido en realidad. Dado que los agujeros de gusano convencionales no pueden cubrir semejante distancia, se ven obligados a construir la primera nave estelar más rápida que la luz. Capitaneada por Wilson Kime, un antiguo astronauta de la NASA un tanto impaciente por revivir sus viejos días de gloria, la Segunda Oportunidad parte en su histórico viaje de descubrimiento.
+Pero allí fuera hay alguien o algo que debía de tener muy buenas razones para sellar un sistema estelar entero y si la Segunda Oportunidad se las arregla para encontrar una forma de entrar, ¿qué podría dejar salir?
+«Tiene cosas de Alastair Reynolds e Iain M. Banks, y en muchos tramos los supera a ambos»
+Library Journal
+
+«Hamilton se dedica a una de las labores principales de la cf: la creación de un mundo con la complejidad y la escala de uno real. Y con tremendo acierto»
+Booklist
+
+«En esta novela hay desde mundos superindustrializados a entornos vírgenes o un planeta helado. Eso da mucho juego, y Hamilton le saca mucho jugo. Cualquier halago que se le haga a este autor es poco»
+Sedice</dc:description>
+        <dc:publisher>LA Factoria De Ideas</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788498003796</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="Federación" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2010-02-22T08:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Estrella de Pandora, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Estrella de Pandora, La - Peter F. Hamilton.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

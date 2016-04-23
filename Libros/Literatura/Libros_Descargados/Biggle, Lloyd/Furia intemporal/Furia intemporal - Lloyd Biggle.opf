@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2378</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29803cc2-83f7-4ada-b96a-f1cb01ce522d</dc:identifier>
+    <dc:title>Furia intemporal</dc:title>
+        <dc:creator opf:file-as="Biggle, Lloyd" opf:role="aut">Lloyd Biggle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1969-08-14T16:00:00+00:00</dc:date>
+        <dc:description>La insólita cápsula le condujo a un mundo extraño, donde las ciudades rivalizaban entre sí, para alcanzar una hegemonía imposible.UN FORASTERO INOPORTUNO-¿Del tiempo? -exclamó Barba Azul-. ¿Has llegado hasta nosotros desde el tiempo?Karvel ejecutó una reverencia, confirmando así aquel hecho.-Procedente del pasado, majestad. De un pasado remotísimo.</dc:description>
+        <dc:publisher>Rumeu</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-02-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Furia intemporal" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Furia intemporal - Lloyd Biggle.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

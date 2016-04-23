@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2598</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d8d86a4-ba3e-4a07-a506-5e8fe0e032b9</dc:identifier>
+    <dc:title>Los próximos 30 años</dc:title>
+        <dc:creator opf:file-as="González-Alorda, Álvaro" opf:role="aut">Álvaro González-Alorda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-03T16:00:00+00:00</dc:date>
+        <dc:description>¿En los próximos 30 años tú que quieres ser, espectador o protagonista? A veces, una frase o una pregunta lanzada en el momento oportuno te despierta como un cubo de agua fría en la cara y te hace tomar decisiones que pueden dar un giro a tu vida. Y es que los próximos 30 años van a ser protagonistas de los mayores cambios, revoluciones y avances que se hayan producido nunca. Culturales, sociales, tecnológicos, económicos y políticos. 30 años fascinantes que van a cambiar el rumbo de la humanidad. Éste es el objetivo del libro: a través de inspiradores testimonios, ideas, ejemplos y hasta canciones o películas, ayudar al lector a cambiar el rumbo de su vida profesional y convertirle en protagonista de su futuro.Vivimos una época ávida de mensajes esperanzadores. Se trata de un libro inspirador que da pautas para que el lector saque lo mejor de sí mismo. Un libro sorprendente y fascinante. Un golpe directo hacia nuestro conformismo y apatía.</dc:description>
+        <dc:publisher>Alienta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788492414338</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>economía y negocios</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-03T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Los próximos 30 años" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Los proximos 30 anos - Alvaro Gonzalez-Alorda.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

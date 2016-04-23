@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2303</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff8a41d5-9c6a-4a0e-abb2-58f761713922</dc:identifier>
+    <dc:title>Los dioses del Eden</dc:title>
+        <dc:creator opf:file-as="Bramley, William" opf:role="aut">William Bramley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-30T16:00:00+00:00</dc:date>
+        <dc:description>Libro de pura paranoia.La idea que los seres humanos son una raza de esclavos pertenecientes a una sociedad extraterrestre no es nueva. Fue expresada miles de años atrás en los registros de las civilizaciones más antiguas de la humanidad. La primera de esas civilizaciones fue la Sumeria: una sociedad notablemente avanzada que surgió en el valle del Tigris-Eufrates entre los años 5000 y 4000 AC., Y floreció como una civilización mayor en los 3500 AC.(*)Al igual que otras sociedades antiguas que surgieron en la región de Mesopotamia, la Sumeria dejó registros donde se estableció que criaturas de apariencia humana de origen extraterrestre gobernaban a la antigua sociedad humana como los primeros monarcas de la Tierra. A aquellos pueblos no terrestres comúnmente se les consideraba como “dioses”. Algunos “dioses” sumerios se decía que viajaban por el cielo y por los espacios en “globos” y vehículos volantes como cohetes. Antiguas esculturas presentan a varios “dioses” vistiendo aparatos parecidos a los anteojos de los pilotos modernos. Los sacerdotes actuaban como intermediarios entre los “dioses” extranjeros y la población humana.</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-04-04T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Los dioses del Eden" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Los dioses del Eden - William Bramley.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

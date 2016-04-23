@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1688</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a08344db-0997-4edd-a6b0-b164005c5e48</dc:identifier>
+    <dc:title>El Tío Petros Y La Conjetura De Goldbach</dc:title>
+        <dc:creator opf:file-as="Doxiadis, Apostolos" opf:role="aut">Apostolos Doxiadis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-02-29T16:00:00+00:00</dc:date>
+        <dc:description>Uno de los grandes enigmas de las matemáticas es demostrar la conjetura de Goldbach. Muchos matemáticos lo han intentado pero hasta ahora nadie lo ha conseguido. Petros Papachristos, sin embargo, ha dedicado toda su vida a demostrar esta conjetura. Su sobrino, ha descubierto tardíamente a lo que se ha dedicado su tío y empieza una relación entre ambos que servirá para hacer un repaso a la vida del tío Petros y a una pequeña historia de los enigmas matemáticos más importantes, como el de Fermat.
+
+¿Por qué será que muchos matemáticos, que han buscado la gloria y el reconocimiento, han acabado locos o muriendo muy jóvenes? ¿Qué se esconde realmente tras la figura del tío Petros? ¿Por qué su familia ha intentado que Petros Papachristos quede alejado de ellos?</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788440694904</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>divulgación científica</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-27T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Tío Petros Y La Conjetura De Goldbach" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Tio Petros Y La Conjetura De Goldbach - Apostolos Doxiadis.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

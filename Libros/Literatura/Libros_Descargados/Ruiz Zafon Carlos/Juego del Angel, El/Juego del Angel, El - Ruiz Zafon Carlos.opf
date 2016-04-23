@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">586</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ae98db8a-6f6a-47a0-9e0c-fc8a5af59e2a</dc:identifier>
+    <dc:title>Juego del Ángel, El</dc:title>
+        <dc:creator opf:file-as="Ruiz Zafón Carlos" opf:role="aut">Ruiz Zafón Carlos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-14T16:00:00+00:00</dc:date>
+        <dc:description>El Juego del Ángel es una gran aventura de intriga, romance y tragedia, a través de un laberinto de secretos donde el embrujo de los libros, la pasión y la amistad se conjugan en un relato magistral.
+Con El Juego del Ángel el autor de La Sombra del Viento regresa al Cementerio de los Libros Olvidados y nos sumerge de nuevo en su fascinante universo.
+
+En la turbulenta Barcelona de los años 20 un joven escritor obsesionado con un amor imposible recibe la oferta de un misterioso editor para escribir un libro como no ha existido nunca, a cambio de una fortuna y, tal vez, mucho más.
+
+"La próxima vez que quieras salvar un libro, no te juegues la vida... Te llevaré a un lugar secreto donde los libros nunca mueren y donde nadie puede destruirlos."</dc:description>
+        <dc:publisher>Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408081180</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2008-05-24T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Juego del Ángel, El" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Juego del Angel, El - Ruiz Zafon Carlos.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

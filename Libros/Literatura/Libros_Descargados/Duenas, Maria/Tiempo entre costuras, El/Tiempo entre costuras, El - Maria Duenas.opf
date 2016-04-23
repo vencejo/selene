@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1690</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">26e09483-1f65-433d-aa3c-1bced27dcabb</dc:identifier>
+    <dc:title>Tiempo entre costuras, El</dc:title>
+        <dc:creator opf:file-as="Dueñas, María" opf:role="aut">María Dueñas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-13T16:00:00+00:00</dc:date>
+        <dc:description>Una novela de amor y espionaje en el exotismo colonial de África.
+La joven modista Sira Quiroga abandona Madrid en los meses convulsos previos al alzamiento arrastrada por el amor des­bocado hacia un hombre a quien apenas conoce. Juntos se instalan en Tánger, una ciudad mundana, exótica y vibrante en la que todo lo impensable puede hacerse realidad. Incluso la traición y el abandono de la persona en quien ha depositado toda su confianza. El tiempo entre costuras es una aventu­ ra apasionante en la que los talleres de alta costura, el glamur de los grandes hoteles, las conspiraciones políticas y las oscuras misiones de los servicios secre­ tos se funden con la lealtad hacia aque­ llos a quienes queremos y con el poder irrefrenable del amor.
+Una novela femenina que tiene todos los ingredientes del género: el creci­ miento personal de una mujer, una historia de amor que recuerda a Casablanca… Nos acerca a la época colonial espa­ ñola. Varios críticos literarios han destacado el hecho de que mientras en Francia o en Gran Bretaña existía una gran tradición de literatura colo­ nial (Malraux, Foster, Kippling...), en España apenas se ha sacado prove­ cho de la aventura africana. Un home­ naje a los hombres y mujeres que vivieron allí. Además la autora nos aproxima a un personaje real desconocido para el gran público: Juan Luis Beigbeder, el primer ministro de Exteriores del gobierno de Franco.</dc:description>
+        <dc:publisher>Ediciones Temas de Hoy</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788484607915</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2010-01-30T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Tiempo entre costuras, El" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Tiempo entre costuras, El - Maria Duenas.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

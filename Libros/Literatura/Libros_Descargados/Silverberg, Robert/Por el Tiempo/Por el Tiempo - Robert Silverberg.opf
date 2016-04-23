@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">400</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65994ae7-9ea4-4eb6-9d46-d42edfb1c904</dc:identifier>
+    <dc:title>Por el Tiempo</dc:title>
+        <dc:creator opf:file-as="Silverberg, Robert" opf:role="aut">Robert Silverberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1990-03-31T16:00:00+00:00</dc:date>
+        <dc:description>Un especialista en historia de Bizancio ingresa en una empresa dedicada a llevar turistas por el tiempo. Tras unas cuantas pruebas, debe acompañar a unos guías temporales veteranos con los que ir aprendiendo las paradojas temporales. Salpicado de escenas eróticas y de pormenores históricos, el libro es muy ameno, se lee de un tirón. Releíble.</dc:description>
+        <dc:publisher>Miraguano Ediciones</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788478130641</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-04-04T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Por el Tiempo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Por el Tiempo - Robert Silverberg.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

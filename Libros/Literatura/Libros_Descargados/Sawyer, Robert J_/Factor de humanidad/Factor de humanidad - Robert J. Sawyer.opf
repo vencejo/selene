@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">455</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b2945be-1f39-4e0b-9deb-495f50b03019</dc:identifier>
+    <dc:title>Factor de humanidad</dc:title>
+        <dc:creator opf:file-as="Sawyer, Robert J." opf:role="aut">Robert J. Sawyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-10-13T16:00:00+00:00</dc:date>
+        <dc:description>En el año 2007 se detecta una señal procedente del espacio profundo. Misteriosos e ininteligibles flujos de datos son recibidos durante diez años. Entonces la señal se detiene.
+Heather Davis, profesora de la Universidad de Toronto, ha dedicado toda su carrera a descifrar el mensaje. Mientras, su vida personal ha sucumbido: una hija suicida, un matrimonio destrozado. Pero es ella quien finalmente descifra el mensaje. Descubre una sorprendente tecnología nueva que puede abrirse paso a través de las barreras del espacio y el tiempo, con la promesa de una nueva etapa en la evolución humana. Parecen cercanos una capacidad de exploración ilimitada... o el final de la raza humana.
+Factor de humanidad es una novela de implicaciones morales, técnicas y sociológicas. Describe una forma de comuni-cación con una civilización que supera hasta límites insospecha-dos a la nuestra, pero también es la historia de cómo se puede destruir una pareja por una mentira, y lo difícil que puede ser reconstruirla.</dc:description>
+        <dc:publisher>La Factoría de Ideas</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788484219804</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2009-10-07T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Factor de humanidad" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Factor de humanidad - Robert J. Sawyer.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

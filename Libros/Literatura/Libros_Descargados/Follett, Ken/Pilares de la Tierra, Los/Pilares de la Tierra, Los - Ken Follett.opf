@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1619</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6a17b5a9-829a-4e9e-b81f-24a7734a9c53</dc:identifier>
+    <dc:title>Pilares de la Tierra, Los</dc:title>
+        <dc:creator opf:file-as="Follett, Ken" opf:role="aut">Ken Follett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-26T16:00:00+00:00</dc:date>
+        <dc:description>El gran maestro de la narrativa y el suspense nos transporta a la Edad Media, a un fascinante mundo de reyes, damas, caballeros, pugnas feudales, castillos y ciudades amuralladas. El amor y la muerte se entrecruzan vibrantemente en este magistral tapiz cuyo centro es la construcción de una catedral gótica. La historia se inicia con el ahorcamiento público de un inocente y finaliza con la humillación de un rey. Los pilares de la tierra es la obra maestra de Ken Follett y constituye una excepcional evocación de una época de violentas pasiones.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788497592901</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-05-26T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Pilares de la Tierra, Los" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Pilares de la Tierra, Los - Ken Follett.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

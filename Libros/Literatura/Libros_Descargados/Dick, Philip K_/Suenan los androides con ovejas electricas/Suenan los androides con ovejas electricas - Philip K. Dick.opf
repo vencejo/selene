@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1799</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f8f429f-ad14-47b7-ac7b-95496bdff6c1</dc:identifier>
+    <dc:title>Sueñan los androides con ovejas electricas</dc:title>
+        <dc:creator opf:file-as="Dick, Philip K." opf:role="aut">Philip K. Dick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1991-09-30T16:00:00+00:00</dc:date>
+        <dc:description>Una de las mejores novelas de Philip K. Dick, y sin duda la más leída, esta obra es una alucinante pesadilla tecnológica, cuyo tema principal es el impreciso límite que existe entre lo natural y lo artificial. En un mundo devastado por la guerra, lleno de restos tecnológicos y bloques de apartamentos vacíos, Rick Deckard es un cazador mercenario cuya tarea consiste en retirar de la circulación a los androides rebeldes. Pero los Nexus 6 son androides con características especiales, casi humanos.
+En esta novela se basó Ridley Scott para su película Blade Runner, un hito en el género de la ciencia ficción, que recrea con lógica implacable algunas de las características del mundo contemporáneo y plantea una serie de temas de plena actualidad.</dc:description>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788435020534</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-05-30T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Sueñan los androides con ovejas electricas" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Suenan los androides con ovejas electricas - Philip K. Dick.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

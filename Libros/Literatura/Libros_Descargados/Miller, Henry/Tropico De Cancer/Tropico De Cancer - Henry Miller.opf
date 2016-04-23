@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">896</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82b22976-ffde-44d1-874b-177cebc841a9</dc:identifier>
+    <dc:title>Trópico De Cáncer</dc:title>
+        <dc:creator opf:file-as="Miller, Henry" opf:role="aut">Henry Miller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-14T16:00:00+00:00</dc:date>
+        <dc:description>Considerada por buena parte de la crítica como la mejor de sus obras, en su primera novela se sitúa Miller en la estela de Walt Whitman y Thoreau para crear un monólogo en el que el autor hace un inolvidable repaso de su estancia en París en los primeros años de la década de 1930, centrada tanto en sus experiencias sexuales como en sus juicios sobre el comportamiento humano.</dc:description>
+        <dc:publisher>Editorial Galaxia</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788482889535</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-02-25T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Trópico De Cáncer" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Tropico De Cancer - Henry Miller.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

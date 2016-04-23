@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1345</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b9a1e36-9a77-4d25-8b56-b78606e57b4e</dc:identifier>
+    <dc:title>Catastrofe en el espacio</dc:title>
+        <dc:creator opf:file-as="Harrison, Harry" opf:role="aut">Harry Harrison</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1984-08-14T16:00:00+00:00</dc:date>
+        <dc:description>La nave espacial Prometeo, la mayor que el hombre haya nunca lanzado al espacio, está fuera de control, sobrevolando Londres, Moscú, Nueva York, en una órbita descendente, cayendo cada vez más. Cuando la enorme masa de metal choque contra la Tierra, explotará con la fuerza de una bomba atómica, porque contiene Uranio 235, un combustible radioactivo y letal. La crisis provoca un estado de alerta internacional.</dc:description>
+        <dc:publisher>Ultramar</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788473863575</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Catastrofe en el espacio" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Catastrofe en el espacio - Harry Harrison.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

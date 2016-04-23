@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1370</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57239d6d-bd68-43b0-a01a-8811bb5473ed</dc:identifier>
+    <dc:title>Hija de Marte</dc:title>
+        <dc:creator opf:file-as="Heinlein, Robert A." opf:role="aut">Robert A. Heinlein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1977-06-14T16:00:00+00:00</dc:date>
+        <dc:description>Marte es un tópico (en el buen sentido de la palabra) en ciencia ficción.
+Pero cuando un ser humano nacido y educado en Marte desciende a la Tierra de la mano de ROBERT HEINLEIN, podemos disponernos a leer una crítica mordaz, imaginativa y poco indulgente con los prejuicios de la sociedad terrestre. Y más cuando la protagonista, Podkayne, es una especie de Lolita interplanetaria, de inteligencia precoz y sin pelos en la lengua.
+
+R. A. HEINLEIN (n. en 1907) es el más premiado y leído de los autores de ciencia ficción. No muy bien comprendido en Europa, en sus obras late siempre una vena satírica. Por su anticonvencionalismo y su afición a la "boutade", Heinlein entronca con la tradición de los humoristas norteamericanos, desde Mark Twain hasta Ogden Nash.
+De este autor preparamos en la colección Súper Ficción un volumen de narraciones cortas y una novela-río, "Time enoug for love (Las 100 vidas de Lazarus Long)</dc:description>
+        <dc:publisher>Martínez Roca</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788427004108</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-06-05T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Hija de Marte" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Hija de Marte - Robert A. Heinlein.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

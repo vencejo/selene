@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2374</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b3f1c85-b284-41af-9557-4a0f3a97ced2</dc:identifier>
+    <dc:title>El orinal florido</dc:title>
+        <dc:creator opf:file-as="Bester, Alfred" opf:role="aut">Alfred Bester</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-31T16:00:00+00:00</dc:date>
+        <dc:description>El orinal florido”, descacharrante aventura de ladrones de guante blanco en un futuro imposible en el que, a raiz de una explosión termonuclear, la humanidad ha renacido tomando como modelo las películas del Hollywood del blanco y negro. Ese mismo accidente propulsa al futuro (cinco siglos, nada menos) a la pareja protagonista, que, embargada por la nostalgia, planea el robo de objetos anteriores al desastre, entre ellos el epónimo orinal florido. Aquí Bester no plantea ninguna tesis, pero ello no hace menos disfrutable este raro ejemplo de cartoon-sf (si es que eso existe) y humor desenfrenado.</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="2010-01-31T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El orinal florido" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El orinal florido - Alfred Bester.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">464</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b97bb13-d313-412a-a843-9ea1ff58a421</dc:identifier>
+    <dc:title>Veneno mortal</dc:title>
+        <dc:creator opf:file-as="Sayers, Dorothy L." opf:role="aut">Dorothy L. Sayers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-29T16:00:00+00:00</dc:date>
+        <dc:description>Lord Peter Wimsey, el detective más distinguido de Inglaterra, se enfrenta en esta ocasión a un caso que parece a punto de cerrarse para siempre. Harriet Vane, escritora de novelas policíacas y experta en venenos, ha sido acusada de envenenar y asesinar a su amante. La policía y el juez están persuadidos de su clamorosa culpabilidad.</dc:description>
+        <dc:publisher>Lumen</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788426415745</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Lord Peter Wimsey" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="2010-07-21T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Veneno mortal" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Veneno mortal - Dorothy L. Sayers.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

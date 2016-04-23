@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1767</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a501e1c9-a172-4ba0-a97a-1e3d950de896</dc:identifier>
+    <dc:title>El Complejo De Di</dc:title>
+        <dc:creator opf:file-as="Dai, Sijie" opf:role="aut">Sijie Dai</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-06-14T16:00:00+00:00</dc:date>
+        <dc:description>Tras el fenomenal exito de Balzac y la joven costurera china, esta nueva novela de Dai Sijie supone nada menos que la confrimacion de un talento literrario de multiples facestas. Ganadora del prestigioso Premio Femina 2003, El complejo de Di encabezo durante varios meses las listas de los libros mas vendidos en Francia. El titulo mismo sugiere ya el tono irreverente y transgresos de una historia de tintes quijotescos, donde las recetas del psicoanalisis son puestas a prueba en una realidad tan efervescente y compleja como la China de nuestros dias. A sus cuarenta anos, sin mas bienes que sus gafas de miope y los cuadernos donde apunta cudiadosamente sus suenos, Muo vuelve a China tras haber pasado once anos en Paris estudiando psicoanalisis. Lo empuja una mision tan noble como arriesgada: liberar de la carcel a la mujer de sus suenos, Volcan de la Vieja Luna, que languidece en prision por haber suministrado a la prensa europea fotografias de policias torturando a detenidos. Para salvarla, el corrupto juez Di exige una joven virgen en pago de su favor. Asi pues, devoto del espiritu caballeresco, Muo se monta en una vieja bicicleta para salir en busca de una doncella, en lo que sera una fascinante excursion psicoanalitica por la China actual, donde las constumbres feudales conviven con un regimen comunista descafeinado y la pujante invasion del paraiso capitalista.</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788478889440</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-13T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Complejo De Di" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Complejo De Di - Sijie Dai.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

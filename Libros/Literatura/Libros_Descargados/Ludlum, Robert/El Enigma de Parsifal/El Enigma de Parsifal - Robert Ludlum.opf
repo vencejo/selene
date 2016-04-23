@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1070</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4239bf1-30e6-4717-8ded-d7c6db881f3c</dc:identifier>
+    <dc:title>El Enigma de Parsifal</dc:title>
+        <dc:creator opf:file-as="Ludlum, Robert" opf:role="aut">Robert Ludlum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1988-04-14T16:00:00+00:00</dc:date>
+        <dc:description>La historia arranca de las veraneantes playas de la Costa Brava y nos lleva raudamente a través de numerosos países de la Europa Occidental, como en una auténtica película de acción. En el centro de las intrigas, una mujer: Jenna Karas, expoliada y casi vencida por la información y la contrainformación, según las referencias, la vinculan a la temible K.G.B. soviética. Desde la otra orilla, la no menos temible C.I.A. norteamericana y sus poderosos aliados intentan desenmascararla a través de los sutiles y complejos filtros de la política, el alto mundo social y hasta las relaciones sentimentales. Al parecer Jenna Karas posee importante información, lo que hace inviable cualquier forma de ajusticiamiento, al menos, antes de conseguir su confesión. Las pesquisas tantas veces iniciadas, se pierden una y otra vez en el desierto de los enigmas, cuando no tropiezan con importantes razones de Estado.
+Michael Havelock es el sumo sacerdote de todo este acertijo. Se trata de un policía retirado, cuya hoja de servicios resulta ejemplar para una tarea como ésta, así que se ve obligado a dirigir esta conspiración invisible. Observa y se acerca a Jenna Karas, intentando desposeerla de su secreto. Sabe muy bien que el espionaje es un juego de espejos, y desconfía de sus observaciones. Terceros intereses ponen en peligro la vida de Jenna, así que Havelock no tiene más remedio que intervenir para salvarla. La historia amorosa está servida.</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401490873</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2010-04-16T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El Enigma de Parsifal" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El Enigma de Parsifal - Robert Ludlum.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

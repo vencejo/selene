@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2675</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">992615bc-d86e-4dce-82a7-e5051ab7b7c1</dc:identifier>
+    <dc:title>La herencia de la tierra</dc:title>
+        <dc:creator opf:file-as="Vidal, Andrés" opf:role="aut">Andrés Vidal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-11T16:00:00+00:00</dc:date>
+        <dc:description>La herencia de la tierra es la historia del triunfo personal de un hombre que luchó por su sueño, desafiando a todos. Un hombre, de origen humilde, que con su empeño y trabajo consiguió un mundo mejor para él y los suyos, y se convirtió en pionero en la industrialización de Cataluña: Rosendo Roca.
+En la Cataluña rural del siglo XIX (1815-1881) cuando aún conviven los modelos de una sociedad en transformación: la nobleza y la burguesía industrial, que viene a sustituirla, Rosendo Roca es capaz de enfrentarse a los poderes reinantes y triunfar. Ya desde niño Rosendo es diferente y taciturno. Le marca profundamente la delicada salud de su madre. Pero ante todo una extraordinaria voluntad que sólo llama a los pioneros. Rosendo propone al señor de las tierras, Casamunt, que le deje explotar una montaña que nadie quiere, Cerro Pelado. El precio fijado es demasiado alto. Pero la suerte le sonríe cuando está a punto de perderlo todo. Un viajero escocés, Henry, sabrá valorarlo y se asociará con él. La industria del carbón acaba de nacer.
+La herencia de la tierra es el retrato histórico de una época: desde la guerra de la independencia, atravesando el turbulento reinado de Fernando VII, el hambre vivida en los pueblos durante la guerra civil y las revueltas de 1835 a 1854, la revolución de 1868, el desastre colonial y el ulterior renacimiento político.
+Además de entretener y recrear una época, la novela es también una honesta parábola del poder del esfuerzo, la amistad y el amor.</dc:description>
+        <dc:publisher>PLANETA ESPAÑA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408092223</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-11T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="La herencia de la tierra" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="La herencia de la tierra - Andres Vidal.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

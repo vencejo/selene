@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2407</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d1d0e99-599f-4551-a548-c2062b0654c3</dc:identifier>
+    <dc:title>Invisible</dc:title>
+        <dc:creator opf:file-as="Auster, Paul" opf:role="aut">Paul Auster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-30T16:00:00+00:00</dc:date>
+        <dc:description>En 1967, Adam Walker es un joven poeta ávido de vida y literatura, con mucho más futuro que pasado. Estudia en la Universidad de Columbia, se opone a la guerra de Vietnam y, además, –esto lo dicen quienes lo conocen, porque él no parece darse cuenta– es guapísimo. Una noche, en una fiesta de estudiantes, conoce a una pareja de franceses muy sofisticados, muy seductores. Lo primero que le llama la atención a Adam es el nombre de él, Rudolf Born, como en Bertrand de Born, el poeta provenzal que en uno de los cantos de Dante lleva su propia cabeza cortada en las manos. Tras varios días de ambigua seducción en los que la pareja va tejiendo su invisible tela de araña en torno al hermoso e inocente americano, Rudolf Born, que está en Columbia como profesor invitado en la School of International Affairs, le ofrece a Adam la dirección de una revista literaria que él financiará.</dc:description>
+        <dc:publisher>Anagrama</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788433975225</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2010-01-30T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Invisible" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Invisible - Paul Auster.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

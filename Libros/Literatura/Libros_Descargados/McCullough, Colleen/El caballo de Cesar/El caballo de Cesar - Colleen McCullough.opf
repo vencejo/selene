@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">983</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">233c1acf-a16b-4ac2-8e3d-d6901ef4eb59</dc:identifier>
+    <dc:title>El caballo de Cesar</dc:title>
+        <dc:creator opf:file-as="McCullough, Colleen" opf:role="aut">Colleen McCullough</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-14T16:00:00+00:00</dc:date>
+        <dc:description>En el apogeo de su carrera, Julio César ha sometido a sus enemigos y ensanchado el imperio hasta los confines del mundo conocido. Concentra pues sus energías en el bienestar de Roma y en afianzar su poder, consciente de las envidias que suscita. Muchos de los que le rodean consideran sus atribuciones de dictador como una amenaza para la República. Entre ellos, el lujurioso Marco Antonio, el resentido Cayo Casio o el virtuoso Marco Bruto. Todos en deuda con César; al que odian en secreto. Sin heredero legítimo, César, cuyo único hijo es fruto de su unión con Cleopatra, verá en el joven Octavio a su posible sucesor.</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466617949</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <meta content="Roma" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="2010-07-31T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="El caballo de Cesar" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="El caballo de Cesar - Colleen McCullough.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

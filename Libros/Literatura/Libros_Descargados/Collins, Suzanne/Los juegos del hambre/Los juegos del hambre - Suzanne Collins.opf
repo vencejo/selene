@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2769</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b3849dfc-8c3b-45a9-9b90-708f631edd7f</dc:identifier>
+    <dc:title>Los juegos del hambre</dc:title>
+        <dc:creator opf:file-as="Collins, Suzanne" opf:role="aut">Suzanne Collins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-11T16:00:00+00:00</dc:date>
+        <dc:description>Es la hora. Ya no hay vuelta atrás. Los juegos van a comenzar. Los tributos deben salir a la Arena y luchar por sobrevivir.
+Ganar significa Fama y riqueza, perder significa la muerte segura...
+¡Que empiecen los Septuagésimo Cuartos Juegos del Hambre!
+Un pasado de guerras ha dejado los 12 distritos que dividen Panem bajo el poder tiránico del “Capitolio”. Sin libertad y en la pobreza, nadie puede salir de los límites de su distrito. Sólo una chica de 16 años, Katniss Everdeen, osa desafiar las normas para conseguir comida. Sus prinicipios se pondrán a prueba con “Los juegos del hambre”, espectáculo televisado que el Capitolio organiza para humillar a la población. Cada año, 2 representantes de cada distrito serán obligados a subsistir en un medio hostil y luchar a muerte entre ellos hasta que quede un solo superviviente. Cuando su hermana pequeña es elegida para participar, Katniss no duda en ocupar su lugar, decidida a demostrar con su actitud firme y decidida, que aún en las situaciones más desesperadas hay lugar para el amor y el respeto.
+La historia continuará... la segunda entrega de la trilogía .</dc:description>
+        <dc:publisher>Molino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788498675399</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>ciencia ficción</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-11T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Los juegos del hambre" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Los juegos del hambre - Suzanne Collins.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

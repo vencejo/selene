@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2173</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01554708-4f1e-458e-8c84-8570a29910e5</dc:identifier>
+    <dc:title>Ángeles y Demonios</dc:title>
+        <dc:creator opf:file-as="Brown, Dan" opf:role="aut">Dan Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.17) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-14T16:00:00+00:00</dc:date>
+        <dc:description>En un laboratorio de máxima seguridad, aparece asesinado un científico con un extraño símbolo grabado a fuego en su pecho. Para el profesor Robert Langdon no hay duda: los Illuminati, los hombres enfrentados a la Iglesia desde los tiempos de Galileo, han regresado. Y esta vez disponen de la más mortífera arma que ha creado la humanidad, un artefacto con el que pueden ganar la batalla final contra su eterno enemigo. Acompañado de una joven científica y un audaz capitán de la Guardia Suiza, Langdon comienza una carrera contra reloj, en una búsqueda desesperada por los rincones más secretos de El Vaticano. Necesitará todo su conocimiento para descifrar las claves ocultas que los Illuminati han dejado a través de los siglos en manuscritos y templos, y todo su coraje para vencer al despiadado asesino que siempre parece llevarle la delantera.</dc:description>
+        <dc:publisher>Umbriel</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788495618719</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta content="2008-05-26T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Ángeles y Demonios" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Angeles y Demonios - Dan Brown.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
