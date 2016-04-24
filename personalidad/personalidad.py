@@ -20,11 +20,11 @@ class Personalidad():
     
         os.chdir(os.path.dirname(os.path.realpath(__file__)))
         config = ConfigParser.ConfigParser()
-        config.read('config.ini')
+        config.read('credencialesIBM-personalidad.ini')
         
         self.personality = PersonalityInsightsV2(
-            username=config.get('keys', 'user'),
-            password=config.get('keys', 'password'))
+            username=config.get('credenciales-personalidad', 'user'),
+            password=config.get('credenciales-personalidad', 'password'))
             
     def damePersonalidad(self, texto):
         personality_insights_json = {"contentItems": [{"contenttype": "text/plain", 

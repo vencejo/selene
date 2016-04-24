@@ -1,9 +1,11 @@
 Selene
 ======
 
+![Selene](http://www.guadatech.com/wp-content/uploads/2016/04/selene.jpg)
+
 Asistente nocturno con Raspberry Pi capaz de mantener diálogos gracias al servicio Watson de IBM Bluemix
 
-[video demostrativo](https://www.youtube.com/watch?v=uigE7JxHXR4)
+[![video demostrativo](https://img.youtube.com/vi/uigE7JxHXR4/0.jpg)](https://www.youtube.com/watch?v=uigE7JxHXR4)
 
 Este proyecto surge como una continuación lógica de 
 [nuestro anterior trabajo con Jasper](https://github.com/vencejo/reconocimiento-de-voz-con-RaspberryPi), 
@@ -19,6 +21,81 @@ de manera discreta en la mesita de noche junto a la cama del usuario.
 **La idea es que antes de dormirte puedas hablar con Selene y pedirle que te lea las noticias, 
 te ponga la radio, te lea un libro ,te diga el tiempo que va a hacer mañana, 
 y escuche tu relato del día guardándolo en tu pequeño diario digitalizado.**
+
+
+Dependencias
+------------
+
+[IBM-Bluemix python-sdk](https://github.com/watson-developer-cloud/python-sdk)
+[Speech Recognition Python Library](https://github.com/Uberi/speech_recognition)
+[ebooklib](https://github.com/aerkalov/ebooklib)
+[BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+[Tweepy](https://github.com/tweepy/tweepy)
+[Radio en el terminal con mpd](http://www.morethanfunctional.org/raspberry-pi-webradio-mpd-mpc-via-linux-shell-droid-android/)
+[Cliente Python para mpd](https://github.com/Mic92/python-mpd2)
+
+
+Descarga de los libros
+----------------------
+En [este enlace](https://www.dropbox.com/sh/9h29ainsprsyltj/AAA2w9vhmYbAxx9U8t8Q9WYba?dl=0) 
+están los libros que habria que descargar en un subdirectorio con el nombre 
+"selene/Literarura/Libros_Descargados" borrando el contenido que inicalmente tiene (que sirve de muestra de los 
+libros disponibles) y sustituyendolo por las carpetas de los libros , que contienen los archivos
+.epub propiamente dichos que son los que lee el programa
+
+
+Funcionamiento y credenciales
+-----------------------------
+Para hacer funcionar a Selene hay que ejecutar el programa "dialogo.py" de la carpeta selene.
+
+Normalmente una primera ejecución dará error aún cuando se hayan instalado todas las 
+dependencias ya que el programa no habrá encontrado los archivos ".ini" con las credenciales
+de los servicios que hay que tener para ponerlos en cada módulo.
+
+Así, en la carpeta principal, junto al propio programa "dialogo.py" , el propio usuario, ha
+de crear un archivo con el nombre 'credencialesIBM-dialogo.ini' donde se pondrán las 
+credenciales del servicio de Dialogo de Watson , en el que , claro está , el usuario tendría 
+que darse de alta previamente , siendo este el aspecto del archivo :
+
+    [credenciales-dialogo]
+    user: aqui-va-el-usuario-del-servicio-dialogo-sin-comillas
+    password: aqui-va-la-contraseña-del-servicio-dialogo-sin-comillas
+
+
+Hay que realizar la misma operacion en la carpeta "tts" donde hay que crear el archivo
+"credencialesIBM-tts.ini" con el siguiente aspecto y las credenciales del servicio Text-to-Speech
+
+    [credenciales-tts]
+    user: aqui-va-el-usuario-del-servicio-tts-sin-comillas
+    password: aqui-va-la-contraseña-del-servicio-tts-sin-comillas
+
+
+En la carpeta "stt"  hay que crear el archivo"credencialesIBM-stt.ini" con el siguiente 
+aspecto y las credenciales del servicio Speech-to-text
+
+    [credenciales-stt]
+    user: aqui-va-el-usuario-del-servicio-stt-sin-comillas
+    password: aqui-va-la-contraseña-del-servicio-stt-sin-comillas
+    
+En la carpeta "personalidad"  hay que crear el archivo "credencialesIBM-personalidad.ini" 
+con el siguiente aspecto y las credenciales del servicio Personalidad
+
+    [credenciales-personalidad]
+    user: aqui-va-el-usuario-del-servicio-personalidad-sin-comillas
+    password: aqui-va-la-contraseña-del-servicio-personalidad-sin-comillas
+
+Y por último, en la carpeta "Noticias" hay que crear el archivo "datosCuentaTwitter.ini" con un formato
+como el siguiente
+
+    [datosTwitter]
+    APP_KEY: la-key-de-la-aplicacion-sin-comillas
+    APP_SECRET: la-app-secret-de-la-aplicacion-sin-comillas
+    OAUTH_TOKEN:  el-oauth-token-de-la-aplicacion-sin-comillas
+    OAUTH_TOKEN_SECRET:  el-oauth-token-secret-de-la-aplicacion-sin-comillas
+
+    [datosCuentaTwitter]
+    usuario: el-usuario-twitter-sin-comillas
+    contraseña: la-contraseña-twitter-sin-comillas
 
 
 Módulo Dialogo
@@ -95,8 +172,8 @@ Posibles aplicaciones
 La combinación entre las tremendas capacidades cognitivas de la Nube de IBM y el pequeño
 tamaño y versatilidad de la Raspberry Pi hacen casi infinito el posible campo de aplicación
 de proyectos como Selene, no ya en el ámbito de la domótica tal y como se ha dicho en la 
-introducción, sino que también tendria gran aplicación  en el mundo de las personas con 
-diversidad funcional como asistente para personas de la tercera edad, invidentes , etc ...
+introducción, sino que también **tendria gran aplicación  en el mundo de las personas con 
+diversidad funcional como asistente para personas de la tercera edad, invidentes , etc ...**
 
 
 Posibles Mejoras

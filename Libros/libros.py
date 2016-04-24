@@ -2,11 +2,14 @@
 
 from ebooklib import epub
 import bs4
-from tts import sintetizador
 from itertools import islice
 import os
 import random
 import pickle
+
+import sys
+sys.path.insert(0,"/home/pi/Desktop/Dialogo/selene/tts")
+import tts
 
 rutaInicial = os.getcwd()
 
@@ -119,8 +122,8 @@ class Lectura():
         for indice,libro in enumerate(listaLibros):
             if libro.meGusta:
                 if not self.enDepuracion:
-                    sintetizador("Voy a proceder a leer el siguiente libro: ")
-                    sintetizador(os.path.basename(libro.ruta)[:-4])
+                    tts.sintetizador("Voy a proceder a leer el siguiente libro: ")
+                    tts.sintetizador(os.path.basename(libro.ruta)[:-4])
                 self.sintetizaCapitulo(libro.ruta, libro.numCapLeidos+1)
                 # Actualizo la informacion guardada en disco sobre los libros
                 libro.numCapLeidos += 1
@@ -134,8 +137,8 @@ class Lectura():
         por el capitulo que se quedo """
         libro, rutaDirLibro, contDirLibro = self.buscaRutaAleatoriaALibro()
         if not self.enDepuracion:
-            sintetizador("Voy a proceder a leer el siguiente libro: ")
-            sintetizador(libro)
+            tts.sintetizador("Voy a proceder a leer el siguiente libro: ")
+            tts.sintetizador(libro)
         os.chdir(rutaDirLibro)
         for elem in contDirLibro:
             if elem.find('epub') != -1:
@@ -162,8 +165,6 @@ class Lectura():
     def buscaRutaAleatoriaALibro(self):
         os.chdir(os.path.dirname(os.path.realpath(__file__)))
         rutaInicial = os.getcwd()
-        print("*"*30)
-        print(rutaInicial)
         os.chdir(os.path.join(rutaInicial,'./Literatura/Libros_Descargados'))
         listaAutores = os.listdir('.')
         autor = random.choice(listaAutores)
@@ -184,8 +185,11 @@ class Lectura():
             else:
                 return capitulo
     
-    def sintetizaCapitulo(self,ruta, numCapitulo, numMinCaracteres = 500): 
-        """ Devuelve verdadero si ha conseguido sintetizar algún texto o falso si no """
+    def sintetizaCapitulo(self,ruta, numCapitulo, numMinCaracteres = 500, 
+        sinopsis = True, numCaracteresSinopsis = 400): 
+        """ Si la opcion sinopsis esta marcada, solo lee el numero de caracteres marcado
+        Devuelve verdadero si ha conseguido sintetizar algún texto o falso si no 
+            """
         libro = epub.read_epub(ruta)
         capitulo = next(islice(libro.get_items(),numCapitulo,None), None)
         algunTextoSintetizado = False
@@ -194,13 +198,16 @@ class Lectura():
             soup = bs4.BeautifulSoup(capitulo.get_content())
             listaTextos = self.preparaTextoParaSintetizar(soup)
             for fragmento in listaTextos:
-                print(fragmento)
                 if len(fragmento) > numMinCaracteres:
+                    if sinopsis:
+                        fragmento = fragmento[:numCaracteresSinopsis]
                     algunTextoSintetizado = True
                     if self.enDepuracion:
-                        print(fragmento)
+                        print(fragmento) 
                     else:
-                        sintetizador(fragmento)
+                        tts.sintetizador(fragmento)
+                    if sinopsis:
+                        break 
         return algunTextoSintetizado
             
     def preparaTextoParaSintetizar(self, html):
@@ -215,7 +222,7 @@ class Lectura():
 if __name__ == "__main__":
     
     info = InfoLibros()
-    lee = Lectura()
+    lee = Lectura(enDepuracion = False)
     
     ruta, numPrimerCapitulo, yaLeido = lee.empiezaALeerLibroAleatorio()
     opinion = raw_input("Te ha gustado lo que has leido? (s/n)")

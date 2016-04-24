@@ -16,10 +16,10 @@ def sintetizador(texto):
     os.chdir(os.path.dirname(os.path.realpath(__file__)))
         
     config = ConfigParser.ConfigParser()
-    config.read('./credencialesIBM.ini')
+    config.read('./credencialesIBM-tts.ini')
 
-    user = config.get('credenciales', 'user')
-    password = config.get('credenciales', 'password')
+    user = config.get('credenciales-tts', 'user')
+    password = config.get('credenciales-tts', 'password')
     
     vozEnrrique = 'es-ES_EnriqueVoice'
     vozLaura = 'es-ES_LauraVoice'

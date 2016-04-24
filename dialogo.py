@@ -8,8 +8,9 @@ import os
 import time
 from mpd import MPDClient 
 import sys
+sys.path.insert(0,"/home/pi/Desktop/Dialogo/selene/tts")
 
-from tts.tts import sintetizador
+from tts import sintetizador
 from stt.stt import Stt
 from personalidad.personalidad import Personalidad
 from elTiempo.elTiempo import ElTiempo
@@ -17,10 +18,10 @@ from Noticias.twitter import Noticias
 from Libros.libros import Lectura, InfoLibros, Libro
 
 config = ConfigParser.ConfigParser()
-config.read('datosCuentaDialogoIBM.ini')
+config.read('credencialesIBM-dialogo.ini')
 
-user = config.get('datosIBM', 'user')
-password = config.get('datosIBM', 'password')
+user = config.get('credenciales-dialogo', 'user')
+password = config.get('credenciales-dialogo', 'password')
 
 dialog = DialogV1(username=user,password=password)
 
@@ -101,8 +102,10 @@ while True:
             orden = stt.escuchaYTranscribe()
             if bool(re.search(r'si', orden, re.IGNORECASE)):
                 info.actualizaInfoLibro(Libro(ruta,numPrimerCapitulo, True))
+                sintetizador("Procedo a guardar su libro en favoritos")
             if bool(re.search(r'no', orden, re.IGNORECASE)):
                 info.actualizaInfoLibro(Libro(ruta,numPrimerCapitulo, False))
+                sintetizador("Siento oir eso, si quiere le puedo leer otro libro")
         if bool(re.search(r'favorito', orden, re.IGNORECASE)) or \
             bool(re.search(r'favoritos', orden, re.IGNORECASE)):
             lee.leeLibroQueMeGusta()

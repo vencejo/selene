@@ -27,10 +27,10 @@ class Stt():
         
         os.chdir(os.path.dirname(os.path.realpath(__file__)))
         config = ConfigParser.ConfigParser()
-        config.read('config.ini')
+        config.read('credencialesIBM-stt.ini')
 
-        self.user = config.get('keys', 'USER')
-        self.password = config.get('keys', 'PASS')
+        self.user = config.get('credencialesIBM-stt', 'USER')
+        self.password = config.get('credencialesIBM-stt', 'PASS')
   
     def transcribe(self, audio):
         """
