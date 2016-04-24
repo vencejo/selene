@@ -3,10 +3,11 @@ Selene
 
 ![Selene](http://www.guadatech.com/wp-content/uploads/2016/04/selene.jpg)
 
-Asistente nocturno con Raspberry Pi capaz de mantener diálogos gracias al servicio Watson de IBM Bluemix
+### Asistente domótico nocturno con Raspberry Pi capaz de mantener diálogos gracias al servicio Watson de IBM Bluemix
 
-[![video demostrativo](https://img.youtube.com/vi/uigE7JxHXR4/0.jpg)](https://www.youtube.com/watch?v=uigE7JxHXR4)
 
+La idea
+--------
 Este proyecto surge como una continuación lógica de 
 [nuestro anterior trabajo con Jasper](https://github.com/vencejo/reconocimiento-de-voz-con-RaspberryPi), 
 en el que vimos como la inclusión de servicios en la nube de IBM simplificaban en gran medida 
@@ -23,16 +24,23 @@ te ponga la radio, te lea un libro ,te diga el tiempo que va a hacer mañana,
 y escuche tu relato del día guardándolo en tu pequeño diario digitalizado.**
 
 
+Videos demostrativos
+--------------------
+
+[![video demostrativo](https://img.youtube.com/vi/uigE7JxHXR4/0.jpg)](https://www.youtube.com/watch?v=uigE7JxHXR4)
+*Funcionamiento general*
+
+
 Dependencias
 ------------
 
-[IBM-Bluemix python-sdk](https://github.com/watson-developer-cloud/python-sdk)
-[Speech Recognition Python Library](https://github.com/Uberi/speech_recognition)
-[ebooklib](https://github.com/aerkalov/ebooklib)
-[BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-[Tweepy](https://github.com/tweepy/tweepy)
-[Radio en el terminal con mpd](http://www.morethanfunctional.org/raspberry-pi-webradio-mpd-mpc-via-linux-shell-droid-android/)
-[Cliente Python para mpd](https://github.com/Mic92/python-mpd2)
+* [IBM-Bluemix python-sdk](https://github.com/watson-developer-cloud/python-sdk)
+* [Speech Recognition Python Library](https://github.com/Uberi/speech_recognition)
+* [ebooklib](https://github.com/aerkalov/ebooklib)
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [Tweepy](https://github.com/tweepy/tweepy)
+* [Radio en el terminal con mpd](http://www.morethanfunctional.org/raspberry-pi-webradio-mpd-mpc-via-linux-shell-droid-android/)
+* [Cliente Python para mpd](https://github.com/Mic92/python-mpd2)
 
 
 Descarga de los libros
