@@ -3,7 +3,7 @@ Selene
 
 ![Selene](http://www.guadatech.com/wp-content/uploads/2016/04/selene.jpg)
 
-### Asistente domótico nocturno con Raspberry Pi capaz de mantener diálogos gracias al servicio Watson de IBM Bluemix
+#### Asistente domótico nocturno con Raspberry Pi multifuncional con capacidades cognitivas aumentadas gracias a IBM-Watson
 
 
 La idea
@@ -27,7 +27,14 @@ y escuche tu relato del día guardándolo en tu pequeño diario digitalizado.**
 Videos demostrativos
 --------------------
 
+[![video demostrativo modo lectura](https://img.youtube.com/vi/cs2oBUR-p8o/0.jpg)](https://www.youtube.com/watch?v=cs2oBUR-p8o)
+
+*Nuevo modo lectura de libros*
+
+
+
 [![video demostrativo](https://img.youtube.com/vi/uigE7JxHXR4/0.jpg)](https://www.youtube.com/watch?v=uigE7JxHXR4)
+
 *Funcionamiento general*
 
 

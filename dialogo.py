@@ -58,6 +58,9 @@ def mensajeRecordatorio(intervaloTiempoParaMensaje = 30 ):
 #print(json.dumps(dialog.get_dialogs(), indent=2))
 #dialogs = dialog.get_dialogs() 
 
+with open("selene.img", "r") as imagenSenele:
+    print(imagenSenele.read())
+    
 dialog_id = "f5d25932-e746-4783-b240-e53253477a3f"
 
 initial_response = dialog.conversation(dialog_id)
@@ -67,7 +70,6 @@ client_id=initial_response['client_id']
 
 
 tiempoDelUltimoMensajeEmitido = time.time()
-
 # Saludo inicial y declaracion de opciones
 sintetizador(initial_response['response'])
 

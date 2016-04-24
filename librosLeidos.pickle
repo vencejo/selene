@@ -5,12 +5,45 @@ p1
 (dp2
 S'ruta'
 p3
-S'/home/pi/Desktop/Dialogo/selene/Libros/Literatura/Libros_Descargados/Clark, Mary Higgins/La fuerza del engano/La fuerza del engano - Mary Higgins Clark.epub'
+S'/home/pi/Desktop/Dialogo/selene/Libros/Literatura/Libros_Descargados/Caso, Angeles/Un largo silencio/Un largo silencio - Angeles Caso.epub'
 p4
 sS'meGusta'
 p5
-I01
+I00
 sS'numCapLeidos'
 p6
-I8
+I1
+sba(iLibros.libros
+Libro
+p7
+(dp8
+g3
+S'/home/pi/Desktop/Dialogo/selene/Libros/Literatura/Libros_Descargados/Kerr, Philip/Palido Criminal/Palido Criminal - Philip Kerr.epub'
+p9
+sg5
+I00
+sg6
+I7
+sba(iLibros.libros
+Libro
+p10
+(dp11
+g3
+S'/home/pi/Desktop/Dialogo/selene/Libros/Literatura/Libros_Descargados/Harrison, Harry/Catastrofe en el espacio/Catastrofe en el espacio - Harry Harrison.epub'
+p12
+sg5
+I01
+sg6
+I5
+sba(iLibros.libros
+Libro
+p13
+(dp14
+g3
+S'/home/pi/Desktop/Dialogo/selene/Libros/Literatura/Libros_Descargados/Baldacci, David/Los Coleccionistas/Los Coleccionistas - David Baldacci.epub'
+p15
+sg5
+I00
+sg6
+I7
 sba.
